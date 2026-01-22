@@ -21,3 +21,11 @@
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Build outputs
+output/
+*.docx
+*.pdf
+
+# Downloaded CSL styles cache
+build/csl/*.csl
