@@ -1,0 +1,56 @@
+graph LR
+    subgraph modelos["COMPARAÇÃO DE MODELOS"]
+        direction TB
+
+        subgraph canada["🇨🇦 CANADÁ<br/>Modelo Comercial"]
+            CA1["🏪 Dispensários privados"]
+            CA2["💰 CAD $5.4 mil milhões/ano<br/>em receitas fiscais"]
+            CA3["📈 Mercado massivo"]
+            CA1 --> CA2 --> CA3
+        end
+
+        subgraph portugal["🇵🇹 PORTUGAL<br/>Modelo de Clubes"]
+            PT1["🤝 Clubes sem fins lucrativos"]
+            PT2["💵 €2-5 milhões/ano<br/>em receitas MODESTAS"]
+            PT3["✅ Benefício principal:<br/>REDUÇÃO de custos"]
+            PT1 --> PT2 --> PT3
+        end
+    end
+
+    subgraph breakdown["PORTUGAL - COMPOSIÇÃO DAS RECEITAS"]
+        direction TB
+        B1["📋 Taxas licenciamento<br/>clubes"]
+        B2["🛒 IVA sementes/<br/>equipamento"]
+        B3["🏛️ Taxas agência<br/>reguladora"]
+
+        B1 ~~~ B2 ~~~ B3
+    end
+
+    subgraph alocacao["ALOCAÇÃO (30% das receitas)"]
+        direction TB
+        AL1["🏥 Tratamento de<br/>dependências"]
+        AL2["📚 Educação e<br/>prevenção"]
+        AL3["🔬 Investigação<br/>científica"]
+        AL4["👨‍⚕️ Formação de<br/>profissionais"]
+
+        AL1 ~~~ AL2 ~~~ AL3 ~~~ AL4
+    end
+
+    canada -.->|NÃO comparável| portugal
+    portugal --> breakdown
+    breakdown --> alocacao
+
+    warning["⚠️ CLARIFICAÇÃO CRÍTICA:<br/>Modelo de clubes gera receitas MODESTAS,<br/>não mil milhões como modelo comercial"]
+
+    portugal --> warning
+
+    classDef commercial fill:#ff6b6b,stroke:#c92a2a,color:#fff,stroke-width:2px
+    classDef club fill:#4dabf7,stroke:#1971c2,color:#fff,stroke-width:3px
+    classDef warning fill:#ffd43b,stroke:#fab005,color:#000,stroke-width:3px
+    classDef allocation fill:#51cf66,stroke:#2f9e44,color:#fff
+
+    class canada,CA1,CA2,CA3 commercial
+    class portugal,PT1,PT2,PT3 club
+    class warning warning
+    class breakdown,B1,B2,B3 club
+    class alocacao,AL1,AL2,AL3,AL4 allocation

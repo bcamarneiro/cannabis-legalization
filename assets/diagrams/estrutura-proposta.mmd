@@ -1,0 +1,53 @@
+graph TB
+    subgraph prop[" "]
+        direction TB
+        titulo["<b>PROPOSTA EM 3 PARTES</b><br/>Independentes mas Complementares"]
+    end
+
+    subgraph parte1["PARTE I: MEDICINAL"]
+        direction TB
+        M1["🏥 Alargar Lei 33/2018"]
+        M2["💊 Mais indicações THC"]
+        M3["👨‍⚕️ Formação médicos"]
+        M4["📅 Timeline: 2026"]
+        M1 --> M2 --> M3 --> M4
+    end
+
+    subgraph parte2["PARTE II: USO ADULTO"]
+        direction TB
+        R1["🌱 Pillar 1: Clubes"]
+        R2["📊 Anos 1-3: Implementação"]
+        R3["🔍 Ano 3: Avaliação"]
+        R4{"Pillar 2?"}
+        R5["✅ Venda comercial"]
+        R6["❌ Manter Pillar 1"]
+
+        R1 --> R2 --> R3 --> R4
+        R4 -->|Aprovado| R5
+        R4 -->|Rejeitado| R6
+    end
+
+    subgraph parte3["PARTE III: CÂNHAMO"]
+        direction TB
+        C1["🌾 THC < 0.3%"]
+        C2["🏗️ Construção sustentável"]
+        C3["👕 Têxteis ecológicos"]
+        C4["🔄 Agricultura regenerativa"]
+        C1 --> C2 --> C3 --> C4
+    end
+
+    titulo --> parte1
+    titulo --> parte2
+    titulo --> parte3
+
+    parte1 -.->|Complementar| parte3
+    parte2 -.->|Independente| parte1
+    parte2 -.->|Independente| parte3
+
+    classDef urgent fill:#ff6b6b,stroke:#c92a2a,color:#fff
+    classDef medium fill:#4dabf7,stroke:#1971c2,color:#fff
+    classDef parallel fill:#51cf66,stroke:#2f9e44,color:#fff
+
+    class M1,M2,M3,M4 urgent
+    class R1,R2,R3,R4,R5,R6 medium
+    class C1,C2,C3,C4 parallel
