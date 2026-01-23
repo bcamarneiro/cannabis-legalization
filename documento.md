@@ -14,11 +14,11 @@ Contributos:
 
 \newpage
 
-# SECÇÃO I: DOCUMENTO DE POSIÇÃO
+# SECÇÃO I: DOCUMENTO DE POSIÇÃO {-}
 
 \newpage
 
-# SUMÁRIO EXECUTIVO
+# SUMÁRIO EXECUTIVO {-}
 Portugal encontra-se numa posição paradoxal: é o segundo maior exportador mundial de cannabis medicinal (32.558 kg em 2024 [@infarmed2024], ultrapassados nos primeiros 8 meses de 2025 [@euronews2024]), mas apenas ~1.150 prescrições foram emitidas internamente em 2023 [@eco2024], equivalendo a cerca de 17 kg [@cannareporter2024].
 
 Este documento propõe que o LIVRE assuma uma posição clara e proactiva sobre a regulação da cannabis, assente em três pilares:
