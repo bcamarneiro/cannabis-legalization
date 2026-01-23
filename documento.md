@@ -573,3 +573,7 @@ Este documento demonstra que existe uma base sólida de evidência para avançar
 
 **59% dos portugueses apoiam a legalização regulada** [@hanway2022]. A maioria da população está à frente dos políticos. O LIVRE pode liderar esta mudança.
 
+\newpage
+
+# Referências {-}
+
