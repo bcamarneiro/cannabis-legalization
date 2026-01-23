@@ -242,7 +242,7 @@ Baseada no modelo alemão e nas lições da sua implementação [@bundesminister
 | Clubes sociais | Máx. 500 membros, 25g/dia, 50g/mês |
 | Distância de escolas | 200 metros (clubes e consumo proibido) |
 
-### Como funcionam os clubes sociais na Alemanha [@bundesministerium2024] [@wikipedia2025]
+### Como funcionam os clubes sociais na Alemanha
 **Processo de criação:**
 
 * Registo como associação sem fins lucrativos
@@ -312,7 +312,7 @@ Baseada no modelo alemão e nas lições da sua implementação [@bundesminister
 * Sem aumento de acidentes rodoviários relacionados com cannabis [@marijuanamoment2025]
 * Sem aumento de consumo juvenil [@marijuanamoment2025]
 
-## Canadá (2018): lições do modelo comercial [@healthcanada2024] [@cbcnews2025]
+## Canadá (2018): lições do modelo comercial
 * **Quota de mercado legal:** de 4% (2018) para **72%** (2024, segundo o Canadian Cannabis Survey). Compras ilegais: 28% → 3% [@healthcanada2024]
 * **Receitas fiscais:** $5,4 mil milhões CAD desde outubro 2018 (federal: $1,2B; províncias: $4,2B) [@cbcnews2025]
 * **Consumo juvenil:** Permaneceu estável (16-19 anos: ~41%) — sem aumento atribuível à legalização [@healthcanada2024]
@@ -534,7 +534,7 @@ Para uma descrição detalhada do funcionamento deste modelo, ver Anexo A.
 
 Para informação sobre o sistema de sementes certificadas proposto, ver Anexo B.
 
-### Condução [@bundesministerium2024] [@bessergrowen2025]
+### Condução
 * Limite: 3,5 ng/ml THC no sangue
 * Tolerância zero: menores de 21 e novos condutores
 * Proibição absoluta: mistura cannabis \+ álcool
