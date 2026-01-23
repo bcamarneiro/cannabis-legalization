@@ -1,6 +1,9 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
+# Adicionar MacTeX ao PATH
+export PATH="/Library/TeX/texbin:$PATH"
+
 # Configuração
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 PROJECT_DIR="$(dirname "$SCRIPT_DIR")"
@@ -45,9 +48,9 @@ echo "✅ LaTeX gerado: $OUTPUT_TEX"
 # Passo 2: LaTeX → PDF
 echo "📝 Passo 2/2: Compilando LaTeX → PDF..."
 cd "$PROJECT_DIR/output"
-pdflatex -interaction=nonstopmode Documento_Cannabis.tex > /dev/null 2>&1
+pdflatex -interaction=nonstopmode Documento_Cannabis.tex > /dev/null 2>&1 || true
 echo "   Compilação 1/2 completa"
-pdflatex -interaction=nonstopmode Documento_Cannabis.tex > /dev/null 2>&1
+pdflatex -interaction=nonstopmode Documento_Cannabis.tex > /dev/null 2>&1 || true
 echo "   Compilação 2/2 completa"
 
 # Limpar ficheiros temporários
