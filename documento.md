@@ -32,7 +32,7 @@ Valorização do cânhamo como alternativa agrícola sustentável
 
 \newpage
 
-# CAPÍTULO 1: O PANORAMA PORTUGUÊS EM NÚMEROS
+# O PANORAMA PORTUGUÊS EM NÚMEROS
 ## Exportação massiva, acesso interno mínimo
 Portugal transformou-se num polo de produção de cannabis medicinal para exportação. Os dados oficiais do Infarmed revelam:
 
@@ -134,7 +134,7 @@ A experiência internacional confirma esta progressão: nos EUA, 24 estados evol
 A questão já não é "se" abandonar a proibição, mas "como" implementar regulação responsável.
 
 
-# CAPÍTULO 2: O QUE DIZ A CIÊNCIA
+# O QUE DIZ A CIÊNCIA
 ## Eficácia médica: evidência por condição
 A NASEM (2017) — analisando mais de 10.000 resumos científicos — estabeleceu evidência conclusiva ou substancial para [@publico2018a]:
 
@@ -223,7 +223,7 @@ Baseada no modelo alemão e nas lições da sua implementação [@bundesminister
 * **Excepção medicinal:** Doentes com prescrição médica podem conduzir se demonstrarem não estar incapacitados
 
 
-# CAPÍTULO 3: MODELOS INTERNACIONAIS
+# MODELOS INTERNACIONAIS
 ## Alemanha (2024): o modelo de clubes sociais
 **A Cannabis Act (CanG)** entrou em vigor a 1 de abril de 2024\. É o modelo mais relevante para Portugal por várias razões [@bundesministerium2024] [@wikipedia2025]:
 
@@ -351,7 +351,7 @@ Espanha não legalizou cannabis, mas tolera ~800-1.000 clubes sociais numa "áre
 **Razão:** Vendedores licenciados verificam idade; traficantes não [@marijuanapolicy2025].
 
 
-# CAPÍTULO 4: POSIÇÕES DOS PARTIDOS PORTUGUESES
+# POSIÇÕES DOS PARTIDOS PORTUGUESES
 ## Mapa de posições
 | PARTIDO | POSIÇÃO | LINHA VERMELHA | PONTO DE CONVERGÊNCIA |
 | :---- | :---- | :---- | :---- |
@@ -366,7 +366,7 @@ Espanha não legalizou cannabis, mas tolera ~800-1.000 clubes sociais numa "áre
 | JPP | DESCONHECIDO | — | Partido sem posição pública conhecida |
 
 
-# CAPÍTULO 5: ESTRATÉGIAS PARA CONSTRUIR PONTES
+# ESTRATÉGIAS PARA CONSTRUIR PONTES
 ## Com o PS — Prioridade máxima
 **Estratégia:**
 
@@ -447,7 +447,7 @@ Trabalhar com Juventude Socialista como aliada [@publico2022]
 **Táctica:** Começar pelo Nível 1, negociar Nível 2, manter Nível 3 como objectivo futuro.
 
 
-# CAPÍTULO 6: RESPOSTAS A CONTRA-ARGUMENTOS
+# RESPOSTAS A CONTRA-ARGUMENTOS
 ## "A cannabis é droga de entrada"
 **Resposta:** Estudo CU Boulder/Minnesota (2023, 4.000 gémeos) não encontrou "mudanças no uso de drogas ilícitas após legalização" [@colorado2023]. A teoria da "gateway drug" não tem suporte científico conclusivo — o National Institute of Justice (2018) afirma que "não há evidência conclusiva de que a cannabis cause o uso posterior de drogas mais pesadas".
 
@@ -497,7 +497,7 @@ A cannabis permanece no Anexo I, mas a remoção do Anexo IV (reservado a drogas
 A evidência internacional é inequívoca.
 
 
-# CAPÍTULO 7: PROPOSTAS CONCRETAS
+# PROPOSTAS CONCRETAS
 ## Cannabis Medicinal (prioridade imediata)
 * Comparticipação pelo SNS dos medicamentos à base de cannabis para indicações aprovadas [@euronews2024]
 * Simplificação do acesso — prescrição por médicos de família, não apenas especialistas [@rtp2019]
@@ -565,7 +565,7 @@ O cânhamo industrial (Cannabis sativa L. com THC\<0,3%) representa uma oportuni
 * Incentivos PAC para conversão de culturas
 
 
-# CAPÍTULO 8: CRONOGRAMA
+# CRONOGRAMA
 | PRAZO | ACÇÃO |
 | :---- | :---- |
 | Fev 2026 | Aprovação pelos CTs Liberdade, Saúde e Ecologia |
