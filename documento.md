@@ -1,19 +1,3 @@
-**DOCUMENTO DE POSIÇÃO**
-
-**Regulação da Cannabis em Portugal**
-
-Evidência Científica, Modelos Internacionais, Estratégia Política e Manual de Debate
-
-Proposta para apreciação pelos Círculos Temáticos Liberdade, Saúde e Ecologia
-
-**Janeiro 2026 — Versão para revisão dos CTs**
-
-Redacção: **Bruno Camarneiro**
-
-Contributos:
-
-\newpage
-
 # SECÇÃO I: DOCUMENTO DE POSIÇÃO {-}
 
 \newpage
