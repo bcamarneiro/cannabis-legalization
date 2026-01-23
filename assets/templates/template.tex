@@ -1,0 +1,178 @@
+\documentclass[a4paper,11pt]{article}
+
+% Packages
+\usepackage[portuguese]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{textcomp}
+\usepackage{calc}
+\usepackage{geometry}
+\usepackage{xcolor}
+\usepackage{titlesec}
+\usepackage{fancyhdr}
+\usepackage{tocloft}
+\usepackage{graphicx}
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{colortbl}
+\usepackage{footnote}
+\usepackage{helvet}  % Helvetica as Calibri substitute
+\usepackage{hyperref}
+
+% Page geometry
+\geometry{
+    a4paper,
+    left=2.5cm,
+    right=2.5cm,
+    top=3cm,
+    bottom=3cm
+}
+
+% Colors (matching formatted_doc.pdf exactly)
+\definecolor{azulLivre}{HTML}{3c78d8}
+\definecolor{azulClaro}{HTML}{d5e8f0}
+\definecolor{cinzaHeader}{HTML}{666666}
+
+% Use Helvetica as body font (closest to Calibri)
+\renewcommand{\familydefault}{\sfdefault}
+
+% Hyperref setup (subtle black links matching formatted_doc.docx)
+\hypersetup{
+    colorlinks=true,
+    linkcolor=black,
+    filecolor=black,
+    urlcolor=black,
+    citecolor=black,
+    pdftitle={Regulação da Cannabis em Portugal},
+    pdfauthor={Bruno Camarneiro},
+    pdfsubject={Documento de Posição - LIVRE},
+    pdfkeywords={cannabis, regulação, Portugal, LIVRE}
+}
+
+% CSLReferences environment for bibliography (required by pandoc --citeproc)
+\newlength{\cslhangindent}
+\setlength{\cslhangindent}{1.5em}
+\newlength{\csllabelwidth}
+\setlength{\csllabelwidth}{3em}
+\newenvironment{CSLReferences}[2]
+  {\list{}{\setlength{\itemindent}{0pt}
+           \setlength{\leftmargin}{\cslhangindent}
+           \setlength{\parsep}{\parskip}
+           \setlength{\itemsep}{0.5\baselineskip}}}
+  {\endlist}
+\newcommand{\CSLBlock}[1]{#1\hfill\break}
+\newcommand{\CSLLeftMargin}[1]{\parbox[t]{\csllabelwidth}{#1}}
+\newcommand{\CSLRightInline}[1]{\parbox[t]{\linewidth - \csllabelwidth}{#1}\break}
+\newcommand{\CSLIndent}[1]{\hspace{\cslhangindent}#1}
+\providecommand{\citeproctext}{}
+\providecommand{\citeproc}[2]{#2}
+
+% Section formatting (azul #3c78d8 em todos os títulos)
+% With automatic numbering via Pandoc --number-sections
+\titleformat{\section}
+    {\fontsize{16}{19}\selectfont\bfseries\color{azulLivre}}
+    {\thesection}{0.5em}{}
+\titlespacing*{\section}{0pt}{12pt}{6pt}
+
+\titleformat{\subsection}
+    {\fontsize{14}{17}\selectfont\bfseries\color{azulLivre}}
+    {\thesubsection}{0.5em}{}
+\titlespacing*{\subsection}{0pt}{10pt}{5pt}
+
+\titleformat{\subsubsection}
+    {\fontsize{12}{14}\selectfont\bfseries\color{azulLivre}}
+    {\thesubsubsection}{0.5em}{}
+\titlespacing*{\subsubsection}{0pt}{8pt}{4pt}
+
+% TOC formatting (azul nos títulos)
+\renewcommand{\cftsecfont}{\bfseries\color{azulLivre}}
+\renewcommand{\cftsecpagefont}{\color{azulLivre}}
+\renewcommand{\cftsubsecfont}{\color{azulLivre}}
+\renewcommand{\cftsubsecpagefont}{\color{azulLivre}}
+
+% Headers and footers (gray #666666 matching formatted_doc.docx)
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\fontsize{9}{11}\selectfont\color{cinzaHeader}Regulação da Cannabis em Portugal}
+\fancyhead[R]{\fontsize{9}{11}\selectfont\color{cinzaHeader}LIVRE}
+\fancyfoot[C]{\small\thepage}
+\renewcommand{\headrulewidth}{0.5pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Footnote formatting
+\renewcommand{\footnotesize}{\fontsize{9}{11}\selectfont}
+
+% Table formatting
+\newcommand{\tableheader}[1]{%
+    \rowcolor{azulClaro}%
+    \textbf{#1}%
+}
+
+% Line spacing (closer to Word default for 11pt Calibri)
+\renewcommand{\baselinestretch}{1.08}
+
+% Paragraph spacing (compact like Word)
+\setlength{\parskip}{0pt}
+\setlength{\parindent}{0pt}
+
+% Prevent section breaks
+\widowpenalty=10000
+\clubpenalty=10000
+
+% Fix for Pandoc's longtable counter issue
+\newcounter{none}
+\setcounter{none}{0}
+
+% Pandoc's tightlist command for compact lists
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+$if(highlighting-macros)$
+$highlighting-macros$
+$endif$
+
+\begin{document}
+
+% Title page (matching formatted_doc.pdf layout exactly)
+\begin{titlepage}
+    \centering
+    \vspace*{3cm}
+
+    % "DOCUMENTO DE POSIÇÃO" - Azul #3c78d8, 18pt, negrito
+    {\fontsize{18}{22}\selectfont\bfseries\color{azulLivre} DOCUMENTO DE POSIÇÃO\par}
+    \vspace{1.2cm}
+
+    % Título principal - Preto, 15pt, negrito
+    {\fontsize{15}{18}\selectfont\bfseries Regulação da Cannabis em Portugal\par}
+    \vspace{1cm}
+
+    % Subtítulo - Preto, 12pt, normal
+    {\fontsize{12}{14}\selectfont Evidência Científica, Modelos Internacionais, Estratégia Política e Manual de Debate\par}
+    \vspace{2.5cm}
+
+    % Texto secundário
+    {\fontsize{11}{13}\selectfont Proposta para apreciação pelos Círculos Temáticos Liberdade, Saúde e Ecologia\par}
+    \vspace{2.5cm}
+
+    % Versão
+    {\fontsize{11}{13}\selectfont\bfseries Janeiro 2026 — Versão para revisão dos CTs\par}
+    \vspace{1.5cm}
+
+    % Autor
+    {\fontsize{11}{13}\selectfont Redacção: \textbf{Bruno Camarneiro}\par}
+    \vspace{0.5cm}
+
+    {\fontsize{11}{13}\selectfont Contributos:\par}
+
+    \vfill
+\end{titlepage}
+
+% TOC
+\tableofcontents
+\newpage
+
+% Main content
+$body$
+
+\end{document}

@@ -3,7 +3,22 @@
     "allow": [
       "Bash(git init:*)",
       "Bash(git add:*)",
-      "Bash(git check-ignore:*)"
+      "Bash(git check-ignore:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Bash(git checkout:*)",
+      "Bash(git ls-tree:*)",
+      "Bash(pandoc:*)",
+      "Bash(pdflatex:*)",
+      "Bash(chmod:*)",
+      "Bash(brew list:*)",
+      "Bash(brew install:*)",
+      "Bash(ls:*)",
+      "Bash(find:*)",
+      "Bash(du:*)",
+      "Bash(rm:*)",
+      "Bash(mv:*)",
+      "Bash(cp:*)"
     ],
     "additionalDirectories": [
       "/Users/brunocamarneiro/Projects/civic-contributions/cannabis-legalization"

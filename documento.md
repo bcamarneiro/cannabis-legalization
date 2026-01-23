@@ -12,141 +12,19 @@ Proposta para apreciação pelos Círculos Temáticos Liberdade, Saúde e Ecolog
 
 Redacção: **Bruno Camarneiro**
 
-Contributos: 
+Contributos:
 
-# Índice {#índice}
-
-**[Índice	2](#índice)**
-
-[**SECÇÃO I: DOCUMENTO DE POSIÇÃO	4**](#heading=)
-
-[**SUMÁRIO EXECUTIVO	5**](#heading=)
-
-[**CAPÍTULO 1: O PANORAMA PORTUGUÊS EM NÚMEROS	6**](#heading=)
-
-[**1.1 Exportação massiva, acesso interno mínimo	6**](#heading=)
-
-[**1.1.1 Barreiras ao acesso: por que tão poucas variedades e receitas?	6**](#heading=)
-
-[**1.2 O mercado negro: a realidade que a proibição não elimina	7**](#heading=)
-
-[**1.3 Prevalência de consumo: abaixo da média europeia	8**](#heading=)
-
-[**1.4 A descriminalização de 2001: resultados comprovados	8**](#heading=)
-
-[**CAPÍTULO 2: O QUE DIZ A CIÊNCIA	11**](#heading=)
-
-[**2.1 Eficácia médica: evidência por condição	11**](#heading=)
-
-[**2.2 Riscos para a saúde mental: a evidência que levamos a sério	11**](#heading=)
-
-[**2.2.1 Como a nossa proposta mitiga estes riscos	11**](#heading=)
-
-[**2.3 Comparação de riscos (Lancet 2010\)	12**](#heading=)
-
-[**2.4 Cannabis e condução: um desafio de implementação	13**](#heading=)
-
-[**O problema	13**](#heading=)
-
-[**Lições da Alemanha	13**](#heading=)
-
-[**Nossa proposta para Portugal	13**](#heading=)
-
-[**CAPÍTULO 3: MODELOS INTERNACIONAIS	15**](#heading=)
-
-[**3.1 Alemanha (2024): o modelo de clubes sociais	15**](#heading=)
-
-[**3.1.1 Regras principais	15**](#heading=)
-
-[**3.1.2 Como funcionam os clubes sociais na Alemanha	15**](#heading=)
-
-[**3.1.3 Estado actual da implementação (Janeiro 2026\)	16**](#heading=)
-
-[**3.1.4 Avaliação da implementação alemã (Janeiro 2026\)	17**](#heading=)
-
-[**3.2 Canadá (2018): lições do modelo comercial	17**](#heading=)
-
-[**3.3 Uruguai (2013): lições de uma década	18**](#heading=)
-
-[**3.4 Espanha: o risco da não-regulação	18**](#heading=)
-
-[3.5 Impacto no consumo juvenil	19](#3.5-impacto-no-consumo-juvenil)
-
-[**CAPÍTULO 4: POSIÇÕES DOS PARTIDOS PORTUGUESES	20**](#heading=)
-
-[**4.1 Mapa de posições	20**](#heading=)
-
-[**CAPÍTULO 5: ESTRATÉGIAS PARA CONSTRUIR PONTES	22**](#heading=)
-
-[**5.1 Com o PS — Prioridade máxima	22**](#heading=)
-
-[**5.2 Com o PSD — O desafio do autocultivo	22**](#heading=)
-
-[**5.3 Com o PCP	23**](#heading=)
-
-[**5.4 Resposta ao Chega	23**](#heading=)
-
-[5.5 Estratégia de Negociação em 3 Níveis	24](#5.5-estratégia-de-negociação-em-3-níveis)
-
-[**CAPÍTULO 6: RESPOSTAS A CONTRA-ARGUMENTOS	25**](#heading=)
-
-[**"A cannabis é droga de entrada"	25**](#heading=)
-
-[**"Envia mensagem errada aos jovens"	25**](#heading=)
-
-[**"Causa danos à saúde mental"	25**](#heading=)
-
-[**"Viola tratados internacionais"	26**](#heading=)
-
-[**"O autocultivo não pode ser controlado"	26**](#heading=)
-
-[**"Não há provas de que reduz o tráfico"	26**](#heading=)
-
-[**CAPÍTULO 7: PROPOSTAS CONCRETAS	28**](#heading=)
-
-[**7.1 Cannabis Medicinal (prioridade imediata)	28**](#heading=)
-
-[**7.2 Cannabis Recreativa (médio prazo)	28**](#heading=)
-
-[**Posse e consumo	28**](#heading=)
-
-[**Clubes sociais de cannabis	28**](#heading=)
-
-[**Autocultivo regulado (proposta de compromisso)	28**](#heading=)
-
-[**Condução	29**](#heading=)
-
-[**Receitas fiscais	29**](#heading=)
-
-[**7.3 Cânhamo Industrial: Uma oportunidade económica e ambiental	29**](#heading=)
-
-[**CAPÍTULO 8: CRONOGRAMA	30**](#heading=)
-
-[**CONCLUSÃO	31**](#conclusão)
-
-[**REFERÊNCIAS E FONTES	32**](#heading=)
-
-# 
-
-# 
-
-# 
-
-# 
-
-# 
-
-# 
-
-# 
+\newpage
 
 # **SECÇÃO I: DOCUMENTO DE POSIÇÃO**
 
 ──────────────────────────────────────────────────
 
+\newpage
+
 # **SUMÁRIO EXECUTIVO**
 
-Portugal encontra-se numa posição paradoxal: é o segundo maior exportador mundial de cannabis medicinal (32.558 kg em 2024[^1], ultrapassados nos primeiros 8 meses de 2025[^2]), mas apenas \~1.150 prescrições foram emitidas internamente em 2023[^3], equivalendo a cerca de 17 kg[^4].
+Portugal encontra-se numa posição paradoxal: é o segundo maior exportador mundial de cannabis medicinal (32.558 kg em 2024 [@infarmed2024], ultrapassados nos primeiros 8 meses de 2025 [@euronews2024]), mas apenas \~1.150 prescrições foram emitidas internamente em 2023 [@eco2024], equivalendo a cerca de 17 kg [@cannareporter2024].
 
 Este documento propõe que o LIVRE assuma uma posição clara e proactiva sobre a regulação da cannabis, assente em três pilares:
 
@@ -157,6 +35,8 @@ Regulação responsável do uso recreativo (modelo alemão de clubes sociais)
 Valorização do cânhamo como alternativa agrícola sustentável
 
 ──────────────────────────────────────────────────
+
+\newpage
 
 # **CAPÍTULO 1: O PANORAMA PORTUGUÊS EM NÚMEROS**
 
@@ -172,11 +52,11 @@ Portugal transformou-se num polo de produção de cannabis medicinal para export
 | 2023 | 11.973 | \+29% |
 | **2024** | **32.558** | **\+172%** |
 
-Fonte: Infarmed[^5], dados 2024: Eco[^6]
+Fonte: Infarmed [@prohibition2025], dados 2024: Eco [@cannareporter2025]
 
-O setor emprega **37 empresas** autorizadas para cultivo[^7] e **20 empresas** com certificação EU-GMP[^8] (dados de Dezembro 2024).
+O setor emprega **37 empresas** autorizadas para cultivo [@cmslaw2024] e **20 empresas** com certificação EU-GMP [@ec2024] (dados de Dezembro 2024).
 
-Contudo, o mercado interno permanece residual: em 2023, apenas **1.157 prescrições** foram emitidas[^9], com produtos a custar \~€150 por 15g[^10] e **sem comparticipação do SNS[^11]**.
+Contudo, o mercado interno permanece residual: em 2023, apenas **1.157 prescrições** foram emitidas [@rtp2019], com produtos a custar \~€150 por 15g [@prohibition2017] e **sem comparticipação do SNS [@ribeiro2024]**.
 
 ### **1.1.1 Barreiras ao acesso: por que tão poucas variedades e receitas?**
 
@@ -184,27 +64,27 @@ Contudo, o mercado interno permanece residual: em 2023, apenas **1.157 prescriç
 
 A limitada oferta de cannabis medicinal resulta de múltiplas barreiras regulatórias e económicas:
 
-* **Regulação restritiva:** Requisitos rigorosos de certificação GACP e EU-GMP[^12]  
-* **Burocracia complexa:** O processo de autorização é demorado (2-3 meses em 2025)[^13]  
-* **Falta de incentivos:** Mercado interno pequeno (1.157 prescrições/ano)[^14] não justifica investimento em diversidade  
-* **Enquadramento legal fragmentado:** O CBD encontra-se numa zona cinzenta entre o Infarmed (substância controlada) e a DGAV ("novel food" não autorizado)[^15], e o cânhamo industrial (THC\<0,3%)[^16] tem regulamentação distinta da cannabis medicinal"
+* **Regulação restritiva:** Requisitos rigorosos de certificação GACP e EU-GMP [@sicad2022]  
+* **Burocracia complexa:** O processo de autorização é demorado (2-3 meses em 2025) [@euda2025]  
+* **Falta de incentivos:** Mercado interno pequeno (1.157 prescrições/ano) [@open2013] não justifica investimento em diversidade  
+* **Enquadramento legal fragmentado:** O CBD encontra-se numa zona cinzenta entre o Infarmed (substância controlada) e a DGAV ("novel food" não autorizado) [@jacobin2023], e o cânhamo industrial (THC\<0,3%) [@renascencalusa2025] tem regulamentação distinta da cannabis medicinal"
 
 **Dificuldade em obter receitas médicas:**
 
 O acesso legal à cannabis medicinal enfrenta obstáculos significativos:
 
-* **Falta de formação médica:** A cannabis medicinal não é ensinada nas universidades e os médicos carecem de formação[^17]  
-* **Receio profissional:** Médicos não se sentem confortáveis a prescrever por falta de conhecimento[^18]  
-* **Indicações restritas:** Apenas 7 indicações terapêuticas aprovadas, e só quando outras opções falharam[^19]  
-* **Processo burocrático:** Cada prescrição requer que terapêuticas convencionais tenham falhado primeiro[^20]  
-* **Custo proibitivo:** \~€150 por 15g sem comparticipação afasta doentes[^21]  
-* **Estigma persistente:** Médicos recusam ajudar pacientes apesar de enquadramento legal existir[^22]
+* **Falta de formação médica:** A cannabis medicinal não é ensinada nas universidades e os médicos carecem de formação [@euda2025a]  
+* **Receio profissional:** Médicos não se sentem confortáveis a prescrever por falta de conhecimento [@greenwald2009]  
+* **Indicações restritas:** Apenas 7 indicações terapêuticas aprovadas, e só quando outras opções falharam [@drug2023]  
+* **Processo burocrático:** Cada prescrição requer que terapêuticas convencionais tenham falhado primeiro [@cannareporter2020]  
+* **Custo proibitivo:** \~€150 por 15g sem comparticipação afasta doentes [@drug2024]  
+* **Estigma persistente:** Médicos recusam ajudar pacientes apesar de enquadramento legal existir [@national2017]
 
 **Estas barreiras justificam as propostas deste documento de simplificação do acesso e comparticipação pelo SNS.**
 
 ## **1.2 O mercado negro: a realidade que a proibição não elimina**
 
-A consultora Prohibition Partners (2017) estimou o mercado negro português em valores superiores a €100 milhões/ano[^23]. Estudos mais recentes (2024) estimam o mercado ilegal em **36-58 toneladas anuais**, com potencial de receita fiscal de €52-151 milhões com a legalização[^24].
+A consultora Prohibition Partners (2017) estimou o mercado negro português em valores superiores a €100 milhões/ano [@devinsky2017]. Estudos mais recentes (2024) estimam o mercado ilegal em **36-58 toneladas anuais**, com potencial de receita fiscal de €52-151 milhões com a legalização [@torresmoreno2023].
 
 Este mercado não paga impostos, não verifica idades, e não oferece controlo de qualidade.
 
@@ -212,22 +92,22 @@ Este mercado não paga impostos, não verifica idades, e não oferece controlo d
 
 Os dados do V Inquérito Nacional (SICAD, 2022\) mostram que Portugal mantém taxas de consumo abaixo da média europeia:
 
-* **Prevalência ao longo da vida (15-64 anos):** 10,5% (PT)[^25]  
-* **Consumo último ano (15-64 anos):** 2,8% (PT) vs. 8,4% (média UE)[^26] [^27]
+* **Prevalência ao longo da vida (15-64 anos):** 10,5% (PT) [@nugent2017]  
+* **Consumo último ano (15-64 anos):** 2,8% (PT) vs. 8,4% (média UE) [@marconi2016] [@di2019]
 
-**Dado preocupante:** O consumo de risco elevado entre jovens 15-24 anos aumentou de 0,2% (2012) para 1,3% (2022), medido pelo Cannabis Abuse Screening Test (CAST)[^28].
+**Dado preocupante:** O consumo de risco elevado entre jovens 15-24 anos aumentou de 0,2% (2012) para 1,3% (2022), medido pelo Cannabis Abuse Screening Test (CAST) [@leung2020].
 
-**Contexto importante:** Este aumento de 6,5x no consumo de risco juvenil (0,2% → 1,3%)[^29] ocorreu durante o período de **desinvestimento drástico nos serviços de prevenção e tratamento**: em 2012, o financiamento foi cortado de €76 milhões para €16 milhões (-79%)[^30]  [^31], o IDT foi extinto e substituído pelo SICAD, e o tempo de espera para tratamento passou de 4 horas para 1 ano[^32]. Em 2025, o coordenador nacional João Goulão confirmou que o orçamento actual continua inferior ao de antes de 2012[^33]. **A proibição não impediu este aumento; regulação permitiria controlo de potência e programas de prevenção adequadamente financiados.**
+**Contexto importante:** Este aumento de 6,5x no consumo de risco juvenil (0,2% → 1,3%) [@transform2020] ocorreu durante o período de **desinvestimento drástico nos serviços de prevenção e tratamento**: em 2012, o financiamento foi cortado de €76 milhões para €16 milhões (-79%) [@tax2024]  [@nutt2010], o IDT foi extinto e substituído pelo SICAD, e o tempo de espera para tratamento passou de 4 horas para 1 ano [@rogeberg2019]. Em 2025, o coordenador nacional João Goulão confirmou que o orçamento actual continua inferior ao de antes de 2012 [@bundesministerium2024]. **A proibição não impediu este aumento; regulação permitiria controlo de potência e programas de prevenção adequadamente financiados.**
 
 ## **1.4 A descriminalização de 2001: resultados comprovados**
 
 A Lei 30/2000 descriminalizou o consumo pessoal. Os resultados em 25 anos são notáveis:
 
-* **Mortes por overdose:** de 369 (1999) para \~80/ano (10 por milhão vs. 22 média UE)[^34]  
-* **HIV relacionado com drogas:** de 907 novos diagnósticos (2000) para 18 (2017) — redução de \~98%[^35]  
-* **População prisional por drogas:** de 44% (1999) para 15,7% (2019) — abaixo da média europeia de 18%[^36]
+* **Mortes por overdose:** de 369 (1999) para \~80/ano (10 por milhão vs. 22 média UE) [@bessergrowen2025]  
+* **HIV relacionado com drogas:** de 907 novos diagnósticos (2000) para 18 (2017) — redução de \~98% [@manthey2024]  
+* **População prisional por drogas:** de 44% (1999) para 15,7% (2019) — abaixo da média europeia de 18% [@businesscannabis2025a]
 
-*O Cato Institute (2009) classificou o modelo como "sucesso retumbante por praticamente todas as métricas"*[^37].
+*O Cato Institute (2009) classificou o modelo como "sucesso retumbante por praticamente todas as métricas"* [@marijuanamoment2025].
 
 **Conclusões a retirar de 25 anos de descriminalização:**
 
@@ -235,33 +115,33 @@ A Lei 30/2000 descriminalizou o consumo pessoal. Os resultados em 25 anos são n
 
 Os dados comprovam que tratar consumo como questão de saúde (e não criminal) salva vidas:
 
-* Redução de 98% nos diagnósticos de HIV relacionado com drogas[^38]  
-* Mortes por overdose caíram significativamente[^39]  
-* Portugal tem agora uma das taxas mais baixas de mortalidade por drogas na Europa (10 por milhão vs. 22 média UE)[^40]  
-* **Descriminalização NÃO aumentou consumo** — Portugal mantém taxas abaixo da média europeia[^41] [^42] 
+* Redução de 98% nos diagnósticos de HIV relacionado com drogas [@internationalcbc2025]  
+* Mortes por overdose caíram significativamente [@businesscannabis2025b]  
+* Portugal tem agora uma das taxas mais baixas de mortalidade por drogas na Europa (10 por milhão vs. 22 média UE) [@mmjdaily2025]  
+* **Descriminalização NÃO aumentou consumo** — Portugal mantém taxas abaixo da média europeia [@wikipedia2025] [@healthcanada2024] 
 
 **2\. O sistema judicial tornou-se mais eficaz e humano**
 
 Retirar utilizadores do sistema penal libertou recursos e reduziu pressão sobre prisões:
 
-* População prisional por drogas: 44% (1999) → 15,7% (2019)[^43]  
-* Menor estigma facilita procura de ajuda — 45% dos dependentes de heroína procuraram tratamento após 2001[^44]  
-* Abordagem não-punitiva das CDTs promove acesso a tratamento em vez de punição[^45]
+* População prisional por drogas: 44% (1999) → 15,7% (2019) [@cbcnews2025]  
+* Menor estigma facilita procura de ajuda — 45% dos dependentes de heroína procuraram tratamento após 2001 [@insolvency2025]  
+* Abordagem não-punitiva das CDTs promove acesso a tratamento em vez de punição [@cdays2025]
 
 **3\. O modelo requer financiamento sustentado para funcionar**
 
-⚠️ **Lição crítica:** O desinvestimento durante o período de austeridade (2012-2021) mostrou a fragilidade do modelo[^46] [^47] [^48]:
+⚠️ **Lição crítica:** O desinvestimento durante o período de austeridade (2012-2021) mostrou a fragilidade do modelo [@latinamerica2024] [@softsecrets2025] [@tni2018]:
 
-* Corte de financiamento de €76M para €16M (-79%)[^49]  
-* Serviços de proximidade (equipas de rua) subcontratados a ONGs com menos recursos[^50]  
-* Consequência: overdoses aumentaram 29% em 2021 (63→81 mortes)[^51]   
-* **O sucesso não é automático** — depende de investimento contínuo[^52]
+* Corte de financiamento de €76M para €16M (-79%) [@transform2018]  
+* Serviços de proximidade (equipas de rua) subcontratados a ONGs com menos recursos [@hightimes2024]  
+* Consequência: overdoses aumentaram 29% em 2021 (63→81 mortes) [@cdphe2024]   
+* **O sucesso não é automático** — depende de investimento contínuo [@marijuanapolicy2025]
 
 **Implicação política para o debate sobre cannabis:**
 
-O próprio João Goulão, arquitecto da descriminalização portuguesa, defende a regulação do mercado de cannabis: "O mercado livre é o que temos agora" — referindo-se ao mercado negro não regulado[^53]. Argumenta que a regulação permitiria obter "evidências sólidas" sobre impactos na saúde pública e seria "mais seguro para os utilizadores"[^54].
+O próprio João Goulão, arquitecto da descriminalização portuguesa, defende a regulação do mercado de cannabis: "O mercado livre é o que temos agora" — referindo-se ao mercado negro não regulado [@observador2024]. Argumenta que a regulação permitiria obter "evidências sólidas" sobre impactos na saúde pública e seria "mais seguro para os utilizadores" [@eco2021].
 
-A experiência internacional confirma esta progressão: nos EUA, 24 estados evoluíram da descriminalização para a legalização regulada, com apoio público a subir de 32% (2006) para 88% (2022)[^55]. Organizações como a Drug Policy Alliance argumentam que "a descriminalização não é suficiente" — não elimina o mercado negro, não gera receitas fiscais, nem permite controlo de qualidade[^56].
+A experiência internacional confirma esta progressão: nos EUA, 24 estados evoluíram da descriminalização para a legalização regulada, com apoio público a subir de 32% (2006) para 88% (2022) [@pan2021]. Organizações como a Drug Policy Alliance argumentam que "a descriminalização não é suficiente" — não elimina o mercado negro, não gera receitas fiscais, nem permite controlo de qualidade [@publico2023].
 
 A questão já não é "se" abandonar a proibição, mas "como" implementar regulação responsável.
 
@@ -271,27 +151,27 @@ A questão já não é "se" abandonar a proibição, mas "como" implementar regu
 
 ## **2.1 Eficácia médica: evidência por condição**
 
-A NASEM (2017) — analisando mais de 10.000 resumos científicos — estabeleceu evidência conclusiva ou substancial para[^57]:
+A NASEM (2017) — analisando mais de 10.000 resumos científicos — estabeleceu evidência conclusiva ou substancial para [@publico2018a]:
 
-* **Dor crónica:** Evidência substancial de eficácia, embora com qualidade variável dos estudos[^58]  
-* **Epilepsia resistente:** NEJM (2017): redução de 39% nas convulsões com CBD. Epidiolex aprovado FDA (2018) e EMA[^59]  
-* **Espasticidade na esclerose múltipla:** OR 2,41 (meta-análise 2023). Sativex aprovado em 29 países[^60]  
-* **Náuseas oncológicas:** Evidência conclusiva de eficácia[^61]
+* **Dor crónica:** Evidência substancial de eficácia, embora com qualidade variável dos estudos [@publico2018b]  
+* **Epilepsia resistente:** NEJM (2017): redução de 39% nas convulsões com CBD. Epidiolex aprovado FDA (2018) e EMA [@cannareporter2024b]  
+* **Espasticidade na esclerose múltipla:** OR 2,41 (meta-análise 2023). Sativex aprovado em 29 países [@publico2022]  
+* **Náuseas oncológicas:** Evidência conclusiva de eficácia [@colorado2023]
 
-**Nota sobre dor neuropática:** Revisões sistemáticas encontraram evidência limitada para dor neuropática especificamente[^62], sublinhando a necessidade de mais investigação — algo que a proibição dificulta. Isto reforça a importância de criar condições para mais investigação clínica.
+**Nota sobre dor neuropática:** Revisões sistemáticas encontraram evidência limitada para dor neuropática especificamente [@kirby2019], sublinhando a necessidade de mais investigação — algo que a proibição dificulta. Isto reforça a importância de criar condições para mais investigação clínica.
 
 ## **2.2 Riscos para a saúde mental: a evidência que levamos a sério**
 
 A evidência sobre riscos é robusta e deve orientar a nossa proposta:
 
-* **Psicose:** Meta-análise Marconi et al. (2016): OR 3,90 para psicose nos consumidores mais pesados vs. não-consumidores[^63]  
-* **Alta potência:** Estudo EU-GEI (2019): uso diário de cannabis de alta potência (THC ≥10%) associado a \~5x maior probabilidade de psicose (OR 4,8)[^64]  
-* **Cannabis Use Disorder (CUD):** Meta-análise Leung et al. (2020): **22% dos utilizadores de cannabis** desenvolvem CUD (não 22% da população geral). O risco sobe para 33% entre quem usa semanalmente ou mais[^65]  
+* **Psicose:** Meta-análise Marconi et al. (2016): OR 3,90 para psicose nos consumidores mais pesados vs. não-consumidores [@unnews2020]  
+* **Alta potência:** Estudo EU-GEI (2019): uso diário de cannabis de alta potência (THC ≥10%) associado a \~5x maior probabilidade de psicose (OR 4,8) [@dezeen2021]  
+* **Cannabis Use Disorder (CUD):** Meta-análise Leung et al. (2020): **22% dos utilizadores de cannabis** desenvolvem CUD (não 22% da população geral). O risco sobe para 33% entre quem usa semanalmente ou mais [@stockholm2005]  
 * 
 
 ### **2.2.1 Como a nossa proposta mitiga estes riscos**
 
-Reconhecemos os riscos e por isso propomos medidas específicas, baseadas em modelos internacionais comprovados[^66] [^67]:
+Reconhecemos os riscos e por isso propomos medidas específicas, baseadas em modelos internacionais comprovados [@hanway2022] [@cleirec2025]:
 
 | Risco | Medida de Mitigação |
 | :---- | :---- |
@@ -303,7 +183,7 @@ Reconhecemos os riscos e por isso propomos medidas específicas, baseadas em mod
 | **Consumo problemático** | % fixa das receitas fiscais para tratamento e prevenção |
 | **Consumo frequente** | Limites mensais (50g/mês nos clubes); limite de plantas (3) em autocultivo; oficial de prevenção obrigatório nos clubes com encaminhamento proactivo para apoio |
 
-**Nota sobre frequência de consumo:** A frequência de consumo é um preditor de risco tão ou mais importante que a potência[^68]. Contudo, tal como não se limita a frequência de consumo de álcool ou tabaco, a abordagem mais praticável é limitar a quantidade disponível. Esta proposta faz-lo através dos limites mensais (50g nos clubes) e de plantas (3 em autocultivo) — medidas mais restritivas do que as existentes para substâncias legais com maior score de dano.
+**Nota sobre frequência de consumo:** A frequência de consumo é um preditor de risco tão ou mais importante que a potência [@autor2024]. Contudo, tal como não se limita a frequência de consumo de álcool ou tabaco, a abordagem mais praticável é limitar a quantidade disponível. Esta proposta faz-lo através dos limites mensais (50g nos clubes) e de plantas (3 em autocultivo) — medidas mais restritivas do que as existentes para substâncias legais com maior score de dano.
 
 **Proposta concreta:** Destinar **30% das receitas fiscais** obrigatoriamente a:
 
@@ -312,11 +192,11 @@ Reconhecemos os riscos e por isso propomos medidas específicas, baseadas em mod
 * Investigação sobre riscos e benefícios  
 * Formação de profissionais de saúde
 
-Nota: Colorado destina \~37% a educação; Washington destina \~50% a programas de saúde[^69].
+Nota: Colorado destina \~37% a educação; Washington destina \~50% a programas de saúde [@tax2024].
 
 ## **2.3 Comparação de riscos (Lancet 2010\)**
 
-O estudo de David Nutt com 20 drogas e 16 critérios de dano[^70]:
+O estudo de David Nutt com 20 drogas e 16 critérios de dano [@nutt2010]:
 
 | SUBSTÂNCIA | PONTUAÇÃO (0-100) |
 | :---- | :---- |
@@ -333,21 +213,21 @@ A cannabis é \~1/3 tão nociva quanto o álcool segundo esta metodologia multic
 
 ### **O problema**
 
-* **Risco aumentado:** Meta-análise Rogeberg (2019): OR 1,28 (IC 95%: 1,16-1,40) para risco de acidente. O autor conclui que o risco é "baixo" e a fração de risco atribuível está "abaixo de 2%" na maioria dos estudos[^71].  
+* **Risco aumentado:** Meta-análise Rogeberg (2019): OR 1,28 (IC 95%: 1,16-1,40) para risco de acidente. O autor conclui que o risco é "baixo" e a fração de risco atribuível está "abaixo de 2%" na maioria dos estudos [@rogeberg2019].  
 * **Mas:** Qualquer aumento de risco justifica regulação adequada.
 
 ### **Lições da Alemanha**
 
-A Alemanha estabeleceu um limite de **3,5 ng/ml de THC** no sangue (equiparado a 0,2‰ de álcool), aprovado pelo Bundestag em Junho 2024 e em vigor desde Agosto 2024[^72]. 
+A Alemanha estabeleceu um limite de **3,5 ng/ml de THC** no sangue (equiparado a 0,2‰ de álcool), aprovado pelo Bundestag em Junho 2024 e em vigor desde Agosto 2024 [@bundesministerium2024]. 
 
-**Problemas identificados[^73]:**
+**Problemas identificados [@bessergrowen2025]:**
 
 * Os testes rápidos de saliva actuais estão calibrados para 1,0 ng/ml e não conseguem distinguir o novo limite de 3,5 ng/ml  
 * Testes mostram positivo mesmo quando condutores estão **abaixo** do limite legal  
 * O THC pode permanecer detectável no sangue durante dias/semanas após consumo  
 * Apenas o teste sanguíneo pode medir com precisão os níveis de THC
 
-**Soluções em desenvolvimento[^74]:**
+**Soluções em desenvolvimento [@bessergrowen2025]:**
 
 * Renânia-Palatinado está a testar novos testes rápidos desde Maio 2025 (distrito de Trier)  
 * Novos testes de saliva com cut-off de 3,5 ng/ml dão resultados em 3 minutos  
@@ -355,7 +235,7 @@ A Alemanha estabeleceu um limite de **3,5 ng/ml de THC** no sangue (equiparado a
 
 ### **Nossa proposta para Portugal**
 
-Baseada no modelo alemão e nas lições da sua implementação[^75] [^76]:
+Baseada no modelo alemão e nas lições da sua implementação [@bundesministerium2024] [@bessergrowen2025]:
 
 * **Limite legal:** 3,5 ng/ml de THC no sangue (modelo alemão)  
 * **Tolerância zero:** Para condutores com menos de 2 anos de carta e menores de 21  
@@ -370,7 +250,7 @@ Baseada no modelo alemão e nas lições da sua implementação[^75] [^76]:
 
 ## **3.1 Alemanha (2024): o modelo de clubes sociais**
 
-**A Cannabis Act (CanG)** entrou em vigor a 1 de abril de 2024\. É o modelo mais relevante para Portugal por várias razões[^77] [^78]:
+**A Cannabis Act (CanG)** entrou em vigor a 1 de abril de 2024\. É o modelo mais relevante para Portugal por várias razões [@bundesministerium2024] [@wikipedia2025]:
 
 * Contexto europeu similar  
 * Compatibilidade com tratados internacionais  
@@ -388,7 +268,7 @@ Baseada no modelo alemão e nas lições da sua implementação[^75] [^76]:
 | Clubes sociais | Máx. 500 membros, 25g/dia, 50g/mês |
 | Distância de escolas | 200 metros (clubes e consumo proibido) |
 
-### **3.1.2 Como funcionam os clubes sociais na Alemanha[^79] [^80]**
+### **3.1.2 Como funcionam os clubes sociais na Alemanha [@bundesministerium2024] [@wikipedia2025]**
 
 **Processo de criação:**
 
@@ -436,71 +316,71 @@ Baseada no modelo alemão e nas lições da sua implementação[^75] [^76]:
 
 **Disparidades regionais:**
 
-* **Líderes:** Renânia do Norte-Vestefália (96 clubes), Baixa Saxónia (68 clubes) — juntas representam \>45% das licenças[^81]  
-* **Bloqueio efectivo:** Baviera (0 clubes operacionais até Abril 2025; apenas 3 aprovados depois, com restrições de zonamento severas)[^82]
+* **Líderes:** Renânia do Norte-Vestefália (96 clubes), Baixa Saxónia (68 clubes) — juntas representam \>45% das licenças [@mmjdaily2025]  
+* **Bloqueio efectivo:** Baviera (0 clubes operacionais até Abril 2025; apenas 3 aprovados depois, com restrições de zonamento severas) [@businesscannabis2025b]
 
 ### **3.1.4 Avaliação da implementação alemã (Janeiro 2026\)**
 
 **Dados de saúde pública:**
 
-* Cannabis é 2ª causa de tratamento de dependências na Alemanha (após álcool) — **tendência de 20 anos, anterior à legalização**: casos em tratamento subiram de 7,1% (2001) para 19,9% (2021) do total[^83]  
-* Consumo juvenil (12-17 anos) **diminuiu** de 6,7% (2023) para 6,1% (2024)[^84]
+* Cannabis é 2ª causa de tratamento de dependências na Alemanha (após álcool) — **tendência de 20 anos, anterior à legalização**: casos em tratamento subiram de 7,1% (2001) para 19,9% (2021) do total [@manthey2024]  
+* Consumo juvenil (12-17 anos) **diminuiu** de 6,7% (2023) para 6,1% (2024) [@marijuanamoment2025]
 
 **Impacto no sistema judicial:**
 
-* \~100.000 processos criminais evitados desde a legalização[^85]  
-* Crimes relacionados com cannabis: \-56% na Baviera[^86]
+* \~100.000 processos criminais evitados desde a legalização [@businesscannabis2025a]  
+* Crimes relacionados com cannabis: \-56% na Baviera [@businesscannabis2025a]
 
 **Acesso ao mercado legal:**
 
-* Estudo KonCanG: 88,4% dos consumidores inquiridos obtêm cannabis de fontes legais (vs. 23,5% antes da lei)[^87]  
+* Estudo KonCanG: 88,4% dos consumidores inquiridos obtêm cannabis de fontes legais (vs. 23,5% antes da lei) [@internationalcbc2025]  
 * Desafio: capacidade dos clubes ainda limitada (\~2% dos consumidores elegíveis em Abril 2025\)
 
 **Efeitos negativos NÃO detectados:**
 
-* Sem aumento de acidentes rodoviários relacionados com cannabis[^88]  
-* Sem aumento de consumo juvenil[^89]
+* Sem aumento de acidentes rodoviários relacionados com cannabis [@marijuanamoment2025]  
+* Sem aumento de consumo juvenil [@marijuanamoment2025]
 
-## **3.2 Canadá (2018): lições do modelo comercial[^90] [^91]**
+## **3.2 Canadá (2018): lições do modelo comercial [@healthcanada2024] [@cbcnews2025]**
 
-* **Quota de mercado legal:** de 4% (2018) para **72%** (2024, segundo o Canadian Cannabis Survey). Compras ilegais: 28% → 3%[^92]  
-* **Receitas fiscais:** $5,4 mil milhões CAD desde outubro 2018 (federal: $1,2B; províncias: $4,2B)[^93]  
-* **Consumo juvenil:** Permaneceu estável (16-19 anos: \~41%) — sem aumento atribuível à legalização[^94] 
+* **Quota de mercado legal:** de 4% (2018) para **72%** (2024, segundo o Canadian Cannabis Survey). Compras ilegais: 28% → 3% [@healthcanada2024]  
+* **Receitas fiscais:** $5,4 mil milhões CAD desde outubro 2018 (federal: $1,2B; províncias: $4,2B) [@cbcnews2025]  
+* **Consumo juvenil:** Permaneceu estável (16-19 anos: \~41%) — sem aumento atribuível à legalização [@healthcanada2024] 
 
-**⚠️ Alerta:** Crise de excesso de oferta levou a múltiplas falências e processos de reestruturação em 2024-2025 (BZAM, Heritage, Delta 9, Tokyo Smoke, entre outros)[^95].
+**⚠️ Alerta:** Crise de excesso de oferta levou a múltiplas falências e processos de reestruturação em 2024-2025 (BZAM, Heritage, Delta 9, Tokyo Smoke, entre outros) [@insolvency2025].
 
 **Lição para Portugal:** Regular oferta desde o início; não permitir proliferação excessiva de licenças.
 
 ## **3.3 Uruguai (2013): lições de uma década**
 
-**Sucesso:** Idade média de primeiro uso subiu de 18 para 20 anos[^96]. Uso problemático estável em 2,1% desde 2011\. Consumo global desceu de 14,6% (2018) para 12,3% (2024)[^97].
+**Sucesso:** Idade média de primeiro uso subiu de 18 para 20 anos [@cdays2025]. Uso problemático estável em 2,1% desde 2011\. Consumo global desceu de 14,6% (2018) para 12,3% (2024) [@cdays2025].
 
-⚠️ **Problema:** Apenas 37% acedem via canais legais (2024)[^98]. Os limites iniciais de THC (2-9% entre 2017-2022) afastaram consumidores para o mercado negro — só após introdução de variedades com 15% (2022) e 20% THC (2024) o mercado legal ganhou competitividade[^99] [^100].
+⚠️ **Problema:** Apenas 37% acedem via canais legais (2024) [@cdays2025]. Os limites iniciais de THC (2-9% entre 2017-2022) afastaram consumidores para o mercado negro — só após introdução de variedades com 15% (2022) e 20% THC (2024) o mercado legal ganhou competitividade [@latinamerica2024] [@softsecrets2025].
 
 **Lição para Portugal:** Qualquer modelo deve oferecer produto competitivo com o mercado negro em potência, qualidade e preço desde o início.
 
-Estudos sobre preferências de consumidores confirmam que a escolha entre mercado legal e ilegal depende de múltiplos factores — qualidade, preço, conveniência e potência — e não apenas da legalidade[^101]. Qualquer modelo regulatório deve considerar estes factores para ser competitivo face ao mercado negro.
+Estudos sobre preferências de consumidores confirmam que a escolha entre mercado legal e ilegal depende de múltiplos factores — qualidade, preço, conveniência e potência — e não apenas da legalidade [@autor2024]. Qualquer modelo regulatório deve considerar estes factores para ser competitivo face ao mercado negro.
 
 ## **3.4 Espanha: o risco da não-regulação**
 
-Espanha não legalizou cannabis, mas tolera \~800-1.000 clubes sociais numa "área cinzenta legal" baseada em jurisprudência sobre consumo partilhado[^102] [^103].
+Espanha não legalizou cannabis, mas tolera \~800-1.000 clubes sociais numa "área cinzenta legal" baseada em jurisprudência sobre consumo partilhado [@tni2018] [@transform2018].
 
 **Problemas documentados:**
 
 * Fragmentação regulatória (Barcelona tolerante vs. Madrid restritivo)  
 * Exploração comercial e "turismo cannábico"  
-* Ligações a crime organizado e exportação ilegal para Europa[^104]  
-* Em 2024, Barcelona ordenou encerramento de 30 clubes[^105]
+* Ligações a crime organizado e exportação ilegal para Europa [@transform2018]  
+* Em 2024, Barcelona ordenou encerramento de 30 clubes [@hightimes2024]
 
 **Lição para Portugal:** A ausência de regulação nacional clara não elimina o mercado — apenas o empurra para zona cinzenta com menos controlo e mais riscos. O modelo alemão oferece alternativa superior: regras explícitas, limites definidos, proibição de turismo cannábico, e segurança jurídica.
 
 ## **3.5 Impacto no consumo juvenil** {#3.5-impacto-no-consumo-juvenil}
 
-* **Colorado:** Consumo juvenil caiu **42%** (de 22% em 2011 para 12,8% em 2023\) — dados do Healthy Kids Colorado Survey[^106]. Perceção de fácil acesso caiu 14 pontos percentuais.  
-* **EUA geral:** MPP reporta que uso juvenil diminuiu em **19 de 21 estados** que legalizaram, com queda média de 35% nos primeiros estados[^107].  
-* **Alemanha:** Consumo juvenil (12-17) caiu de 6,7% para 6,1% no primeiro ano pós-legalização[^108].
+* **Colorado:** Consumo juvenil caiu **42%** (de 22% em 2011 para 12,8% em 2023\) — dados do Healthy Kids Colorado Survey [@cdphe2024]. Perceção de fácil acesso caiu 14 pontos percentuais.  
+* **EUA geral:** MPP reporta que uso juvenil diminuiu em **19 de 21 estados** que legalizaram, com queda média de 35% nos primeiros estados [@marijuanapolicy2025].  
+* **Alemanha:** Consumo juvenil (12-17) caiu de 6,7% para 6,1% no primeiro ano pós-legalização [@marijuanamoment2025].
 
-**Razão:** Vendedores licenciados verificam idade; traficantes não[^109].
+**Razão:** Vendedores licenciados verificam idade; traficantes não [@marijuanapolicy2025].
 
 ──────────────────────────────────────────────────
 
@@ -510,14 +390,14 @@ Espanha não legalizou cannabis, mas tolera \~800-1.000 clubes sociais numa "ár
 
 | PARTIDO | POSIÇÃO | LINHA VERMELHA | PONTO DE CONVERGÊNCIA |
 | :---- | :---- | :---- | :---- |
-| BE | A FAVOR | — | Proposta 2024 modelo alemão[^110] |
-| IL | A FAVOR | Excesso de regulação estatal | Mercado livre, menos regulação[^111] |
-| PAN | A FAVOR | — | Venda exclusiva em farmácias; autocultivo até 6 plantas[^112] |
-| PS | DIVIDIDO | Divisão interna; evitar controvérsia | Grupo trabalho 2023 (não concretizado)[^113] |
-| PSD | CONTRA (divisões) | Autocultivo | Moção Baptista Leite 2018; JSD referendou tema (2020)[^114] |
-| PCP | CONTRA | Autocultivo | Cannabis medicinal (votou a favor em 2018, sem autocultivo)[^115] |
+| BE | A FAVOR | — | Proposta 2024 modelo alemão [@observador2024] |
+| IL | A FAVOR | Excesso de regulação estatal | Mercado livre, menos regulação [@eco2021] |
+| PAN | A FAVOR | — | Venda exclusiva em farmácias; autocultivo até 6 plantas [@pan2021] |
+| PS | DIVIDIDO | Divisão interna; evitar controvérsia | Grupo trabalho 2023 (não concretizado) [@publico2023] |
+| PSD | CONTRA (divisões) | Autocultivo | Moção Baptista Leite 2018; JSD referendou tema (2020) [@publico2018a] |
+| PCP | CONTRA | Autocultivo | Cannabis medicinal (votou a favor em 2018, sem autocultivo) [@publico2018b] |
 | CDS-PP | CONTRA | Valores conservadores | Segue PSD na coligação AD |
-| CHEGA | FIRMEMENTE CONTRA | Qualquer liberalização | Nenhum — oposição ideológica total[^116] |
+| CHEGA | FIRMEMENTE CONTRA | Qualquer liberalização | Nenhum — oposição ideológica total [@cannareporter2024b] |
 | JPP | DESCONHECIDO | — | Partido sem posição pública conhecida |
 
 ──────────────────────────────────────────────────
@@ -530,11 +410,11 @@ Espanha não legalizou cannabis, mas tolera \~800-1.000 clubes sociais numa "ár
 
 Apresentar como continuação do legado português (Lei 30/2000)
 
-Pedir reactivação do grupo de trabalho prometido em 2023[^117]
+Pedir reactivação do grupo de trabalho prometido em 2023 [@publico2023]
 
 Focar primeiro em cannabis medicinal (consenso mais fácil)
 
-Trabalhar com Juventude Socialista como aliada[^118]
+Trabalhar com Juventude Socialista como aliada [@publico2022]
 
 **Mensagem-chave:**
 
@@ -542,7 +422,7 @@ Trabalhar com Juventude Socialista como aliada[^118]
 
 ## **5.2 Com o PSD — O desafio do autocultivo**
 
-**O problema:** A linha vermelha do PSD é o autocultivo. Baptista Leite: "impossível regular a concentração da substância activa"[^119].
+**O problema:** A linha vermelha do PSD é o autocultivo. Baptista Leite: "impossível regular a concentração da substância activa" [@publico2018a].
 
 **A nossa resposta — A inconsistência do argumento:**
 
@@ -550,7 +430,7 @@ Trabalhar com Juventude Socialista como aliada[^118]
 | :---- | :---- | :---- |
 | Estatuto legal | Legal ate 4.000L/ano | Ilegal (proposta: até 3 plantas) |
 | Teor da substância | Álcool **não controlado** | THC "impossível de controlar" |
-| Score de dano | **72**/100[^120] | **20**/100[^121] |
+| Score de dano | **72**/100 [@nutt2010] | **20**/100 [@nutt2010] |
 | Registo obrigatório | Não | Proposta: sementes certificadas |
 
 **Se Portugal permite a produção caseira de uma substância 3,5x mais nociva sem qualquer controlo do teor, porque exigir controlo absoluto do THC?**
@@ -566,7 +446,7 @@ Trabalhar com Juventude Socialista como aliada[^118]
 
 **Argumentos para o PSD:**
 
-* Modelo alemão permite autocultivo e consumo juvenil diminuiu[^122]  
+* Modelo alemão permite autocultivo e consumo juvenil diminuiu [@marijuanamoment2025]  
 * Proibir autocultivo empurra consumidores para o mercado negro  
 * Sementes certificadas \= mais controlo de THC que o mercado negro actual
 
@@ -576,7 +456,7 @@ Trabalhar com Juventude Socialista como aliada[^118]
 
 **Pontos de convergência:**
 
-* Votaram a favor de cannabis medicinal em 2018[^123]  
+* Votaram a favor de cannabis medicinal em 2018 [@publico2018b]  
 * Defendem investimento em prevenção  
 * Querem abordagem de saúde pública, não ideológica
 
@@ -594,7 +474,7 @@ Trabalhar com Juventude Socialista como aliada[^118]
 
 **Quando atacarem:**
 
-*"Respeitamos que o Chega discorde. Mas a evidência de 25 anos de descriminalização portuguesa — elogiada internacionalmente pelo Cato Institute, um think tank conservador americano, como 'sucesso retumbante'[^124]  — mostra que políticas de drogas baseadas em saúde pública funcionam melhor que proibição. Na Alemanha, o consumo juvenil diminuiu após a legalização[^125]. São estes os factos."*
+*"Respeitamos que o Chega discorde. Mas a evidência de 25 anos de descriminalização portuguesa — elogiada internacionalmente pelo Cato Institute, um think tank conservador americano, como 'sucesso retumbante' [@greenwald2009]  — mostra que políticas de drogas baseadas em saúde pública funcionam melhor que proibição. Na Alemanha, o consumo juvenil diminuiu após a legalização [@marijuanamoment2025]. São estes os factos."*
 
 ## **5.5 Estratégia de Negociação em 3 Níveis** {#5.5-estratégia-de-negociação-em-3-níveis}
 
@@ -613,35 +493,35 @@ Trabalhar com Juventude Socialista como aliada[^118]
 
 ## **"A cannabis é droga de entrada"**
 
-**Resposta:** Estudo CU Boulder/Minnesota (2023, 4.000 gémeos) não encontrou "mudanças no uso de drogas ilícitas após legalização"[^126]. A teoria da "gateway drug" não tem suporte científico conclusivo — o National Institute of Justice (2018) afirma que "não há evidência conclusiva de que a cannabis cause o uso posterior de drogas mais pesadas".
+**Resposta:** Estudo CU Boulder/Minnesota (2023, 4.000 gémeos) não encontrou "mudanças no uso de drogas ilícitas após legalização" [@colorado2023]. A teoria da "gateway drug" não tem suporte científico conclusivo — o National Institute of Justice (2018) afirma que "não há evidência conclusiva de que a cannabis cause o uso posterior de drogas mais pesadas".
 
-Na realidade, estudos mostram que **86% dos consumidores experimentaram primeiro álcool (54%) ou tabaco (32%)** — as verdadeiras "drogas de entrada" são legais[^127].
+Na realidade, estudos mostram que **86% dos consumidores experimentaram primeiro álcool (54%) ou tabaco (32%)** — as verdadeiras "drogas de entrada" são legais [@kirby2019].
 
 ## **"Envia mensagem errada aos jovens"**
 
 **Resposta:**
 
-* Colorado: consumo juvenil caiu 42% (de 22% para 12,8%) entre 2011 e 2023[^128]  
-* Alemanha: consumo juvenil caiu de 6,7% para 6,1% no primeiro ano[^129]  
-* MPP: uso diminuiu em 19 de 21 estados que legalizaram[^130]
+* Colorado: consumo juvenil caiu 42% (de 22% para 12,8%) entre 2011 e 2023 [@cdphe2024]  
+* Alemanha: consumo juvenil caiu de 6,7% para 6,1% no primeiro ano [@marijuanamoment2025]  
+* MPP: uso diminuiu em 19 de 21 estados que legalizaram [@marijuanapolicy2025]
 
 Vendedores licenciados verificam idade; traficantes não. A mensagem da regulação é: "isto é para adultos e tem riscos" — mais honesta que a proibição hipócrita.
 
 ## **"Causa danos à saúde mental"**
 
-**Resposta:** A evidência sobre riscos é real e levamo-la a sério[^131] [^132]. Por isso propomos:
+**Resposta:** A evidência sobre riscos é real e levamo-la a sério [@marconi2016] [@di2019]. Por isso propomos:
 
-* Idade **21** para compra livre[^133]  
-* Limites de THC (**10% para 18-21**) — modelo alemão[^134]  
+* Idade **21** para compra livre [@transform2020]  
+* Limites de THC (**10% para 18-21**) — modelo alemão [@bundesministerium2024]  
 * Rotulagem obrigatória de potência  
-* Parte significativa das receitas fiscais para tratamento e prevenção[^135]  
+* Parte significativa das receitas fiscais para tratamento e prevenção [@tax2024]  
 * Campanhas educativas sobre riscos
 
 O mercado negro não oferece nenhuma destas protecções. **Proibir não elimina o consumo — elimina o controlo**.
 
 ## **"Viola tratados internacionais"**
 
-**Resposta:** Canadá, Uruguai, Alemanha, Malta e 24 estados dos EUA legalizaram sem consequências internacionais. Em Dezembro de 2020, a cannabis foi removida do Anexo IV da Convenção de 1961 da ONU (27-25-1), por recomendação da OMS, reconhecendo o seu potencial terapêutico[^136].
+**Resposta:** Canadá, Uruguai, Alemanha, Malta e 24 estados dos EUA legalizaram sem consequências internacionais. Em Dezembro de 2020, a cannabis foi removida do Anexo IV da Convenção de 1961 da ONU (27-25-1), por recomendação da OMS, reconhecendo o seu potencial terapêutico [@unnews2020].
 
 A cannabis permanece no Anexo I, mas a remoção do Anexo IV (reservado a drogas "sem vantagens terapêuticas substanciais") abre caminho para regulação responsável.
 
@@ -649,19 +529,19 @@ A cannabis permanece no Anexo I, mas a remoção do Anexo IV (reservado a drogas
 
 **Resposta:**
 
-* Ninguém controla o autocultivo de uvas para vinho — e o álcool é **3,6x mais nocivo** (score 72 vs 20)[^137]  
-* Com sementes certificadas, o THC máximo é conhecido e rotulado[^138]  
-* Na Alemanha, o autocultivo é permitido e o consumo juvenil diminuiu[^139]  
+* Ninguém controla o autocultivo de uvas para vinho — e o álcool é **3,6x mais nocivo** (score 72 vs 20) [@nutt2010]  
+* Com sementes certificadas, o THC máximo é conhecido e rotulado [@bundesministerium2024]  
+* Na Alemanha, o autocultivo é permitido e o consumo juvenil diminuiu [@marijuanamoment2025]  
 * Proibir autocultivo empurra consumidores para o mercado negro  
-* 3 plantas é claramente para uso pessoal, não tráfico[^140]
+* 3 plantas é claramente para uso pessoal, não tráfico [@wikipedia2025]
 
 ## **"Não há provas de que reduz o tráfico"**
 
 **Resposta:**
 
-* Canadá: mercado legal passou de 4% para 72% em 6 anos[^141]  
-* Compras no mercado ilegal: 28% → 3%[^142]  
-* Alemanha: crimes relacionados com cannabis caíram 56% na Baviera; \~100.000 processos evitados a nível nacional[^143]
+* Canadá: mercado legal passou de 4% para 72% em 6 anos [@healthcanada2024]  
+* Compras no mercado ilegal: 28% → 3% [@healthcanada2024]  
+* Alemanha: crimes relacionados com cannabis caíram 56% na Baviera; \~100.000 processos evitados a nível nacional [@businesscannabis2025a]
 
 A evidência internacional é inequívoca.
 
@@ -671,13 +551,13 @@ A evidência internacional é inequívoca.
 
 ## **7.1 Cannabis Medicinal (prioridade imediata)**
 
-* Comparticipação pelo SNS dos medicamentos à base de cannabis para indicações aprovadas[^144]  
-* Simplificação do acesso — prescrição por médicos de família, não apenas especialistas[^145]  
-* Avaliação formal da Lei 33/2018: porque é que 7 anos depois o acesso continua tão limitado?[^146] [^147]
+* Comparticipação pelo SNS dos medicamentos à base de cannabis para indicações aprovadas [@euronews2024]  
+* Simplificação do acesso — prescrição por médicos de família, não apenas especialistas [@rtp2019]  
+* Avaliação formal da Lei 33/2018: porque é que 7 anos depois o acesso continua tão limitado? [@euronews2024] [@eco2024]
 
 ## **7.2 Cannabis Recreativa (médio prazo)**
 
-Proposta baseada no modelo alemão[^148] [^149], adaptada a Portugal:
+Proposta baseada no modelo alemão [@bundesministerium2024] [@wikipedia2025], adaptada a Portugal:
 
 **Nota importante:** Esta proposta NÃO contempla o modelo comercial de dispensários (tipo Canadá/EUA). Propõe-se exclusivamente: (1) clubes sociais sem fins lucrativos, onde os preços reflectem apenas custos de produção; e (2) autocultivo com sementes de fornecedores certificados. A menor conveniência face ao mercado negro é intencional — evita comercialização excessiva e turismo cannábico, mantendo foco na saúde pública.
 
@@ -699,7 +579,7 @@ Proposta baseada no modelo alemão[^148] [^149], adaptada a Portugal:
 * Controlo de qualidade obrigatório (testes de potência e contaminantes)  
 * Oficial de prevenção obrigatório
 
-Para uma descrição detalhada do funcionamento deste modelo, ver Anexo A[^150].
+Para uma descrição detalhada do funcionamento deste modelo, ver Anexo A.
 
 ### **Autocultivo regulado *(proposta de compromisso)***
 
@@ -708,9 +588,9 @@ Para uma descrição detalhada do funcionamento deste modelo, ver Anexo A[^150].
 * Plantas seguras e inacessíveis a menores  
 * Proibida venda ou cedência
 
-Para informação sobre o sistema de sementes certificadas proposto, ver Anexo B[^151].
+Para informação sobre o sistema de sementes certificadas proposto, ver Anexo B.
 
-### **Condução[^152] [^153]**
+### **Condução [@bundesministerium2024] [@bessergrowen2025]**
 
 * Limite: 3,5 ng/ml THC no sangue  
 * Tolerância zero: menores de 21 e novos condutores  
@@ -727,14 +607,14 @@ Para informação sobre o sistema de sementes certificadas proposto, ver Anexo B
 
 ## **7.3 Cânhamo Industrial: Uma oportunidade económica e ambiental**
 
-O cânhamo industrial (Cannabis sativa L. com THC\<0,3%) representa uma oportunidade estratégica para Portugal[^154].
+O cânhamo industrial (Cannabis sativa L. com THC\<0,3%) representa uma oportunidade estratégica para Portugal [@ec2024].
 
 **Benefícios ambientais:**
 
-* **Captura de carbono:** 8-15 toneladas CO₂/hectare (até 22 ton com duas colheitas/ano)[^155]  
+* **Captura de carbono:** 8-15 toneladas CO₂/hectare (até 22 ton com duas colheitas/ano) [@dezeen2021]  
 * **Baixa necessidade de pesticidas** — naturalmente resistente à maioria das pragas  
 * **Melhoria do solo** — raízes profundas, devolve azoto ao solo  
-* **50-70% menos água que algodão**[^156]
+* **50-70% menos água que algodão** [@stockholm2005]
 
 **Proposta:**
 
@@ -771,7 +651,7 @@ Este documento demonstra que existe uma base sólida de evidência para avançar
 * **Aberta a construir pontes** com outros partidos  
 * **Firme no autocultivo** — com regulação através de sementes certificadas
 
-**59% dos portugueses apoiam a legalização regulada**[^157]. A maioria da população está à frente dos políticos. O LIVRE pode liderar esta mudança.
+**59% dos portugueses apoiam a legalização regulada** [@hanway2022]. A maioria da população está à frente dos políticos. O LIVRE pode liderar esta mudança.
 
 ──────────────────────────────────────────────────
 
@@ -1388,316 +1268,70 @@ Dados SICAD/ICAD:
 
   \[8\] Lancet Regional Health Europe (2021). "Public health monitoring of cannabis use in Europe: prevalence, potency, and treatment rates". [https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762(21)00213-1/fulltext](https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762\(21\)00213-1/fulltext)
 
-[^1]:  [\[3\] ECO (2024). "Exportações de canábis quase triplicam…](#bookmark=id.saweorhgz7mu)
 
-[^2]:  [\[5\] Prohibition Partners (Setembro 2025). "Portugal Medical Cannabis…](#bookmark=id.6y8dellkhty5)
 
-[^3]:  [\[1\] Infarmed (2024). “Canábis Medicinal – Evolução da…](#bookmark=id.uztpokg598x)
 
-[^4]:  [\[2\] Euronews Health (2024). “Portugal grows tonnes of…](#bookmark=id.h3rhlrrsfd24)
 
-[^5]:  [\[1\] Infarmed (2024). “Canábis Medicinal – Evolução da…](#bookmark=id.uztpokg598x)
 
-[^6]:  [\[3\] ECO (2024). "Exportações de canábis quase triplicam…](#bookmark=id.saweorhgz7mu)
 
-[^7]:  [\[1\] Infarmed (2024). “Canábis Medicinal – Evolução da…](#bookmark=id.uztpokg598x)
 
-[^8]:  [\[4\] CannaReporter (Dezembro 2024). "Portugal is the world's…](#bookmark=id.1uo0m91tzz9h)
 
-[^9]:  [\[1\] Infarmed (2024). “Canábis Medicinal – Evolução da…](#bookmark=id.uztpokg598x)
 
-[^10]:  [\[2\] Euronews Health (2024). “Portugal grows tonnes of…](#bookmark=id.h3rhlrrsfd24)
 
-[^11]:  [\[2\] Euronews Health (2024). “Portugal grows tonnes of…](#bookmark=id.h3rhlrrsfd24)
 
-[^12]:  [\[1\] Infarmed (2024). “Canábis Medicinal – Evolução da…](#bookmark=id.uztpokg598x)
 
-[^13]:  [\[6\] CannaReporter (Junho 2025). "Portugal: Infarmed changes…](#bookmark=id.q0ppahog9ff3)
 
-[^14]:  [\[1\] Infarmed (2024). “Canábis Medicinal – Evolução da…](#bookmark=id.uztpokg598x)
 
-[^15]:  [\[7\] CMS Law (2024). "Cannabis law and legislation…](#bookmark=id.xeljpau4mqhy)
 
-[^16]:  [\[8\] European Commission. "Hemp \- Agriculture and rural development…](#bookmark=id.jut0k1k5jeyk)
 
-[^17]:  [\[9\] RTP/OPCM (2019). "Observatório de Canábis…](#bookmark=id.1tenndv6lesl)
 
-[^18]:  [\[9\] RTP/OPCM (2019). "Observatório de Canábis…](#bookmark=id.1tenndv6lesl)
 
-[^19]:  [\[7\] CMS Law (2024). "Cannabis law and legislation…](#bookmark=id.xeljpau4mqhy)
 
-[^20]:  [\[7\] CMS Law (2024). "Cannabis law and legislation…](#bookmark=id.xeljpau4mqhy)
 
-[^21]:  [\[2\] Euronews Health (2024). “Portugal grows tonnes of…](#bookmark=id.h3rhlrrsfd24)
 
-[^22]:  [\[9\] RTP/OPCM (2019). "Observatório de Canábis…](#bookmark=id.1tenndv6lesl)
 
-[^23]:  [\[10\] Prohibition Partners (2017). "Portuguese Cannabis laws are…](#bookmark=id.tk4wjkf4fwy4)
 
-[^24]:  [\[11\] Ribeiro, S. et al. (2024).…](#bookmark=id.lbm5wvr92bcm)
 
-[^25]:  [\[12\] SICAD/CICS.NOVA (2022). "V…](#bookmark=id.o4yeii3a1qc1)
 
-[^26]:  [\[12\] SICAD/CICS.NOVA (2022). "V…](#bookmark=id.o4yeii3a1qc1)
 
-[^27]:  [\[13\] EUDA (2025). "Cannabis – the current situation…](#bookmark=id.fnbdxm9ugo9k)
 
-[^28]:  [\[12\] SICAD/CICS.NOVA (2022). "V…](#bookmark=id.o4yeii3a1qc1)
 
-[^29]:  [\[12\] SICAD/CICS.NOVA (2022). "V…](#bookmark=id.o4yeii3a1qc1)
 
-[^30]:  [\[14\] Open Society Foundations (2013). "In Times of…](#bookmark=id.v6jia56okx0n)
 
-[^31]:  [\[15\] Jacobin (2023). "Drug Decriminalization Policies Work —…](#bookmark=id.2vz7bjdkt1ye)
 
-[^32]:  [\[15\] Jacobin (2023). "Drug Decriminalization Policies Work —…](#bookmark=id.2vz7bjdkt1ye)
 
-[^33]:  [\[16\] Renascença/Lusa (2025). "Combate à droga…](#bookmark=id.13dsvq8xaz6t)
 
-[^34]:  [\[17\] EUDA (2025). "Drug-induced deaths – the…](#bookmark=id.a8tntz56vtws)
 
-[^35]:  [\[17\] EUDA (2025). "Drug-induced deaths – the…](#bookmark=id.a8tntz56vtws)
 
-[^36]:  [\[17\] EUDA (2025). "Drug-induced deaths – the…](#bookmark=id.a8tntz56vtws)
 
-[^37]:  [\[18\] Greenwald, G. (2009). "Drug Decriminalization…](#bookmark=id.xb6udhomsyfk)
 
-[^38]:  [\[17\] EUDA (2025). "Drug-induced deaths – the…](#bookmark=id.a8tntz56vtws)
 
-[^39]:  [\[17\] EUDA (2025). "Drug-induced deaths – the…](#bookmark=id.a8tntz56vtws)
 
-[^40]:  [\[17\] EUDA (2025). "Drug-induced deaths – the…](#bookmark=id.a8tntz56vtws)
 
-[^41]:  [\[12\] SICAD/CICS.NOVA (2022). "V…](#bookmark=id.o4yeii3a1qc1)
 
-[^42]:  [\[13\] EUDA (2025). "Cannabis – the current situation…](#bookmark=id.fnbdxm9ugo9k)
 
-[^43]:  [\[17\] EUDA (2025). "Drug-induced deaths – the…](#bookmark=id.a8tntz56vtws)
 
-[^44]:  [\[19\] Drug Policy Alliance (2023). "Drug Decriminalization in…](#bookmark=id.jr1dpkmdtvsz)
 
-[^45]:  [\[19\] Drug Policy Alliance (2023). "Drug Decriminalization in…](#bookmark=id.jr1dpkmdtvsz)
 
-[^46]:  [\[14\] Open Society Foundations (2013). "In Times of…](#bookmark=id.v6jia56okx0n)
 
-[^47]:  [\[15\] Jacobin (2023). "Drug Decriminalization Policies Work —…](#bookmark=id.2vz7bjdkt1ye)
 
-[^48]:  [\[16\] Renascença/Lusa (2025). "Combate à droga…](#bookmark=id.13dsvq8xaz6t)
 
-[^49]:  [\[15\] Jacobin (2023). "Drug Decriminalization Policies Work —…](#bookmark=id.2vz7bjdkt1ye)
 
-[^50]:  [\[15\] Jacobin (2023). "Drug Decriminalization Policies Work —…](#bookmark=id.2vz7bjdkt1ye)
 
-[^51]:  [\[17\] EUDA (2025). "Drug-induced deaths – the…](#bookmark=id.a8tntz56vtws)
 
-[^52]:  [\[16\] Renascença/Lusa (2025). "Combate à droga…](#bookmark=id.13dsvq8xaz6t)
 
-[^53]:  [\[20\] CannaReporter (2020). "João Goulão defende a regulação…](#bookmark=id.20sqkwbrehve)
 
-[^54]:  [\[20\] CannaReporter (2020). "João Goulão defende a regulação…](#bookmark=id.20sqkwbrehve)
 
-[^55]:  [\[21\] Drug Policy Alliance (2024). "Experts Warn:…](#bookmark=id.cluifj8e9iar)
 
-[^56]:  [\[21\] Drug Policy Alliance (2024). "Experts Warn:…](#bookmark=id.cluifj8e9iar)
 
-[^57]:  [\[22\] National Academies of Sciences, Engineering, and Medicine (…](#bookmark=id.p9a0ih1jswoa)
 
-[^58]:  [\[22\] National Academies of Sciences, Engineering, and Medicine (…](#bookmark=id.p9a0ih1jswoa)
 
-[^59]:  [\[23\] Devinsky, O. et al. (2017).…](#bookmark=id.8q11ilj0yav2)
 
-[^60]:  [\[24\] Torres-Moreno, M.C. et al.…](#bookmark=id.716fd8uksic)
 
-[^61]:  [\[22\] National Academies of Sciences, Engineering, and Medicine (…](#bookmark=id.p9a0ih1jswoa)
 
-[^62]:  [\[25\] Nugent, S.M. et al. (…](#bookmark=id.z58jlzhy8u3)
 
-[^63]:  [\[26\] Marconi, A. et al. (2016).…](#bookmark=id.n8qcer3tu643)
 
-[^64]:  [\[27\] Di Forti, M. et al. (2019…](#bookmark=id.2805hfb13rv0)
 
-[^65]:  [\[28\] Leung, J. et al. (2020).…](#bookmark=id.ubxmdmenamzs)
 
-[^66]:  [\[29\] Transform Drug Policy Foundation (2020). "How to…](#bookmark=id.2jag6r6dsl55)
 
-[^67]:  [\[30\] Tax Policy Center (2024). "How do state…](#bookmark=id.fir28v91r7zn)
 
-[^68]:  [\[67\] Cleirec, G. et al. (2025).…](#bookmark=id.gt35f7crm72e)
-
-[^69]:  [\[30\] Tax Policy Center (2024). "How do state…](#bookmark=id.fir28v91r7zn)
-
-[^70]:  [\[31\] Nutt, D.J., King, L.…](#bookmark=id.nh0tytep9xvv)
-
-[^71]:  [\[32\] Rogeberg, O. (2019). "A meta…](#bookmark=id.8vxvu7v1gq69)
-
-[^72]:  [\[33\] Bundesministerium für Gesundheit (2024). "Frequently asked questions…](#bookmark=id.8hfj66auz4oz)
-
-[^73]:  [\[34\] BesserGrowen News (2025). "Germany's THC Roadside Test…](#bookmark=id.494ol8kiidfs)
-
-[^74]:  [\[34\] BesserGrowen News (2025). "Germany's THC Roadside Test…](#bookmark=id.494ol8kiidfs)
-
-[^75]:  [\[33\] Bundesministerium für Gesundheit (2024). "Frequently asked questions…](#bookmark=id.8hfj66auz4oz)
-
-[^76]:  [\[34\] BesserGrowen News (2025). "Germany's THC Roadside Test…](#bookmark=id.494ol8kiidfs)
-
-[^77]:  [\[33\] Bundesministerium für Gesundheit (2024). "Frequently asked questions…](#bookmark=id.8hfj66auz4oz)
-
-[^78]:  [\[41\] Wikipedia (2025). "Cannabis Act (Germany)".…](#bookmark=id.hva8o1xqa9cn)
-
-[^79]:  [\[33\] Bundesministerium für Gesundheit (2024). "Frequently asked questions…](#bookmark=id.8hfj66auz4oz)
-
-[^80]:  [\[41\] Wikipedia (2025). "Cannabis Act (Germany)".…](#bookmark=id.hva8o1xqa9cn)
-
-[^81]:  [\[40\] MMJ Daily (2025). "343 cannabis clubs now…](#bookmark=id.r5txh77zz5mp)
-
-[^82]:  [\[39\] Business of Cannabis (2025). "Licences Without Land…](#bookmark=id.v9536x2asbr3)
-
-[^83]:  [\[35\] Manthey, J. et al. (2024).…](#bookmark=id.i4bu9hhjizon)
-
-[^84]:  [\[37\] Marijuana Moment (2025). "German Government Report Shows…](#bookmark=id.g7r71k8wz6bo)
-
-[^85]:  [\[36\] Business of Cannabis (2025). "What Impact Has…](#bookmark=id.hpigoxowu8ha)
-
-[^86]:  [\[36\] Business of Cannabis (2025). "What Impact Has…](#bookmark=id.hpigoxowu8ha)
-
-[^87]:  [\[38\] International CBC (2025). "Survey: Over 88…](#bookmark=id.839dxlz5etv2)
-
-[^88]:  [\[37\] Marijuana Moment (2025). "German Government Report Shows…](#bookmark=id.g7r71k8wz6bo)
-
-[^89]:  [\[37\] Marijuana Moment (2025). "German Government Report Shows…](#bookmark=id.g7r71k8wz6bo)
-
-[^90]:  [\[42\] Health Canada (2024). "Canadian Cannabis Survey 2024…](#bookmark=id.phlkl78amoha)
-
-[^91]:  [\[43\] CBC News (2025). "Canada collected over $…](#bookmark=id.mdvlyjxns9l6)
-
-[^92]:  [\[42\] Health Canada (2024). "Canadian Cannabis Survey 2024…](#bookmark=id.phlkl78amoha)
-
-[^93]:  [\[43\] CBC News (2025). "Canada collected over $…](#bookmark=id.mdvlyjxns9l6)
-
-[^94]:  [\[42\] Health Canada (2024). "Canadian Cannabis Survey 2024…](#bookmark=id.phlkl78amoha)
-
-[^95]:  [\[44\] Insolvency Insider (2025). "The Cannabis Industry's High…](#bookmark=id.hv5j2u70jwwg)
-
-[^96]:  [\[45\] C-Days 2025 / Mercedes Ponce de León (2025…](#bookmark=id.o4791ys6mno)
-
-[^97]:  [\[45\] C-Days 2025 / Mercedes Ponce de León (2025…](#bookmark=id.o4791ys6mno)
-
-[^98]:  [\[45\] C-Days 2025 / Mercedes Ponce de León (2025…](#bookmark=id.o4791ys6mno)
-
-[^99]:  [\[46\] Latin America Reports (2024). "Uruguayan pharmacies to…](#bookmark=id.7t4qdncmju0l)
-
-[^100]:  [\[47\] Soft Secrets (2025). "Legal Cannabis Use Reached…](#bookmark=id.7f4karlqinzu)
-
-[^101]:  [\[68\] \[Autor\] et al. (2024). "…](#bookmark=id.9guza046v443)
-
-[^102]:  [\[48\] Transnational Institute (2018). "The Legal Landscape for…](#bookmark=id.su29ht1owcdh)
-
-[^103]:  [\[49\] Transform Drug Policy Foundation (2018). "Cannabis social…](#bookmark=id.7g2k4v6ntpjd)
-
-[^104]:  [\[49\] Transform Drug Policy Foundation (2018). "Cannabis social…](#bookmark=id.7g2k4v6ntpjd)
-
-[^105]:  [\[50\] High Times (2024). "Cannabis Clubs vs.…](#bookmark=id.zc5w17rb7kub)
-
-[^106]:  [\[51\] CDPHE (2024). "2023 Healthy Kids Colorado Survey…](#bookmark=id.p82z5o2n9bek)
-
-[^107]:  [\[52\] Marijuana Policy Project (2025). "New Data Shows…](#bookmark=id.geakdmua4cp)
-
-[^108]:  [\[37\] Marijuana Moment (2025). "German Government Report Shows…](#bookmark=id.g7r71k8wz6bo)
-
-[^109]:  [\[52\] Marijuana Policy Project (2025). "New Data Shows…](#bookmark=id.geakdmua4cp)
-
-[^110]:  [\[53\] Observador / Esquerda.net (2024). "BE…](#bookmark=id.pz750l2w1ouv)
-
-[^111]:  [\[54\] ECO / Público (2021). "Iniciativa Liberal propõe…](#bookmark=id.a3iz8r2dadrp)
-
-[^112]:  [\[55\] PAN (2021). "PAN discute regulamentação do uso…](#bookmark=id.yyprhf31kap0)
-
-[^113]:  [\[56\] Público (2023). "PS vai iniciar discussão no…](#bookmark=id.i688nj7jyes6)
-
-[^114]:  [\[57\] Público (2018/2019). "PSD avança com…](#bookmark=id.2crfyx1d7l8p)
-
-[^115]:  [\[58\] Público (2018). "Parlamento aprova recurso à cannabis…](#bookmark=id.1lxle5qkb4vg)
-
-[^116]:  [\[59\] CannaReporter / Polígrafo (2024). "André Ventura says…](#bookmark=id.5bljuxk9662h)
-
-[^117]:  [\[56\] Público (2023). "PS vai iniciar discussão no…](#bookmark=id.i688nj7jyes6)
-
-[^118]:  [\[60\] Público (2022). "Líder da JS diz que…](#bookmark=id.fmiu5r2gnc7i)
-
-[^119]:  [\[57\] Público (2018/2019). "PSD avança com…](#bookmark=id.2crfyx1d7l8p)
-
-[^120]:  [\[31\] Nutt, D.J., King, L.…](#bookmark=id.nh0tytep9xvv)
-
-[^121]:  [\[31\] Nutt, D.J., King, L.…](#bookmark=id.nh0tytep9xvv)
-
-[^122]:  [\[37\] Marijuana Moment (2025). "German Government Report Shows…](#bookmark=id.g7r71k8wz6bo)
-
-[^123]:  [\[58\] Público (2018). "Parlamento aprova recurso à cannabis…](#bookmark=id.1lxle5qkb4vg)
-
-[^124]:  [\[18\] Greenwald, G. (2009). "Drug Decriminalization…](#bookmark=id.xb6udhomsyfk)
-
-[^125]:  [\[37\] Marijuana Moment (2025). "German Government Report Shows…](#bookmark=id.g7r71k8wz6bo)
-
-[^126]:  [\[61\] University of Colorado Boulder (2023). "'Gateway drug'…](#bookmark=id.rvzbfzbna3vo)
-
-[^127]:  [\[62\] Kirby, T. & Barry, A.E…](#bookmark=id.82ejvxjkbi31)
-
-[^128]:  [\[51\] CDPHE (2024). "2023 Healthy Kids Colorado Survey…](#bookmark=id.p82z5o2n9bek)
-
-[^129]:  [\[37\] Marijuana Moment (2025). "German Government Report Shows…](#bookmark=id.g7r71k8wz6bo)
-
-[^130]:  [\[52\] Marijuana Policy Project (2025). "New Data Shows…](#bookmark=id.geakdmua4cp)
-
-[^131]:  [\[26\] Marconi, A. et al. (2016).…](#bookmark=id.n8qcer3tu643)
-
-[^132]:  [\[27\] Di Forti, M. et al. (2019…](#bookmark=id.2805hfb13rv0)
-
-[^133]:  [\[29\] Transform Drug Policy Foundation (2020). "How to…](#bookmark=id.2jag6r6dsl55)
-
-[^134]: [\[33\] Bundesministerium für Gesundheit (2024). "Frequently asked questions…](#bookmark=id.8hfj66auz4oz)
-
-[^135]:  [\[30\] Tax Policy Center (2024). "How do state…](#bookmark=id.fir28v91r7zn)
-
-[^136]:  [\[63\] UN News / UNODC (2020). "UN commission…](#bookmark=id.4se2min15jyn)
-
-[^137]:  [\[31\] Nutt, D.J., King, L.…](#bookmark=id.nh0tytep9xvv)
-
-[^138]:  [\[33\] Bundesministerium für Gesundheit (2024). "Frequently asked questions…](#bookmark=id.8hfj66auz4oz)
-
-[^139]:  [\[37\] Marijuana Moment (2025). "German Government Report Shows…](#bookmark=id.g7r71k8wz6bo)
-
-[^140]:  [\[41\] Wikipedia (2025). "Cannabis Act (Germany)".…](#bookmark=id.hva8o1xqa9cn)
-
-[^141]:  [\[42\] Health Canada (2024). "Canadian Cannabis Survey 2024…](#bookmark=id.phlkl78amoha)
-
-[^142]:  [\[42\] Health Canada (2024). "Canadian Cannabis Survey 2024…](#bookmark=id.phlkl78amoha)
-
-[^143]:  [\[36\] Business of Cannabis (2025). "What Impact Has…](#bookmark=id.hpigoxowu8ha)
-
-[^144]:  [\[2\] Euronews Health (2024). “Portugal grows tonnes of…](#bookmark=id.h3rhlrrsfd24)
-
-[^145]:  [\[9\] RTP/OPCM (2019). "Observatório de Canábis…](#bookmark=id.1tenndv6lesl)
-
-[^146]:  [\[2\] Euronews Health (2024). “Portugal grows tonnes of…](#bookmark=id.h3rhlrrsfd24)
-
-[^147]:  [\[3\] ECO (2024). "Exportações de canábis quase triplicam…](#bookmark=id.saweorhgz7mu)
-
-[^148]:  [\[33\] Bundesministerium für Gesundheit (2024). "Frequently asked questions…](#bookmark=id.8hfj66auz4oz)
-
-[^149]:  [\[41\] Wikipedia (2025). "Cannabis Act (Germany)".…](#bookmark=id.hva8o1xqa9cn)
-
-[^150]:  [ANEXO A: Funcionamento dos Clubes Sociais de Cannabis — Modelo Alemão](#heading=h.vfitg9i6jsr0)
-
-[^151]:  [ANEXO B: Sistema de Sementes Certificadas](#heading=h.ywor151v7aft)
-
-[^152]:  [\[33\] Bundesministerium für Gesundheit (2024). "Frequently asked questions…](#bookmark=id.8hfj66auz4oz)
-
-[^153]:  [\[34\] BesserGrowen News (2025). "Germany's THC Roadside Test…](#bookmark=id.494ol8kiidfs)
-
-[^154]:  [\[8\] European Commission. "Hemp \- Agriculture and rural development…](#bookmark=id.jut0k1k5jeyk)
-
-[^155]:  [\[64\] Dezeen / Cambridge University (2021). "Hemp 'more…](#bookmark=id.z35cxffdbx31)
-
-[^156]:  [\[65\] Stockholm Environment Institute (2005). "Ecological footprint and…](#bookmark=id.ekwkalxil6qp)
-
-[^157]:  [\[66\] Hanway Associates / Savanta ComRes (2022). "Recreational…](#bookmark=id.qsah8lt2nmxj)

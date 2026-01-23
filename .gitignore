@@ -22,10 +22,28 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
 # Build outputs
 output/
-*.docx
-*.pdf
 
-# Downloaded CSL styles cache
-build/csl/*.csl
+# LaTeX intermediate files
+*.aux
+*.log
+*.out
+*.toc
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+
+# Temporary files
+/tmp/
+*.tmp
+
+# VSCode (local settings, extensions break - use manual search instead)
+.vscode/

@@ -139,10 +139,10 @@ mmdc -i cronograma-implementacao.mmd -o cronograma-implementacao.png -b transpar
 Os diagramas são incluídos automaticamente no DOCX via Pandoc:
 
 ```bash
-./build/convert.sh
+bash scripts/build.sh
 ```
 
-O script usa `--resource-path="..:../assets/diagrams"` para encontrar as imagens.
+O script usa `--resource-path=".:assets/diagrams"` para encontrar as imagens.
 
 ---
 

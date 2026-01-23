@@ -1,0 +1,61 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Configuração
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+PROJECT_DIR="$(dirname "$SCRIPT_DIR")"
+SOURCE_MD="$PROJECT_DIR/documento.md"
+TEMPLATE_TEX="$PROJECT_DIR/assets/templates/template.tex"
+OUTPUT_PDF="$PROJECT_DIR/output/Documento_Cannabis.pdf"
+OUTPUT_TEX="$PROJECT_DIR/output/Documento_Cannabis.tex"
+
+# Criar pasta output
+mkdir -p "$PROJECT_DIR/output"
+
+echo "📄 Convertendo Markdown → LaTeX → PDF..."
+echo "   Fonte: $SOURCE_MD"
+echo "   Template: $TEMPLATE_TEX"
+echo "   Destino: $OUTPUT_PDF"
+echo ""
+
+# Preprocessar Markdown (remover emojis e limpar links)
+TEMP_MD="/tmp/doc-clean-temp.md"
+sed 's/#heading=/#/' "$SOURCE_MD" | \
+sed 's/⚠️//g' | \
+sed 's/✅//g' | \
+sed 's/❌//g' | \
+sed 's/CO₂/CO2/g' > "$TEMP_MD"
+
+# Passo 1: Markdown → LaTeX
+echo "📝 Passo 1/2: Convertendo Markdown → LaTeX..."
+pandoc "$TEMP_MD" \
+    --from=markdown+footnotes+pipe_tables+autolink_bare_uris \
+    --to=latex \
+    --output="$OUTPUT_TEX" \
+    --template="$TEMPLATE_TEX" \
+    --variable lang=pt-PT \
+    --resource-path=".:assets/diagrams" \
+    --number-sections \
+    --standalone \
+    --citeproc \
+    --bibliography="$PROJECT_DIR/references.bib"
+
+echo "✅ LaTeX gerado: $OUTPUT_TEX"
+
+# Passo 2: LaTeX → PDF
+echo "📝 Passo 2/2: Compilando LaTeX → PDF..."
+cd "$PROJECT_DIR/output"
+pdflatex -interaction=nonstopmode Documento_Cannabis.tex > /dev/null 2>&1
+echo "   Compilação 1/2 completa"
+pdflatex -interaction=nonstopmode Documento_Cannabis.tex > /dev/null 2>&1
+echo "   Compilação 2/2 completa"
+
+# Limpar ficheiros temporários
+rm -f *.aux *.log *.out *.toc "$TEMP_MD"
+
+# Resultado
+FILE_SIZE=$(ls -lh "$OUTPUT_PDF" | awk '{print $5}')
+echo ""
+echo "✅ Conversão completa!"
+echo "   Ficheiro: $OUTPUT_PDF"
+echo "   Tamanho: $FILE_SIZE"
