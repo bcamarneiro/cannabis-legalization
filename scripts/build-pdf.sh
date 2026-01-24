@@ -41,6 +41,7 @@ pandoc "$TEMP_MD" \
     --number-sections \
     --standalone \
     --citeproc \
+    --metadata link-citations=true \
     --bibliography="$PROJECT_DIR/references.bib"
 
 echo "✅ LaTeX gerado: $OUTPUT_TEX"
