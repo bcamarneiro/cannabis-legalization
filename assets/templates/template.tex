@@ -66,7 +66,11 @@
 \newcommand{\CSLRightInline}[1]{\parbox[t]{\linewidth - \csllabelwidth}{#1}\break}
 \newcommand{\CSLIndent}[1]{\hspace{\cslhangindent}#1}
 \providecommand{\citeproctext}{}
-\providecommand{\citeproc}[2]{\hyperref[#1]{#2}}
+\providecommand{\citeproc}[2]{\hyperlink{#1}{#2}}
+
+% Redefine bibitem to add hypertarget for clickable citations
+\let\oldbibitem\bibitem
+\renewcommand{\bibitem}[2][]{\oldbibitem[#1]{#2}\hypertarget{#2}{}}
 
 % Section formatting (azul #3c78d8 em todos os títulos)
 % With automatic numbering via Pandoc --number-sections
