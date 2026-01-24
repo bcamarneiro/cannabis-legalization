@@ -44,11 +44,19 @@
     filecolor=azulLivre,     % Links para ficheiros → azul
     urlcolor=azulLivre,      % URLs na bibliografia → azul clicável
     citecolor=azulLivre,     % Citações [@key] → azul clicável
+    breaklinks=true,         % Permite quebra de links entre linhas
     pdftitle={Regulação da Cannabis em Portugal},
     pdfauthor={Bruno Camarneiro},
     pdfsubject={Documento de Posição - LIVRE},
     pdfkeywords={cannabis, regulação, Portugal, LIVRE}
 }
+
+% Configure URL line breaking
+\makeatletter
+\g@addto@macro{\UrlBreaks}{\UrlOrBreaks}
+\makeatother
+\def\UrlOrBreaks{\do\-\do\a\do\b\do\c\do\d\do\e\do\f\do\g\do\h\do\i\do\j%
+\do\k\do\l\do\m\do\n\do\o\do\p\do\q\do\r\do\s\do\t\do\u\do\v\do\w\do\x\do\y\do\z}
 
 % CSLReferences environment for bibliography (required by pandoc --citeproc)
 \newlength{\cslhangindent}
@@ -63,14 +71,15 @@
   {\endlist}
 \newcommand{\CSLBlock}[1]{#1\hfill\break}
 \newcommand{\CSLLeftMargin}[1]{\parbox[t]{\csllabelwidth}{#1}}
-\newcommand{\CSLRightInline}[1]{\parbox[t]{\linewidth - \csllabelwidth}{#1}\break}
+\newcommand{\CSLRightInline}[1]{\parbox[t]{\linewidth - \csllabelwidth}{\raggedright\sloppy#1}\break}
 \newcommand{\CSLIndent}[1]{\hspace{\cslhangindent}#1}
 \providecommand{\citeproctext}{}
 \providecommand{\citeproc}[3][]{\hyperlink{#2}{[#3]}}
 
 % Redefine bibitem to add hypertarget for clickable citations
+% Ignore optional argument from Pandoc (always empty \citeproctext)
 \let\oldbibitem\bibitem
-\renewcommand{\bibitem}[2][]{\oldbibitem[#1]{#2}\hypertarget{#2}{}}
+\renewcommand{\bibitem}[2][]{\oldbibitem{#2}\hypertarget{#2}{}}
 
 % Section formatting (azul #3c78d8 em todos os títulos)
 % With automatic numbering via Pandoc --number-sections

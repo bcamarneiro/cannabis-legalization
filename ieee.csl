@@ -44,7 +44,7 @@
     <sort>
       <key variable="citation-number"/>
     </sort>
-    <layout prefix="[" suffix="]" delimiter=", ">
+    <layout delimiter=", ">
       <text variable="citation-number"/>
     </layout>
   </citation>
