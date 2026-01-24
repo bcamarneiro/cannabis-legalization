@@ -575,5 +575,162 @@ Este documento demonstra que existe uma base sólida de evidência para avançar
 
 \newpage
 
+# ANEXO A: Funcionamento dos Clubes Sociais de Cannabis — Modelo Alemão
+
+## O que são os Cannabis Social Clubs (Anbauvereinigungen)?
+
+Os Cannabis Social Clubs (CSCs), oficialmente designados *Anbauvereinigungen* (associações de cultivo), são associações privadas sem fins lucrativos cujo único propósito é o cultivo colectivo e distribuição de cannabis aos membros para consumo pessoal. Não são lojas, dispensários ou coffee shops — são cooperativas agrícolas especializadas.
+
+**Características fundamentais:**
+
+* Entidades registadas sem fins lucrativos
+* Cultivo exclusivamente para consumo dos membros
+* Proibida qualquer finalidade comercial
+* Financiados por quotas de associados (que cobrem apenas custos operacionais)
+* Sem margens de lucro — o preço por grama reflecte apenas custos de produção e gestão
+
+## Requisitos de Adesão
+
+| Requisito | Especificação |
+| :---- | :---- |
+| Idade mínima | 18 anos |
+| Residência | Mínimo 6 meses de residência legal na Alemanha |
+| Exclusividade | Apenas 1 clube por pessoa em todo o país |
+| Período mínimo | 3 meses de filiação obrigatória |
+| Declaração escrita | Confirmar que não é membro de outro CSC |
+
+A regra de exclusividade e o período mínimo de residência previnem acumulação de quantidades acima do legal e turismo cannábico.
+
+## Limites de Distribuição aos Membros
+
+| Idade | Limite diário | Limite mensal | Limite THC |
+| :---- | :---- | :---- | :---- |
+| 21+ anos | 25g | 50g | Sem limite |
+| 18 - 21 anos | 25g | 30g | Máximo 10% |
+
+## Regras de Funcionamento
+
+**Produtos permitidos:**
+
+* Flores de cannabis não processadas
+* Sementes e estacas para autocultivo dos membros
+
+**Produtos proibidos:**
+
+* Extractos à base de solventes
+* Edibles (comestíveis infundidos)
+* Qualquer produto processado
+
+**Restrições operacionais:**
+
+* Máximo 500 membros por clube
+* Consumo no local proibido
+* Publicidade proibida
+* Distância mínima de 200m de escolas/instalações para jovens
+* Licença válida por 7 anos, renovável
+
+## Obrigações de Saúde Pública
+
+Cada clube deve:
+
+* **Oficial de Prevenção** — Pessoa designada responsável pela protecção de menores e prevenção de dependência
+* **Plano de Saúde e Protecção** — Documento submetido às autoridades com estratégia de redução de danos
+* **Rastreabilidade Total** — Documentação de cada etapa: sementeira → colheita → distribuição → entrega a cada membro
+* **Recursos Educativos** — Informação sobre riscos e encaminhamento para apoio
+
+## Licenciamento
+
+O processo de licenciamento é conduzido pelas autoridades de cada Land (estado federal) e inclui:
+
+* Plano de segurança detalhado
+* Prova de idoneidade dos membros da direcção (sem antecedentes criminais relevantes)
+* Plano de protecção de menores e saúde pública
+* Verificação de localização (200m de escolas)
+
+**Estado actual (Maio 2025):** ~660 candidaturas submetidas, ~237 licenças aprovadas a nível nacional.
+
+## Modelo de Custos — Exemplo Real
+
+O Cannabis Social Club Ganderkesee (Baixa Saxónia), primeiro a distribuir cannabis em 2 de Novembro de 2024:
+
+* **Adesão:** gratuita ou contribuição única de €250–500
+* **Quota mensal:** €50–500 (funciona como crédito para compras)
+* **Produtos:** 6 variedades disponíveis (9–25% THC)
+
+\newpage
+
+# ANEXO B: Sistema de Sementes Certificadas
+
+## Enquadramento Legal
+
+Desde 1 de Abril de 2024, sementes de cannabis são legais na Alemanha. Podem ser:
+
+* Adquiridas em território nacional
+* Importadas de outros países da UE
+* Utilizadas para autocultivo (até 3 plantas por adulto)
+
+## Canais de Aquisição Legal
+
+| Canal | Descrição |
+| :---- | :---- |
+| Lojas online alemãs | Seedbanks registados na Alemanha (ex: Mr. Hanf, Sensiseeds.de) |
+| Importação UE | Compra de seedbanks noutros países da UE (Espanha, Países Baixos, Portugal) |
+| Cannabis Social Clubs | Clubes podem distribuir sementes e estacas aos membros |
+
+## Tipos de Sementes
+
+| Tipo | Características | Indicação |
+| :---- | :---- | :---- |
+| Feminizadas | Garantia de plantas fêmeas (produzem flores) | Cultivadores iniciantes |
+| Autoflowering | Floração automática após 2-4 semanas, ciclo de 8-12 semanas | Iniciantes, colheitas múltiplas/ano |
+| Regulares | 50% macho/fêmea, requer identificação de sexo | Criadores/breeders |
+| CBD-dominantes | Alto CBD, THC <0.2% | Fins terapêuticos, uso diurno |
+
+## Critérios de Qualidade
+
+O que procurar em sementes certificadas:
+
+* **Genética estabilizada** — Consistência entre plantas da mesma variedade
+* **Taxa de germinação** — Fornecedores credíveis garantem >90%
+* **Informação completa** — Perfil de canabinóides, tempo de floração, altura esperada
+* **Rastreabilidade** — Origem documentada
+* **Embalagem selada** — Protecção contra humidade e luz
+
+## Modelo de Certificação Proposto para Portugal
+
+Baseado no modelo alemão e na posição de Portugal como exportador de cannabis medicinal, propomos:
+
+**Nível 1 — Certificação Base:**
+
+* Origem documentada
+* Taxa de germinação testada
+* Embalagem com informação obrigatória (THC/CBD estimado, tempo floração)
+
+**Nível 2 — Certificação Premium (Orgânico EU):**
+
+* Cultivo sem pesticidas/herbicidas sintéticos
+* Certificação EU-Organic
+* Análise laboratorial completa
+* Rastreabilidade semente-a-venda
+
+## Oportunidade Económica para Portugal
+
+Portugal já possui:
+
+* Infra-estrutura de cultivo licenciada para cannabis medicinal
+* Know-how técnico em genética e cultivo controlado
+* Regime de certificação orgânica UE estabelecido
+* Clima favorável para cultivo outdoor
+
+**Proposta:** Permitir que produtores licenciados portugueses vendam sementes certificadas para:
+
+* Clubes sociais (quando legalizados)
+* Autocultivo pessoal
+* Exportação para outros mercados europeus legalizados
+
+Isto criaria uma cadeia de valor totalmente nacional, desde a genética até ao consumidor final.
+
+\newpage
+
 # Referências {-}
 
