@@ -41,6 +41,7 @@ pandoc "$TEMP_MD" \
     --number-sections \
     --standalone \
     --citeproc \
+    --csl="$PROJECT_DIR/ieee.csl" \
     --metadata link-citations=true \
     --bibliography="$PROJECT_DIR/references.bib"
 
