@@ -4,55 +4,48 @@ Este ficheiro rastreia melhorias identificadas para o documento de posição.
 
 ## 🔴 URGENTE
 
-### Anexos em falta (bloqueante)
-- [ ] **Anexo A: Funcionamento dos Clubes Sociais**
-  - Referenciado em [linha 511](../documento.md#L511)
-  - Conteúdo necessário:
-    - Governance (estrutura de associação sem fins lucrativos)
-    - Sistema de preços (cobertura de custos vs. mercado)
-    - Fiscalização e compliance
-    - Oficial de prevenção (papel e formação)
-    - Exemplos práticos da Alemanha
+### Incoerências de dados (bloqueante para credibilidade)
+- [x] **Dados alemães inconsistentes** ✅ RESOLVIDO (2026-01-24)
+  - Anexo A atualizado para Nov 2025: 791 candidaturas, 357 aprovados
+  - Fonte validada: BCAv, ICBC, High Times
 
-- [ ] **Anexo B: Sistema de Sementes Certificadas**
-  - Referenciado em [linha 519](../documento.md#L519)
-  - Conteúdo necessário:
-    - Como funciona certificação de sementes
-    - Fornecedores autorizados (critérios)
-    - Rotulagem de THC máximo
-    - Rastreabilidade e compliance
-    - Comparação com sistemas agrícolas existentes
+- [x] **Números do mercado negro contraditórios** ✅ RESOLVIDO (2026-01-24)
+  - Removida estimativa €100M de 2017 (não validável)
+  - Mantida apenas estimativa 2024: 36-58 toneladas, receitas fiscais potenciais €52-151M
+  - Fonte validada: ResearchGate 2024 "Cannabis for Recreational Use by Adults in Portugal"
+
+- [x] **Número de prescrições inconsistente** ✅ RESOLVIDO (2026-01-24)
+  - Padronizado para 1.157 prescrições em todo o documento
 
 ## 🟡 ARGUMENTAÇÃO (alta prioridade)
 
 ### Reforço do autocultivo
-- [ ] Desenvolver comparação vinho caseiro vs. cannabis [linhas 374-382](../documento.md#L374-L382)
+- [ ] **Desenvolver comparação vinho caseiro vs. cannabis** [linhas 374-382](../documento.md#L374-L382)
   - Adicionar: custos de fiscalização (proibir é impraticável)
-  - Adicionar: exemplos de outros países EU com autocultivo legal
+  - Adicionar: exemplos de outros países EU com autocultivo legal (Alemanha, Malta, Luxemburgo)
   - Reforçar: sementes certificadas = mais controlo que mercado negro
+  - **Validar:** Confirmar limite legal vinho caseiro em PT (4.000L/ano?)
 
-- [ ] Adicionar secção sobre controlo de qualidade
+- [ ] **Nova secção: "Controlo de Qualidade"** (contra-argumentos)
   - Mercado negro: risco de pesticidas, metais pesados, fungos
   - Clubes: testes obrigatórios (modelo alemão)
   - Comparar com segurança alimentar
+  - **Validar:** Requisitos de testagem na Alemanha (fontes oficiais)
 
 ### Projeções e estimativas
-- [ ] Adicionar secção "Impacto Fiscal Estimado"
-  - Receitas fiscais projetadas (baseado em Canadá/Colorado ajustado)
-  - Comparar com estudo Prohibition Partners (€52-151M)
-  - Custos de implementação
+
+- [ ] **Nova secção: "Impacto Fiscal Estimado"**
+  - Receitas projetadas (baseado em Canadá/Colorado ajustado à população PT)
+  - Comparar com €52-151M do estudo
+  - Custos de implementação (licenciamento, fiscalização)
   - ROI de 30% para prevenção/tratamento
+  - **Validar:** Dados fiscais Colorado 2024, Canadá 2024, ajustar à pop. PT
 
-- [ ] Estimar clubes necessários em Portugal
-  - Demografia alemã: X clubes / Y habitantes
-  - Projeção para Portugal: ~10M habitantes
-  - Distribuição regional (evitar concentração Lisboa/Porto)
-
-### Clarificações
-- [ ] Reconciliar números do mercado negro
-  - 2017: €100M (Prohibition Partners)
-  - 2024: €52-151M (baseado em 36-58 ton)
-  - Explicar diferença ou usar apenas estimativa mais recente
+- [ ] **Estimar clubes necessários em Portugal**
+  - Alemanha: 357 clubes / 84M habitantes = 1 clube / 235.000 hab
+  - Portugal: 10,3M → ~44 clubes necessários
+  - Distribuição regional (8-10 Lisboa, 5-7 Porto, resto disperso)
+  - **Validar:** População PT 2025, dados alemães Nov 2025
 
 ## 🟢 ESTRUTURA (média prioridade)
 
@@ -67,23 +60,29 @@ Este ficheiro rastreia melhorias identificadas para o documento de posição.
   - Propor programa piloto com data específica
 
 ### Financiamento dos clubes
-- [ ] Clarificar modelo económico dos clubes
-  - Como cobrem custos se sem fins lucrativos?
-  - Preços de venda são regulados? Por quem?
-  - Quem fiscaliza? SICAD? Infarmed? Nova entidade?
-  - Aprender com problemas alemães (alguns clubes com dificuldades)
+
+- [ ] **Expandir modelo económico no Anexo A**
+  - Estrutura de custos (instalações, energia, pessoal, oficial prevenção)
+  - Como cobrem custos se sem fins lucrativos? (quotas membros)
+  - Regulação de preços: quem define? SICAD/Infarmed?
+  - Fiscalização: SICAD (licenciamento), Infarmed (qualidade), ASAE (instalações)
+  - Problemas alemães documentados (clubes com dificuldades financeiras)
+  - **Validar:** Modelo de custos real de clubes alemães operacionais
 
 ## 🔵 REFINAMENTOS (baixa prioridade)
 
 ### Tom e framing
-- [ ] Simplificar "Resposta ao Chega" [linhas 416-421](../documento.md#L416-L421)
-  - Frase atual: 4 linhas, muito longa para debate
-  - Proposta: 1-2 frases máximo, directo ao ponto
 
-- [ ] Rever uso repetitivo de comparação com álcool
+- [ ] **Simplificar "Resposta ao Chega"** [linhas 416-421](../documento.md#L416-L421)
+  - Actual: 5 linhas, muito defensivo
+  - Proposta: "Respeitamos que o Chega discorde. A evidência de 25 anos de descriminalização portuguesa e dados da Alemanha (consumo juvenil -9%) mostram que políticas baseadas em saúde pública funcionam."
+  - Máximo 1-2 frases, directo ao ponto
+
+- [ ] **Rever uso repetitivo de comparação com álcool**
   - Risco: oposição responde "então vamos restringir álcool também"
-  - Usar apenas em secção contra-argumentos
-  - Não como argumento principal
+  - Aparece em 3+ lugares no documento
+  - **Fix:** Usar APENAS na secção "Comparação de riscos (Lancet)"
+  - Remover de argumentação principal
 
 ### Dados complementares
 - [ ] Adicionar custos de enforcement da proibição
@@ -97,6 +96,8 @@ Este ficheiro rastreia melhorias identificadas para o documento de posição.
 
 ## ✅ CONCLUÍDAS
 
+- [x] Anexo A: Funcionamento dos Clubes Sociais (adicionado 2026-01-24)
+- [x] Anexo B: Sistema de Sementes Certificadas (adicionado 2026-01-24)
 - [x] Corrigir formatação das referências (brackets duplos)
 - [x] Resolver overflow de URLs na bibliografia
 - [x] Ajustar espaçamento entre palavras nas referências

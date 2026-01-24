@@ -3,7 +3,7 @@
 \newpage
 
 # SUMÁRIO EXECUTIVO {-}
-Portugal encontra-se numa posição paradoxal: é o segundo maior exportador mundial de cannabis medicinal (32.558 kg em 2024 [@infarmed2024], ultrapassados nos primeiros 8 meses de 2025 [@euronews2024]), mas apenas ~1.150 prescrições foram emitidas internamente em 2023 [@eco2024], equivalendo a cerca de 17 kg [@cannareporter2024].
+Portugal encontra-se numa posição paradoxal: é o segundo maior exportador mundial de cannabis medicinal (32.558 kg em 2024 [@infarmed2024], ultrapassados nos primeiros 8 meses de 2025 [@euronews2024]), mas apenas 1.157 prescrições foram emitidas internamente em 2023 [@eco2024], equivalendo a cerca de 17 kg [@cannareporter2024].
 
 Este documento propõe que o LIVRE assuma uma posição clara e proactiva sobre a regulação da cannabis, assente em três pilares:
 
@@ -58,9 +58,9 @@ O acesso legal à cannabis medicinal enfrenta obstáculos significativos:
 **Estas barreiras justificam as propostas deste documento de simplificação do acesso e comparticipação pelo SNS.**
 
 ## O mercado negro: a realidade que a proibição não elimina
-A consultora Prohibition Partners (2017) estimou o mercado negro português em valores superiores a €100 milhões/ano [@devinsky2017]. Estudos mais recentes (2024) estimam o mercado ilegal em **36-58 toneladas anuais**, com potencial de receita fiscal de €52-151 milhões com a legalização [@torresmoreno2023].
+Um estudo de 2024 publicado na ResearchGate estima o mercado ilegal português de cannabis recreativa em **36-58 toneladas anuais**. Se legalizado, este mercado poderia gerar receitas fiscais entre **€52-151 milhões**, dependendo do modelo de tributação adoptado [@torresmoreno2023].
 
-Este mercado não paga impostos, não verifica idades, e não oferece controlo de qualidade.
+Este mercado negro não paga impostos, não verifica idades, e não oferece qualquer controlo de qualidade ou potência.
 
 ## Prevalência de consumo: abaixo da média europeia
 Os dados do V Inquérito Nacional (SICAD, 2022\) mostram que Portugal mantém taxas de consumo abaixo da média europeia:
@@ -647,7 +647,7 @@ O processo de licenciamento é conduzido pelas autoridades de cada Land (estado 
 * Plano de protecção de menores e saúde pública
 * Verificação de localização (200m de escolas)
 
-**Estado actual (Maio 2025):** ~660 candidaturas submetidas, ~237 licenças aprovadas a nível nacional.
+**Estado actual (Novembro 2025):** 791 candidaturas submetidas, 357 licenças aprovadas a nível nacional (fonte: BCAv - Associação Federal Alemã de Associações de Cultivo).
 
 ## Modelo de Custos — Exemplo Real
 
