@@ -18,7 +18,11 @@
       "Bash(du:*)",
       "Bash(rm:*)",
       "Bash(mv:*)",
-      "Bash(cp:*)"
+      "Bash(cp:*)",
+      "Bash(comm:*)",
+      "Bash(unzip:*)",
+      "Bash(./scripts/build-pdf.sh:*)",
+      "mcp__MCP_DOCKER__brave_web_search"
     ],
     "additionalDirectories": [
       "/Users/brunocamarneiro/Projects/civic-contributions/cannabis-legalization"

@@ -85,9 +85,6 @@ Este ficheiro rastreia melhorias identificadas para o documento de posição.
   - Remover de argumentação principal
 
 ### Dados complementares
-- [ ] Adicionar custos de enforcement da proibição
-  - Custos policiais, judiciais, prisionais
-  - Comparar com receitas fiscais potenciais
 
 - [ ] Timeline de implementação
   - Avaliar se 6 meses (proposta legislativa Q3-Q4 2026) é realista
@@ -96,6 +93,15 @@ Este ficheiro rastreia melhorias identificadas para o documento de posição.
 
 ## ✅ CONCLUÍDAS
 
+- [x] **Custos de enforcement da proibição** ✅ ADICIONADO (2026-01-24)
+  - Secção expandida com dados alemães validados (Heinrich Heine University 2021)
+  - Estimativa Portugal: ~€174M/ano poupanças (€134M enforcement + €40M judicial)
+  - Proposta: 30% (~€52M/ano) para prevenção/tratamento
+  - Fonte: Cannabis Now 2024, população INE/Statista
+- [x] **Modelo fiscal alinhado com clubes sociais** ✅ CORRIGIDO (2026-01-24)
+  - Removidas referências a receitas fiscais significativas
+  - Foco mudado para: redução mercado negro + poupanças enforcement
+  - Financiamento via Orçamento do Estado (não receitas fiscais dos clubes)
 - [x] Anexo A: Funcionamento dos Clubes Sociais (adicionado 2026-01-24)
 - [x] Anexo B: Sistema de Sementes Certificadas (adicionado 2026-01-24)
 - [x] Corrigir formatação das referências (brackets duplos)

@@ -58,9 +58,11 @@ O acesso legal à cannabis medicinal enfrenta obstáculos significativos:
 **Estas barreiras justificam as propostas deste documento de simplificação do acesso e comparticipação pelo SNS.**
 
 ## O mercado negro: a realidade que a proibição não elimina
-Um estudo de 2024 publicado na ResearchGate estima o mercado ilegal português de cannabis recreativa em **36-58 toneladas anuais**. Se legalizado, este mercado poderia gerar receitas fiscais entre **€52-151 milhões**, dependendo do modelo de tributação adoptado [@torresmoreno2023].
+Um estudo de 2024 publicado na ResearchGate estima o mercado ilegal português de cannabis recreativa em **36-58 toneladas anuais** [@torresmoreno2023].
 
-Este mercado negro não paga impostos, não verifica idades, e não oferece qualquer controlo de qualidade ou potência.
+**O problema da proibição:** Este mercado negro opera sem qualquer regulação — não verifica idades, não paga impostos, não oferece controlo de qualidade ou potência, e financia redes criminosas. A proibição não elimina o consumo, apenas elimina o controlo.
+
+**Nota sobre receitas fiscais:** O modelo de clubes sociais sem fins lucrativos proposto neste documento (inspirado na Alemanha) não visa gerar receitas fiscais significativas — os clubes cobrem apenas custos operacionais. O objectivo principal é **reduzir o mercado negro** através de acesso legal regulado, com foco em saúde pública e não em comercialização.
 
 ## Prevalência de consumo: abaixo da média europeia
 Os dados do V Inquérito Nacional (SICAD, 2022\) mostram que Portugal mantém taxas de consumo abaixo da média europeia:
@@ -147,19 +149,22 @@ Reconhecemos os riscos e por isso propomos medidas específicas, baseadas em mod
 | **Dependência (CUD)** | Sistema de monitorização de padrões de consumo; encaminhamento para apoio |
 | **Falta de informação** | Folhetos obrigatórios em todos os produtos; campanhas educativas |
 | **Acesso juvenil** | Verificação rigorosa de idade; proibição de publicidade |
-| **Consumo problemático** | % fixa das receitas fiscais para tratamento e prevenção |
+| **Consumo problemático** | Financiamento garantido para tratamento e prevenção via Orçamento do Estado ([ver estimativas](#financiamento)) |
 | **Consumo frequente** | Limites mensais (50g/mês nos clubes); limite de plantas (3) em autocultivo; oficial de prevenção obrigatório nos clubes com encaminhamento proactivo para apoio |
 
 **Nota sobre frequência de consumo:** A frequência de consumo é um preditor de risco tão ou mais importante que a potência [@autor2024]. Contudo, tal como não se limita a frequência de consumo de álcool ou tabaco, a abordagem mais praticável é limitar a quantidade disponível. Esta proposta faz-lo através dos limites mensais (50g nos clubes) e de plantas (3 em autocultivo) — medidas mais restritivas do que as existentes para substâncias legais com maior score de dano.
 
-**Proposta concreta:** Destinar **30% das receitas fiscais** obrigatoriamente a:
+**Proposta concreta de financiamento:** Dado que o modelo de clubes sociais sem fins lucrativos não gera receitas fiscais significativas (ao contrário de modelos comerciais), propõe-se financiamento via **Orçamento do Estado** para:
 
-* Serviços de tratamento de dependências
+* Serviços de tratamento de dependências (reforço do SICAD)
 * Programas de prevenção nas escolas
-* Investigação sobre riscos e benefícios
+* Investigação científica sobre riscos e benefícios
 * Formação de profissionais de saúde
+* Fiscalização dos clubes e controlo de qualidade
 
-Nota: Colorado destina ~37% a educação; Washington destina ~50% a programas de saúde [@tax2024].
+**Fonte de financiamento:** Afetação de verbas equivalentes a 30% das **poupanças em custos de enforcement** (estimadas em ~€174M/ano para Portugal, baseado em dados alemães — [ver cálculos detalhados](#financiamento)) + taxas de licenciamento dos clubes. Isto equivale a **~€52M/ano** para prevenção e tratamento.
+
+Nota: Modelos comerciais (Colorado, Washington) geram receitas fiscais significativas (~37-50% destinado a educação/saúde [@tax2024]), mas este não é o modelo proposto para Portugal.
 
 ## Comparação de riscos (Lancet 2010\)
 O estudo de David Nutt com 20 drogas e 16 critérios de dano [@nutt2010]:
@@ -406,7 +411,7 @@ Trabalhar com Juventude Socialista como aliada [@publico2022]
 
 **Proposta:**
 
-* Concordar que receitas fiscais devem ir para prevenção e tratamento
+* Concordar que financiamento público deve reforçar prevenção e tratamento ([ver proposta de €52M/ano](#financiamento))
 * Propor comissão científica independente para avaliar resultados
 * Usar linguagem de "saúde pública", não ideológica
 
@@ -452,8 +457,9 @@ Vendedores licenciados verificam idade; traficantes não. A mensagem da regulaç
 * Idade **21** para compra livre [@transform2020]
 * Limites de THC (**10% para 18-21**) — modelo alemão [@bundesministerium2024]
 * Rotulagem obrigatória de potência
-* Parte significativa das receitas fiscais para tratamento e prevenção [@tax2024]
+* Financiamento garantido para tratamento e prevenção ([~€52M/ano via poupanças enforcement](#financiamento))
 * Campanhas educativas sobre riscos
+* Oficial de prevenção obrigatório em cada clube
 
 O mercado negro não oferece nenhuma destas protecções. **Proibir não elimina o consumo — elimina o controlo**.
 
@@ -524,12 +530,32 @@ Para informação sobre o sistema de sementes certificadas proposto, ver Anexo B
 * Proibição absoluta: mistura cannabis \+ álcool
 * Investimento em tecnologia de testagem antes da implementação
 
-### Receitas fiscais
-* **30%** alocados a:
-* Serviços de tratamento de dependências
-* Programas de prevenção nas escolas
-* Investigação científica
-* Formação de profissionais de saúde
+### Financiamento de prevenção e tratamento {#financiamento}
+
+**Poupanças estimadas em custos de enforcement:**
+
+A proibição da cannabis tem custos significativos para o Estado. Um estudo de 2021 da Heinrich Heine University Düsseldorf estimou que a Alemanha pouparia [@cannabisnow2024]:
+
+* **€1,05 mil milhões/ano** em custos de enforcement (policiamento)
+* **€313 milhões/ano** em custos judiciais (processos, tribunais)
+* **Total: €1,363 mil milhões/ano**
+
+**Ajustando estes valores à população portuguesa** (10,7M habitantes vs. 83,6M na Alemanha):
+
+* **Poupanças enforcement:** ~€134M/ano
+* **Poupanças judicial:** ~€40M/ano
+* **TOTAL estimado: ~€174 milhões/ano**
+
+**Proposta de afetação:**
+
+* **30% destas poupanças** (~€52M/ano) dedicados a:
+  * Serviços de tratamento de dependências (reforço do SICAD)
+  * Programas de prevenção nas escolas
+  * Investigação científica sobre riscos e benefícios
+  * Formação de profissionais de saúde
+  * Fiscalização dos clubes e controlo de qualidade
+
+* **Fonte adicional:** Taxas de licenciamento dos clubes sociais (modelo alemão: €250-500 adesão + quotas mensais)
 
 ## Cânhamo Industrial: Uma oportunidade económica e ambiental
 O cânhamo industrial (Cannabis sativa L. com THC\<0,3%) representa uma oportunidade estratégica para Portugal [@ec2024].
