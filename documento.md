@@ -3,15 +3,52 @@
 \newpage
 
 # SUMÁRIO EXECUTIVO {-}
+
+## O paradoxo português
+
 Portugal encontra-se numa posição paradoxal: é o segundo maior exportador mundial de cannabis medicinal (32.558 kg em 2024 [@infarmed2024], ultrapassados nos primeiros 8 meses de 2025 [@euronews2024]), mas apenas 1.157 prescrições foram emitidas internamente em 2023 [@eco2024], equivalendo a cerca de 17 kg [@cannareporter2024].
 
-Este documento propõe que o LIVRE assuma uma posição clara e proactiva sobre a regulação da cannabis, assente em três pilares:
+## Abordagem estratégica em duas fases
 
-Acesso efectivo à cannabis medicinal (comparticipação e simplificação)
+Este documento propõe que o LIVRE assuma uma posição clara e proactiva sobre a regulação da cannabis, com uma **estratégia faseada** que reconhece os diferentes graus de consenso político e social:
 
-Regulação responsável do uso recreativo (modelo alemão de clubes sociais)
+### Fase 1: Cannabis Medicinal (prioridade imediata - consenso mais amplo)
 
-Valorização do cânhamo como alternativa agrícola sustentável
+* **Objectivo:** Garantir acesso efectivo para doentes com prescrição médica
+* **Medidas:** Comparticipação SNS, simplificação da prescrição, alargamento de indicações
+* **Consenso:** Potencial de apoio transversal (PS, PAN, BE, IL) — questão de saúde pública e justiça social
+* **Urgência:** Portugal exporta 99,85% da produção enquanto doentes pagam €150/mês sem comparticipação [@cannabislaw2024export; @drug2024]
+
+### Fase 2: Regulação do Uso Adulto (médio prazo - requer mais construção de consenso)
+
+#### Fundamentação: Redução de danos, não promoção de consumo
+
+* **Objectivo:** **Proteger os 95% que já consomem** via mercado negro [@cannareporter2025medicinal], não promover novos consumidores
+* **Problema actual:**
+  * 75% das condenações por drogas são consumidores ocasionais de cannabis [@sicad2018condenacoes; @dn2020condenacoes]
+  * Mercado negro com sintéticos perigosos: 18 novos canabinóides identificados em 2024, alguns **800x mais potentes** que THC [@euda2025nps]
+  * Potência duplicou sem rotulagem: resina 8%→17% THC, herbal 5%→10% [@freeman2019potency]
+  * Mercado ilegal de €52-151M/ano sem qualquer controlo de qualidade [@ribeiro2024economic]
+  * **Catástrofe ambiental:** Cultivo indoor clandestino gera **2.300-5.200 kg CO₂/kg** — 23-52x pior que carne de vaca [@summers2021cannabis]
+* **Solução:** Clubes sociais sem fins lucrativos + autocultivo regulado = produtos testados, verificação idade, informação clara, cultivo sustentável outdoor/regenerativo (modelo alemão [@bundesgesundheit2024cannabis])
+* **Protecção juvenil comprovada:** Canadá -48% (15-17 anos) [@statcan2019youth], Colorado -42% [@mpp2024colorado]
+* **Consenso:** Exige debate mais alargado, evidência dos resultados da Fase 1, mas fundamentação é **saúde pública** (não receitas fiscais)
+
+### Pilar complementar: Cânhamo Industrial
+
+* **Solução climática:** Captura **8-22 toneladas CO₂/hectare** [@cambridge2022hemp; @britishhemp2024carbon] — 4x mais que árvores
+* Oportunidade agrícola (fibra, sementes, construção) e economia rural
+* Não controverso — já legal em toda a UE com THC<0,3%
+
+## Porquê esta abordagem?
+
+**1. Tática política:** Avançar rapidamente no medicinal (menos resistência) permite demonstrar resultados e construir confiança para debate posterior sobre uso adulto.
+
+**2. Evitar confusão de objectivos:** Separar claramente as duas fases responde antecipadamente à desinformação que mistura "comparticipação para doentes" com "legalização recreativa". São propostas distintas, com públicos distintos, mecanismos de financiamento distintos.
+
+**3. Aproveitar momentum:** O modelo alemão de clubes sociais (2024) oferece evidência recente de regulação sem comercialização [@bundesgesundheit2024cannabis]. Os dados de protecção juvenil do Canadá e Colorado reforçam o argumento [@statcan2019youth; @mpp2024colorado].
+
+**Os dois objectivos são complementares, não conflituantes** — mas a sequência estratégica maximiza probabilidade de sucesso político.
 
 
 \newpage
@@ -436,55 +473,719 @@ Trabalhar com Juventude Socialista como aliada [@publico2022]
 **Táctica:** Começar pelo Nível 1, negociar Nível 2, manter Nível 3 como objectivo futuro.
 
 
-# RESPOSTAS A CONTRA-ARGUMENTOS
-## "A cannabis é droga de entrada"
-**Resposta:** Estudo CU Boulder/Minnesota (2023, 4.000 gémeos) não encontrou "mudanças no uso de drogas ilícitas após legalização" [@colorado2023]. A teoria da "gateway drug" não tem suporte científico conclusivo — o National Institute of Justice (2018) afirma que "não há evidência conclusiva de que a cannabis cause o uso posterior de drogas mais pesadas".
+# SECÇÃO II: GUIA DE DEBATE E MANUAL DE ARGUMENTAÇÃO {-}
 
-Na realidade, estudos mostram que **86% dos consumidores experimentaram primeiro álcool (54%) ou tabaco (32%)** — as verdadeiras "drogas de entrada" são legais [@kirby2019].
+## Como usar este guia
 
-## "Envia mensagem errada aos jovens"
-**Resposta:**
+Este manual organiza os principais contra-argumentos que enfrentarão em debate, agrupados por tema. Para cada ataque:
 
-* Colorado: consumo juvenil caiu 42% (de 22% para 12,8%) entre 2011 e 2023 [@cdphe2024]
-* Alemanha: consumo juvenil caiu de 6,7% para 6,1% no primeiro ano [@marijuanamoment2025]
-* MPP: uso diminuiu em 19 de 21 estados que legalizaram [@marijuanapolicy2025]
+1. **Reconhecer preocupações legítimas** (onde aplicável)
+2. **Responder com evidência científica e dados internacionais**
+3. **Reforçar que a proposta inclui salvaguardas** (controlo de qualidade, verificação de idade, prevenção)
 
-Vendedores licenciados verificam idade; traficantes não. A mensagem da regulação é: "isto é para adultos e tem riscos" — mais honesta que a proibição hipócrita.
+**Princípio orientador:** A proibição não elimina o consumo — apenas elimina o controlo. Regulação permite proteger quem consome e reduzir danos sociais.
 
-## "Causa danos à saúde mental"
-**Resposta:** A evidência sobre riscos é real e levamo-la a sério [@marconi2016] [@di2019]. Por isso propomos:
+## Táctica Geral de Debate
 
-* Idade **21** para compra livre [@transform2020]
-* Limites de THC (**10% para 18-21**) — modelo alemão [@bundesministerium2024]
-* Rotulagem obrigatória de potência
-* Financiamento garantido para tratamento e prevenção ([~€52M/ano via poupanças enforcement](#financiamento))
-* Campanhas educativas sobre riscos
-* Oficial de prevenção obrigatório em cada clube
+Quando atacado, usa esta estrutura:
 
-O mercado negro não oferece nenhuma destas protecções. **Proibir não elimina o consumo — elimina o controlo**.
+1. **Reconhece a preocupação** (não descartes)
+2. **Apresenta dados** (sempre com fonte)
+3. **Mostra como a proposta aborda o problema**
+4. **Redireciona para os teus pontos fortes**
 
-## "Viola tratados internacionais"
+**Frases-chave para usar:**
+
+* "Os dados mostram que..."
+* "Na Alemanha/Canadá/Colorado..."
+* "É por isso que a nossa proposta inclui..."
+* "A proibição não impediu que..."
+* "A questão não é se tem riscos — é como os gerimos melhor"
+
+**Nunca digas:**
+
+* "A cannabis é inofensiva" (não é verdade)
+* "Toda a gente consome" (exagero impreciso)
+* "A proibição não funciona em lado nenhum" (impreciso)
+* Ataques pessoais aos opositores
+
+---
+
+## 0. FUNDAMENTAÇÃO: Porquê Regular o Uso Recreativo?
+
+### A questão central que devemos responder
+
+**CRÍTICO:** A regulação do uso recreativo NÃO é sobre promover consumo ou gerar receitas fiscais. É sobre **redução de danos para quem já consome**.
+
+### O problema actual: Criminalização sem reduzir consumo
+
+**Dados de criminalização (SICAD 2018, Diário de Notícias 2020):**
+
+* **75% de todas as condenações por drogas** em Portugal são por cannabis [@sicad2018condenacoes; @dn2020condenacoes]
+* **86% dos indiciados** têm perfil "não toxicodependente" — são consumidores ocasionais criminalizados, não pessoas com dependência [@cannareporter2023legalization]
+* **95% dos utilizadores** portugueses usa cannabis ilegal (mercado negro) [@cannareporter2025medicinal]
+* Mercado negro estimado em **36-58 toneladas/ano**, potencial receita fiscal €52-151M [@ribeiro2024economic]
+
+**Conclusão:** A proibição não elimina o consumo. Criminaliza centenas de pessoas por ano, enquanto 95% continua a usar produto não regulado.
+
+### Riscos do mercado não regulado (EUDA 2024-2025)
+
+**1. Canabinóides sintéticos perigosos:**
+
+* **18 novos canabinóides semi-sintéticos** identificados em 2024 [@euda2025nps]
+* Alguns são **2 a 800 vezes mais potentes** que THC natural [@euda2025nps]
+* **HHC** (hexahydrocannabinol) e derivados vendidos como "alternativas legais" reportados em **27 países europeus**, controlados em 22 Estados-Membros [@euda2025nps]
+* **Hungria reportou 30 intoxicações agudas** por gomas adulteradas com sintéticos em 2024 [@euda2024threat]
+
+**2. Aumento drástico da potência:**
+
+* **Resina:** THC médio aumentou de **8.14% (2006)** para **17.22% (2016)** — mais que duplicou [@freeman2019potency]
+* **Herbal:** THC médio aumentou de **5.00% (2006)** para **10.22% (2016)** — também duplicou [@freeman2019potency]
+* Mercado negro não rotula potência, não permite escolha informada
+
+**3. Riscos de saúde sem controlo:**
+
+* Sem testes de qualidade: risco de pesticidas, metais pesados, fungos
+* Sem rastreabilidade: origem e composição desconhecidas
+* Sem informação ao consumidor: teor de THC, dosagens, riscos
+* Hospitalizações por produtos adulterados a aumentar na Europa [@euda2024threat]
+
+**4. Catástrofe ambiental do modelo actual:**
+
+O modelo de cultivo indoor dominante no mercado negro (e em alguns mercados legais) é **ambientalmente insustentável:**
+
+* **Emissões de carbono:** Cultivo indoor gera **2.283-5.184 kg CO₂-equivalente por kg de flor seca** [@summers2021cannabis; @mills2021cannabis; @motherjones2021carbon]
+* **Comparação chocante:** Cannabis indoor é **23-52 vezes pior** que produção de carne de vaca (99 kg CO₂/kg) [@summers2021cannabis]
+* **Consumo energético:** Instalações indoor consomem tanta electricidade quanto data centers [@motherjones2021carbon]
+* **Insustentabilidade:** Custos energéticos incompatíveis com metas climáticas europeias
+
+**Alternativa sustentável — cultivo regenerativo e cânhamo:**
+
+* **Cânhamo captura carbono:** 8-22 toneladas CO₂ por hectare por ciclo [@cambridge2022hemp; @britishhemp2024carbon]
+* **Cultivo outdoor/regenerativo:** Emissões drasticamente reduzidas, biodiversidade aumentada
+* **Agroecologia:** Integração com sistemas agroflorestais e permacultura
+* **Co-benefícios:** Regeneração de solos, produção de fibra/sementes, economia rural
+
+**A proibição força o cultivo indoor clandestino.** A regulação permite exigir métodos sustentáveis como condição de licenciamento — tal como a Alemanha exige clubes sem fins lucrativos, Portugal pode exigir cultivo regenerativo de baixo carbono.
+
+### O que a regulação permite (redução de danos)
+
+**1. Protecção do consumidor:**
+
+* **Produtos testados** obrigatoriamente (sem pesticidas, metais pesados, adulterantes)
+* **Rastreabilidade:** origem e composição conhecidas, certificadas
+* **Informação clara:** teor de THC rotulado, dosagens, avisos de risco
+* **Alternativa segura** ao mercado negro com sintéticos perigosos
+
+**2. Protecção da saúde pública:**
+
+* **Verificação de idade:** mercado negro não pede identificação
+* **Limites de potência:** THC máximo 10% para 18-21 anos (modelo alemão [@bundesgesundheit2024cannabis])
+* **Programas de prevenção financiados:** ~€52M/ano de poupanças enforcement ([ver financiamento](#financiamento))
+* **Monitorização e investigação:** dados reais sobre consumo, não estimativas
+
+**3. Redução de custos sociais:**
+
+* **Menos processos judiciais:** 75% das condenações por drogas são cannabis [@sicad2018condenacoes]
+* **Menos urgências hospitalares:** produtos testados vs. sintéticos perigosos [@euda2024threat]
+* **Recursos policiais libertados:** foco em crime grave, não consumidores ocasionais
+* **Menos pessoas com registo criminal** por consumo de substância menos nociva que álcool [@nutt2010]
+
+**4. Retirar rendimento ao crime organizado:**
+
+* Mercado de €52-151M/ano actualmente controlado por redes ilegais [@ribeiro2024economic]
+* Regulação transfere para operadores licenciados, monitorizados, sem fins lucrativos
+
+### Coerência com outras políticas do LIVRE
+
+O LIVRE defende **redução de danos** no álcool e tabaco. Cannabis não é diferente:
+
+* **Regular ≠ promover** (tal como regular o álcool não é promover alcoolismo)
+* **A proibição não funciona:** 95% usa mercado negro [@cannareporter2025medicinal]
+* **A questão é:** produto seguro e testado, ou produto ilegal potencialmente adulterado?
+
+### A resposta a "Porquê legalizar recreativo?"
+
+**Não é para:**
+- ❌ Promover consumo
+- ❌ Gerar receitas fiscais (modelo de clubes sociais sem fins lucrativos)
+- ❌ "Normalizar" a cannabis
+
+**É para:**
+- ✅ **Proteger quem já consome** (95% da população utilizadora [@cannareporter2025medicinal])
+- ✅ **Reduzir danos:** produtos testados vs. sintéticos perigosos 800x mais potentes [@euda2025nps]
+- ✅ **Descriminalizar:** 75% das condenações são consumidores ocasionais [@sicad2018condenacoes; @dn2020condenacoes]
+- ✅ **Controlar potência:** THC rotulado vs. mercado negro que duplicou potência [@freeman2019potency]
+- ✅ **Financiar prevenção:** ~€52M/ano de poupanças enforcement para tratamento
+- ✅ **Retirar rendimento ao crime:** €52-151M/ano para clubes licenciados sem fins lucrativos [@ribeiro2024economic]
+
+**Princípio central:** A proibição não elimina o consumo — apenas elimina o controlo e a segurança.
+
+---
+
+## 1. Argumentos sobre Saúde Pública
+
+### Ataque 3: "Estão a ignorar os cientistas que se opõem"
+
+**Resposta curta (30s):**
+
+"Não ignoramos nada. O nosso documento cita os riscos de psicose, cita a taxa de 22% de dependência entre utilizadores pesados. Levamos a ciência a sério — toda ela. E é por isso que propomos limites de THC, idade 21, e ~€52M/ano para tratamento ([ver financiamento](#financiamento)). A proibição não oferece nenhuma destas protecções."
+
+**Resposta desenvolvida (2min):**
+
+"Pelo contrário — lemos a ciência toda, incluindo os estudos sobre riscos. O nosso documento cita:
+
+* O estudo Marconi que mostra risco aumentado para psicose em consumidores pesados [@marconi2016]
+* O estudo Di Forti que mostra 5x mais risco com cannabis de alta potência [@di2019]
+* A evidência de dependência entre utilizadores frequentes
+
+Levamos isto tão a sério que a nossa proposta inclui:
+
+* Idade mínima de **21 anos** (não 18) [@transform2020]
+* Limites de THC de **10% para menores de 21** — modelo alemão [@bundesministerium2024]
+* **~€52M/ano** obrigatoriamente para tratamento e prevenção ([ver cálculo](#financiamento))
+* Rotulagem obrigatória de potência e avisos de saúde
+* Oficial de prevenção em cada clube com encaminhamento proactivo
+
+Sabe o que o mercado negro oferece? Nenhuma destas protecções. Produto de potência desconhecida, sem verificação de idade, sem informação sobre riscos. A questão não é se a cannabis tem riscos — tem. A questão é se a proibição reduz esses riscos. A evidência internacional mostra que não."
+
+**Dados de suporte:**
+
+* Riscos reconhecidos: psicose [@marconi2016], dependência, impacto cognitivo [@di2019]
+* Salvaguardas propostas: idade 21, limites THC 10% (18-21), financiamento prevenção
+* Evidência: Colorado consumo juvenil -42%, Alemanha -9% [@cdphe2024] [@marijuanamoment2025]
+* **Princípio:** Reconhecer riscos ≠ manter proibição ineficaz
+
+### Ataque 2: "Uma ganza é o início de uma vida de toxicodependência"
+
+**Resposta curta (30s):**
+
+"Essa teoria da 'droga de entrada' foi abandonada pela ciência há décadas. 90% das pessoas que experimentam cannabis nunca passam para drogas mais pesadas. E sabe qual é a verdadeira 'droga de entrada'? O álcool — que é legal. A esmagadora maioria dos consumidores de heroína experimentou álcool primeiro, não cannabis."
+
+**Resposta desenvolvida (2min):**
+
+"A teoria da 'gateway drug' é um mito dos anos 80 que a ciência já abandonou. Um estudo da Universidade do Colorado com 4.000 participantes não encontrou 'mudanças no uso de drogas ilícitas após a legalização' [@colorado2023]. Vamos olhar para os números: em Portugal, cerca de 10% da população já experimentou cannabis [@nugent2017]. Se a teoria da 'droga de entrada' fosse verdade, teríamos centenas de milhares de heroinómanos. Não temos.
+
+Na realidade, mais de 90% das pessoas que experimentam cannabis nunca consomem drogas mais pesadas. E se quisermos falar de 'drogas de entrada', o álcool e o tabaco são muito mais relevantes — praticamente todos os consumidores de drogas pesadas começaram por aí. E são legais. Estudos mostram que **86% dos consumidores experimentaram primeiro álcool (54%) ou tabaco (32%)** [@kirby2019].
+
+O que a evidência mostra é que o factor de risco não é a substância em si, mas o contexto: problemas familiares, trauma, exclusão social. Proibir cannabis não resolve nenhum desses problemas."
+
+**Dados de suporte:**
+
+* Estudo CU Boulder/Minnesota 2023: sem aumento de outras drogas [@colorado2023]
+* Prevalência cannabis PT: 10,5% ao longo da vida [@nugent2017]
+* Taxa de progressão para drogas pesadas: <10%
+* 86% consumidores começaram por álcool/tabaco [@kirby2019]
+* National Institute of Justice (2018): "não há evidência conclusiva" de causalidade
+
+### "CBD já está disponível - não precisamos de legalizar THC"
+
+**Resposta curta (30s):**
+
+"Esse é um mito comum que importa desconstruir. O THC tem aplicações terapêuticas comprovadas e distintas do CBD: é essencial para dor neuropática (Sativex aprovado em vários países europeus [@nabiximols2024; @jazzpharma2024sativex]), náuseas oncológicas (Dronabinol aprovado pela FDA desde 1985 [@ncbi2024dronabinol]), estimulação do apetite, e insónia. Para o sono, meta-análises mostram que apenas THC/CBN são eficazes — CBD isolado não funciona [@suraev2020insomnia; @cannabisesaude2024sleep]."
+
+**Resposta desenvolvida (2min):**
+
+"A ideia de que o CBD é 'o mais importante' do ponto de vista medicinal é um mito que prejudica doentes. O THC tem aplicações terapêuticas comprovadas e distintas:
+
+**Evidência científica do THC medicinal:**
+
+* **Dor neuropática e espasticidade (esclerose múltipla):** O Sativex (THC+CBD 1:1) está aprovado em vários países europeus e Canadá [@nabiximols2024; @jazzpharma2024sativex] precisamente porque o **THC é essencial** para a eficácia
+* **Náuseas e vómitos oncológicos:** Dronabinol (THC sintético) aprovado pela FDA desde **31 de Maio de 1985** [@ncbi2024dronabinol]
+* **Estimulação do apetite (HIV/cancro):** THC é o composto activo, com aprovação FDA em 1992 [@ncbi2024dronabinol]
+* **Insónias:** Meta-análise de 6 ensaios clínicos (1.077 pacientes) demonstra que **apenas formulações com THC/CBN melhoram significativamente a qualidade do sono** (SMD 0.60, p<0.05), enquanto **CBD isolado não mostra efeito** [@suraev2020insomnia; @kuhathasan2022cbd; @cannabisesaude2024sleep]
+
+**Umbrella review BMJ (2023):** Revisão abrangente confirma benefícios do THC em múltiplas indicações [@solmi2023bmj]. Meta-análise BMC Medicine (2022) identificou eficácia em epilepsia, dor crónica, espasticidade, apetite, Parkinson, sono e Tourette [@hauser2022bmc].
+
+**O problema português — Lei 33/2018 extremamente restritiva:**
+
+* Portugal **exporta 99,85% da produção**: 11.973 kg exportados em 2023 vs. apenas **17 kg dispensados localmente** [@cannabislaw2024export; @cannabisesaude2024portugal]
+* **32.558 kg exportados em 2024** (aumento de 172%) — 2º maior exportador mundial [@eco2024cannabis]
+* Apenas **1.157 prescrições totais em 2023** [@infarmed2024prescricoes]
+* **Custo proibitivo:** ~€150 por 15g, **sem comparticipação** [@drug2024]
+* Prescrição **só após falha de tratamentos convencionais** [@lei332018]
+* Limitado a **7 indicações específicas** (Deliberação n.º 11/CD/2019) [@publico2019indicacoes; @opcm2024]: espasticidade MS, náuseas oncológicas, estimulação apetite, dor oncológica, epilepsia grave infantil, glaucoma, Tourette
+
+**Conclusão:** A prioridade no medicinal não é apenas comparticipação. É o **alargamento das indicações**, a **simplificação da prescrição** (sem exigir falha prévia de outros tratamentos), e a **disponibilização de produtos com THC** adequados a preços acessíveis. Dizer que 'CBD é suficiente' é negar tratamento eficaz a doentes que precisam de THC."
+
+**Dados de suporte:**
+
+* Sativex (THC:CBD 1:1): aprovado em múltiplos países europeus e Canadá [@nabiximols2024; @jazzpharma2024sativex]
+* Dronabinol (THC sintético): FDA 1985 (náuseas/vómitos), 1992 (anorexia HIV/AIDS) [@ncbi2024dronabinol]
+* THC/CBN vs CBD no sono: meta-análise 6 trials, 1.077 pacientes — apenas THC/CBN eficaz [@suraev2020insomnia; @cannabisesaude2024sleep]
+* Portugal 2023: 11.973 kg exportados vs 17 kg locais (99,85% exportação) [@cannabislaw2024export]
+* Portugal 2024: 32.558 kg exportados (+172%) [@eco2024cannabis]
+* Apenas 1.157 prescrições totais em 2023 [@infarmed2024prescricoes]
+* Lei 33/2018: 7 indicações restritas, prescrição após falha de convencionais [@lei332018; @publico2019indicacoes]
+* Umbrella review BMJ 2023 + meta-análise BMC Medicine 2022: evidência robusta THC [@solmi2023bmj; @hauser2022bmc]
+* **Princípio:** CBD e THC têm aplicações terapêuticas distintas — afirmar que 'CBD é suficiente' nega tratamento eficaz a doentes
+
+### "A comparticipação vai custar muito ao SNS"
+
+**Resposta curta (30s):**
+
+"Pode haver poupanças significativas. Cannabis pode substituir medicação mais cara (opiáceos) [@norml2024opioids; @rock2024opioids] e **não tem risco de overdose fatal** — 0 mortes registadas como causa directa [@dea2024overdose; @rock2022deaths]. Inquérito SICAD 2021 mostra que **84% dos consumidores** já usam cannabis (ilegalmente) para stress/ansiedade [@cannareporter2022stress; @publico2023consumidor]. A questão não é se vão usar — é se vão usar produto regulado e de qualidade com acompanhamento médico, ou continuar no mercado negro."
+
+**Resposta desenvolvida (2min):**
+
+"A comparticipação selectiva pode gerar poupanças ao SNS através de três mecanismos:
+
+**1. Redução de prescrições de medicação mais cara:**
+
+* **Substituição de opiáceos:** Evidência promissora (ainda que mista) de que cannabis pode reduzir dependência de opiáceos para dor crónica [@norml2024opioids; @rock2024opioids; @ncbi2024opioids]
+* **Segurança superior:** Cannabis **não tem risco documentado de overdose fatal** — 0 mortes registadas como causa directa [@dea2024overdose; @rock2022deaths; @ncbi2017deaths] vs. milhares de mortes anuais por opiáceos
+* **Redução de custos com emergências:** Sem risco de overdose letal = menos internamentos, menos custos com reversão de overdoses
+
+**2. Realidade portuguesa que não podemos ignorar (SICAD 2021):**
+
+* **84% dos consumidores** já usam cannabis para **reduzir stress/relaxar** [@cannareporter2022stress; @publico2023consumidor]
+* **38-40%** usam para tratar **ansiedade/depressão** [@publico2022depressao; @sicnoticias2023consumidor]
+* **51-52%** usam para **melhorar o sono** [@cannareporter2022stress; @sicnoticias2023consumidor]
+* Apenas **0,1% usa cannabis medicinal prescrita** — **95% recorrem ao mercado negro** [@cannareporter2022stress]
+
+**Estes números mostram algo crucial:** As pessoas JÁ estão a usar cannabis para sintomas clínicos, mas sem:
+
+* Controlo de qualidade ou potência
+* Acompanhamento médico
+* Possibilidade de ajustar dosagens adequadamente
+* Qualquer benefício fiscal para o Estado (mercado negro não paga impostos)
+
+**3. Proposta de comparticipação selectiva e sustentável:**
+
+A comparticipação selectiva não é apenas uma escolha política — é uma **necessidade económica.** Os números são inequívocos:
+
+* **Prevalência dor crónica em Portugal:** **37% da população adulta** (3,8 milhões de pessoas) [@azevedo2012chronic]
+* **Custo típico paciente CBD:** 200mg/dia = **€350/mês** = €4.206/ano
+* **Custo teórico de comparticipação universal:** €16 mil milhões/ano — **92% do orçamento total de saúde para 2026** (€17,3 mil milhões [@publico2025oe2026; @portugal2025oe])
+* **Conclusão:** Comparticipação universal é **financeiramente impossível** sem moeda soberana ou racionamento extremo
+
+**Por isso, a proposta é estratificada:**
+
+* **Comparticipação SNS apenas para indicações com evidência robusta:** Dor oncológica, epilepsia resistente, espasticidade EM, náuseas oncológicas — onde há potencial de substituir medicação mais cara (opiáceos) ou reduzir internamentos [@norml2024opioids; @rock2024opioids]
+* **Para os 35-55% com sintomas clínicos menos severos (sono, ansiedade, dor crónica não-oncológica):** Acesso legal via autocultivo regulado ou clubes sociais, com acompanhamento médico opcional, **sem custos para o SNS**
+* **Resultado:** Sistema sustentável que protege os casos mais graves com comparticipação, enquanto oferece alternativa legal e segura (autocultivo/clubes) para sintomas terapêuticos menos severos
+
+A pergunta não é se a comparticipação custa dinheiro — é se custa **mais ou menos** que manter o status quo, onde:
+
+* Gastamos ~€150/15g sem controlo de qualidade (mercado negro)
+* 95% dos consumidores não têm acesso legal
+* Perdemos oportunidade de poupar em medicação mais cara
+* Não geramos nenhuma receita fiscal
+
+A comparticipação selectiva, combinada com acesso regulado (autocultivo/clubes), pode ser **custo-neutra ou até gerar poupanças** quando contabilizamos substituição de medicação cara e redução de custos com emergências."
+
+**Dados de suporte:**
+
+* Cannabis pode substituir opiáceos: evidência promissora [@norml2024opioids; @rock2024opioids; @ncbi2024opioids]
+* Overdose fatal cannabis: 0 mortes como causa directa [@dea2024overdose; @rock2022deaths; @ncbi2017deaths]
+* SICAD 2021: 84% stress/relaxar, 51% sono, 38-40% ansiedade/depressão [@cannareporter2022stress; @publico2023consumidor; @publico2022depressao; @sicnoticias2023consumidor]
+* Apenas 0,1% usa cannabis medicinal prescrita, 95% mercado negro [@cannareporter2022stress]
+* Proposta: comparticipação selectiva (evidência robusta) + acesso regulado sem custos SNS (autocultivo/clubes)
+* Poupanças potenciais: substituição opiáceos, redução emergências, receitas fiscais via licenciamento
+* **Princípio:** Comparticipação selectiva + regulação pode ser custo-neutra quando contabilizamos poupanças e receitas vs. status quo do mercado negro
+
+### "O LIVRE quer comparticipação para quem fuma canábis recreativamente em cafés"
+
+**Resposta curta (30s):**
+
+"Não. A comparticipação é exclusivamente para **doentes com prescrição médica** para condições clínicas específicas (dor oncológica, epilepsia resistente, espasticidade). Não é para uso recreativo. Aliás, Portugal exporta 32,5 toneladas de cannabis medicinal [@eco2024cannabis], mas os nossos próprios doentes pagam €150/mês do bolso [@drug2024] — isto é incoerente e injusto."
+
+**Resposta desenvolvida (2min):**
+
+"É importante esclarecer esta confusão, porque mistura dois objectivos distintos:
+
+**Cannabis medicinal (comparticipação SNS):**
+
+* **Público-alvo:** Doentes com prescrição médica para condições clínicas específicas
+* **Indicações:** Dor oncológica, epilepsia resistente a tratamento, espasticidade em esclerose múltipla, náuseas quimioterapia [@lei332018; @infarmed2024prescricoes]
+* **Sistema:** Prescrição médica obrigatória, dispensação em farmácia, seguimento clínico
+* **Custo actual:** €150 por 15g, **sem comparticipação** [@drug2024]
+* **Situação portuguesa:** Portugal exporta **32.558 kg** (2024) [@eco2024cannabis], mas apenas **1.157 prescrições locais** (2023) [@infarmed2024prescricoes] — exportamos 99,85% da produção [@cannabislaw2024export]
+
+**Uso adulto recreativo (proposta regulação, SEM custos para SNS):**
+
+* **Modelo:** Autocultivo doméstico (3 plantas) ou clubes sociais sem fins lucrativos [@bundesgesundheit2024cannabis]
+* **Financiamento:** Quotas de membros (clubes) ou produção própria (autocultivo), **sem custos para o SNS**
+* **Protecção juvenil:** Sistema semelhante ao alemão — clubes a 200m de escolas, oficial de prevenção, limite THC 10% para 18-21 anos [@bundesgesundheit2024cannabis; @dw2024clubs]
+
+**O que a evidência mostra sobre protecção juvenil na regulação:**
+
+* **Canadá:** Consumo entre 15-17 anos **desceu de 19,8% para 10,4%** após legalização (2018-2019) [@statcan2019youth; @statcan2021cannabis]
+* **Colorado:** Consumo em adolescentes **desceu de 22% (2011) para 12,8% (2023)** — redução de 42% [@mpp2024colorado; @cdc2023yrbs]
+* **Meta-análise JAMA Pediatrics:** Leis de cannabis medicinal **não aumentaram consumo juvenil** nos EUA [@sarvet2018jama]
+* **Alemanha:** Clubes sociais incluem medidas específicas de protecção juvenil [@bundesgesundheit2024cannabis]
+
+A regulação não normaliza — **oferece controlo**. O mercado negro não pede identificação, não testa qualidade, não financia prevenção."
+
+**Dados de suporte:**
+
+* Comparticipação destina-se a **doentes com prescrição**, não uso recreativo
+* Portugal exporta 99,85% da produção medicinal [@cannabislaw2024export; @eco2024cannabis]
+* Doentes pagam €150/mês sem comparticipação [@drug2024]
+* Apenas 1.157 prescrições em 2023 vs. 32.558 kg exportados [@infarmed2024prescricoes; @eco2024cannabis]
+* Clubes sociais (modelo alemão): sem fins lucrativos, 200m escolas, oficial prevenção, THC limitado [@bundesgesundheit2024cannabis]
+* Canadá: consumo juvenil 15-17 **↓ 48%** (19,8%→10,4%) pós-legalização [@statcan2019youth]
+* Colorado: consumo adolescente **↓ 42%** (22%→12,8%) pós-legalização [@mpp2024colorado; @cdphe2024monitoring]
+* Meta-análise: leis cannabis medicinal não aumentaram uso juvenil [@sarvet2018jama]
+* **Princípio:** Medicinal e recreativo são objectivos distintos com mecanismos diferentes — misturá-los é desinformação
+
+---
+
+## 2. Argumentos sobre Segurança e Criminalidade
+
+### "O autocultivo não pode ser controlado"
+
+**Resposta curta (30s):**
+
+"Também não controlamos o autocultivo de uvas para fazer vinho em casa. E o álcool é três vezes mais nocivo que a cannabis segundo o Lancet [@nutt2010]. A nossa proposta é autocultivo com sementes certificadas — assim o THC máximo é conhecido. É mais controlo que o mercado negro oferece."
+
+**Resposta desenvolvida (2min):**
+
+"É uma preocupação legítima, mas deixe-me explicar a nossa abordagem. Primeiro: em Portugal, qualquer pessoa pode cultivar uvas e fazer vinho ou aguardente em casa. Ninguém controla isso. E segundo o estudo do Lancet de 2010, o álcool é **3,6 vezes mais nocivo** que a cannabis (score 72 vs 20) [@nutt2010]. Se não proibimos o autocultivo do mais nocivo, porque proibiríamos o do menos nocivo?
+
+Segundo: a nossa proposta não é autocultivo livre. Propomos que as sementes só possam ser compradas a fornecedores autorizados [@bundesministerium2024]. Cada variedade de cannabis tem uma genética que determina o THC máximo. Uma semente certificada para 12% de THC não vai produzir uma planta com 25%.
+
+Terceiro: na Alemanha, onde o autocultivo é permitido, o consumo juvenil diminuiu no primeiro ano [@marijuanamoment2025]. O autocultivo não aumentou os problemas — reduziu a dependência do mercado negro. Proibir o autocultivo não elimina o cultivo — empurra-o para a clandestinidade. Regulá-lo dá-nos ferramentas de controlo que a proibição não oferece."
+
+**Dados de suporte:**
+
+* Comparação de danos: Álcool 72 vs Cannabis 20 (Lancet 2010) [@nutt2010]
+* Portugal: autocultivo de uvas/vinho não controlado (substância mais nociva)
+* Sementes certificadas: THC máximo conhecido e rotulado [@bundesministerium2024]
+* Alemanha: autocultivo permitido, consumo juvenil diminuiu [@marijuanamoment2025]
+* Limite proposto: 3 plantas = uso pessoal, não tráfico [@wikipedia2025]
+* **Princípio:** Regulação oferece mais controlo que proibição
+
+### "O autocultivo impossibilita controlar a concentração de THC"
+
+**Resposta curta (30s):**
+
+"Por isso propomos que as sementes só possam vir de fornecedores autorizados [@bundesministerium2024]. Cada variedade tem um THC máximo conhecido. Se alguém cultiva uma semente certificada com máximo de 15% THC, sabemos que o produto final não vai exceder isso. É mais informação que o mercado negro dá."
+
+**Resposta desenvolvida (2min):**
+
+"Compreendo a preocupação, e é por isso que a nossa proposta aborda directamente esse ponto. Propomos que o autocultivo seja permitido apenas com sementes de fornecedores autorizados [@bundesministerium2024]. Cada variedade de cannabis tem uma genética que determina o THC máximo. Uma semente certificada para 12% de THC não vai produzir uma planta com 25%. Isto é exactamente como funciona na agricultura: compramos sementes certificadas de tomate, de trigo, de vinha. Sabemos o que vamos obter.
+
+Além disso, na Alemanha, onde o autocultivo é permitido com este sistema, o consumo juvenil diminuiu [@marijuanamoment2025]. O argumento de que o autocultivo aumenta os problemas não é suportado pela evidência.
+
+Por fim, permita-me uma pergunta: prefere que as pessoas cultivem em casa com sementes de THC conhecido, ou que comprem no mercado negro produto de potência desconhecida, possivelmente adulterado? A proibição do autocultivo não elimina o cultivo — elimina o controlo."
+
+**Dados de suporte:**
+
+* Sistema alemão: sementes apenas de fornecedores autorizados, THC máximo certificado [@bundesministerium2024]
+* Genética determina potência: semente 12% THC não produz planta 25% THC
+* Alemanha: autocultivo permitido, consumo juvenil diminuiu [@marijuanamoment2025]
+* Comparação: sementes certificadas (THC conhecido) vs. mercado negro (potência desconhecida, possível adulteração)
+* Portugal: autocultivo vinho não controlado, ninguém fiscaliza teor alcoólico das uvas [@nutt2010]
+* **Princípio:** Sementes certificadas oferecem mais controlo que proibição
+
+### Ataque 1: "Não existe prova científica de que a legalização diminui o tráfico"
+
+**Resposta curta (30s):**
+
+"No Canadá, o mercado legal passou de 4% para 72% em seis anos. As compras ilegais caíram de 28% para 3% [@healthcanada2024]. Na Alemanha, os crimes relacionados com cannabis caíram 56-80% no primeiro ano [@businesscannabis2025a]. A prova existe — é só querer ver."
+
+**Resposta desenvolvida (2min):**
+
+"Camarada, permita-me discordar respeitosamente. A evidência existe e é robusta. No Canadá, antes da legalização em 2018, apenas 4% do mercado era legal. Hoje, segundo o Canadian Cannabis Survey de 2024, **72% dos consumidores compram em canais legais** [@healthcanada2024]. As compras no mercado ilegal caíram de **28% para 3%**.
+
+Na Alemanha, no primeiro ano após a legalização, os crimes relacionados com cannabis caíram entre **56% e 80%** dependendo da região. Foram evitados aproximadamente **100.000 processos criminais** [@businesscannabis2025a].
+
+Posso concordar que devemos investir mais em prevenção e tratamento — é por isso que propomos **~€52M/ano** dedicados a esse fim ([ver financiamento](#financiamento)). Mas dizer que não há prova de que a legalização reduz o tráfico é ignorar a evidência internacional."
+
+**Dados de suporte:**
+
+* Canadá mercado legal: 4% → 72% (Health Canada, 2018-2024) [@healthcanada2024]
+* Canadá compras ilegais: 28% → 3% [@healthcanada2024]
+* Alemanha crimes cannabis: -56% a -80% [@businesscannabis2025a]
+* Alemanha: ~100.000 processos evitados [@businesscannabis2025a]
+* **Conclusão:** Evidência inequívoca de redução do mercado negro
+
+### "E os acidentes de viação?"
+
+**Resposta curta (30s):**
+
+"É uma preocupação válida. Propomos o limite alemão de 3,5 ng/ml de THC no sangue, tolerância zero para novos condutores, e investimento em tecnologia de testagem antes da implementação [@bmg2024thclimit]. Na Alemanha, os acidentes relacionados com cannabis não aumentaram após a legalização [@marijuanamoment2025accidents; @businesscannabis2025traffic]."
+
+**Resposta desenvolvida (2min):**
+
+"A condução sob influência de cannabis é uma preocupação séria que levamos a sério. A nossa proposta inclui salvaguardas rigorosas baseadas no modelo alemão:
+
+* **Limite de 3,5 ng/ml de THC no sangue** — estabelecido por painel de especialistas do Ministério dos Transportes alemão como equivalente a 0,2‰ de álcool [@bmg2024thclimit]
+* **Tolerância zero** para condutores com menos de 2 anos de carta e menores de 21 anos [@bmg2024thclimit]
+* **Proibição absoluta** de mistura cannabis + álcool [@bmg2024thclimit]
+* **Investimento em tecnologia de testagem adequada** — aprender com os desafios alemães
+* **Formação das forças de segurança** para aplicação efectiva
+
+A Alemanha enfrentou desafios iniciais com os testes rápidos disponíveis — os dispositivos policiais actuais não funcionam adequadamente com o novo limite de 3,5 ng/ml. Estão actualmente a desenvolver melhores testes. Propomos **aprender com essa experiência** e investir na tecnologia certa **antes** de implementar, não depois.
+
+**Quanto aos dados:** O primeiro relatório oficial do governo alemão sobre o impacto da legalização mostra que **não houve aumento claro nos acidentes relacionados com cannabis** [@marijuanamoment2025accidents; @businesscannabis2025traffic]. A monitorização continua, mas os dados iniciais sugerem que a regulação, com as salvaguardas certas, não aumenta os riscos rodoviários."
+
+**Dados de suporte:**
+
+* Limite alemão: 3,5 ng/ml THC no sangue (equivalente a 0,2‰ álcool) [@bmg2024thclimit]
+* Lei efectiva: 22 agosto 2024 [@bmg2024thclimit]
+* Tolerância zero: novos condutores e menores de 21 [@bmg2024thclimit]
+* Proibição: cannabis + álcool [@bmg2024thclimit]
+* Dados alemães 2024-2025: acidentes não aumentaram [@marijuanamoment2025accidents; @businesscannabis2025traffic]
+* Desafios alemães: testes rápidos policiais inadequados para novo limite
+* Proposta PT: investir em tecnologia de testagem adequada antes da implementação
+* **Princípio:** Regulação com salvaguardas rigorosas + tecnologia adequada = não aumenta riscos rodoviários
+
+---
+
+## 3. Argumentos Morais e Ideológicos
+
+### Ataque 1: "O LIVRE quer drogar a juventude portuguesa"
+
+**Resposta curta (30s):**
+
+"Os factos dizem o contrário. No Colorado, após a legalização, o consumo juvenil caiu 42%. Na Alemanha, caiu de 6,7% para 6,1% no primeiro ano. Sabe porquê? Porque vendedores licenciados verificam idade. Traficantes não. A proibição é que deixa os jovens desprotegidos."
+
+**Resposta desenvolvida (2min):**
+
+"Compreendo a preocupação com os jovens — nós partilhamos essa preocupação. Mas os dados mostram exactamente o oposto do que o Chega sugere. No Colorado, onde a cannabis foi legalizada em 2012, o consumo entre jovens do secundário caiu de 22% para 12,8% — uma redução de 42%. Na Alemanha, no primeiro ano após a legalização, o consumo juvenil caiu de 6,7% para 6,1%.
+
+A razão é simples: um vendedor licenciado perde a licença se vender a menores. Um traficante não se importa com a idade do cliente. Aliás, em Portugal, sob a actual proibição, o consumo de risco entre jovens aumentou 6,5 vezes entre 2012 e 2022 — de 0,2% para 1,3%.
+
+A proibição não está a proteger ninguém. A nossa proposta inclui idade mínima de 21 anos, limites de THC para menores de 21 (10% máximo nos clubes), e ~€52M/ano obrigatoriamente destinados a prevenção e tratamento ([ver financiamento](#financiamento)). Isto é proteger os jovens a sério — não é proibir e esperar que funcione."
+
+**Dados de suporte:**
+
+* Colorado: 22% → 12,8% consumo juvenil (CDPHE, 2011-2023) [@cdphe2024]
+* Alemanha: 6,7% → 6,1% consumo juvenil (EKOCAN, 2024-2025) [@marijuanamoment2025]
+* Portugal consumo de risco jovens: 0,2% → 1,3% (SICAD, 2012-2022) [@leung2020]
+* MPP: consumo diminuiu em 19 de 21 estados que legalizaram [@marijuanapolicy2025]
+
+### Ataque 4: "O LIVRE é o partido da droga"
+
+**Resposta curta (30s):**
+
+"O LIVRE é o partido da evidência. A descriminalização portuguesa de 2001 foi elogiada pelo Cato Institute — um think tank conservador americano — como 'sucesso retumbante' [@greenwald2009]. As mortes por overdose caíram de 369 para 80 por ano [@bessergrowen2025], o HIV caiu 98% [@manthey2024], e o consumo não aumentou. Queremos continuar esse sucesso, não voltar atrás."
+
+**Resposta desenvolvida (2min):**
+
+"Esse tipo de rótulos não me incomoda. O que me incomodaria seria ignorar 25 anos de evidência. Em 2001, quando Portugal descriminalizou, muitos disseram o mesmo — que íamos tornar-nos 'o país da droga'. O que aconteceu?
+
+* As mortes por overdose caíram de **369 (1999) para ~80 por ano** [@bessergrowen2025]
+* Os novos casos de HIV relacionados com drogas caíram **98%** — de 907 (2000) para 18 (2017) [@manthey2024]
+* E o consumo não aumentou — Portugal mantém-se abaixo da média europeia
+
+Sabe quem elogiou o modelo português? O **Cato Institute** — um think tank conservador americano. Chamaram-lhe 'sucesso retumbante por praticamente todas as métricas' [@greenwald2009].
+
+Nós não somos o partido da droga. Somos o partido que lê os dados e age em conformidade. E os dados são claros: políticas de saúde pública funcionam melhor que proibição."
+
+**Dados de suporte:**
+
+* Descriminalização 2001: mortes overdose 369→80, HIV -98% [@bessergrowen2025] [@manthey2024]
+* Cato Institute (conservador): "sucesso retumbante" [@greenwald2009]
+* Consumo PT abaixo média EU: 2,8% vs 8,4% último ano
+* 25 anos de evidência vs. rótulos ideológicos
+
+### "Isto vai normalizar o consumo"
+
+**Resposta curta (30s):**
+
+"A proibição não impediu que 10,5% dos portugueses experimentassem cannabis [@nugent2017]. O consumo já é relativamente comum — só que num mercado sem regras. A regulação não normaliza o consumo; normaliza o **controlo de qualidade**, a **verificação de idade**, e a **informação sobre riscos**."
+
+**Resposta desenvolvida (2min):**
+
+"Vamos ser honestos: o consumo de cannabis em Portugal já é relativamente comum. Cerca de **10,5% da população** já experimentou [@nugent2017]. A proibição não impediu isso. O que a proibição impediu foi:
+
+* **Controlo de qualidade** — produto de potência conhecida, sem adulterações
+* **Verificação de idades** — vendedores licenciados perdem a licença se venderem a menores
+* **Informação sobre riscos** — rotulagem com avisos de saúde, como no tabaco
+* **Recursos para prevenção** — financiamento dedicado via poupanças de enforcement ([ver €52M/ano](#financiamento))
+
+A regulação não normaliza o consumo — **normaliza o controlo**. É a diferença entre dizer 'não faças isso' e fechar os olhos, versus dizer 'se vais fazer, aqui tens informação, produto seguro, e apoio se precisares'.
+
+Nos países que legalizaram, o consumo juvenil não aumentou — em muitos casos **diminuiu**. Colorado: -42% entre jovens do secundário [@cdphe2024]. Alemanha: 6,7% → 6,1% no primeiro ano [@marijuanamoment2025]. Em 19 de 21 estados americanos que legalizaram, o consumo juvenil diminuiu [@marijuanapolicy2025].
+
+A 'normalização' que preocupa não acontece. O que acontece é transferir o mercado de **criminosos para operadores licenciados e fiscalizados**. É substituir produto de potência desconhecida vendido a qualquer idade por produto regulado com verificação rigorosa."
+
+**Dados de suporte:**
+
+* Prevalência PT: 10,5% já experimentaram cannabis [@nugent2017]
+* Proibição não impede consumo, impede apenas controlo
+* Colorado: consumo juvenil -42% após legalização [@cdphe2024]
+* Alemanha: 6,7% → 6,1% consumo juvenil primeiro ano [@marijuanamoment2025]
+* MPP: 19 de 21 estados americanos com diminuição de consumo juvenil [@marijuanapolicy2025]
+* Regulação oferece: controlo qualidade, verificação idade, informação riscos, financiamento prevenção
+* **Princípio:** Transferir mercado de criminosos para operadores licenciados não é normalizar — é controlar
+
+### Resposta ao Chega
+
+**Estratégia:** NÃO tentar convencer. Não responder a provocações.
+
+**Quando atacarem:**
+
+*"Respeitamos que o Chega discorde. Mas a evidência de 25 anos de descriminalização portuguesa — elogiada internacionalmente pelo Cato Institute, um think tank conservador americano, como 'sucesso retumbante' [@greenwald2009] — mostra que políticas de drogas baseadas em saúde pública funcionam melhor que proibição. Na Alemanha, o consumo juvenil diminuiu após a legalização [@marijuanamoment2025]. São estes os factos."*
+
+---
+
+## 4. Argumentos Legais e de Governança
+
+### "Viola tratados internacionais"
+
 **Resposta:** Canadá, Uruguai, Alemanha, Malta e 24 estados dos EUA legalizaram sem consequências internacionais. Em Dezembro de 2020, a cannabis foi removida do Anexo IV da Convenção de 1961 da ONU (27-25-1), por recomendação da OMS, reconhecendo o seu potencial terapêutico [@unnews2020].
 
 A cannabis permanece no Anexo I, mas a remoção do Anexo IV (reservado a drogas "sem vantagens terapêuticas substanciais") abre caminho para regulação responsável.
 
-## "O autocultivo não pode ser controlado"
-**Resposta:**
+### "Isto deveria ser tratado como questão técnico-científica, não política"
 
-* Ninguém controla o autocultivo de uvas para vinho — e o álcool é **3,6x mais nocivo** (score 72 vs 20) [@nutt2010]
-* Com sementes certificadas, o THC máximo é conhecido e rotulado [@bundesministerium2024]
-* Na Alemanha, o autocultivo é permitido e o consumo juvenil diminuiu [@marijuanamoment2025]
-* Proibir autocultivo empurra consumidores para o mercado negro
-* 3 plantas é claramente para uso pessoal, não tráfico [@wikipedia2025]
+**Resposta curta (30s):**
 
-## "Não há provas de que reduz o tráfico"
-**Resposta:**
+"Concordo plenamente. E é exactamente por isso que a nossa proposta se baseia em evidência científica, não em ideologia. Propomos criar uma comissão científica independente para avaliar os resultados. Mas a decisão de regular ou proibir é sempre uma decisão política — e deve basear-se nos dados."
 
-* Canadá: mercado legal passou de 4% para 72% em 6 anos [@healthcanada2024]
-* Compras no mercado ilegal: 28% → 3% [@healthcanada2024]
-* Alemanha: crimes relacionados com cannabis caíram 56% na Baviera; ~100.000 processos evitados a nível nacional [@businesscannabis2025a]
+**Resposta desenvolvida (2min):**
 
-A evidência internacional é inequívoca.
+"Concordo com essa premissa. É por isso que o nosso documento tem 75+ referências científicas e foi validado ponto a ponto. Citamos o estudo do Lancet sobre danos comparativos de drogas [@nutt2010], estudos de coorte europeus sobre psicose e cannabis [@marconi2016; @di2019], relatórios da OMS [@unnews2020]. Reconhecemos os riscos para a saúde mental. Propomos medidas específicas de mitigação baseadas na evidência.
+
+Mas permita-me ser directo: a decisão de manter a proibição também é uma decisão política. E essa decisão não está a ser informada pela ciência. A ciência diz que a descriminalização funcionou [@greenwald2009]. A ciência diz que a regulação reduz o mercado negro [@healthcanada2024; @businesscannabis2025a]. A ciência diz que o consumo juvenil não aumenta com a legalização — pelo contrário, diminui [@cdphe2024; @marijuanamoment2025].
+
+Estamos de acordo que isto deve ser técnico-científico? Então propomos uma comissão científica independente para avaliar os resultados após implementação. Mas olhemos para a ciência e tiremos as conclusões lógicas."
+
+**Dados de suporte:**
+
+* Documento baseado em 75+ referências científicas peer-reviewed
+* Estudos sobre danos: Lancet 2010 [@nutt2010], psicose [@marconi2016; @di2019], OMS [@unnews2020]
+* Riscos reconhecidos com salvaguardas propostas (idade 21, limites THC, financiamento prevenção)
+* Evidência internacional: descriminalização PT [@greenwald2009], Canadá [@healthcanada2024], Alemanha [@businesscannabis2025a; @marijuanamoment2025]
+* Proposta: comissão científica independente para monitorização e avaliação contínua
+* **Princípio:** Decisões políticas devem ser informadas pela melhor evidência disponível
+
+### "Precisamos primeiro de estudar mais"
+
+**Resposta curta (30s):**
+
+"Temos 25 anos de descriminalização portuguesa [@greenwald2009], 6 anos de legalização no Canadá [@healthcanada2024], dados de 24 estados americanos. A Alemanha tem um programa de avaliação até 2028 [@bundesministerium2024]. Quantos anos mais precisamos? Enquanto estudamos, o mercado negro continua a operar sem qualquer controlo."
+
+**Resposta desenvolvida (2min):**
+
+"Portugal estudou a descriminalização durante 25 anos [@greenwald2009]. O Canadá estudou a legalização durante 6 anos [@healthcanada2024]. Os Estados Unidos têm 24 estados com dados. A Alemanha está a fazer uma avaliação formal até 2028 [@bundesministerium2024]. Temos mais evidência sobre regulação de cannabis do que tínhamos sobre muitas políticas que implementámos.
+
+A questão é: quanto tempo mais queremos esperar enquanto o mercado negro continua a operar? O mercado negro não espera pelos nossos estudos. Continua a vender produto de potência desconhecida, sem verificar idades, sem pagar impostos, financiando redes criminosas.
+
+Aliás, a moção 'Legalizar' aprovada no Congresso do LIVRE em 2018 foi há 8 anos. O que foi estudado desde então? O grupo de trabalho do PS em 2023 nunca concluiu. Em algum momento temos de parar de estudar e começar a agir.
+
+Propomos incluir um mecanismo de avaliação independente, como a Alemanha fez. Mas não podemos usar 'estudar mais' como desculpa permanente para não fazer nada."
+
+**Dados de suporte:**
+
+* Portugal: 25 anos dados descriminalização (2001-2026) [@greenwald2009; @bessergrowen2025; @manthey2024]
+* Canadá: 6 anos dados legalização (2018-2024) [@healthcanada2024]
+* EUA: 24 estados com cannabis legal, dados múltiplos anos [@cdphe2024]
+* Alemanha: programa avaliação formal até 2028 [@bundesministerium2024]
+* Custo da inação: mercado negro 36-58 ton/ano em PT sem controlo [@torresmoreno2023]
+* Proposta: mecanismo avaliação independente incluído (comissão científica)
+* **Princípio:** Evidência abundante existe; protelar é escolher manter o status quo do mercado negro
+
+### "A prioridade deve ser educação e prevenção"
+
+**Resposta curta (30s):**
+
+"Concordo completamente. Por isso propomos que 30% das poupanças em custos de enforcement — cerca de **€52 milhões/ano** — sejam obrigatoriamente destinados a prevenção e tratamento ([ver cálculo](#financiamento)). A pergunta é: de onde vem esse dinheiro? Com a proibição, vem do Orçamento de Estado — sempre insuficiente. Com a regulação, vem das poupanças que o Estado deixa de gastar em perseguir consumidores."
+
+**Resposta desenvolvida (2min):**
+
+"Estamos de acordo na importância da prevenção. A questão é como financiá-la de forma sustentável. Actualmente, a prevenção e o tratamento competem com hospitais, escolas e pensões pelo Orçamento de Estado. E historicamente, os serviços de saúde mental e tratamento de dependências são sempre os primeiros a sofrer cortes.
+
+A nossa proposta oferece uma solução: **€52 milhões/ano** garantidos para prevenção, tratamento e investigação ([ver cálculo detalhado](#financiamento)). De onde vêm estes €52M? Das **poupanças em custos de enforcement** — o dinheiro que o Estado deixa de gastar a perseguir, processar e encarcerar consumidores. Um estudo alemão de 2021 estimou poupanças de €1,36 mil milhões/ano. Ajustado à população portuguesa: **~€174M/ano** [@cannabisnow2024].
+
+Propomos afetar **30% destas poupanças** (€52M) a:
+* Reforço do SICAD (tratamento de dependências)
+* Programas de prevenção nas escolas
+* Investigação científica sobre riscos e benefícios
+* Formação de profissionais de saúde
+* Fiscalização dos clubes e controlo de qualidade
+
+Prevenção e regulação não são opostos — são complementares. A regulação financia a prevenção de forma sustentável, sem competir com o SNS pelo orçamento."
+
+**Dados de suporte:**
+
+* Poupanças enforcement estimadas: ~€174M/ano para Portugal [@cannabisnow2024]
+* Proposta: 30% (€52M/ano) obrigatoriamente para prevenção/tratamento
+* Consumo de risco jovens (sob proibição): 0,2% → 1,3% (2012-2022) [@leung2020]
+* Modelo actual: prevenção compete com hospitais/escolas/pensões por Orçamento de Estado
+* Modelo proposto: financiamento dedicado via poupanças de enforcement
+* Alemanha: programa de avaliação formal até 2028 com financiamento garantido [@bundesministerium2024]
+* **Princípio:** Regulação cria fonte sustentável de financiamento para prevenção que a proibição não oferece
+
+### "Portugal não precisa de ser cobaia"
+
+**Resposta curta (30s):**
+
+"Não seremos cobaia — seremos o **10º país** a regular. Temos dados de 6 anos do Canadá [@healthcanada2024], 12 anos do Uruguai, 10+ anos do Colorado [@cdphe2024], e agora da Alemanha [@bundesministerium2024]. **Cobaia foi em 2001**, quando descriminalizámos sem ninguém ter feito antes. E resultou [@greenwald2009]."
+
+**Resposta desenvolvida (2min):**
+
+"Em 2001, Portugal foi verdadeiramente pioneiro. Descriminalizar **todas as drogas** era inédito. Muitos criticaram, disseram que íamos ser 'cobaia'. Resultado? **Sucesso reconhecido mundialmente** — mortes por overdose caíram 78%, HIV caiu 98%, consumo manteve-se abaixo da média europeia [@greenwald2009; @bessergrowen2025; @manthey2024].
+
+Agora não estamos a ser pioneiros. Estamos a **seguir** países que já têm anos de dados:
+
+* **Canadá:** 6 anos de legalização comercial (2018-2024) — mercado legal cresceu para 72% [@healthcanada2024]
+* **Uruguai:** 12 anos de legalização (2013-2025) — primeiro país do mundo
+* **24 estados americanos:** Incluindo Colorado com 10+ anos de dados — consumo juvenil diminuiu 42% [@cdphe2024]
+* **Malta, Luxemburgo, Alemanha:** Países europeus que legalizaram recentemente [@bundesministerium2024]
+
+Temos **mais evidência disponível hoje** do que tínhamos em 2001 sobre descriminalização. A única cobaia aqui seria continuar a proibir quando toda a evidência internacional aponta noutra direcção.
+
+Aliás, se Portugal não agir, **perderemos a vantagem competitiva** que temos na cannabis medicinal. Somos o 2º maior exportador mundial [@infarmed2024; @euronews2024]. Quando mais países europeus legalizarem, a nossa indústria de exportação terá concorrência directa. Regular o mercado interno consolidaria a nossa posição."
+
+**Dados de suporte:**
+
+* Portugal pioneiro 2001: descriminalização inédita, sucesso mundial [@greenwald2009]
+* Canadá: 6 anos dados legalização (2018-2024) [@healthcanada2024]
+* Uruguai: 12 anos dados (primeiro país, 2013)
+* EUA: 24 estados legalizaram, Colorado com 10+ anos [@cdphe2024]
+* Europa: Malta, Luxemburgo, Alemanha legalizaram [@bundesministerium2024]
+* Portugal como seguidor, não pioneiro — mais evidência disponível que em 2001
+* Vantagem competitiva cannabis medicinal: 2º exportador mundial [@infarmed2024; @euronews2024]
+* Risco: perder posição se mercado europeu crescer sem PT participar
+* **Princípio:** Seguir evidência de múltiplos países com dados robustos ≠ ser cobaia
+
+---
+
+## 5. Ataques Específicos por Partido
+
+### Partido Socialista (PS)
+
+#### "Não queremos criar divisões na bancada"
+
+**Resposta curta (30s):**
+
+"Compreendo a preocupação. Mas a Juventude Socialista já se posicionou claramente a favor [@rr2024js]. Vários deputados do PS votaram favoravelmente em 2019. E o PS tem o legado da Lei 30/2000 — a descriminalização que o mundo inteiro elogia [@greenwald2009]. Seria estranho outro partido liderar o passo seguinte."
+
+**Resposta desenvolvida (2min):**
+
+"A preocupação com a unidade partidária é legítima. Mas deixe-me partilhar alguns factos:
+
+**A Juventude Socialista** é claramente a favor. Em janeiro de 2024, voltaram a insistir na legalização [@rr2024js]. Miguel Costa Matos, enquanto líder da JS, pediu ao PS que aproveitasse a maioria absoluta para avançar [@publico2023ps]. Esta não é uma posição marginal — vem sendo defendida há vários anos pela base jovem do partido.
+
+**Vários deputados do PS** votaram a favor de propostas de legalização em 2019. Há abertura interna, mesmo que não seja maioritária.
+
+**O legado histórico do PS**: Foi o PS que aprovou a Lei 30/2000, a descriminalização que revolucionou a política de drogas mundial [@greenwald2009]. O Cato Institute, um think tank conservador americano, elogiou-a como 'sucesso retumbante'. Portugal foi pioneiro há 25 anos. Não seria coerente que outro partido liderasse o próximo passo.
+
+**Em 2023, o Eurico Brilhante Dias** (então líder do grupo parlamentar) anunciou um grupo de trabalho que nunca concluiu devido à crise política [@publico2023ps; @ps2023cannabis]. Isso mostra que há abertura — falta o momento certo.
+
+**Proposta:** Começar pela cannabis medicinal — comparticipação e simplificação do acesso. Isso tem consenso alargado (PS, PSD, PCP, todos votaram a favor em 2018 [@publico2018b]) e prepara o terreno para discussões futuras sobre regulação."
+
+**Dados de suporte:**
+
+* Juventude Socialista a favor da legalização desde 2019 [@rr2024js; @publico2021js]
+* Miguel Costa Matos (JS) pediu ao PS que aproveitasse maioria absoluta (2022)
+* Deputados PS votaram favorável em propostas 2019
+* Legado Lei 30/2000: descriminalização elogiada internacionalmente [@greenwald2009]
+* Eurico Brilhante Dias anunciou grupo de trabalho set/2023 [@publico2023ps; @ps2023cannabis]
+* Grupo de trabalho nunca concluiu (crise política, eleições antecipadas 2024)
+* Cannabis medicinal: consenso PS/PSD/PCP em 2018 [@publico2018b]
+* **Táctica:** Começar por cannabis medicinal (consensual) → preparar terreno para recreativa
+
+---
+
+### Outros Partidos
+
+*(Secção a desenvolver com ataques de PSD, CDS, Chega, IL, outros)*
 
 
 # PROPOSTAS CONCRETAS

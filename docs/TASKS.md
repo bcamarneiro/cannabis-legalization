@@ -107,6 +107,16 @@ Este ficheiro rastreia melhorias identificadas para o documento de posição.
 - [x] Corrigir formatação das referências (brackets duplos)
 - [x] Resolver overflow de URLs na bibliografia
 - [x] Ajustar espaçamento entre palavras nas referências
+- [x] **Impacto ambiental e realidade económica** ✅ INTEGRADO (2026-01-25)
+  - **Feedback crítico de Luísa Álvares (experiência suíça):**
+  - **Catástrofe ambiental:** Cultivo indoor 2.300-5.200 kg CO₂/kg (23-52x pior que carne) [@summers2021cannabis; @mills2021cannabis]
+  - **Solução sustentável:** Cânhamo captura 8-22 toneladas CO₂/hectare [@cambridge2022hemp; @britishhemp2024carbon]
+  - **Realidade económica SNS:** 37% população com dor crónica [@azevedo2012chronic], custo €350/mês/paciente = €16B/ano (92% do OE Saúde 2026 [@publico2025oe2026])
+  - **Conclusão:** Comparticipação universal impossível sem moeda soberana — reforça necessidade de modelo selectivo
+  - Adicionada secção ambiental em "0. FUNDAMENTAÇÃO" (documento.md)
+  - Actualizado Sumário Executivo Fase 2 com argumento ambiental
+  - Actualizada secção custo-benefício com dados realistas de prevalência dor crónica
+  - 8 novas referências validadas (Nature Sustainability, Cambridge, Azevedo 2012, OE2026)
 
 ---
 
@@ -115,5 +125,6 @@ Este ficheiro rastreia melhorias identificadas para o documento de posição.
 - **Priorização:** Urgente > Alta > Média > Baixa
 - **Anexos A e B são bloqueantes** - documento referencia-os explicitamente
 - Outras tarefas podem ser implementadas incrementalmente
+- **Feedback externo:** Integração de experiência prática suíça (Luísa Álvares) alterou fundamentação ambiental e económica
 
-**Última atualização:** 2026-01-24
+**Última atualização:** 2026-01-25
