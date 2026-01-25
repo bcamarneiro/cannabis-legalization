@@ -2,6 +2,90 @@
 
 \newpage
 
+# RESUMO PARA DECISORES {-}
+
+**Para:** Círculos Temáticos Liberdade, Saúde, Ecologia
+**Assunto:** Regulação da Cannabis — Proposta de Posição LIVRE
+**Data:** Janeiro 2026
+
+## O Problema
+
+Portugal **exporta 32.558 kg** de cannabis medicinal (2024) mas emite apenas **1.157 prescrições** internas. Doentes pagam **€150/mês** sem comparticipação SNS.
+
+**Uso recreativo:** 95% via mercado negro (€52-151M/ano) com:
+- **Sintéticos perigosos** (800x mais potentes que THC)
+- **Potência duplicada** sem rotulagem
+- **Catástrofe ambiental:** 2.300-5.200 kg CO₂/kg (23-52x pior que carne)
+- **75% das condenações** por drogas são consumidores ocasionais de cannabis
+
+## O que Propomos
+
+### FASE 1: Cannabis Medicinal (prioridade imediata — Q2 2026)
+
+**Consenso amplo esperado** (PS, PAN, BE, IL):
+- ✅ Comparticipação SNS para indicações aprovadas
+- ✅ Simplificação prescrição (médicos de família)
+- ✅ Avaliação formal da Lei 33/2018
+
+### FASE 2: Cannabis Recreativa (médio prazo — Q3-Q4 2026)
+
+**Modelo:** Clubes sociais sem fins lucrativos + autocultivo (Alemanha 2024)
+
+**NÃO é modelo comercial** (tipo Canadá/EUA):
+- ✅ Idade mínima 21 anos
+- ✅ Clubes: max 500 membros, sem fins lucrativos, THC ≤10% para 18-21 anos
+- ✅ Autocultivo: 3 plantas, sementes certificadas
+- ✅ Produtos testados obrigatoriamente
+- ✅ €52M/ano para prevenção (poupanças enforcement)
+
+**Evidência internacional:**
+- Colorado: consumo juvenil -42%
+- Canadá: consumo juvenil (15-17 anos) -48%
+- Alemanha: 357 clubes aprovados (Nov 2025)
+
+### FASE 3: Cânhamo Industrial
+
+**Não controverso** (já legal UE, THC<0,3%):
+- Captura 8-22 t CO₂/hectare
+- Programa piloto 3-5 regiões
+- Incentivos PAC
+
+## Cronograma Proposto
+
+| Data | Acção |
+|------|-------|
+| **Fev 2026** | Aprovação CTs Liberdade, Saúde, Ecologia |
+| **Mar 2026** | Apresentação à Coordenação |
+| **Abr 2026** | Perguntas parlamentares (Min. Saúde) |
+| **Q3-Q4 2026** | Proposta legislativa (coordenada BE/PAN/IL) |
+
+## Estratégia de Consenso
+
+**Com PS:** Foco exclusivo medicinal inicialmente
+**Com PSD:** Autocultivo como compromisso (não clubes)
+**Com PCP:** Ênfase anti-mercado negro, clubes sem fins lucrativos
+**Contra Chega:** Dados evidência (descriminalização 2001 não aumentou consumo)
+
+## Próximos Passos
+
+1. **Votação CTs** — aprovação proposta como posição LIVRE
+2. **Coordenação** — validação estratégia faseada
+3. **Parlamentar** — preparar Projecto de Resolução (grupo trabalho)
+4. **Comunicação** — lançamento público alinhado com Marcha Cannabis (Mai 2026)
+
+## Documentação Completa
+
+Este resumo condensa **documento de 40 páginas** com:
+- 75+ referências científicas validadas
+- Análise comparativa modelos internacionais
+- Manual de argumentação detalhado (Anexo I)
+- Especificações técnicas clubes sociais (Anexo II)
+
+**Para decisão informada:** ler Secções 1-4 (~14 páginas)
+**Para defesa pública:** consultar Anexo I (guia argumentação)
+
+\newpage
+
 # SUMÁRIO EXECUTIVO {-}
 
 ## O paradoxo português
@@ -50,6 +134,118 @@ Este documento propõe que o LIVRE assuma uma posição clara e proactiva sobre 
 
 **Os dois objectivos são complementares, não conflituantes** — mas a sequência estratégica maximiza probabilidade de sucesso político.
 
+
+\newpage
+
+# FUNDAMENTAÇÃO: Porquê Regular o Uso Recreativo?
+
+## A questão central que devemos responder
+
+**CRÍTICO:** A regulação do uso recreativo NÃO é sobre promover consumo ou gerar receitas fiscais. É sobre **redução de danos para quem já consome**.
+
+## O problema actual: Criminalização sem reduzir consumo
+
+**Dados de criminalização (SICAD 2018, Diário de Notícias 2020):**
+
+* **75% de todas as condenações por drogas** em Portugal são por cannabis [@sicad2018condenacoes; @dn2020condenacoes]
+* **86% dos indiciados** têm perfil "não toxicodependente" — são consumidores ocasionais criminalizados, não pessoas com dependência [@cannareporter2023legalization]
+* **95% dos utilizadores** portugueses usa cannabis ilegal (mercado negro) [@cannareporter2025medicinal]
+* Mercado negro estimado em **36-58 toneladas/ano**, potencial receita fiscal €52-151M [@ribeiro2024economic]
+
+**Conclusão:** A proibição não elimina o consumo. Criminaliza centenas de pessoas por ano, enquanto 95% continua a usar produto não regulado.
+
+## Riscos do mercado não regulado (EUDA 2024-2025)
+
+**1. Canabinóides sintéticos perigosos:**
+
+* **18 novos canabinóides semi-sintéticos** identificados em 2024 [@euda2025nps]
+* Alguns são **2 a 800 vezes mais potentes** que THC natural [@euda2025nps]
+* **HHC** (hexahydrocannabinol) e derivados vendidos como "alternativas legais" reportados em **27 países europeus**, controlados em 22 Estados-Membros [@euda2025nps]
+* **Hungria reportou 30 intoxicações agudas** por gomas adulteradas com sintéticos em 2024 [@euda2024threat]
+
+**2. Aumento drástico da potência:**
+
+* **Resina:** THC médio aumentou de **8.14% (2006)** para **17.22% (2016)** — mais que duplicou [@freeman2019potency]
+* **Herbal:** THC médio aumentou de **5.00% (2006)** para **10.22% (2016)** — também duplicou [@freeman2019potency]
+* Mercado negro não rotula potência, não permite escolha informada
+
+**3. Riscos de saúde sem controlo:**
+
+* Sem testes de qualidade: risco de pesticidas, metais pesados, fungos
+* Sem rastreabilidade: origem e composição desconhecidas
+* Sem informação ao consumidor: teor de THC, dosagens, riscos
+* Hospitalizações por produtos adulterados a aumentar na Europa [@euda2024threat]
+
+**4. Catástrofe ambiental do modelo actual:**
+
+O modelo de cultivo indoor dominante no mercado negro (e em alguns mercados legais) é **ambientalmente insustentável:**
+
+* **Emissões de carbono:** Cultivo indoor gera **2.283-5.184 kg CO₂-equivalente por kg de flor seca** [@summers2021cannabis; @mills2021cannabis; @motherjones2021carbon]
+* **Comparação chocante:** Cannabis indoor é **23-52 vezes pior** que produção de carne de vaca (99 kg CO₂/kg) [@summers2021cannabis]
+* **Consumo energético:** Instalações indoor consomem tanta electricidade quanto data centers [@motherjones2021carbon]
+* **Insustentabilidade:** Custos energéticos incompatíveis com metas climáticas europeias
+
+**Alternativa sustentável — cultivo regenerativo e cânhamo:**
+
+* **Cânhamo captura carbono:** 8-22 toneladas CO₂ por hectare por ciclo [@cambridge2022hemp; @britishhemp2024carbon]
+* **Cultivo outdoor/regenerativo:** Emissões drasticamente reduzidas, biodiversidade aumentada
+* **Agroecologia:** Integração com sistemas agroflorestais e permacultura
+* **Co-benefícios:** Regeneração de solos, produção de fibra/sementes, economia rural
+
+**A proibição força o cultivo indoor clandestino.** A regulação permite exigir métodos sustentáveis como condição de licenciamento — tal como a Alemanha exige clubes sem fins lucrativos, Portugal pode exigir cultivo regenerativo de baixo carbono.
+
+## O que a regulação permite (redução de danos)
+
+**1. Protecção do consumidor:**
+
+* **Produtos testados** obrigatoriamente (sem pesticidas, metais pesados, adulterantes)
+* **Rastreabilidade:** origem e composição conhecidas, certificadas
+* **Informação clara:** teor de THC rotulado, dosagens, avisos de risco
+* **Alternativa segura** ao mercado negro com sintéticos perigosos
+
+**2. Protecção da saúde pública:**
+
+* **Verificação de idade:** mercado negro não pede identificação
+* **Limites de potência:** THC máximo 10% para 18-21 anos (modelo alemão [@bundesgesundheit2024cannabis])
+* **Programas de prevenção financiados:** ~€52M/ano de poupanças enforcement ([ver financiamento](#financiamento))
+* **Monitorização e investigação:** dados reais sobre consumo, não estimativas
+
+**3. Redução de custos sociais:**
+
+* **Menos processos judiciais:** 75% das condenações por drogas são cannabis [@sicad2018condenacoes]
+* **Menos urgências hospitalares:** produtos testados vs. sintéticos perigosos [@euda2024threat]
+* **Recursos policiais libertados:** foco em crime grave, não consumidores ocasionais
+* **Menos pessoas com registo criminal** por consumo de substância menos nociva que álcool [@nutt2010]
+
+**4. Retirar rendimento ao crime organizado:**
+
+* Mercado de €52-151M/ano actualmente controlado por redes ilegais [@ribeiro2024economic]
+* Regulação transfere para operadores licenciados, monitorizados, sem fins lucrativos
+
+## Coerência com outras políticas do LIVRE
+
+O LIVRE defende **redução de danos** no álcool e tabaco. Cannabis não é diferente:
+
+* **Regular ≠ promover** (tal como regular o álcool não é promover alcoolismo)
+* **A proibição não funciona:** 95% usa mercado negro [@cannareporter2025medicinal]
+* **A questão é:** produto seguro e testado, ou produto ilegal potencialmente adulterado?
+
+## A resposta a "Porquê legalizar recreativo?"
+
+**Não é para:**
+- ❌ Promover consumo
+- ❌ Gerar receitas fiscais (modelo de clubes sociais sem fins lucrativos)
+- ❌ "Normalizar" a cannabis
+
+**É para:**
+- ✅ **Proteger quem já consome** (95% da população utilizadora [@cannareporter2025medicinal])
+- ✅ **Reduzir danos:** produtos testados vs. sintéticos perigosos 800x mais potentes [@euda2025nps]
+- ✅ **Descriminalizar:** 75% das condenações são consumidores ocasionais [@sicad2018condenacoes; @dn2020condenacoes]
+- ✅ **Controlar potência:** THC rotulado vs. mercado negro que duplicou potência [@freeman2019potency]
+- ✅ **Financiar prevenção:** ~€52M/ano de poupanças enforcement para tratamento
+- ✅ **Retirar rendimento ao crime:** €52-151M/ano para clubes licenciados sem fins lucrativos [@ribeiro2024economic]
+
+**Princípio central:** A proibição não elimina o consumo — apenas elimina o controlo e a segurança.
 
 \newpage
 
@@ -392,6 +588,105 @@ Espanha não legalizou cannabis, mas tolera ~800-1.000 clubes sociais numa "áre
 | JPP | DESCONHECIDO | — | Partido sem posição pública conhecida |
 
 
+# PROPOSTAS CONCRETAS
+## Cannabis Medicinal (prioridade imediata)
+* Comparticipação pelo SNS dos medicamentos à base de cannabis para indicações aprovadas [@euronews2024]
+* Simplificação do acesso — prescrição por médicos de família, não apenas especialistas [@rtp2019]
+* Avaliação formal da Lei 33/2018: porque é que 7 anos depois o acesso continua tão limitado? [@euronews2024] [@eco2024]
+
+## Cannabis Recreativa (médio prazo)
+Proposta baseada no modelo alemão [@bundesministerium2024] [@wikipedia2025], adaptada a Portugal:
+
+**Nota importante:** Esta proposta NÃO contempla o modelo comercial de dispensários (tipo Canadá/EUA). Propõe-se exclusivamente: (1) clubes sociais sem fins lucrativos, onde os preços reflectem apenas custos de produção; e (2) autocultivo com sementes de fornecedores certificados. A menor conveniência face ao mercado negro é intencional — evita comercialização excessiva e turismo cannábico, mantendo foco na saúde pública.
+
+### Posse e consumo
+* Idade mínima: **21 anos** para compra livre
+* Menores de 21 (18-20): apenas via clubes sociais, THC máximo 10%
+* Posse em público: até 25g
+* Posse em casa: até 50g
+
+### Clubes sociais de cannabis
+* Máximo 500 membros
+* Sem fins lucrativos
+* Residência em Portugal há pelo menos 6 meses (evita turismo cannábico)
+* Distribuição: máx. 25g/dia, 50g/mês
+* 200 metros de escolas e espaços para crianças
+* Consumo proibido nas instalações
+* Controlo de qualidade obrigatório (testes de potência e contaminantes)
+* Oficial de prevenção obrigatório
+
+Para uma descrição detalhada do funcionamento deste modelo, ver Anexo A.
+
+### Autocultivo regulado *(proposta de compromisso)*
+* Até 3 plantas por adulto
+* **Sementes apenas de fornecedores autorizados** (THC conhecido)
+* Plantas seguras e inacessíveis a menores
+* Proibida venda ou cedência
+
+Para informação sobre o sistema de sementes certificadas proposto, ver Anexo B.
+
+### Condução
+* Limite: 3,5 ng/ml THC no sangue
+* Tolerância zero: menores de 21 e novos condutores
+* Proibição absoluta: mistura cannabis + álcool
+* Investimento em tecnologia de testagem antes da implementação
+
+### Financiamento de prevenção e tratamento {#financiamento}
+
+**Poupanças estimadas em custos de enforcement:**
+
+A proibição da cannabis tem custos significativos para o Estado. Um estudo de 2021 da Heinrich Heine University Düsseldorf estimou que a Alemanha pouparia [@cannabisnow2024]:
+
+* **€1,05 mil milhões/ano** em custos de enforcement (policiamento)
+* **€313 milhões/ano** em custos judiciais (processos, tribunais)
+* **Total: €1,363 mil milhões/ano**
+
+**Ajustando estes valores à população portuguesa** (10,7M habitantes vs. 83,6M na Alemanha):
+
+* **Poupanças enforcement:** ~€134M/ano
+* **Poupanças judicial:** ~€40M/ano
+* **TOTAL estimado: ~€174 milhões/ano**
+
+**Proposta de afetação:**
+
+* **30% destas poupanças** (~€52M/ano) dedicados a:
+  * Serviços de tratamento de dependências (reforço do SICAD)
+  * Programas de prevenção nas escolas
+  * Investigação científica sobre riscos e benefícios
+  * Formação de profissionais de saúde
+  * Fiscalização dos clubes e controlo de qualidade
+
+* **Fonte adicional:** Taxas de licenciamento dos clubes sociais (modelo alemão: €250-500 adesão + quotas mensais)
+
+## Cânhamo Industrial: Uma oportunidade económica e ambiental
+O cânhamo industrial (Cannabis sativa L. com THC<0,3%) representa uma oportunidade estratégica para Portugal [@ec2024].
+
+**Benefícios ambientais:**
+
+* **Captura de carbono:** 8-15 toneladas CO₂/hectare (até 22 ton com duas colheitas/ano) [@dezeen2021]
+* **Baixa necessidade de pesticidas** — naturalmente resistente à maioria das pragas
+* **Melhoria do solo** — raízes profundas, devolve azoto ao solo
+* **50-70% menos água que algodão** [@stockholm2005]
+
+**Proposta:**
+
+* Simplificação regulatória para cânhamo THC<0,3%
+* Programa piloto em 3-5 regiões
+* Parcerias com universidades (ISA, UTAD)
+* Incentivos PAC para conversão de culturas
+
+
+# CRONOGRAMA
+| PRAZO | ACÇÃO |
+| :---- | :---- |
+| Fev 2026 | Aprovação pelos CTs Liberdade, Saúde e Ecologia |
+| Mar 2026 | Apresentação à Coordenação do partido |
+| Abr 2026 | Perguntas parlamentares ao Min. Saúde (acesso cannabis medicinal) |
+| Mai 2026 | Participação na Marcha da Cannabis (Lisboa) |
+| Jun 2026 | Projecto de Resolução — grupo de trabalho parlamentar |
+| **Q3-Q4 2026** | **Proposta legislativa (coordenada com BE/PAN/IL)** |
+
+
 # ESTRATÉGIAS PARA CONSTRUIR PONTES
 ## Com o PS — Prioridade máxima
 **Estratégia:**
@@ -473,7 +768,7 @@ Trabalhar com Juventude Socialista como aliada [@publico2022]
 **Táctica:** Começar pelo Nível 1, negociar Nível 2, manter Nível 3 como objectivo futuro.
 
 
-# SECÇÃO II: GUIA DE DEBATE E MANUAL DE ARGUMENTAÇÃO {-}
+# ANEXO I: Guia de Argumentação {-}
 
 ## Como usar este guia
 
@@ -508,118 +803,6 @@ Quando atacado, usa esta estrutura:
 * "Toda a gente consome" (exagero impreciso)
 * "A proibição não funciona em lado nenhum" (impreciso)
 * Ataques pessoais aos opositores
-
----
-
-## 0. FUNDAMENTAÇÃO: Porquê Regular o Uso Recreativo?
-
-### A questão central que devemos responder
-
-**CRÍTICO:** A regulação do uso recreativo NÃO é sobre promover consumo ou gerar receitas fiscais. É sobre **redução de danos para quem já consome**.
-
-### O problema actual: Criminalização sem reduzir consumo
-
-**Dados de criminalização (SICAD 2018, Diário de Notícias 2020):**
-
-* **75% de todas as condenações por drogas** em Portugal são por cannabis [@sicad2018condenacoes; @dn2020condenacoes]
-* **86% dos indiciados** têm perfil "não toxicodependente" — são consumidores ocasionais criminalizados, não pessoas com dependência [@cannareporter2023legalization]
-* **95% dos utilizadores** portugueses usa cannabis ilegal (mercado negro) [@cannareporter2025medicinal]
-* Mercado negro estimado em **36-58 toneladas/ano**, potencial receita fiscal €52-151M [@ribeiro2024economic]
-
-**Conclusão:** A proibição não elimina o consumo. Criminaliza centenas de pessoas por ano, enquanto 95% continua a usar produto não regulado.
-
-### Riscos do mercado não regulado (EUDA 2024-2025)
-
-**1. Canabinóides sintéticos perigosos:**
-
-* **18 novos canabinóides semi-sintéticos** identificados em 2024 [@euda2025nps]
-* Alguns são **2 a 800 vezes mais potentes** que THC natural [@euda2025nps]
-* **HHC** (hexahydrocannabinol) e derivados vendidos como "alternativas legais" reportados em **27 países europeus**, controlados em 22 Estados-Membros [@euda2025nps]
-* **Hungria reportou 30 intoxicações agudas** por gomas adulteradas com sintéticos em 2024 [@euda2024threat]
-
-**2. Aumento drástico da potência:**
-
-* **Resina:** THC médio aumentou de **8.14% (2006)** para **17.22% (2016)** — mais que duplicou [@freeman2019potency]
-* **Herbal:** THC médio aumentou de **5.00% (2006)** para **10.22% (2016)** — também duplicou [@freeman2019potency]
-* Mercado negro não rotula potência, não permite escolha informada
-
-**3. Riscos de saúde sem controlo:**
-
-* Sem testes de qualidade: risco de pesticidas, metais pesados, fungos
-* Sem rastreabilidade: origem e composição desconhecidas
-* Sem informação ao consumidor: teor de THC, dosagens, riscos
-* Hospitalizações por produtos adulterados a aumentar na Europa [@euda2024threat]
-
-**4. Catástrofe ambiental do modelo actual:**
-
-O modelo de cultivo indoor dominante no mercado negro (e em alguns mercados legais) é **ambientalmente insustentável:**
-
-* **Emissões de carbono:** Cultivo indoor gera **2.283-5.184 kg CO₂-equivalente por kg de flor seca** [@summers2021cannabis; @mills2021cannabis; @motherjones2021carbon]
-* **Comparação chocante:** Cannabis indoor é **23-52 vezes pior** que produção de carne de vaca (99 kg CO₂/kg) [@summers2021cannabis]
-* **Consumo energético:** Instalações indoor consomem tanta electricidade quanto data centers [@motherjones2021carbon]
-* **Insustentabilidade:** Custos energéticos incompatíveis com metas climáticas europeias
-
-**Alternativa sustentável — cultivo regenerativo e cânhamo:**
-
-* **Cânhamo captura carbono:** 8-22 toneladas CO₂ por hectare por ciclo [@cambridge2022hemp; @britishhemp2024carbon]
-* **Cultivo outdoor/regenerativo:** Emissões drasticamente reduzidas, biodiversidade aumentada
-* **Agroecologia:** Integração com sistemas agroflorestais e permacultura
-* **Co-benefícios:** Regeneração de solos, produção de fibra/sementes, economia rural
-
-**A proibição força o cultivo indoor clandestino.** A regulação permite exigir métodos sustentáveis como condição de licenciamento — tal como a Alemanha exige clubes sem fins lucrativos, Portugal pode exigir cultivo regenerativo de baixo carbono.
-
-### O que a regulação permite (redução de danos)
-
-**1. Protecção do consumidor:**
-
-* **Produtos testados** obrigatoriamente (sem pesticidas, metais pesados, adulterantes)
-* **Rastreabilidade:** origem e composição conhecidas, certificadas
-* **Informação clara:** teor de THC rotulado, dosagens, avisos de risco
-* **Alternativa segura** ao mercado negro com sintéticos perigosos
-
-**2. Protecção da saúde pública:**
-
-* **Verificação de idade:** mercado negro não pede identificação
-* **Limites de potência:** THC máximo 10% para 18-21 anos (modelo alemão [@bundesgesundheit2024cannabis])
-* **Programas de prevenção financiados:** ~€52M/ano de poupanças enforcement ([ver financiamento](#financiamento))
-* **Monitorização e investigação:** dados reais sobre consumo, não estimativas
-
-**3. Redução de custos sociais:**
-
-* **Menos processos judiciais:** 75% das condenações por drogas são cannabis [@sicad2018condenacoes]
-* **Menos urgências hospitalares:** produtos testados vs. sintéticos perigosos [@euda2024threat]
-* **Recursos policiais libertados:** foco em crime grave, não consumidores ocasionais
-* **Menos pessoas com registo criminal** por consumo de substância menos nociva que álcool [@nutt2010]
-
-**4. Retirar rendimento ao crime organizado:**
-
-* Mercado de €52-151M/ano actualmente controlado por redes ilegais [@ribeiro2024economic]
-* Regulação transfere para operadores licenciados, monitorizados, sem fins lucrativos
-
-### Coerência com outras políticas do LIVRE
-
-O LIVRE defende **redução de danos** no álcool e tabaco. Cannabis não é diferente:
-
-* **Regular ≠ promover** (tal como regular o álcool não é promover alcoolismo)
-* **A proibição não funciona:** 95% usa mercado negro [@cannareporter2025medicinal]
-* **A questão é:** produto seguro e testado, ou produto ilegal potencialmente adulterado?
-
-### A resposta a "Porquê legalizar recreativo?"
-
-**Não é para:**
-- ❌ Promover consumo
-- ❌ Gerar receitas fiscais (modelo de clubes sociais sem fins lucrativos)
-- ❌ "Normalizar" a cannabis
-
-**É para:**
-- ✅ **Proteger quem já consome** (95% da população utilizadora [@cannareporter2025medicinal])
-- ✅ **Reduzir danos:** produtos testados vs. sintéticos perigosos 800x mais potentes [@euda2025nps]
-- ✅ **Descriminalizar:** 75% das condenações são consumidores ocasionais [@sicad2018condenacoes; @dn2020condenacoes]
-- ✅ **Controlar potência:** THC rotulado vs. mercado negro que duplicou potência [@freeman2019potency]
-- ✅ **Financiar prevenção:** ~€52M/ano de poupanças enforcement para tratamento
-- ✅ **Retirar rendimento ao crime:** €52-151M/ano para clubes licenciados sem fins lucrativos [@ribeiro2024economic]
-
-**Princípio central:** A proibição não elimina o consumo — apenas elimina o controlo e a segurança.
 
 ---
 
@@ -1186,105 +1369,6 @@ Aliás, se Portugal não agir, **perderemos a vantagem competitiva** que temos n
 ### Outros Partidos
 
 *(Secção a desenvolver com ataques de PSD, CDS, Chega, IL, outros)*
-
-
-# PROPOSTAS CONCRETAS
-## Cannabis Medicinal (prioridade imediata)
-* Comparticipação pelo SNS dos medicamentos à base de cannabis para indicações aprovadas [@euronews2024]
-* Simplificação do acesso — prescrição por médicos de família, não apenas especialistas [@rtp2019]
-* Avaliação formal da Lei 33/2018: porque é que 7 anos depois o acesso continua tão limitado? [@euronews2024] [@eco2024]
-
-## Cannabis Recreativa (médio prazo)
-Proposta baseada no modelo alemão [@bundesministerium2024] [@wikipedia2025], adaptada a Portugal:
-
-**Nota importante:** Esta proposta NÃO contempla o modelo comercial de dispensários (tipo Canadá/EUA). Propõe-se exclusivamente: (1) clubes sociais sem fins lucrativos, onde os preços reflectem apenas custos de produção; e (2) autocultivo com sementes de fornecedores certificados. A menor conveniência face ao mercado negro é intencional — evita comercialização excessiva e turismo cannábico, mantendo foco na saúde pública.
-
-### Posse e consumo
-* Idade mínima: **21 anos** para compra livre
-* Menores de 21 (18-20): apenas via clubes sociais, THC máximo 10%
-* Posse em público: até 25g
-* Posse em casa: até 50g
-
-### Clubes sociais de cannabis
-* Máximo 500 membros
-* Sem fins lucrativos
-* Residência em Portugal há pelo menos 6 meses (evita turismo cannábico)
-* Distribuição: máx. 25g/dia, 50g/mês
-* 200 metros de escolas e espaços para crianças
-* Consumo proibido nas instalações
-* Controlo de qualidade obrigatório (testes de potência e contaminantes)
-* Oficial de prevenção obrigatório
-
-Para uma descrição detalhada do funcionamento deste modelo, ver Anexo A.
-
-### Autocultivo regulado *(proposta de compromisso)*
-* Até 3 plantas por adulto
-* **Sementes apenas de fornecedores autorizados** (THC conhecido)
-* Plantas seguras e inacessíveis a menores
-* Proibida venda ou cedência
-
-Para informação sobre o sistema de sementes certificadas proposto, ver Anexo B.
-
-### Condução
-* Limite: 3,5 ng/ml THC no sangue
-* Tolerância zero: menores de 21 e novos condutores
-* Proibição absoluta: mistura cannabis \+ álcool
-* Investimento em tecnologia de testagem antes da implementação
-
-### Financiamento de prevenção e tratamento {#financiamento}
-
-**Poupanças estimadas em custos de enforcement:**
-
-A proibição da cannabis tem custos significativos para o Estado. Um estudo de 2021 da Heinrich Heine University Düsseldorf estimou que a Alemanha pouparia [@cannabisnow2024]:
-
-* **€1,05 mil milhões/ano** em custos de enforcement (policiamento)
-* **€313 milhões/ano** em custos judiciais (processos, tribunais)
-* **Total: €1,363 mil milhões/ano**
-
-**Ajustando estes valores à população portuguesa** (10,7M habitantes vs. 83,6M na Alemanha):
-
-* **Poupanças enforcement:** ~€134M/ano
-* **Poupanças judicial:** ~€40M/ano
-* **TOTAL estimado: ~€174 milhões/ano**
-
-**Proposta de afetação:**
-
-* **30% destas poupanças** (~€52M/ano) dedicados a:
-  * Serviços de tratamento de dependências (reforço do SICAD)
-  * Programas de prevenção nas escolas
-  * Investigação científica sobre riscos e benefícios
-  * Formação de profissionais de saúde
-  * Fiscalização dos clubes e controlo de qualidade
-
-* **Fonte adicional:** Taxas de licenciamento dos clubes sociais (modelo alemão: €250-500 adesão + quotas mensais)
-
-## Cânhamo Industrial: Uma oportunidade económica e ambiental
-O cânhamo industrial (Cannabis sativa L. com THC\<0,3%) representa uma oportunidade estratégica para Portugal [@ec2024].
-
-**Benefícios ambientais:**
-
-* **Captura de carbono:** 8-15 toneladas CO₂/hectare (até 22 ton com duas colheitas/ano) [@dezeen2021]
-* **Baixa necessidade de pesticidas** — naturalmente resistente à maioria das pragas
-* **Melhoria do solo** — raízes profundas, devolve azoto ao solo
-* **50-70% menos água que algodão** [@stockholm2005]
-
-**Proposta:**
-
-* Simplificação regulatória para cânhamo THC\<0,3%
-* Programa piloto em 3-5 regiões
-* Parcerias com universidades (ISA, UTAD)
-* Incentivos PAC para conversão de culturas
-
-
-# CRONOGRAMA
-| PRAZO | ACÇÃO |
-| :---- | :---- |
-| Fev 2026 | Aprovação pelos CTs Liberdade, Saúde e Ecologia |
-| Mar 2026 | Apresentação à Coordenação do partido |
-| Abr 2026 | Perguntas parlamentares ao Min. Saúde (acesso cannabis medicinal) |
-| Mai 2026 | Participação na Marcha da Cannabis (Lisboa) |
-| Jun 2026 | Projecto de Resolução — grupo de trabalho parlamentar |
-| **Q3-Q4 2026** | **Proposta legislativa (coordenada com BE/PAN/IL)** |
 
 
 # CONCLUSÃO {#conclusão}
