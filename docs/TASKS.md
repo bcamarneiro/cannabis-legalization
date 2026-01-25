@@ -4,6 +4,65 @@ Este ficheiro rastreia melhorias identificadas para o documento de posição.
 
 ## 🔴 URGENTE
 
+### Red-Team Vulnerabilities (CRÍTICO - Análise Adversarial 2026-01-25)
+
+**Fonte:** Análise multi-dimensional por especialistas ambientais, médicos, psiquiatras, psicólogos, e oposição política
+
+- [ ] **CRÍTICO 1: Impacto cognitivo em jovens - COMPLETAMENTE AUSENTE** 🚨
+  - **Problema:** Documento não menciona declínio IQ 8-10 pontos em adolescentes (irreversível)
+  - **Ataque esperado:** "Ignoram neuroscience sobre danos cerebrais em 18-20 anos"
+  - **Acção:** Nova secção "Desenvolvimento Cognitivo e Cannabis"
+  - **Conteúdo necessário:**
+    - Citar estudos longitudinais (Meier 2012, Lubman 2015): 8-10 pontos IQ decline
+    - Reconhecer: idade 21 reduz mas não elimina risco
+    - Propor: THC max 5% (não 10%) para 18-20 anos
+    - Propor: Baseline cognitive testing para membros 18-20, re-teste anual
+  - **Validar:** Literatura 2020-2024 sobre cannabis e desenvolvimento cerebral
+
+- [ ] **CRÍTICO 2: Rastreio psiquiátrico - NÃO PROPOSTO** 🚨
+  - **Problema:** Zero screening de saúde mental antes de adesão aos clubes
+  - **Ataque esperado:** "Reconhecem risco psicose mas propõem zero triagem"
+  - **Acção:** Adicionar requisito obrigatório de screening
+  - **Conteúdo necessário:**
+    - PHQ-9 (depressão), GAD-7 (ansiedade), brief psychosis risk assessment
+    - Alto risco → referência para serviços de saúde mental OU acesso restrito (THC <5%)
+    - Re-screening anual obrigatório
+    - Oficial de Prevenção treinado em triagem psiquiátrica
+  - **Validar:** Protocolos de screening usados em programas de redução de danos (Suíça, Canadá)
+
+- [ ] **CRÍTICO 3: Sistemas de monitorização completamente vagos** 🚨
+  - **Problema:** "Monitorização de padrões" sem definir como funciona, quem executa, como é financiado
+  - **Ataque esperado:** "Prometem €52M de 'monitorização' mas zero especificações"
+  - **Acção:** Definir sistema completo de enforcement
+  - **Conteúdo necessário:**
+    - Tracking de compras: base de dados anónima vs. individual (decidir)
+    - Oficial de Prevenção: qualificações (psicólogo licenciado), salário (€28-35k), rácio (1:250 membros)
+    - Auditorias financeiras: anuais, independentes, públicas
+    - Consequências: clubes sem oficial qualificado perdem licença
+  - **Validar:** Modelo alemão de Präventionsbeauftragter (oficial prevenção) - qualificações, custos
+
+- [ ] **CRÍTICO 4: Sistema "sementes certificadas" indefinido** 🚨
+  - **Problema:** Central ao autocultivo mas não explica quem certifica, como fiscaliza, como impede sementes ilegais
+  - **Ataque esperado:** "Certificação de sementes é complexa. Propõem-na casualmente"
+  - **Acção:** Desenvolver framework completo de certificação
+  - **Conteúdo necessário:**
+    - Quem licencia seedbanks? (Infarmed? DGAV? novo órgão?)
+    - Auditorias: anuais, testes varietais, rastreabilidade
+    - Enforcement: como detectar sementes não-certificadas? (impossível vs. redução de risco)
+    - Alternativa: Clubes distribuem sementes certificadas (não seedbanks independentes)
+  - **Validar:** Sistemas de certificação de sementes agrícolas em PT (DGAV), comparar com cannabis
+
+- [ ] **CRÍTICO 5: Gravidez/Amamentação - NÃO MENCIONADO** 🚨
+  - **Problema:** Zero avisos sobre THC em gravidez/aleitamento (danos desenvolvimento fetal)
+  - **Ataque esperado:** "Ignoram completamente saúde materno-infantil"
+  - **Acção:** Adicionar secção de proteção materno-infantil
+  - **Conteúdo necessário:**
+    - Rótulos obrigatórios: "Cannabis na gravidez pode causar danos ao feto"
+    - Screening: grávidas encorajadas a parar uso, referência para tratamento
+    - Amamentação: avisos que THC passa para leite materno
+    - Guidance de associações de obstetrícia
+  - **Validar:** Dados sobre THC e desenvolvimento fetal (ACOG, RCOG guidelines)
+
 ### Incoerências de dados (bloqueante para credibilidade)
 - [x] **Dados alemães inconsistentes** ✅ RESOLVIDO (2026-01-24)
   - Anexo A atualizado para Nov 2025: 791 candidaturas, 357 aprovados
@@ -18,6 +77,248 @@ Este ficheiro rastreia melhorias identificadas para o documento de posição.
   - Padronizado para 1.157 prescrições em todo o documento
 
 ## 🟡 ARGUMENTAÇÃO (alta prioridade)
+
+### Red-Team Vulnerabilities (ALTA PRIORIDADE)
+
+- [ ] **ALTA 1: Comparação ambiental CO₂ intelectualmente desonesta** ⚠️
+  - **Problema:** Compara produção cannabis (2.300-5.200 kg CO₂/kg) com lifecycle completo carne (99 kg)
+  - **Ataque esperado:** "Não é apples-to-apples. Lifecycle carne é 27 kg CO₂, não 99 kg"
+  - **Acção:** Corrigir comparação com honestidade intelectual
+  - **Fix:**
+    - Comparar com tomates greenhouse (0,2-0,5 kg CO₂/kg) - mais apropriado
+    - Adicionar: "Estas emissões assumem grid energético actual. Com 50% renováveis, redução de 50-70%"
+    - Propor requisito vinculativo: "Cultivadores licenciados: 50% renováveis até 2030, 100% até 2035"
+  - **Validar:** Lifecycle analysis cannabis com renewables (estudos 2022-2024)
+
+- [ ] **ALTA 2: Risco psicose vs. acesso 18-20 anos - CONTRADITÓRIO** ⚠️
+  - **Problema:** Documento cita OR 4-5 psicose para 18-20 anos, depois permite-lhes acesso a clubes
+  - **Ataque esperado:** "Citam risco psicose depois deixam jovens de 18 usar. Qual é?"
+  - **Acção:** Resolver contradição
+  - **Opções:**
+    - A) Idade mínima absoluta 21 anos (sem excepções)
+    - B) 18-20 requer autorização psiquiátrica + monitorização mensal
+    - C) 18-20 apenas THC <5% (não 10%)
+  - **Validar:** Políticas idade mínima em jurisdições que legalizaram (Finlândia propôs 25 anos)
+
+- [ ] **ALTA 3: Projeções económicas sobrestimadas** ⚠️
+  - **Problema:** €174M savings extrapolados da Alemanha sem análise específica PT
+  - **Ataque esperado:** "Custos alemães incluem prisões/tribunais. PT talvez €20M, não €174M"
+  - **Acção:** Análise custo-benefício específica de Portugal
+  - **Conteúdo necessário:**
+    - Custos actuais processos cannabis 2021-2024 (Ministério Justiça, PSP, GNR)
+    - Estimativa conservadora: €40-50M/ano (não €174M)
+    - Reconhecer: custos regulatórios compensam parte das poupanças
+    - Poupança líquida realista: ~€30-40M/ano para prevenção
+  - **Validar:** Dados orçamentais específicos PT (enforcement cannabis vs. outras drogas)
+
+- [ ] **ALTA 4: Colorado youth decline (42%) - CONFUNDIDO** ⚠️
+  - **Problema:** Atribuído a legalização, mas Canadá (legal 2018) teve consumo juvenil estável
+  - **Ataque esperado:** "Se legalização reduz consumo, porque Canadá não viu declínios?"
+  - **Acção:** Reconhecer confounds, claim mais modesto
+  - **Fix:**
+    - "Colorado mostra declínio 2011-2023, mas causalidade não provada (outros factores: regulação vaping 2018, programas prevenção)"
+    - "Canadá: consumo estável pós-legalização. Declínio Colorado não universal"
+    - "Legalização + regulação forte + prevenção pode reduzir consumo juvenil. Não garantido por legalização sozinha"
+  - **Validar:** Meta-análise 2023-2024 sobre consumo juvenil em jurisdições legalizadas
+
+- [ ] **ALTA 5: Claims terapêuticos para sono baseados em 6 trials** ⚠️
+  - **Problema:** Meta-análise apenas 6 ensaios, sem menção risco dependência
+  - **Ataque esperado:** "Melatonina tem 50+ RCTs. CBT-I é primeira linha. Cannabis não comprovada"
+  - **Acção:** Reframe honesto sobre evidência sono
+  - **Fix:**
+    - "Evidência emergente para THC/CBN em insónia, mas requer mais investigação"
+    - "Eficácia comparável a melatonina low-dose, mas mais efeitos secundários"
+    - "Recomendado apenas segunda linha após CBT-I falhar"
+    - "Risco Cannabis Use Disorder em uso crónico para sono: 15-25%"
+  - **Validar:** Guidelines internacionais sono (AASM, ESRS) sobre cannabis
+
+- [ ] **ALTA 6: "Sem incentivo comercial" depende de enforcement inexistente** ⚠️
+  - **Problema:** Clubes "sem fins lucrativos" mas sem auditorias, caps de preço, transparência
+  - **Ataque esperado:** "Espanha tentou clubes non-profit. Tornaram-se criminosos. Porque PT será diferente?"
+  - **Acção:** Definir governance rigorosa
+  - **Conteúdo necessário:**
+    - Auditoria financeira anual independente (resultados públicos)
+    - Price cap: máximo €6/grama (média alemã)
+    - Transparência: divulgação mensal custos/vendas/pagamentos membros
+    - Surplus proibido: excedentes doados automaticamente a SICAD (não retidos)
+    - Whistleblower program: membros reportam suspeitas, recompensas
+    - Inspecções surpresa: 10% clubes auditados trimestralmente
+  - **Validar:** Problemas Espanha com clubes (Barcelona, Madrid) - casos documentados
+
+- [ ] **ALTA 7: Oposição indústria cannabis não endereçada** ⚠️
+  - **Problema:** 37 empresas licenciadas querem mercado doméstico - clubes são competição directa
+  - **Ataque esperado:** "Propõem cortar mercado doméstico de empresas que exportam 32.500 kg. Irracional"
+  - **Acção:** Plano transição para indústria
+  - **Conteúdo necessário:**
+    - Produtores licenciados podem fornecer clubes (wholesale, preço custo + 20%)
+    - Produtores podem operar 1-2 clubes cada (requisito non-profit mantém-se)
+    - Reconhecer: alguma perda empregos enforcement, offset por administração clubes
+  - **Validar:** Modelo económico produtores → clubes (margens, custos)
+
+### Red-Team Vulnerabilities (MÉDIA PRIORIDADE)
+
+- [ ] **MÉDIA 1: Taxa dependência ambígua (9% vs 15-25%)** ℹ️
+  - **Problema:** Documento cita 9% Cannabis Use Disorder geral, depois 15-25% para uso crónico sono
+  - **Ataque esperado:** "Qual é a taxa verdadeira? 9% ou 25%? Dados contraditórios"
+  - **Acção:** Clarificar contextos
+  - **Fix:**
+    - 9% é lifetime CUD para todos os utilizadores
+    - 15-25% é taxa para uso terapêutico crónico (superior porque diário)
+    - Adicionar: "Risco dependência aumenta com frequência uso: ocasional 5%, diário 20-30%"
+  - **Validar:** Meta-análises sobre CUD por padrão uso (occasional vs daily)
+
+- [ ] **MÉDIA 2: Dados potência desactualizados (Freeman 2019)** ℹ️
+  - **Problema:** Cita estudo 2019 quando potência continua a aumentar
+  - **Ataque esperado:** "Usam dados de 5 anos atrás. THC agora é 20-30%, não 17%"
+  - **Acção:** Actualizar com dados 2023-2024
+  - **Validar:** EMCDDA 2024 report sobre potência THC na Europa
+
+- [ ] **MÉDIA 3: Claims sequestração carbono cânhamo potencialmente exagerados** ℹ️
+  - **Problema:** 8-22 toneladas CO₂/hectare - range enorme, pode ser optimista
+  - **Ataque esperado:** "Sequestração depende de solo, clima, variedade. Números irrealistas para PT"
+  - **Acção:** Adicionar contexto
+  - **Fix:**
+    - "Estudos mostram 8-22 t CO₂/ha em condições óptimas (UK, solos férteis)"
+    - "Portugal: clima mediterrânico pode reduzir para 5-10 t CO₂/ha"
+    - "Mesmo metade da sequestração UK, offset significativo vs. indoor"
+  - **Validar:** Estudos cânhamo em clima mediterrânico (Espanha, Itália)
+
+- [ ] **MÉDIA 4: Timeline implementação irrealista** ℹ️
+  - **Problema:** Propõe Q3-Q4 2026 quando Alemanha demorou anos
+  - **Ataque esperado:** "Alemanha levou 3 anos. Portugal em 6 meses? Impossível"
+  - **Acção:** Timeline faseado mais realista
+  - **Proposta:**
+    - Q3 2026: Proposta legislativa apresentada
+    - Q1 2027: Aprovação Lei-Quadro Experimental (se consenso)
+    - Q3 2027: Primeiro programa piloto (2-3 clubes Lisboa/Porto)
+    - 2028-2030: Avaliação piloto, expansão gradual
+  - **Validar:** Processos legislativos comparáveis em PT (descriminalização 2001, quanto tempo?)
+
+- [ ] **MÉDIA 5: "95% mercado ilegal continua" - lógica circular** ℹ️
+  - **Problema:** Diz 95% mercado negro Portugal → propõe clubes → assume continuará ilegal
+  - **Ataque esperado:** "Se clubes são eficazes, mercado ilegal deveria reduzir. Qual é?"
+  - **Acção:** Projeção mais realista
+  - **Fix:**
+    - "Actualmente: 95% mercado ilegal"
+    - "Com clubes + autocultivo: redução esperada para 60-70% em 5 anos (modelo Uruguai)"
+    - "Legalização total comercial (Colorado): 25-30% mercado ilegal persiste"
+  - **Validar:** Dados mercado negro pós-legalização (Uruguai, Colorado, Canadá)
+
+- [ ] **MÉDIA 6: Descriminalização vs. consumo - correlação não causalidade** ℹ️
+  - **Problema:** Implica descriminalização 2001 não aumentou consumo, mas outros factores podem explicar
+  - **Ataque esperado:** "Consumo estável pode ser moda, prevenção, economia - não prova descriminalização funciona"
+  - **Acção:** Linguagem mais cautelosa
+  - **Fix:**
+    - "Portugal descriminalizou 2001. Consumo não aumentou significativamente"
+    - "Impossível provar causalidade (factores confundidos), mas dados sugerem descriminalização não causou epidemia"
+    - "Modelo português reconhecido internacionalmente, mas efeito específico da descriminalização vs. investimento prevenção é debatido"
+  - **Validar:** Literatura académica sobre causalidade descriminalização PT (análise crítica)
+
+- [ ] **MÉDIA 7: €52M financiamento clubes depende de execução perfeita** ℹ️
+  - **Problema:** Propõe realocar 30% poupanças enforcement (€52M) mas enforcement pode não terminar
+  - **Ataque esperado:** "Clubes podem funcionar mal. Enforcement continua. Orçamento fantasma"
+  - **Acção:** Plano financiamento conservador
+  - **Fix:**
+    - "Financiamento inicial: €10M (OE, não poupanças)"
+    - "Anos 2-5: transição gradual para poupanças enforcement conforme clubes provam eficácia"
+    - "Se clubes falharem, enforcement mantém-se + financiamento cortado"
+  - **Validar:** Modelos financiamento saúde pública PT (programas experimentais)
+
+- [ ] **MÉDIA 8: Comparação álcool arriscada politicamente** ℹ️
+  - **Problema:** Documento usa álcool como comparador 3+ vezes
+  - **Ataque esperado:** "Se cannabis é como álcool, vamos restringir álcool também? Querem proibição?"
+  - **Acção:** Reduzir uso comparação álcool
+  - **Fix:**
+    - Manter APENAS na secção científica (Lancet harm index)
+    - Remover de argumentação política/estratégia
+    - Substituir por: "Modelo regulatório baseado em saúde pública, não proibição"
+  - **Validar:** N/A (decisão estratégica)
+
+- [ ] **MÉDIA 9: "Modelo alemão" usado circularmente** ℹ️
+  - **Problema:** Justifica clubes citando Alemanha, mas Alemanha ainda não tem resultados (2024)
+  - **Ataque esperado:** "Alemanha aprovou há 6 meses. Zero dados eficácia. Como é modelo comprovado?"
+  - **Acção:** Separar aspiração vs. evidência
+  - **Fix:**
+    - "Alemanha aprovou clubes 2024 (Cannabis Act) mas implementação em curso"
+    - "Modelo baseado em evidência: Uruguai (2013), Canadá (2018) - mais de 5 anos dados"
+    - "Alemanha citada como modelo legislativo (framework legal), não eficácia comprovada"
+  - **Validar:** Resultados Uruguai/Canadá (redução mercado negro, consumo juvenil, etc.)
+
+- [ ] **MÉDIA 10: Enforcement autocultivo "limite 3 plantas" indefinido** ℹ️
+  - **Problema:** Como polícia fiscaliza 3 plantas? Inspecções domiciliares? Denuncia vizinhos?
+  - **Ataque esperado:** "3 plantas é impraticável fiscalizar sem vigilância orwelliana"
+  - **Acção:** Reconhecer limite imperfect
+  - **Fix:**
+    - "Limite 3 plantas não implica fiscalização porta-a-porta"
+    - "Enforcement reactivo: queixas vizinhos, investigações existentes descobrem excesso"
+    - "Penalidade: excesso = apreensão plantas, multa administrativa (não criminal)"
+    - "Modelo: vinho caseiro (limite 4.000L não fiscalizado proactivamente)"
+  - **Validar:** Como Alemanha/Malta fiscalizam autocultivo (modelo reactivo vs. proactivo)
+
+- [ ] **MÉDIA 11: Oficial de Prevenção - role vago** ℹ️
+  - **Problema:** Mencionado 3+ vezes mas sem definir exactamente o que faz dia-a-dia
+  - **Ataque esperado:** "€35k/ano para fazer o quê? Conversar com membros? Custo injustificado"
+  - **Acção:** Job description completo
+  - **Conteúdo necessário:**
+    - Responsabilidades: screening admissão, sessões educação mensal, monitorização high-risk users
+    - Qualificações: psicologia ou serviço social licenciado, formação adicional em addiction
+    - Rácio: 1 oficial por 200-300 membros
+    - Accountability: relatórios trimestrais a SICAD, auditoria anual
+  - **Validar:** Präventionsbeauftragter alemão - job description oficial, formação, regulação
+
+- [ ] **MÉDIA 12: Dual diagnosis (cannabis + outras substâncias) não discutido** ℹ️
+  - **Problema:** Muitos utilizadores cannabis também usam álcool, tabaco, outras drogas
+  - **Ataque esperado:** "Propõem screening mas ignoram poliuso. Análise incompleta"
+  - **Acção:** Adicionar secção poliuso
+  - **Conteúdo:**
+    - "Clubes devem screening para uso concorrente álcool/tabaco/outras drogas"
+    - "Risco aumentado: cannabis + álcool → maior impairment que isolado"
+    - "Oficial Prevenção refere casos dual diagnosis para serviços especializados"
+  - **Validar:** Prevalência poliuso cannabis em Portugal (SICAD data)
+
+- [ ] **MÉDIA 13: Peer influences e pressão social não abordados** ℹ️
+  - **Problema:** Clubes = ambiente social pró-cannabis, pode normalizar uso excessivo
+  - **Ataque esperado:** "Clubes criam echo chambers. Normalization leva a aumento consumo"
+  - **Acção:** Reconhecer + mitigação
+  - **Fix:**
+    - "Clubes podem normalizar uso - risco reconhecido"
+    - "Mitigação: Oficial Prevenção promove 'consumo consciente', não abstinência mas moderação"
+    - "Regras: proibido consumo no local (take-home only, reduz ambiente social pró-uso)"
+    - "Educação: limites seguros, sinais dependência, quando parar"
+  - **Validar:** Pesquisa sobre social contagion em clubes Espanha (problemas documentados)
+
+- [ ] **MÉDIA 14: Dados fiscais Canadá/Colorado podem não aplicar a PT** ℹ️
+  - **Problema:** Culturas consumo diferentes, preços diferentes, impostos diferentes
+  - **Ataque esperado:** "Colorado tem consumo 2x maior per capita. Receitas não transferíveis"
+  - **Acção:** Ajustes conservadores
+  - **Fix:**
+    - "Projeções baseadas em pop-adjusted Colorado/Canadá são estimativas, não garantias"
+    - "Portugal: prevalência 8,2% vs Colorado 15% → receitas proporcionalmente menores"
+    - "Modelo clubes (não comercial) gera ZERO receitas fiscais directas - poupanças vêm de enforcement"
+  - **Validar:** Prevalência uso cannabis PT vs Colorado vs Canadá (dados EMCDDA, NSDUH)
+
+- [ ] **MÉDIA 15: Falta discussão sobre turismo cannabis** ℹ️
+  - **Problema:** Clubes "apenas residentes" mas como enforcement? Amsterdam problema turismo
+  - **Ataque esperado:** "Turistas vão procurar clubes. Lisboa torna-se Amsterdam. Querem isso?"
+  - **Acção:** Política turismo explícita
+  - **Fix:**
+    - "Adesão clubes: residência PT comprovada (6+ meses), não turistas"
+    - "Enforcement: clubes verificam NIF/Cartão Cidadão na admissão"
+    - "Penalidade: clubes que admitem turistas perdem licença"
+    - "Autocultivo: legal apenas para residentes fiscais PT"
+  - **Validar:** Problemas turismo Amsterdam, políticas Barcelon clubes (tentaram restringir turistas)
+
+- [ ] **MÉDIA 16: Cannabis e condução - lacuna regulatória** ℹ️
+  - **Problema:** Documento não menciona driving under influence
+  - **Ataque esperado:** "Legalizam mas ignoram segurança rodoviária. Irresponsável"
+  - **Acção:** Adicionar secção driving
+  - **Conteúdo:**
+    - "THC prejudica condução - risco acidente 2x (dose-dependente)"
+    - "Limite legal: <1ng/mL THC sangue (zero tolerance) ou >5ng/mL (impairment threshold)"
+    - "Testes roadside: saliva tests (já usados em PT para álcool)"
+    - "Penalidades: iguais a álcool (multa, pontos carta, possível criminal)"
+    - "Educação: rótulos obrigatórios "Não conduzir sob influência THC - até 4h após uso"
+  - **Validar:** Legislação DUI cannabis em jurisdições legalizadas (Colorado, Canadá, Alemanha)
 
 ### Reforço do autocultivo
 - [ ] **Desenvolver comparação vinho caseiro vs. cannabis** [linhas 374-382](../documento.md#L374-L382)
