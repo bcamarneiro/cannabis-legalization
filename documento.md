@@ -159,6 +159,26 @@ Este documento propõe que o LIVRE assuma uma posição clara e proactiva sobre 
 
 **Conclusão:** A proibição não elimina o consumo. Criminaliza centenas de pessoas por ano, enquanto 95% continua a usar produto não regulado.
 
+### Impacto esperado dos clubes sociais no mercado ilegal
+
+**Dados internacionais de redução do mercado negro:**
+
+* **Uruguai (2013, modelo clubes):** Após 10 anos, mercado legal captura **24-39% dos utilizadores** [@dankreports2024uruguay; @talkingdrugs2024uruguay]. Limitações específicas (registo biométrico obrigatório, baixa potência 2017-2022, oferta limitada) explicam captura moderada [@cdays2025]
+* **Canadá (2018, modelo comercial):** Progressão rápida — mercado ilegal **96% (2018) → 22% (2022) → 3% (2024)** [@born2invest2024canada; @sciencedirect2025canada]
+* **Colorado (2014, modelo comercial):** Mercado ilegal estimado em **27-40%** após 10 anos [@arcview2017colorado]
+
+**Expectativa realista para Portugal (modelo clubes sem registo biométrico):**
+
+* **Anos 1-2 (2027-2028):** 10-15% utilizadores migram para clubes (early adopters, programa piloto limitado)
+* **Anos 3-5 (2029-2031):** 40-50% mercado legal (expansão clubes, confiança estabelecida, sem barreiras privacidade)
+* **Anos 6-10:** Estabilização 50-60% mercado legal com modelo clubes, ou transição para modelo comercial (70-95% legal, dados Canadá)
+
+**Portugal pode ultrapassar Uruguai porque:**
+
+1. Sem registo biométrico (maior privacidade)
+2. Aprendizagem com erros uruguaios (potência competitiva desde início)
+3. Sistema dual clubes + autocultivo (maior flexibilidade)
+
 ## Riscos do mercado não regulado (EUDA 2024-2025)
 
 **1. Canabinóides sintéticos perigosos:**
