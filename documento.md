@@ -831,6 +831,21 @@ Evidência científica sobre exposição THC:
 * Plantas seguras e inacessíveis a menores
 * Proibida venda ou cedência
 
+#### Modelo de Enforcement (reactivo, não proactivo)
+
+**Como é fiscalizado o limite de 3 plantas:**
+
+Portugal permite produção doméstica de vinho até 4.000 litros/ano sem fiscalização proactiva — ninguém bate à porta a medir pipas de vinho. O enforcement é **reactivo** (queixas de vizinhos, suspeita de venda comercial) não **proactivo** (inspecções domiciliares aleatórias).
+
+O autocultivo de cannabis seguirá o mesmo modelo:
+
+* **Enforcement reactivo:** Autoridades actuam mediante denúncias (queixas vizinhos por odor, suspeita de venda) ou indícios de cultivo comercial (consumo eléctrico anómalo, publicidade online)
+* **Sem fiscalização porta-a-porta:** Não haverá inspecções domiciliares aleatórias para verificar número de plantas
+* **Foco em tráfico, não consumo pessoal:** 3 plantas (rendimento ~90-450g/ano) é claramente uso pessoal. Operações acima de 10-20 plantas indicam fins comerciais
+* **Proporcionalidade:** Cultivo de 4-5 plantas = contra-ordenação (coima), não crime. Cultivo >20 plantas = presunção de tráfico (investigação criminal)
+
+**Justificação:** Fiscalização proactiva de autocultivo doméstico é impraticável e desproporcional. Custos de inspecção domiciliar (mandatos, polícia, tribunais) excedem benefício. Modelo reactivo focado em tráfico (grande escala) é eficiente e protege privacidade.
+
 #### Sistema de Sementes Certificadas
 
 **Modelo híbrido baseado em Alemanha e Suíça** [@bundesgesundheit2024faq; @bagch2024pilots]:
@@ -860,9 +875,9 @@ Fornecedores de sementes devem obter licença de Infarmed/DGAV com os seguintes 
 **Enforcement e fiscalização:**
 
 - **Clubes:** Devem documentar origem de todas as sementes distribuídas (lote, fornecedor, data)
-- **Autocultivo independente:** Proibido obter sementes fora de clubes (mas enforcement reactivo, não proactivo)
+- **Autocultivo independente:** Proibido obter sementes fora de clubes (enforcement reactivo mediante denúncias, não fiscalização porta-a-porta — ver secção "Modelo de Enforcement" acima)
 - **Penalidades:** Fornecedores não licenciados = coima €5.000-50.000 + apreensão stock
-- **Reconhecimento:** Impossível eliminar 100% sementes ilegais, mas sistema reduz risco vs. mercado negro
+- **Reconhecimento:** Impossível eliminar 100% sementes ilegais (tal como produção doméstica vinho ilegal existe), mas sistema reduz risco vs. mercado negro
 
 **Justificação:** Alemanha permite clubes distribuírem 7 sementes/mês de seedbanks UE (sem certificação formal). Suíça exige produtores licenciados com transparência seed-to-sale e cultivo orgânico [@bagch2024pilots]. Modelo português combina praticabilidade alemã (distribuição via clubes) com rigor suíço (licenciamento produtores + testes qualidade).
 
@@ -1082,13 +1097,15 @@ Trabalhar com Juventude Socialista como aliada [@publico2022]
 | Sementes apenas de fornecedores autorizados | THC máximo conhecido e rotulado |
 | Registo voluntário (não obrigatório) | Facilita apoio técnico, não é fiscalização |
 | Limite de 3 plantas | Claramente para uso pessoal |
+| Enforcement reactivo (não porta-a-porta) | Modelo produção doméstica vinho: fiscalização mediante denúncias, não inspecções aleatórias |
 | Proibição de venda | Distingue uso pessoal de tráfico |
 
 **Argumentos para o PSD:**
 
 * Modelo alemão permite autocultivo e consumo juvenil diminuiu [@marijuanamoment2025]
 * Proibir autocultivo empurra consumidores para o mercado negro
-* Sementes certificadas \= mais controlo de THC que o mercado negro actual
+* Sementes certificadas = mais controlo de THC que o mercado negro actual
+* Enforcement reactivo (modelo produção doméstica vinho): fiscalização proporcional focada em tráfico, não invasão privacidade
 
 ## Com o PCP
 **Estratégia:** Não tentar converter para recreativo. Focar no que já concordam.
@@ -1384,13 +1401,16 @@ A regulação não normaliza — **oferece controlo**. O mercado negro não pede
 
 Segundo ponto: na Alemanha, onde o autocultivo é permitido, o consumo juvenil diminuiu no primeiro ano [@marijuanamoment2025]. O autocultivo não aumentou os problemas — reduziu a dependência do mercado negro. Proibir o autocultivo não elimina o cultivo — empurra-o para a clandestinidade. Regulá-lo dá-nos ferramentas de controlo que a proibição não oferece.
 
-Terceiro: limite de 3 plantas garante que é para uso pessoal, não tráfico. Sistema de sementes certificadas permite rastreabilidade e controlo de qualidade impossível no mercado negro."
+Terceiro: limite de 3 plantas garante que é para uso pessoal, não tráfico. Sistema de sementes certificadas permite rastreabilidade e controlo de qualidade impossível no mercado negro.
+
+Quarto ponto sobre enforcement: seguimos o modelo da produção doméstica de vinho (legal até 4.000L/ano sem fiscalização porta-a-porta). Enforcement reactivo mediante denúncias, focado em operações de tráfico (grande escala), não em invasão de privacidade doméstica."
 
 **Dados de suporte:**
 
 * Sementes certificadas: THC máximo conhecido e rotulado [@bundesministerium2024]
 * Alemanha: autocultivo permitido, consumo juvenil diminuiu [@marijuanamoment2025]
 * Limite proposto: 3 plantas = uso pessoal, não tráfico [@wikipedia2025]
+* Enforcement reactivo (modelo produção doméstica vinho): fiscalização mediante denúncias, não porta-a-porta
 * Sistema certificação permite rastreabilidade impossível no mercado negro
 * **Princípio:** Regulação oferece mais controlo que proibição
 
