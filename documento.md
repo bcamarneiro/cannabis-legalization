@@ -714,16 +714,68 @@ Proposta baseada no modelo alemão [@bundesministerium2024] [@wikipedia2025], ad
 
 **Modelo alemão** (adotado como base [@bundesgesundheit2024cannabis]):
 
-Cada clube deve ter um **Präventionsbeauftragter** (Oficial de Prevenção) com as seguintes responsabilidades:
+Cada clube deve ter um **Präventionsbeauftragter** (Oficial de Prevenção) — função obrigatória prevista no framework alemão §9 CanG [@kcang2024].
 
-- **Educação na admissão:** Sessão obrigatória sobre riscos (dependência, psicose, impacto cognitivo jovens)
-- **Monitorização contínua:** Identificação de padrões de uso problemático (aumento frequência, sinais dependência)
-- **Referenciação:** Encaminhamento para serviços de saúde mental do SNS quando necessário
-- **Sessões de grupo:** Educação trimestral sobre "consumo consciente", redução de danos
+**Responsabilidades principais:**
 
-**Qualificações:** Psicologia, serviço social ou enfermagem com formação em adição (mínimo 40h)
-**Rácio:** 1 oficial por 200-300 membros
-**Salário:** €28.000-35.000/ano (financiado via quotas clubes)
+1. **Educação na admissão (obrigatória)**
+   - Sessão individual 30-45 minutos antes do primeiro acesso
+   - Tópicos obrigatórios: riscos dependência (CUD 10-33%), psicose (OR 4,8 THC ≥10%), impacto cognitivo 18-25 anos
+   - Screening rápido: PHQ-2 (depressão), GAD-2 (ansiedade), histórico psicose familiar
+   - Documentação assinada pelo membro confirmando compreensão dos riscos
+
+2. **Monitorização contínua de padrões de uso**
+   - Revisão mensal de registos de distribuição (membros com aumento >30% vs. baseline)
+   - Identificação de sinais preocupantes: frequência a aumentar rapidamente, isolamento social, pedidos THC cada vez mais elevado
+   - **Conversas proactivas** com membros identificados (não punitivas, harm reduction)
+
+3. **Referenciação e encaminhamento SNS**
+   - Encaminhamento para consulta psiquiatria/psicologia do SNS quando: uso diário persistente, sinais psicose (paranóia, desrealização), depressão/ansiedade severa
+   - Manter lista actualizada de contactos SNS locais (hospitais, centros de saúde mental, linhas apoio)
+   - **Follow-up:** Contactar membro 2 semanas após referenciação (verificar se acedeu a cuidados)
+
+4. **Sessões educativas de grupo**
+   - Mínimo trimestral (4x/ano) para todos os membros
+   - Tópicos: consumo consciente, tolerância, sinais dependência, interacção com álcool/medicamentos, quando procurar ajuda
+   - Recursos externos: convidar profissionais SNS, ex-utilizadores problemáticos (testemunhos)
+
+5. **Protecção de populações vulneráveis**
+   - Identificar grávidas/lactantes e oferecer referenciação obstetrícia (ver secção Protecção Materno-Infantil)
+   - Negar acesso a menores (verificação ID) — **único poder de veto do Oficial**
+   - Recusar admissão a candidatos com psicose activa não estabilizada
+
+6. **Relatórios e accountability**
+   - Relatório trimestral ao SICAD: número de referenciações, padrões identificados, taxa de follow-up bem-sucedido
+   - Relatório anual ao clube (assembleia geral): estatísticas anonimizadas, recomendações melhorias
+   - Disponibilidade para auditorias SICAD/Infarmed
+
+**Qualificações mínimas:**
+
+- **Formação base:** Licenciatura em Psicologia, Serviço Social, Enfermagem, ou Saúde Pública
+- **Formação especializada obrigatória:** Curso certificado em adições (mínimo 40 horas) reconhecido por SICAD ou Ordem dos Psicólogos
+- **Experiência preferencial:** Trabalho prévio com dependências, harm reduction, ou saúde mental comunitária (mínimo 1 ano)
+- **Competências interpessoais:** Empatia, comunicação não-punitiva, capacidade de estabelecer limites sem estigmatizar
+
+**Rácio e carga de trabalho:**
+
+- **1 oficial por 200-300 membros** (baseado em rácio alemão)
+- Clubes >300 membros devem ter Oficial a tempo inteiro (40h/semana)
+- Clubes 100-300 membros podem ter Oficial a tempo parcial (20h/semana), mas nunca <20h
+- Clubes <100 membros podem partilhar Oficial com outro clube próximo (mediante aprovação SICAD)
+
+**Salário e condições:**
+
+- €28.000-35.000/ano (tempo inteiro), ajustado pro-rata se tempo parcial
+- Financiado via quotas mensais dos clubes
+- Formação contínua obrigatória (8h/ano mínimo) paga pelo clube
+- Seguro responsabilidade civil profissional obrigatório
+
+**Linha de reporting e independência:**
+
+- Reporta à direcção do clube (questões administrativas, orçamento)
+- **Independência funcional:** Decisões de referenciação e negação de acesso a menores **não podem** ser vetadas pela direcção
+- SICAD pode contactar directamente o Oficial para auditorias (confidencialidade protegida)
+- Demissão do Oficial requer justificação documentada + notificação SICAD (prevenir retaliação por referenciações "excessivas")
 
 **Alternativa mais rigorosa (modelo suíço):**
 
