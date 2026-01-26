@@ -58,16 +58,18 @@ Este ficheiro rastreia melhorias identificadas para o documento de posição.
   - **Decisão estratégica:** Alemanha distribui via clubes sem certificação formal (pragmático). Suíça exige licenciamento produtores + testes + orgânico (rigoroso). Portugal combina praticabilidade alemã com controlo qualidade suíço
   - Commit: [f11342b](../../commit/f11342b)
 
-- [ ] **CRÍTICO 5: Gravidez/Amamentação - NÃO MENCIONADO** 🚨
-  - **Problema:** Zero avisos sobre THC em gravidez/aleitamento (danos desenvolvimento fetal)
-  - **Ataque esperado:** "Ignoram completamente saúde materno-infantil"
-  - **Acção:** Adicionar secção de proteção materno-infantil
-  - **Conteúdo necessário:**
-    - Rótulos obrigatórios: "Cannabis na gravidez pode causar danos ao feto"
-    - Screening: grávidas encorajadas a parar uso, referência para tratamento
-    - Amamentação: avisos que THC passa para leite materno
-    - Guidance de associações de obstetrícia
-  - **Validar:** Dados sobre THC e desenvolvimento fetal (ACOG, RCOG guidelines)
+- [x] **CRÍTICO 5: Gravidez/Amamentação - NÃO MENCIONADO** ✅ CONCLUÍDO (2026-01-26)
+  - **Problema resolvido:** Adicionada subsecção "Proteção Materno-Infantil" em Propostas > Clubes Sociais (após Sistema de Monitorização)
+  - **Conteúdo implementado:**
+    - **Avisos obrigatórios:** Rótulos "Cannabis durante gravidez pode causar baixo peso ao nascer e danos desenvolvimento fetal" + "THC passa para leite materno. Não usar durante amamentação". Pictograma universal gravidez barrado. Tamanho mínimo 20% superfície embalagem (padrão tabaco UE)
+    - **Screening universal:** Obstetras/parteiras devem perguntar sobre uso cannabis em todas consultas pré-natais/pós-parto (modelo ACOG 2025)
+    - **Screening por entrevista:** Testes biológicos NÃO devem ser usados como screening primário (evitar estigma)
+    - **Aconselhamento cessação:** Profissionais aconselham riscos (baixo peso, NICU, mortalidade perinatal) e recomendam cessação total
+    - **Evidência transferência:** THC cruza placenta (feto ~10% concentração materna, receptores desde 5 semanas). THC leite materno persiste 6 dias-6+ semanas, sem pico claro (impossível "evitar pico")
+    - **Sem penalização:** Grávidas que auto-reportem uso NÃO penalizadas legalmente (evitar sub-reporte)
+    - **Redução danos:** Se cessação impossível, reduzir para menor quantidade possível (SOGC Canadá)
+  - **Referências adicionadas:** ACOG 2025 Clinical Consensus No. 10, PMC 2024 German midwives study, CDC 2024 lactation guidance, WSU 2024 THC breast milk study, SOGC 2022 Canada guidelines
+  - **Decisão estratégica:** ACOG 2025 (EUA) demonstra riscos dose-dependentes gravidez. Alemanha enfrenta desafio similar pós-legalização Abril 2024. Portugal implementa proteções ab initio (não reactivamente)
 
 ### Incoerências de dados (bloqueante para credibilidade)
 - [x] **Dados alemães inconsistentes** ✅ RESOLVIDO (2026-01-24)

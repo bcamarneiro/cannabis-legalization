@@ -693,6 +693,43 @@ O sistema de licenciamento prevê penalizações proporcionais:
 
 **Justificação:** Modelo alemão demonstra que fiscalização rigorosa + transparência total permitem modelo non-profit funcional sem criar mercado paralelo. A rastreabilidade individual é necessária (limites legais), mas dados permanecem privados salvo fiscalização.
 
+#### Proteção Materno-Infantil
+
+**Avisos obrigatórios e rotulagem** [@acog2025cannabis]:
+
+Todos os produtos de cannabis (flores, edibles, extratos) devem conter **avisos de saúde visíveis** no rótulo:
+
+- **"Cannabis durante a gravidez pode causar baixo peso ao nascer e danos ao desenvolvimento fetal"**
+- **"THC passa para o leite materno. Não usar durante amamentação"**
+- **Símbolos gráficos:** Pictograma universal de gravidez (barrado) obrigatório em embalagens
+- **Tamanho mínimo:** 20% da superfície frontal da embalagem (padrão tabaco UE)
+
+**Screening e aconselhamento** [@acog2025cannabis; @pmc2024midwives]:
+
+Modelo baseado em guidelines ACOG 2025 (American College of Obstetricians and Gynecologists):
+
+- **Screening universal:** Obstetras e parteiras devem perguntar sobre uso de cannabis em **todas** as consultas pré-natais e pós-parto
+- **Screening por entrevista/auto-reporte:** Testes biológicos (urina/sangue) **não devem** ser usados como screening primário (evitar estigma)
+- **Aconselhamento cessação:** Profissionais devem aconselhar sobre riscos (baixo peso, admissão NICU, mortalidade perinatal) e recomendar cessação total
+- **Sem indicação médica:** Não existe indicação médica aprovada para uso de cannabis durante gravidez ou amamentação [@acog2025cannabis]
+
+**Transferência materno-fetal e lactação** [@cdc2024lactation; @wsu2024thcmilk]:
+
+Evidência científica sobre exposição THC:
+
+- **Gravidez:** THC atravessa placenta (concentração fetal ~10% da materna). Receptores canabinóides presentes no feto desde 5 semanas
+- **Amamentação:** THC detectado no leite materno de todas as mães consumidoras, mesmo 12h após abstinência. Persistência: 6 dias a >6 semanas
+- **Sem "pico seguro":** Estudos 2024 mostram que THC no leite não tem pico claro — impossível evitar exposição cronometrando amamentação [@wsu2024thcmilk]
+- **Dose infantil:** Bebés recebem ~0,07mg THC/dia via leite (vs. 2mg num edible baixa dose adulto)
+
+**Suporte e referenciação** [@acog2025cannabis]:
+
+- **Oficial de Prevenção:** Deve identificar grávidas/lactantes em clubes e oferecer referenciação para SNS (obstetrícia, apoio cessação)
+- **Sem penalização:** Grávidas que auto-reportem uso de cannabis **não** devem ser penalizadas legalmente (evitar sub-reporte)
+- **Redução de danos:** Se cessação completa impossível, reduzir para menor quantidade possível [@sogc2022cannabis]
+
+**Justificação:** Guidelines ACOG 2025 demonstram riscos dose-dependentes de THC em gravidez (baixo peso ao nascer, NICU, mortalidade perinatal). CDC e AAP recomendam cessação durante amamentação. Alemanha enfrenta desafio similar pós-legalização (Abril 2024) — estudo 2024 mostra necessidade de treino profissionais saúde [@pmc2024midwives]. Portugal deve implementar proteções ab initio, não reactivamente.
+
 ### Autocultivo regulado *(proposta de compromisso)*
 * Até 3 plantas por adulto
 * **Sementes apenas de fornecedores autorizados** (THC conhecido)
