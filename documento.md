@@ -629,6 +629,29 @@ Proposta baseada no modelo alemão [@bundesministerium2024] [@wikipedia2025], ad
 * Controlo de qualidade obrigatório (testes de potência e contaminantes)
 * Oficial de prevenção obrigatório
 
+#### Oficial de Prevenção e Monitorização de Saúde Mental
+
+**Modelo alemão** (adotado como base [@bundesgesundheit2024cannabis]):
+
+Cada clube deve ter um **Präventionsbeauftragter** (Oficial de Prevenção) com as seguintes responsabilidades:
+
+- **Educação na admissão:** Sessão obrigatória sobre riscos (dependência, psicose, impacto cognitivo jovens)
+- **Monitorização contínua:** Identificação de padrões de uso problemático (aumento frequência, sinais dependência)
+- **Referenciação:** Encaminhamento para serviços de saúde mental do SNS quando necessário
+- **Sessões de grupo:** Educação trimestral sobre "consumo consciente", redução de danos
+
+**Qualificações:** Psicologia, serviço social ou enfermagem com formação em adição (mínimo 40h)
+**Rácio:** 1 oficial por 200-300 membros
+**Salário:** €28.000-35.000/ano (financiado via quotas clubes)
+
+**Alternativa mais rigorosa (modelo suíço):**
+
+O programa piloto Züri Can implementa **screening formal obrigatório** na admissão com PHQ-9 (depressão), GAD-7 (ansiedade) e ERIraos (risco psicose) [@springer2024zurican]. Casos alto risco são referenciados para serviços clínicos antes do acesso.
+
+**Esta opção pode ser considerada** se a implementação inicial revelar lacunas no modelo alemão, mas implica maior burocracia e custos (avaliação psicológica ~€50-80 por candidato).
+
+**Justificação:** Modelo alemão equilibra proteção com praticabilidade. Canadá, sem Oficial de Prevenção, registou aumento de consultas psicose em emergência após legalização [@wootten2023ontario].
+
 Para uma descrição detalhada do funcionamento deste modelo, ver Anexo A.
 
 ### Autocultivo regulado *(proposta de compromisso)*
