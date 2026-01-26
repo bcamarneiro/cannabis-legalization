@@ -594,7 +594,7 @@ Espanha não legalizou cannabis, mas tolera ~800-1.000 clubes sociais numa "áre
 * Ligações a crime organizado e exportação ilegal para Europa [@transform2018]
 * Em 2024, Barcelona ordenou encerramento de 30 clubes [@hightimes2024]
 
-**Lição para Portugal:** A ausência de regulação nacional clara não elimina o mercado — apenas o empurra para zona cinzenta com menos controlo e mais riscos. O modelo alemão oferece alternativa superior: regras explícitas, limites definidos, proibição de turismo cannábico, e segurança jurídica.
+**Lição para Portugal:** A ausência de regulação nacional clara não elimina o mercado — apenas o empurra para zona cinzenta com menos controlo e mais riscos. O modelo alemão oferece alternativa superior: regras explícitas, limites definidos, proibição de turismo cannábico, e segurança jurídica. **Portugal aprende com os erros espanhóis**, implementando governance rigorosa ausente em Espanha: auditorias anuais obrigatórias, transparência financeira mensal, price caps (€6/g), proibição de retenção de excedentes (doados automaticamente a SICAD), programa de whistleblowing protegido, e inspecções surpresa trimestrais (10% dos clubes) — ver detalhes em Anexo A.
 
 ## Impacto no consumo juvenil {#3.5-impacto-no-consumo-juvenil}
 
@@ -657,14 +657,26 @@ Proposta baseada no modelo alemão [@bundesministerium2024] [@wikipedia2025], ad
 * Posse em casa: até 50g
 
 ### Clubes sociais de cannabis
+
+**Modelo base alemão:**
+
 * Máximo 500 membros
-* Sem fins lucrativos
+* Sem fins lucrativos (cost-recovery — apenas custos reais, sem lucro)
 * Residência em Portugal há pelo menos 6 meses (evita turismo cannábico)
 * Distribuição: máx. 25g/dia, 50g/mês
 * 200 metros de escolas e espaços para crianças
 * Consumo proibido nas instalações
 * Controlo de qualidade obrigatório (testes de potência e contaminantes)
 * Oficial de prevenção obrigatório
+* Documentação obrigatória (§26 KCanG) [@kcang2024]: quantidades, distribuições, submissão anual a autoridades
+
+**Safeguards adicionais PT (prevenir cenário Espanha):**
+
+* Price cap €6/g, excedentes doados automaticamente a SICAD
+* Auditoria anual independente obrigatória (relatório público online)
+* Inspecções mínimo 10% clubes/trimestre
+* Programa whistleblowing protegido (denúncias confidenciais a SICAD)
+* Ver detalhes completos em Anexo A
 
 #### Oficial de Prevenção e Monitorização de Saúde Mental
 
@@ -702,22 +714,36 @@ Os clubes devem implementar **rastreabilidade completa** da cannabis cultivada, 
 - **Rastreio "da semente à distribuição":** Documentação de todas as fases (sementeira, cultivo, colheita, armazenamento, entrega)
 - **Privacidade:** Dados de membros apenas acessíveis a autoridades em fiscalização oficial, não são públicos
 
-**Transparência financeira obrigatória** [@cannabusinessplans2024cscs]:
+**Transparência financeira — Modelo base alemão (§§24-26 KCanG) [@kcang2024]:**
 
-Os clubes sociais devem manter total abertura financeira aos membros:
-
-- **Relatório anual:** Balanço completo de receitas (quotas) e despesas (cultivo, salários, infraestrutura)
+- **Princípio cost-recovery (§§24-25 KCanG) [@kcang2024]:** Clubes só podem distribuir cannabis ao custo real — sem lucro, quotas cobrem apenas custos operacionais [@cannabusinessplans2024cscs]
+- **Documentação contínua obrigatória (§26 KCanG) [@kcang2024]:** Registos de quantidades cultivadas, distribuídas a cada membro, strains, THC/CBD médio, armazenamento — preservados 5 anos, inspecionáveis pelas autoridades a qualquer momento
+- **Submissão anual a autoridades (§26 KCanG) [@kcang2024]:** Dados anonimizados até 31 Janeiro (quantidades, strains, THC/CBD)
 - **Assembleia Geral:** Aprovação anual do relatório financeiro por todos os membros
-- **Princípio non-profit:** Membros verificam que quotas cobrem apenas custos reais, sem lucro
-- **Auditoria externa independente:** Obrigatória para clubes com mais de 300 membros
+- **Transparência interna:** Membros verificam que quotas cobrem apenas custos reais, sem lucro
 
-**Fiscalizações estatais** [@cannabis420eu2024]:
+**Safeguards adicionais propostos para Portugal:**
 
-As autoridades regionais (modelo alemão: Länder) conduzem:
+Para evitar repetir os problemas espanhóis (clubes que se tornaram operações comerciais ilícitas por falta de fiscalização rigorosa), Portugal deve adicionar mecanismos ausentes na Alemanha e Espanha:
 
-- **Inspeções aleatórias sem aviso prévio:** Verificação de quantidades cultivadas, distribuições registadas, proteção de menores
+- **Auditoria externa independente anual:** Obrigatória para todos os clubes, conduzida por auditor certificado não-membro, relatório publicado online e submetido a SICAD — recusa de publicação resulta em suspensão imediata da licença
+- **Price cap:** Máximo €6/grama (baseado em custos operacionais médios alemães) — variedades especializadas podem solicitar isenção temporária com justificação documentada
+- **Proibição absoluta retenção excedentes:** Qualquer surplus (receitas > custos + reserva operacional 10%) é automaticamente doado a SICAD trimestralmente para financiar prevenção/tratamento — distribuição de lucros a membros/direcção resulta em revogação permanente
+- **Dashboard mensal online público:** Divulgação a membros + SICAD de vendas totais (€), custos operacionais agregados, pagamentos direcção/funcionários, número membros activos
+
+**Fiscalizações estatais — Modelo alemão:**
+
+As autoridades regionais (Länder) conduzem [@cannabis420eu2024]:
+
+- **Inspeções aleatórias sem aviso prévio:** Verificação física de stocks, distribuições registadas, proteção menores, conformidade limites
 - **Análises laboratoriais:** Testes aleatórios de THC, contaminantes (pesticidas, metais pesados, fungos)
 - **Verificação documental:** Auditoria de registos de distribuição e conformidade com limites legais
+- **Acesso a registos:** Autoridades podem inspecionar documentação (§26 KCanG) [@kcang2024] a qualquer momento
+
+**Safeguards adicionais propostos para Portugal:**
+
+- **Meta específica de inspecções:** Mínimo 10% dos clubes auditados por trimestre (selecção aleatória) — cria previsibilidade estatística de fiscalização que desincentiva desvios
+- **Programa de whistleblowing:** Canal confidencial para membros reportarem suspeitas de desvios comerciais (revenda, manipulação preços, não-compliance) anonimamente a SICAD — denunciante protegido contra retaliação, denúncias comprovadas que levem a revogação resultam em reembolso de quotas ao denunciante
 
 **Consequências por incumprimento** [@cang2024]:
 
@@ -1322,6 +1348,42 @@ A Alemanha enfrentou desafios iniciais com os testes rápidos disponíveis — o
 * Proposta PT: investir em tecnologia de testagem adequada antes da implementação
 * **Princípio:** Regulação com salvaguardas rigorosas + tecnologia adequada = não aumenta riscos rodoviários
 
+### "Espanha tentou clubes sem fins lucrativos. Tornaram-se criminosos. Porque Portugal será diferente?"
+
+**Resposta curta (30s):**
+
+"Exactamente por isso aprendemos com os erros espanhóis. Espanha não tem regulação nacional — é zona cinzenta sem auditorias, sem price caps, sem fiscalização. Portugal propõe governance rigorosa: auditorias anuais obrigatórias publicadas online, tecto de €6/grama, excedentes doados automaticamente a SICAD, inspecções surpresa trimestrais (10% dos clubes), e whistleblowing protegido. Tudo o que falta em Espanha."
+
+**Resposta desenvolvida (2min):**
+
+"Essa é uma preocupação muito legítima, e é exactamente por isso que a nossa proposta não replica o modelo espanhol. Espanha não legalizou cannabis — tolera ~800-1.000 clubes numa 'zona cinzenta legal' sem regulação nacional clara [@tni2018; @transform2018]. O resultado? Fragmentação (Barcelona tolerante, Madrid restritivo), exploração comercial disfarçada, turismo cannábico, e ligações a crime organizado [@transform2018]. Em 2024, Barcelona ordenou encerramento de 30 clubes por desvios.
+
+A Alemanha implementa fiscalização através de documentação obrigatória (§26 KCanG) [@kcang2024], inspecções pelas autoridades regionais, e princípio cost-recovery (§§24-25 KCanG) [@kcang2024]. **Mas Portugal deve ir além**, adicionando safeguards específicos ausentes tanto na Alemanha como em Espanha:
+
+**Safeguards adicionais propostos para Portugal:**
+
+1. **Auditoria financeira anual obrigatória** — conduzida por auditor externo certificado não-membro, relatório completo publicado online e submetido a SICAD. Recusa de publicação = suspensão imediata da licença
+
+2. **Price cap rigoroso** — máximo €6/grama (baseado em custos operacionais médios alemães). Preço deve reflectir apenas custos reais (cultivo, salários, infraestrutura, testes), sem margem comercial
+
+3. **Proibição absoluta de retenção de excedentes** — qualquer surplus (receitas > custos + reserva operacional 10%) é **automaticamente doado a SICAD** trimestralmente para financiar prevenção/tratamento. Distribuição de lucros a membros/direcção = revogação permanente da licença
+
+4. **Programa de whistleblowing** — canal confidencial para membros reportarem suspeitas de desvios comerciais (revenda, manipulação preços) anonimamente a SICAD. Denunciante protegido contra retaliação, denúncias comprovadas que levem a revogação resultam em reembolso de quotas
+
+5. **Inspecções surpresa trimestrais** — 10% dos clubes auditados por trimestre (selecção aleatória), sem aviso prévio. Verificação física de stocks, distribuições, conformidade limites membros. Falha em cooperar = suspensão imediata
+
+6. **Transparência mensal obrigatória** — dashboard online público (membros + SICAD) com vendas totais (€), custos operacionais, pagamentos a direcção/funcionários, número de membros activos
+
+**Portugal aprende com erros alheios, não os replica.** A diferença entre Espanha (zona cinzenta sem fiscalização) e Portugal (regulação rigorosa com enforcement) é exactamente o que impede desvios comerciais. Ver detalhes completos em Anexo A sobre Governance de Clubes."
+
+**Dados de suporte:**
+
+* Espanha: ~800-1.000 clubes em zona cinzenta legal, sem regulação nacional [@tni2018; @transform2018]
+* Problemas documentados: exploração comercial, turismo cannábico, ligações crime organizado [@transform2018]
+* Barcelona 2024: encerramento de 30 clubes por desvios [@hightimes2024]
+* Proposta PT: 6 mecanismos de governance ausentes em Espanha (auditorias anuais, price caps €6/g, surplus a SICAD, whistleblowing, inspecções 10% trimestrais, transparência mensal)
+* **Conclusão:** Regulação rigorosa com enforcement previne desvios que zona cinzenta espanhola permite
+
 ---
 
 ## 3. Argumentos Morais e Ideológicos
@@ -1657,6 +1719,61 @@ Cada clube deve:
 * **Plano de Saúde e Protecção** — Documento submetido às autoridades com estratégia de redução de danos
 * **Rastreabilidade Total** — Documentação de cada etapa: sementeira → colheita → distribuição → entrega a cada membro
 * **Recursos Educativos** — Informação sobre riscos e encaminhamento para apoio
+
+## Governance e Prevenção de Desvios Comerciais
+
+**Contexto:** A Alemanha implementa fiscalização através de documentação obrigatória (§26 KCanG) [@kcang2024], inspecções aleatórias das autoridades regionais, e princípio cost-recovery (§§24-25 KCanG) [@kcang2024] que proíbe lucro. **Contudo**, Espanha demonstrou que tolerância de clubes sem regulação nacional rigorosa permite desvios comerciais, exploração, e ligações a crime organizado.
+
+**Para evitar repetir o cenário espanhol**, Portugal deve ir além do modelo alemão base, adicionando mecanismos de enforcement específicos ausentes tanto na Alemanha como em Espanha:
+
+**Safeguards adicionais propostos para Portugal:**
+
+### 1. Auditoria Financeira Independente
+
+* **Frequência:** Anual, conduzida por auditor externo certificado (não membro do clube)
+* **Transparência:** Relatório completo publicado no site do clube e submetido a SICAD
+* **Conteúdo:** Receitas, despesas detalhadas, custos por grama, pagamentos a direcção/funcionários, doações de excedentes
+* **Consequência:** Recusa de publicação resulta em suspensão imediata da licença até compliance
+
+### 2. Price Cap (Tecto de Preço)
+
+* **Máximo:** €6/grama (baseado na média alemã de custos operacionais [@bundesgesundheit2024cannabis])
+* **Justificação:** Preço deve reflectir apenas custos reais (cultivo, salários, infraestrutura, testes, impostos), sem margem comercial
+* **Excepções:** Variedades especializadas (medicinais, baixo THC) podem solicitar isenção temporária com justificação documentada
+* **Fiscalização:** Auditoria trimestral de preços vs. custos declarados
+
+### 3. Transparência Financeira Mensal
+
+* **Obrigação:** Divulgação pública mensal de:
+  - Total de vendas (€)
+  - Número de membros activos
+  - Custos operacionais agregados
+  - Pagamentos a direcção e funcionários (anonimizados mas com valores totais)
+* **Formato:** Dashboard online acessível a todos os membros e autoridades
+* **Objectivo:** Permitir detecção precoce de anomalias (ex: vendas > custos + margem razoável)
+
+### 4. Proibição de Retenção de Excedentes
+
+* **Regra:** Qualquer surplus financeiro (receitas > custos + reserva operacional 10%) é **automaticamente doado** a SICAD para financiar prevenção e tratamento
+* **Transferência:** Automática ao fim de cada trimestre fiscal
+* **Proibição absoluta:** Distribuição de lucros a membros, direcção, ou funcionários (só salários compatíveis com mercado)
+* **Penalidade:** Retenção ilícita resulta em revogação permanente da licença + coima
+
+### 5. Programa de Whistleblowing (Denúncia Protegida)
+
+* **Canal confidencial:** Membros podem reportar suspeitas de desvios comerciais (revenda, manipulação de preços, não-compliance) anonimamente a SICAD
+* **Protecção:** Denunciante protegido contra retaliação (expulsão do clube resulta em investigação automática)
+* **Recompensa:** Denúncias comprovadas que levem a revogação de licença resultam em reembolso de quotas ao denunciante
+* **Investigação:** Todas as denúncias investigadas dentro de 30 dias
+
+### 6. Inspecções Surpresa
+
+* **Frequência:** 10% dos clubes auditados trimestralmente, selecção aleatória
+* **Âmbito:** Verificação física de stocks, documentação de distribuições, conformidade com limites de membros, rastreabilidade
+* **Sem aviso prévio:** Inspecção não notificada (aparecem no local sem marcação)
+* **Consequência:** Falha em cooperar ou irregularidades graves = suspensão imediata
+
+**Contraste com Espanha:** Estes mecanismos estão ausentes em muitos clubes espanhóis, permitindo operação comercial disfarçada. **Portugal aprende com erros alheios**, não os replica.
 
 ## Licenciamento
 
