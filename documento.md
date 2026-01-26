@@ -27,7 +27,7 @@ Portugal **exporta 32.558 kg** de cannabis medicinal (2024) mas emite apenas **1
 - ✅ Simplificação prescrição (médicos de família)
 - ✅ Avaliação formal da Lei 33/2018
 
-### FASE 2: Cannabis Recreativa (médio prazo — Q3-Q4 2026)
+### FASE 2: Cannabis Recreativa (proposta legislativa Q3-Q4 2026 → implementação 2027-2028)
 
 **Modelo:** Clubes sociais sem fins lucrativos + autocultivo (Alemanha 2024)
 
@@ -52,12 +52,17 @@ Portugal **exporta 32.558 kg** de cannabis medicinal (2024) mas emite apenas **1
 
 ## Cronograma Proposto
 
+**Timeline realista baseada em processos legislativos comparáveis:** Portugal descriminalização 2001 (~18 meses) [@springer2021pt; @transform2016pt], Alemanha CanG 2024 (~18 meses de framework a implementação) [@lancet2024germany].
+
 | Data | Acção |
 |------|-------|
 | **Fev 2026** | Aprovação CTs Liberdade, Saúde, Ecologia |
 | **Mar 2026** | Apresentação à Coordenação |
 | **Abr 2026** | Perguntas parlamentares (Min. Saúde) |
 | **Q3-Q4 2026** | Proposta legislativa (coordenada BE/PAN/IL) |
+| **Q2-Q3 2027** | Aprovação parlamentar regime experimental (12-15 meses pós-proposta) |
+| **Q3-Q4 2027** | Programa piloto — 2-3 clubes sociais (Lisboa, Porto) |
+| **2028-2030** | Avaliação impactos + expansão gradual baseada em dados |
 
 ## Estratégia de Consenso
 
@@ -988,6 +993,9 @@ O cânhamo industrial (Cannabis sativa L. com THC<0,3%) representa uma oportunid
 | Mai 2026 | Participação na Marcha da Cannabis (Lisboa) |
 | Jun 2026 | Projecto de Resolução — grupo de trabalho parlamentar |
 | **Q3-Q4 2026** | **Proposta legislativa (coordenada com BE/PAN/IL)** |
+| **Q2-Q3 2027** | **Aprovação parlamentar regime experimental** (12-15 meses pós-proposta, comparável a Portugal 2001 e Alemanha 2024) |
+| **Q3-Q4 2027** | **Programa piloto** — 2-3 clubes sociais (Lisboa, Porto) |
+| **2028-2030** | **Avaliação de impactos + expansão gradual baseada em dados** |
 
 
 # ESTRATÉGIAS PARA CONSTRUIR PONTES
