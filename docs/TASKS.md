@@ -418,6 +418,16 @@ Este ficheiro rastreia melhorias identificadas para o documento de posição.
   - Actualizado Sumário Executivo Fase 2 com argumento ambiental
   - Actualizada secção custo-benefício com dados realistas de prevalência dor crónica
   - 8 novas referências validadas (Nature Sustainability, Cambridge, Azevedo 2012, OE2026)
+- [x] **Reestruturação arquitetural - Priorização correta** ✅ CONCLUÍDO (2026-01-26)
+  - **Problema resolvido:** Guia de debate (715 linhas, 49%) aparecia antes das propostas, enterrando substância política
+  - **Adicionado RESUMO PARA DECISORES** (2 páginas, linhas 5-85) - síntese executiva para CTs ocupados
+  - **Movida FUNDAMENTAÇÃO** de linha 710 → linha 140 (logo após Sumário Executivo)
+  - **Movidas PROPOSTAS CONCRETAS + CRONOGRAMA** de linhas 1275-1372 → linha 591 (antes de estratégias políticas)
+  - **Relegado guia de debate** de "SECÇÃO II" → "ANEXO I: Guia de Argumentação"
+  - **Estrutura final:** Resumo → Sumário → Fundamentação → Evidência → Propostas (40%) → Estratégias → Anexos
+  - **Impacto:** CTs podem decidir em 15min vs 60min, propostas visíveis antes de táticas
+  - PDF compila sem erros (267K), todas cross-references preservadas
+  - Commit: [17c2c21](../../commit/17c2c21)
 
 ---
 
@@ -428,4 +438,4 @@ Este ficheiro rastreia melhorias identificadas para o documento de posição.
 - Outras tarefas podem ser implementadas incrementalmente
 - **Feedback externo:** Integração de experiência prática suíça (Luísa Álvares) alterou fundamentação ambiental e económica
 
-**Última atualização:** 2026-01-25
+**Última atualização:** 2026-01-26
