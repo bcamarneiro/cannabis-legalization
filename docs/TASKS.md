@@ -8,32 +8,6 @@ Este ficheiro rastreia melhorias identificadas para o documento de posição.
 
 ### Red-Team Vulnerabilities (MÉDIA PRIORIDADE)
 
-- [ ] **MÉDIA 3: Claims sequestração carbono cânhamo potencialmente exagerados** ℹ️
-  - **Problema:** 8-22 toneladas CO₂/hectare - range enorme, pode ser optimista
-  - **Fix:** "Estudos UK mostram 8-22 t CO₂/ha em condições óptimas. Portugal (clima mediterrânico) pode ser 5-10 t CO₂/ha. Mesmo metade, offset significativo vs. indoor"
-  - **Validar:** Estudos cânhamo em clima mediterrânico (Espanha, Itália)
-
-- [ ] **MÉDIA 4: Timeline implementação irrealista** ℹ️
-  - **Problema:** Propõe Q3-Q4 2026 quando Alemanha demorou anos
-  - **Proposta:** Q3 2026 proposta legislativa → Q1 2027 aprovação experimental → Q3 2027 piloto 2-3 clubes → 2028-2030 avaliação/expansão
-  - **Validar:** Processos legislativos PT comparáveis (descriminalização 2001)
-
-- [ ] **MÉDIA 5: "95% mercado ilegal continua" - lógica circular** ℹ️
-  - **Fix:** "Actualmente 95% ilegal → Com clubes: redução para 60-70% em 5 anos (modelo Uruguai) → Legalização comercial: 25-30% persiste (Colorado)"
-  - **Validar:** Dados mercado negro pós-legalização (Uruguai, Colorado, Canadá)
-
-- [ ] **MÉDIA 6: Descriminalização vs. consumo - correlação não causalidade** ℹ️
-  - **Fix:** "Consumo não aumentou pós-2001, mas impossível provar causalidade (factores confundidos). Dados sugerem descriminalização não causou epidemia"
-
-- [ ] **MÉDIA 7: €52M financiamento clubes depende de execução perfeita** ℹ️
-  - **Fix:** "Financiamento inicial €10M (OE) → Anos 2-5 transição gradual para poupanças enforcement → Se clubes falharem, enforcement mantém-se"
-
-- [ ] **MÉDIA 8: Comparação álcool arriscada politicamente** ℹ️
-  - **Fix:** Manter APENAS em secção científica (Lancet harm index), remover de argumentação política
-
-- [ ] **MÉDIA 9: "Modelo alemão" usado circularmente** ℹ️
-  - **Fix:** "Alemanha 2024 = modelo legislativo (framework), não eficácia comprovada. Evidência: Uruguai (2013), Canadá (2018) - 5+ anos dados"
-
 - [ ] **MÉDIA 10: Enforcement autocultivo "3 plantas" indefinido** ℹ️
   - **Fix:** "Enforcement reactivo (queixas vizinhos), não porta-a-porta. Modelo: vinho caseiro 4.000L não fiscalizado proactivamente"
 
@@ -114,6 +88,13 @@ Este ficheiro rastreia melhorias identificadas para o documento de posição.
 
 - [x] **MÉDIA 1:** Taxa dependência ambígua → Gradiente CUD por frequência: ocasional 10-15%, semanal 25-30%, diário 33% ([e7f0624](../../commit/e7f0624))
 - [x] **MÉDIA 2:** Dados potência desactualizados → Atualizado EMCDDA 2024: resina 24.8% (2022), herbal 10.1% estável ([2e378ac](../../commit/2e378ac))
+- [x] **MÉDIA 3:** Claims sequestração carbono cânhamo exagerados → Contextualizado clima mediterrânico PT: 8-12 t CO₂/ha conservador, 15-20 t com 2 colheitas sul ([8d80dc9](../../commit/8d80dc9))
+- [x] **MÉDIA 4:** Timeline implementação irrealista → Expandido cronograma: proposta Q3-Q4 2026 → aprovação Q2-Q3 2027 → piloto Q3-Q4 2027 → avaliação 2028-2030 ([2eadec6](../../commit/2eadec6))
+- [x] **MÉDIA 5:** "95% mercado ilegal continua" lógica circular → Trajectória realista: Uruguai 24-39% legal (10 anos clubes), Canadá 97% legal (6 anos comercial), PT esperado 40-50% (anos 3-5) ([99ab871](../../commit/99ab871))
+- [x] **MÉDIA 6:** Descriminalização vs consumo causalidade → Adicionada nuance: "impossível provar causalidade (factores confundidos), conclusão defensável é não causou epidemia temida" ([d61d23a](../../commit/d61d23a))
+- [x] **MÉDIA 7:** €52M financiamento execução perfeita → Modelo faseado: €10-15M inicial OE → €20-40M gradual, se clubes falharem enforcement mantém-se (risco mitigado) ([92ac0d7](../../commit/92ac0d7))
+- [x] **MÉDIA 8:** Comparações álcool politicamente arriscadas → Removido whataboutism defensivo (4×), mantidas comparações regulatórias válidas (coerência frameworks) ([369cdc8](../../commit/369cdc8), corrigido [2755f43](../../commit/2755f43), terminologia [bd35219](../../commit/bd35219))
+- [x] **MÉDIA 9:** "Modelo alemão" usado circularmente → Distinguido framework legal (provisões §§24-26, limites THC, estruturas) de claims eficácia (requer anos dados). Alemanha <1 ano operação, evidência vem Colorado/Canadá 6+ anos ([0f41c46](../../commit/0f41c46))
 
 ### Incoerências de dados
 
@@ -134,17 +115,17 @@ Este ficheiro rastreia melhorias identificadas para o documento de posição.
 
 ## 📊 Estatísticas
 
-- **PDF:** 314K (inicial 267K CRÍTICO → 292K ALTA 3 → 304K ALTA 4 → 307K ALTA 6 → 311K ALTA 7 → 312K MÉDIA 1 → 314K MÉDIA 2)
+- **PDF:** 325K (inicial 267K CRÍTICO → 292K ALTA 3 → 304K ALTA 4 → 307K ALTA 6 → 311K ALTA 7 → 312K MÉDIA 1 → 314K MÉDIA 2 → 315K MÉDIA 3 → 320K MÉDIA 4 → 322K MÉDIA 5 → 323K MÉDIA 6 → 325K MÉDIA 7 → 323K MÉDIA 8 removido → 324K MÉDIA 8 restaurado válido → 325K MÉDIA 9)
 - **Commits CRÍTICO 1-5:** 76b680e, d49f2ad, f7239b9, f11342b, d0ab1c6
 - **Commits ALTA 1-7:** integrado 2026-01-25, CRÍTICO 1-2, ALTA 3-7, de045f9, 07f9eaa, e6f92d3
-- **Commits MÉDIA:** e7f0624 (MÉDIA 1), 2e378ac (MÉDIA 2)
-- **Validação web research:** ALTA 6 (§§24-26 KCanG alemão), ALTA 5 (Gates 2025 sleep meta-analysis), MÉDIA 1 (Leung 2020 + longitudinal 2024), MÉDIA 2 (EUDA 2024 cannabis report)
+- **Commits MÉDIA:** e7f0624 (MÉDIA 1), 2e378ac (MÉDIA 2), 8d80dc9 (MÉDIA 3), 2eadec6 (MÉDIA 4), 99ab871 (MÉDIA 5), d61d23a (MÉDIA 6), 92ac0d7 (MÉDIA 7), 369cdc8 (MÉDIA 8), 0f41c46 (MÉDIA 9)
+- **Validação web research:** ALTA 6 (§§24-26 KCanG alemão), ALTA 5 (Gates 2025 sleep meta-analysis), MÉDIA 1 (Leung 2020 + longitudinal 2024), MÉDIA 2 (EUDA 2024 cannabis report), MÉDIA 3 (Cambridge hemp sequestration + Mediterranean climate tolerance), MÉDIA 4 (Portugal Lei 30/2000 timeline + Germany CanG 2024 legislative process), MÉDIA 5 (Uruguay 2013-2024 + Canada 2018-2024 + Colorado 2014-2024 black market data), MÉDIA 6 (Análise interna, rigor metodológico), MÉDIA 7 (Análise interna, modelo faseamento), MÉDIA 8 (Análise interna, remoção whataboutism), MÉDIA 9 (Análise interna, distinção framework vs eficácia)
 
 ## 🎯 Próximos Passos
 
 **Prioridade ALTA concluída (7/7 ✅)**
-**Prioridade MÉDIA em progresso (2/16 ✅)**
-**Próximo:** MÉDIA 3 (Claims sequestração carbono cânhamo exagerados)
+**Prioridade MÉDIA em progresso (9/16 ✅)**
+**Próximo:** MÉDIA 10 (Enforcement autocultivo "3 plantas" indefinido)
 
 ---
 
@@ -155,4 +136,4 @@ Este ficheiro rastreia melhorias identificadas para o documento de posição.
 - Feedback externo: Luísa Álvares (experiência suíça) alterou fundamentação ambiental/económica
 - TASKS.md limpo: 466 → ~250 linhas (foco no pendente)
 
-**Última atualização:** 2026-01-26 23:30 (MÉDIA 2 concluída: potência THC EMCDDA 2024)
+**Última atualização:** 2026-01-26 17:55 (MÉDIA 9 concluída: framework alemão distinguido de claims eficácia)
