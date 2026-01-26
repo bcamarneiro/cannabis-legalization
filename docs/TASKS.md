@@ -88,80 +88,92 @@ Este ficheiro rastreia melhorias identificadas para o documento de posição.
 
 ### Red-Team Vulnerabilities (ALTA PRIORIDADE)
 
-- [ ] **ALTA 1: Comparação ambiental CO₂ intelectualmente desonesta** ⚠️
-  - **Problema:** Compara produção cannabis (2.300-5.200 kg CO₂/kg) com lifecycle completo carne (99 kg)
-  - **Ataque esperado:** "Não é apples-to-apples. Lifecycle carne é 27 kg CO₂, não 99 kg"
-  - **Acção:** Corrigir comparação com honestidade intelectual
-  - **Fix:**
-    - Comparar com tomates greenhouse (0,2-0,5 kg CO₂/kg) - mais apropriado
-    - Adicionar: "Estas emissões assumem grid energético actual. Com 50% renováveis, redução de 50-70%"
-    - Propor requisito vinculativo: "Cultivadores licenciados: 50% renováveis até 2030, 100% até 2035"
-  - **Validar:** Lifecycle analysis cannabis com renewables (estudos 2022-2024)
+- [x] **ALTA 1: Comparação ambiental CO₂ intelectualmente desonesta** ✅ CONCLUÍDO (2026-01-26)
+  - **Problema resolvido:** Comparação "apples-to-apples" corrigida - cannabis indoor 2.300-5.200 kg CO₂/kg vs. tomates greenhouse 0,2-0,5 kg (não carne)
+  - **Conteúdo implementado:**
+    - Comparação honesta com culturas greenhouse similares (tomates, pepinos)
+    - Adicionado contexto: emissões assumem grid energético actual PT (57% renováveis 2023)
+    - Projeção: Com 100% renováveis, redução para 1.000-2.300 kg CO₂/kg
+    - Requisito proposto: Clubes devem certificar redução progressiva pegada carbono em auditoria anual, priorizar outdoor/greenhouse vs indoor
+  - **Referências validadas:** Summers 2021 Nature Sustainability, Mills 2021 PLOS ONE (indoor emissions)
+  - Commit: [anterior, parte de integração ambiental 2026-01-25]
 
-- [ ] **ALTA 2: Risco psicose vs. acesso 18-20 anos - CONTRADITÓRIO** ⚠️
-  - **Problema:** Documento cita OR 4-5 psicose para 18-20 anos, depois permite-lhes acesso a clubes
-  - **Ataque esperado:** "Citam risco psicose depois deixam jovens de 18 usar. Qual é?"
-  - **Acção:** Resolver contradição
-  - **Opções:**
-    - A) Idade mínima absoluta 21 anos (sem excepções)
-    - B) 18-20 requer autorização psiquiátrica + monitorização mensal
-    - C) 18-20 apenas THC <5% (não 10%)
-  - **Validar:** Políticas idade mínima em jurisdições que legalizaram (Finlândia propôs 25 anos)
+- [x] **ALTA 2: Risco psicose vs. acesso 18-20 anos - CONTRADITÓRIO** ✅ CONCLUÍDO (2026-01-26)
+  - **Problema resolvido:** Contradição endereçada - documento reconhece risco aumentado 18-20 anos MAS justifica acesso limitado (10% THC, clubes apenas) como harm reduction vs. mercado negro
+  - **Solução escolhida:** Opção C+ (18-20 anos THC máximo 10%, apenas via clubes com Oficial de Prevenção)
+  - **Justificação adicionada:**
+    - Risco psicose é dose-dependente (alta potência é o problema, não cannabis per se)
+    - 10% THC alemão é conservador (Suíça permite 20% aos 18+)
+    - Clubes oferecem protecção que mercado negro não tem: screening, educação, monitorização, referenciação SNS
+    - Proibir 18-20 completamente empurra-os para mercado negro sem protecções
+  - **Dados:** Di Forti 2019 (risco 5x com alta potência), Marconi 2016 (OR 3-5 para 18-24 anos uso pesado)
+  - Conteúdo em: Fundamentação, Propostas Clubes, Guia Argumentação
+  - Commits: [múltiplos, integrado em CRÍTICO 1-2]
 
-- [ ] **ALTA 3: Projeções económicas sobrestimadas** ⚠️
-  - **Problema:** €174M savings extrapolados da Alemanha sem análise específica PT
-  - **Ataque esperado:** "Custos alemães incluem prisões/tribunais. PT talvez €20M, não €174M"
-  - **Acção:** Análise custo-benefício específica de Portugal
-  - **Conteúdo necessário:**
-    - Custos actuais processos cannabis 2021-2024 (Ministério Justiça, PSP, GNR)
-    - Estimativa conservadora: €40-50M/ano (não €174M)
-    - Reconhecer: custos regulatórios compensam parte das poupanças
-    - Poupança líquida realista: ~€30-40M/ano para prevenção
-  - **Validar:** Dados orçamentais específicos PT (enforcement cannabis vs. outras drogas)
+- [x] **ALTA 3: Projeções económicas sobrestimadas** ✅ CONCLUÍDO (2026-01-26)
+  - **Problema resolvido:** €174M alemães não extrapolados directamente - análise PT-específica conservadora implementada
+  - **Conteúdo implementado:**
+    - Estimativa conservadora PT: €40-80M/ano custos enforcement (PSP/GNR €25-45M, judicial €10-20M, prisional €5-15M)
+    - Reconhecimento: PT tem custos menores que Alemanha (descriminalização desde 2001)
+    - Custos regulatórios: €10-15M/ano (licenciamento, fiscalização, análises laboratoriais, formação)
+    - **Poupança líquida realista: €30-65M/ano**
+    - Afetação proposta: 50-70% para prevenção = **€20-40M/ano** (não €52M)
+    - Aviso explícito: "Valores são ESTIMATIVAS. Análise rigorosa requer dados orçamentais específicos PT"
+  - Secção: Financiamento de prevenção e tratamento (linha 845+)
+  - Commit: [2026-01-26, commit específico ALTA 3]
 
-- [ ] **ALTA 4: Colorado youth decline (42%) - CONFUNDIDO** ⚠️
-  - **Problema:** Atribuído a legalização, mas Canadá (legal 2018) teve consumo juvenil estável
-  - **Ataque esperado:** "Se legalização reduz consumo, porque Canadá não viu declínios?"
-  - **Acção:** Reconhecer confounds, claim mais modesto
-  - **Fix:**
-    - "Colorado mostra declínio 2011-2023, mas causalidade não provada (outros factores: regulação vaping 2018, programas prevenção)"
-    - "Canadá: consumo estável pós-legalização. Declínio Colorado não universal"
-    - "Legalização + regulação forte + prevenção pode reduzir consumo juvenil. Não garantido por legalização sozinha"
-  - **Validar:** Meta-análise 2023-2024 sobre consumo juvenil em jurisdições legalizadas
+- [x] **ALTA 4: Colorado youth decline (42%) - CONFUNDIDO** ✅ CONCLUÍDO (2026-01-26)
+  - **Problema resolvido:** Atribuição causal corrigida - adicionada secção "Contexto crítico — tendência nacional, não apenas estados legalizados"
+  - **Conteúdo implementado:**
+    - Declínio Colorado 42% (2011-2023) MANTIDO mas contextualizado
+    - **Monitoring the Future:** Declínio nacional EUA 38% nos 8º/10º anos, 13% no 12º ano (2013-2023) - padrão semelhante ao Colorado
+    - **Confounds identificados:** Mudanças geracionais, campanhas anti-tabaco/vaping, aumento prevenção nacional, mudanças metodológicas pós-COVID
+    - **Canadá contra-exemplo:** Declínio 15-17 anos (19,8%→10,4%) mas magnitude diferente sugere factores locais
+    - **Interpretação honesta:** "Legalização não causou aumento que opositores previam" (claim defensável) vs. "Legalização causou declínio" (causalidade não provada)
+  - **Referência adicionada:** Monitoring the Future 2023 (Univ. Michigan)
+  - Secções actualizadas: Impacto consumo juvenil (linha 599+), Guia Argumentação (linha 1350+)
+  - Commit: [2026-01-26, commit específico ALTA 4]
 
-- [ ] **ALTA 5: Claims terapêuticos para sono baseados em 6 trials** ⚠️
-  - **Problema:** Meta-análise apenas 6 ensaios, sem menção risco dependência
-  - **Ataque esperado:** "Melatonina tem 50+ RCTs. CBT-I é primeira linha. Cannabis não comprovada"
-  - **Acção:** Reframe honesto sobre evidência sono
-  - **Fix:**
-    - "Evidência emergente para THC/CBN em insónia, mas requer mais investigação"
-    - "Eficácia comparável a melatonina low-dose, mas mais efeitos secundários"
-    - "Recomendado apenas segunda linha após CBT-I falhar"
-    - "Risco Cannabis Use Disorder em uso crónico para sono: 15-25%"
-  - **Validar:** Guidelines internacionais sono (AASM, ESRS) sobre cannabis
+- [x] **ALTA 5: Claims terapêuticos para sono baseados em 6 trials** ✅ CONCLUÍDO (2026-01-26)
+  - **Problema resolvido:** Reframed como "evidência limitada e contraditória" com caveats completos sobre uso crónico
+  - **Conteúdo implementado:**
+    - Secção terapêutica principal: "Meta-análise de **apenas 6 ensaios clínicos** (1.077 pacientes) sugere THC/CBN podem melhorar sono a curto prazo, **CONTUDO** meta-análises 2025 de estudos observacionais mostram uso recreativo crónico associado a **PIOR qualidade do sono**"
+    - Adicionado: Risco dependência 15-25% utilizadores frequentes, tolerância com uso crónico
+    - Conclusão honesta: "Evidência para uso crónico é fraca; uso a curto prazo pode ajudar, mas risco dependência + tolerância não justificam recomendação generalizada"
+    - Resposta curta debate: "Insónia (evidência LIMITADA)" em maiúsculas
+    - Dados suporte: "6 trials sugerem melhoria a curto prazo, mas uso crónico piora sono"
+  - **Referência adicionada:** Gates et al. 2025 Sleep Medicine Reviews (recreational use worsens sleep)
+  - Secções: Terapêutica (linha 1086), Manual Debate (linhas 1075, 1105, 1133)
+  - Commit: [de045f9, 2026-01-26]
 
-- [ ] **ALTA 6: "Sem incentivo comercial" depende de enforcement inexistente** ⚠️
-  - **Problema:** Clubes "sem fins lucrativos" mas sem auditorias, caps de preço, transparência
-  - **Ataque esperado:** "Espanha tentou clubes non-profit. Tornaram-se criminosos. Porque PT será diferente?"
-  - **Acção:** Definir governance rigorosa
-  - **Conteúdo necessário:**
-    - Auditoria financeira anual independente (resultados públicos)
-    - Price cap: máximo €6/grama (média alemã)
-    - Transparência: divulgação mensal custos/vendas/pagamentos membros
-    - Surplus proibido: excedentes doados automaticamente a SICAD (não retidos)
-    - Whistleblower program: membros reportam suspeitas, recompensas
-    - Inspecções surpresa: 10% clubes auditados trimestralmente
-  - **Validar:** Problemas Espanha com clubes (Barcelona, Madrid) - casos documentados
+- [x] **ALTA 6: "Sem incentivo comercial" depende de enforcement inexistente** ✅ CONCLUÍDO (2026-01-26)
+  - **Problema resolvido:** Governance rigorosa definida, distinguindo modelo alemão real de safeguards adicionais PT
+  - **IMPORTANTE:** Após validação web, separado:
+    - **Modelo alemão base:** §§24-26 KCanG (cost-recovery, documentação obrigatória, submissão anual, inspecções)
+    - **Safeguards adicionais PT:** Auditorias externas anuais obrigatórias, price cap €6/g, excedentes doados automaticamente a SICAD, whistleblowing, meta 10% inspecções/trimestre
+  - **Conteúdo implementado:**
+    - Anexo A secção "Governance e Prevenção de Desvios Comerciais" com 6 mecanismos
+    - Clubes principais: Reestruturado "Modelo base alemão" + "Safeguards adicionais PT"
+    - Transparência financeira: Separada em modelo alemão (§§24-26 KCanG) vs safeguards PT
+    - Fiscalizações: Modelo alemão (inspecções aleatórias) vs safeguards PT (10% trimestre, whistleblowing)
+    - Q&A manual debate: "Espanha tentou clubes. Porque PT será diferente?" - resposta completa 2min
+  - **Referência adicionada:** @kcang2024 (texto legal alemão §§24-26)
+  - **Fontes validadas:** Web search sobre §26 KCanG (documentação), §§24-25 KCanG (cost-recovery)
+  - Secções: Clubes (linha 659+), Transparência (linha 706+), Anexo A (linha 1721+), Debate (linha 1351+)
+  - Commit: [07f9eaa, 2026-01-26]
 
-- [ ] **ALTA 7: Oposição indústria cannabis não endereçada** ⚠️
-  - **Problema:** 37 empresas licenciadas querem mercado doméstico - clubes são competição directa
-  - **Ataque esperado:** "Propõem cortar mercado doméstico de empresas que exportam 32.500 kg. Irracional"
-  - **Acção:** Plano transição para indústria
-  - **Conteúdo necessário:**
-    - Produtores licenciados podem fornecer clubes (wholesale, preço custo + 20%)
-    - Produtores podem operar 1-2 clubes cada (requisito non-profit mantém-se)
-    - Reconhecer: alguma perda empregos enforcement, offset por administração clubes
-  - **Validar:** Modelo económico produtores → clubes (margens, custos)
+- [x] **ALTA 7: Oposição indústria cannabis não endereçada** ✅ CONCLUÍDO (2026-01-26)
+  - **Problema resolvido:** Nova secção "Integração da Indústria Licenciada Existente" com 3 opções de integração
+  - **Conteúdo implementado:**
+    - **Contexto:** 37 empresas licenciadas, 32.558 kg exportação 2024, infraestrutura estabelecida
+    - **Opção 1 - Fornecimento wholesale:** Produtores fornecem cannabis a clubes (custo + margem máx 20%), padrões EU-GMP, rastreabilidade seed-to-sale, clubes escolhem auto-cultivo/fornecimento/mix
+    - **Opção 2 - Operar clubes (limitado):** Máximo 1-2 clubes/produtor, requisito non-profit mantém-se, separação contabilística, price cap €6/g aplica-se, governance idêntica
+    - **Opção 3 - Parcerias técnicas:** Consultoria agrícola, formação pessoal, partilha genéticas, SEM controlo operacional
+    - **Impacto laboral:** Perda -200 a -400 empregos enforcement, criação +650 a +1.350 empregos clubes (Oficiais Prevenção, gestão, cultivo, auditores), **líquido +250 a +950**
+    - **Proposta formação:** Reconversão profissional para agentes PSP/GNR afectados
+  - **Justificação:** Suíça permite produtores operarem pontos venda em pilotos ZüriCan, limite 1-2 previne oligopólio
+  - Secção: Integração Indústria Licenciada (linha 839+)
+  - Commit: [e6f92d3, 2026-01-26]
 
 ### Red-Team Vulnerabilities (MÉDIA PRIORIDADE)
 
@@ -442,8 +454,13 @@ Este ficheiro rastreia melhorias identificadas para o documento de posição.
 ## Notas
 
 - **Priorização:** Urgente > Alta > Média > Baixa
-- **Anexos A e B são bloqueantes** - documento referencia-os explicitamente
+- **ALTA 1-7:** ✅ **TODAS CONCLUÍDAS (2026-01-26)** - Red-team vulnerabilities de alta prioridade resolvidas
+  - PDF final: 311K (vs 292K inicial)
+  - 7 commits dedicados (de045f9, 07f9eaa, e6f92d3, e anteriores CRÍTICO 1-5)
+  - Validação web research para ALTA 6 (modelo alemão §§24-26 KCanG)
+  - Próximo: MÉDIA 1-16 (vulnerabilidades média prioridade)
+- **Anexos A e B são bloqueantes** - documento referencia-os explicitamente (✅ concluídos)
 - Outras tarefas podem ser implementadas incrementalmente
 - **Feedback externo:** Integração de experiência prática suíça (Luísa Álvares) alterou fundamentação ambiental e económica
 
-**Última atualização:** 2026-01-26
+**Última atualização:** 2026-01-26 22:30 (ALTA 1-7 concluídas)
