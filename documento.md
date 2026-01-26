@@ -799,30 +799,52 @@ Para informação sobre o sistema de sementes certificadas proposto, ver Anexo B
 
 ### Financiamento de prevenção e tratamento {#financiamento}
 
-**Poupanças estimadas em custos de enforcement:**
+**Poupanças estimadas em custos de enforcement (estimativa conservadora):**
 
-A proibição da cannabis tem custos significativos para o Estado. Um estudo de 2021 da Heinrich Heine University Düsseldorf estimou que a Alemanha pouparia [@cannabisnow2024]:
+A proibição da cannabis tem custos para o Estado. Um estudo de 2021 da Heinrich Heine University Düsseldorf estimou poupanças alemãs de €1,36 mil milhões/ano [@cannabisnow2024]. **Contudo, extrapolação directa para Portugal ignora diferenças estruturais.**
 
-* **€1,05 mil milhões/ano** em custos de enforcement (policiamento)
-* **€313 milhões/ano** em custos judiciais (processos, tribunais)
-* **Total: €1,363 mil milhões/ano**
+**Estimativa conservadora para Portugal (análise necessária):**
 
-**Ajustando estes valores à população portuguesa** (10,7M habitantes vs. 83,6M na Alemanha):
+Portugal processa **menos** casos cannabis que Alemanha proporcionalmente:
+* **Descriminalização desde 2001:** Consumo não é crime = custos enforcement menores que Alemanha pré-2024
+* **Custos actuais estimados:** €40-80M/ano (policiamento + judicial + prisões)
+  * PSP/GNR: operações cannabis ~€25-45M/ano (estimativa)
+  * Sistema judicial: processos tráfico ~€10-20M/ano
+  * Sistema prisional: reclusos cannabis ~€5-15M/ano
 
-* **Poupanças enforcement:** ~€134M/ano
-* **Poupanças judicial:** ~€40M/ano
-* **TOTAL estimado: ~€174 milhões/ano**
+**IMPORTANTE:** Estes valores são **estimativas** baseadas em dados alemães. Análise rigorosa requer:
+* Dados orçamentais específicos PT (Ministério Justiça, PSP, GNR, DGRSP)
+* Breakdown custos cannabis vs. outras drogas
+* Análise custo-benefício incluindo custos regulatórios
+
+**Custos regulatórios compensam parte das poupanças:**
+
+Regulação de clubes sociais implica custos novos:
+* Licenciamento e fiscalização (autoridades regionais)
+* Análises laboratoriais obrigatórias (THC, contaminantes)
+* Formação profissionais saúde (Oficial de Prevenção)
+* Sistemas de rastreabilidade e monitorização
+* **Estimativa custos regulatórios:** €10-15M/ano
+
+**Poupança líquida realista:**
+
+* **Poupanças enforcement:** €40-80M/ano (conservador)
+* **Custos regulatórios:** -€10-15M/ano
+* **Poupança LÍQUIDA:** €30-65M/ano
+* **Afetação proposta:** 50-70% para prevenção = **€20-40M/ano**
 
 **Proposta de afetação:**
 
-* **30% destas poupanças** (~€52M/ano) dedicados a:
+* **€20-40M/ano** (50-70% poupanças líquidas) dedicados a:
   * Serviços de tratamento de dependências (reforço do SICAD)
   * Programas de prevenção nas escolas
   * Investigação científica sobre riscos e benefícios
   * Formação de profissionais de saúde
   * Fiscalização dos clubes e controlo de qualidade
 
-* **Fonte adicional:** Taxas de licenciamento dos clubes sociais (modelo alemão: €250-500 adesão + quotas mensais)
+* **Fonte adicional:** Taxas de licenciamento dos clubes sociais (modelo alemão: €250-500 adesão + quotas mensais €20-40/mês)
+
+**Disclaimer:** Valores conservadores assumem cenário pessimista. Análise rigorosa PT pode revelar poupanças maiores ou menores. Compromisso: publicar análise custo-benefício detalhada antes implementação Fase 2.
 
 ## Cânhamo Industrial: Uma oportunidade económica e ambiental
 O cânhamo industrial (Cannabis sativa L. com THC<0,3%) representa uma oportunidade estratégica para Portugal [@ec2024].
