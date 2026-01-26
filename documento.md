@@ -720,8 +720,9 @@ Cada clube deve ter um **Präventionsbeauftragter** (Oficial de Prevenção) —
 
 1. **Educação na admissão (obrigatória)**
    - Sessão individual 30-45 minutos antes do primeiro acesso
-   - Tópicos obrigatórios: riscos dependência (CUD 10-33%), psicose (OR 4,8 THC ≥10%), impacto cognitivo 18-25 anos
-   - Screening rápido: PHQ-2 (depressão), GAD-2 (ansiedade), histórico psicose familiar
+   - Tópicos obrigatórios: riscos dependência (CUD 10-33%), psicose (OR 4,8 THC ≥10%), impacto cognitivo 18-25 anos, **riscos poliuso cannabis+álcool/tabaco**
+   - **Screening rápido saúde mental:** PHQ-2 (depressão), GAD-2 (ansiedade), histórico psicose familiar
+   - **Screening poliuso:** AUDIT-C (álcool, 3 questões), consumo tabaco (sim/não, frequência), outras substâncias (últimos 12 meses)
    - Documentação assinada pelo membro confirmando compreensão dos riscos
 
 2. **Monitorização contínua de padrões de uso**
@@ -736,8 +737,8 @@ Cada clube deve ter um **Präventionsbeauftragter** (Oficial de Prevenção) —
 
 4. **Sessões educativas de grupo**
    - Mínimo trimestral (4x/ano) para todos os membros
-   - Tópicos: consumo consciente, tolerância, sinais dependência, interacção com álcool/medicamentos, quando procurar ajuda
-   - Recursos externos: convidar profissionais SNS, ex-utilizadores problemáticos (testemunhos)
+   - Tópicos: consumo consciente, tolerância, sinais dependência, **riscos poliuso cannabis+álcool/tabaco** (ver secção Poliuso e Dual Diagnosis), interacção com medicamentos, quando procurar ajuda
+   - Recursos externos: convidar profissionais SNS, ex-utilizadores problemáticos (testemunhos), especialistas dual diagnosis
 
 5. **Protecção de populações vulneráveis**
    - Identificar grávidas/lactantes e oferecer referenciação obstetrícia (ver secção Protecção Materno-Infantil)
@@ -792,6 +793,59 @@ O programa piloto Züri Can implementa **screening formal obrigatório** na admi
 **Justificação:** Modelo alemão equilibra proteção com praticabilidade. Canadá, sem Oficial de Prevenção, registou aumento de consultas psicose em emergência após legalização [@wootten2023ontario].
 
 Para uma descrição detalhada do funcionamento deste modelo, ver Anexo A.
+
+#### Poliuso e Dual Diagnosis
+
+**Prevalência de poliuso em Portugal:**
+
+Dados portugueses (SICAD/ICAD V Inquérito Nacional 2022) revelam que **70% dos utilizadores de cannabis** também consomem álcool e tabaco nos 12 meses anteriores. Praticamente todos os utilizadores de cannabis na amostra consumiam tabaco e álcool simultaneamente.
+
+Entre jovens de 18 anos, 7-8 em cada 10 beberam álcool, 4 fumaram tabaco, e 2 consumiram pelo menos uma substância ilícita (principalmente cannabis) nos 12 meses anteriores.
+
+**Riscos do poliuso cannabis + álcool/tabaco:**
+
+1. **Cannabis + Álcool:**
+   - Efeito sinérgico prejudicando coordenação motora, tempo de reação, julgamento (risco acrescido acidentes)
+   - Potenciação de náuseas, vómitos, desorientação ("crossfade")
+   - Maior risco comportamentos de risco (condução sob influência, relações sexuais não protegidas)
+   - Proibição absoluta ao volante (ver secção Cannabis e Condução)
+
+2. **Cannabis + Tabaco:**
+   - Agravamento de problemas respiratórios (bronquite crónica, tosse persistente)
+   - Exposição a carcinogénios (combustão de ambos)
+   - Dependência nicotínica pode mascarar ou agravar dependência cannabis
+   - "Blunts" (cannabis enrolada em folha tabaco) aumenta exposição a ambas as substâncias
+
+3. **Triplo uso (cannabis + álcool + tabaco):**
+   - Risco acrescido de dependência de múltiplas substâncias
+   - Maior impacto cardiovascular (álcool + tabaco) e cognitivo (cannabis + álcool)
+   - Desafio acrescido para cessação (interdependências comportamentais)
+
+**Screening e intervenção nos clubes sociais:**
+
+O Oficial de Prevenção implementa screening obrigatório na admissão:
+
+- **AUDIT-C (Alcohol Use Disorders Identification Test - Consumption):** 3 questões rápidas sobre frequência e quantidade de álcool
+- **Consumo tabaco:** Frequência (diário, semanal, ocasional, ex-fumador, nunca)
+- **Outras substâncias ilícitas:** Consumo nos últimos 12 meses (sim/não, qual substância)
+
+**Critérios para referenciação SNS (dual diagnosis/poliuso):**
+
+- **Uso problemático álcool:** AUDIT-C ≥4 (homens) ou ≥3 (mulheres) + cannabis regular → referenciação CAT (Centro de Apoio a Toxicodependentes) ou consulta adições SNS
+- **Dependência tabaco severa + cannabis:** Fumador diário tabaco (>10 cigarros/dia) + cannabis diária → oferecer referenciação consulta cessação tabágica + screening CUD
+- **Triplo uso frequente:** Cannabis semanal + álcool >2x/semana + tabaco diário → conversa proactiva Oficial Prevenção, monitorização mensal, referenciação se padrão persistir
+- **Sintomas depressão/ansiedade + poliuso:** PHQ-2 ≥3 ou GAD-2 ≥3 + consumo múltiplas substâncias → referenciação psiquiatria/psicologia SNS com indicação de dual diagnosis
+
+**Educação e harm reduction:**
+
+Sessões de grupo trimestrais do Oficial de Prevenção devem incluir:
+
+- Riscos específicos de misturar cannabis com álcool (nunca ao volante, evitar álcool quando consumo THC elevado)
+- Alternativas ao fumar tabaco+cannabis (vaporização, uso de filtros, evitar "blunts")
+- Sinais de dependência cruzada (necessitar de uma substância para "equilibrar" outra)
+- Recursos disponíveis: Linha SNS Saúde 24 (808 24 24 24), CAT locais, consultas cessação tabágica, grupos Alcoólicos Anónimos
+
+**Justificação:** Portugal tem prevalência elevada de poliuso (70% utilizadores cannabis), mas sistemas de tratamento frequentemente não estão preparados para dual diagnosis. Screening proactivo nos clubes permite identificação precoce e referenciação antes de desenvolvimento de dependências múltiplas severas. Modelo difere do mercado negro (zero screening) e dispensários comerciais (foco em vendas, não prevenção).
 
 #### Sistema de Monitorização e Transparência Financeira
 
