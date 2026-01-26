@@ -654,6 +654,45 @@ O programa piloto Züri Can implementa **screening formal obrigatório** na admi
 
 Para uma descrição detalhada do funcionamento deste modelo, ver Anexo A.
 
+#### Sistema de Monitorização e Transparência Financeira
+
+**Tracking de distribuições** (modelo alemão [@cang2024; @justbob2024cscs]):
+
+Os clubes devem implementar **rastreabilidade completa** da cannabis cultivada, assegurando:
+
+- **Registo individual de distribuições:** Cada entrega a um membro é documentada com data, quantidade e tipo de produto
+- **Objetivo:** Garantir cumprimento de limites mensais (50g/mês por membro) e prevenir revenda
+- **Rastreio "da semente à distribuição":** Documentação de todas as fases (sementeira, cultivo, colheita, armazenamento, entrega)
+- **Privacidade:** Dados de membros apenas acessíveis a autoridades em fiscalização oficial, não são públicos
+
+**Transparência financeira obrigatória** [@cannabusinessplans2024cscs]:
+
+Os clubes sociais devem manter total abertura financeira aos membros:
+
+- **Relatório anual:** Balanço completo de receitas (quotas) e despesas (cultivo, salários, infraestrutura)
+- **Assembleia Geral:** Aprovação anual do relatório financeiro por todos os membros
+- **Princípio non-profit:** Membros verificam que quotas cobrem apenas custos reais, sem lucro
+- **Auditoria externa independente:** Obrigatória para clubes com mais de 300 membros
+
+**Fiscalizações estatais** [@cannabis420eu2024]:
+
+As autoridades regionais (modelo alemão: Länder) conduzem:
+
+- **Inspeções aleatórias sem aviso prévio:** Verificação de quantidades cultivadas, distribuições registadas, proteção de menores
+- **Análises laboratoriais:** Testes aleatórios de THC, contaminantes (pesticidas, metais pesados, fungos)
+- **Verificação documental:** Auditoria de registos de distribuição e conformidade com limites legais
+
+**Consequências por incumprimento** [@cang2024]:
+
+O sistema de licenciamento prevê penalizações proporcionais:
+
+- **Clube sem Oficial de Prevenção qualificado:** Licença suspensa até regularização (máximo 30 dias) + coima €500-2.000
+- **Violação de limites de distribuição:** Primeira infração: advertência escrita + auditoria forçada. Reincidência: licença revogada
+- **Falta de transparência financeira:** Recusa de apresentar contas ou auditoria = licença revogada imediatamente
+- **Distribuição a menores:** Revogação permanente da licença + processo criminal contra responsáveis
+
+**Justificação:** Modelo alemão demonstra que fiscalização rigorosa + transparência total permitem modelo non-profit funcional sem criar mercado paralelo. A rastreabilidade individual é necessária (limites legais), mas dados permanecem privados salvo fiscalização.
+
 ### Autocultivo regulado *(proposta de compromisso)*
 * Até 3 plantas por adulto
 * **Sementes apenas de fornecedores autorizados** (THC conhecido)

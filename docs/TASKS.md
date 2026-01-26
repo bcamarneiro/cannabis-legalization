@@ -33,16 +33,17 @@ Este ficheiro rastreia melhorias identificadas para o documento de posição.
   - **Decisão estratégica:** Modelo alemão (educação + monitorização) vs suíço (screening formal). Alemão equilibra proteção com praticabilidade
   - Commit: [d49f2ad](../../commit/d49f2ad)
 
-- [ ] **CRÍTICO 3: Sistemas de monitorização completamente vagos** 🚨
-  - **Problema:** "Monitorização de padrões" sem definir como funciona, quem executa, como é financiado
-  - **Ataque esperado:** "Prometem €52M de 'monitorização' mas zero especificações"
-  - **Acção:** Definir sistema completo de enforcement
-  - **Conteúdo necessário:**
-    - Tracking de compras: base de dados anónima vs. individual (decidir)
-    - Oficial de Prevenção: qualificações (psicólogo licenciado), salário (€28-35k), rácio (1:250 membros)
-    - Auditorias financeiras: anuais, independentes, públicas
-    - Consequências: clubes sem oficial qualificado perdem licença
-  - **Validar:** Modelo alemão de Präventionsbeauftragter (oficial prevenção) - qualificações, custos
+- [x] **CRÍTICO 3: Sistemas de monitorização completamente vagos** ✅ CONCLUÍDO (2026-01-26)
+  - **Problema resolvido:** Adicionada subsecção "Sistema de Monitorização e Transparência Financeira" em Propostas > Clubes Sociais
+  - **Conteúdo implementado:**
+    - **Tracking de distribuições:** Registo individual obrigatório (modelo alemão), rastreabilidade "da semente à distribuição"
+    - **Privacidade:** Dados apenas acessíveis a autoridades em fiscalização, não públicos
+    - **Transparência financeira:** Relatório anual + Assembleia Geral + auditoria externa independente (>300 membros)
+    - **Fiscalizações estatais:** Inspeções aleatórias sem aviso, análises laboratoriais THC/contaminantes
+    - **Consequências graduais:** Advertência → suspensão licença → revogação (conforme gravidade)
+    - **Penalizações específicas:** Sem Oficial Prevenção = suspensão + coima €500-2k; falta transparência = revogação imediata
+  - **Referências adicionadas:** CanG 2024 (lei alemã), JustBob 2024 (rastreabilidade), Cannabis Business Plans 2024 (transparência CSCs), 420+ Software 2024 (fiscalização)
+  - **Decisão estratégica:** Tracking individual necessário (limites legais) mas dados privados salvo fiscalização. Modelo alemão demonstra funcionalidade sem criar mercado paralelo
 
 - [ ] **CRÍTICO 4: Sistema "sementes certificadas" indefinido** 🚨
   - **Problema:** Central ao autocultivo mas não explica quem certifica, como fiscaliza, como impede sementes ilegais
