@@ -45,16 +45,17 @@ Este ficheiro rastreia melhorias identificadas para o documento de posição.
   - **Referências adicionadas:** CanG 2024 (lei alemã), JustBob 2024 (rastreabilidade), Cannabis Business Plans 2024 (transparência CSCs), 420+ Software 2024 (fiscalização)
   - **Decisão estratégica:** Tracking individual necessário (limites legais) mas dados privados salvo fiscalização. Modelo alemão demonstra funcionalidade sem criar mercado paralelo
 
-- [ ] **CRÍTICO 4: Sistema "sementes certificadas" indefinido** 🚨
-  - **Problema:** Central ao autocultivo mas não explica quem certifica, como fiscaliza, como impede sementes ilegais
-  - **Ataque esperado:** "Certificação de sementes é complexa. Propõem-na casualmente"
-  - **Acção:** Desenvolver framework completo de certificação
-  - **Conteúdo necessário:**
-    - Quem licencia seedbanks? (Infarmed? DGAV? novo órgão?)
-    - Auditorias: anuais, testes varietais, rastreabilidade
-    - Enforcement: como detectar sementes não-certificadas? (impossível vs. redução de risco)
-    - Alternativa: Clubes distribuem sementes certificadas (não seedbanks independentes)
-  - **Validar:** Sistemas de certificação de sementes agrícolas em PT (DGAV), comparar com cannabis
+- [x] **CRÍTICO 4: Sistema "sementes certificadas" indefinido** ✅ CONCLUÍDO (2026-01-26)
+  - **Problema resolvido:** Adicionada subsecção "Sistema de Sementes Certificadas" em Propostas > Autocultivo
+  - **Conteúdo implementado:**
+    - **Modelo híbrido Alemanha + Suíça:** Clubes distribuem 7 sementes/mês (modelo alemão), produtores licenciados por Infarmed/DGAV (rigor suíço)
+    - **Licenciamento produtores:** Testes obrigatórios (pesticidas, metais, micotoxinas, microorganismos), cultivo orgânico, auditoria anual
+    - **Rastreabilidade seed-to-sale:** Cada lote com código rastreável (variedade, THC esperado, origem)
+    - **Variedades autorizadas:** THC máximo 15% (21+) ou 10% (18-20 anos), catálogo aprovado, rotulagem obrigatória
+    - **Enforcement:** Clubes documentam origem sementes, autocultivo independente proibido (mas enforcement reactivo), coimas €5k-50k produtores ilegais
+    - **Reconhecimento:** Impossível eliminar 100% sementes ilegais, mas redução risco significativa vs. mercado negro
+  - **Referências adicionadas:** Bundesgesundheit 2024 FAQ (7 sementes/mês alemão), BAG Switzerland 2024 (pilots seed-to-sale), Eurofins 2024 (testes obrigatórios)
+  - **Decisão estratégica:** Alemanha distribui via clubes sem certificação formal (pragmático). Suíça exige licenciamento produtores + testes + orgânico (rigoroso). Portugal combina praticabilidade alemã com controlo qualidade suíço
 
 - [ ] **CRÍTICO 5: Gravidez/Amamentação - NÃO MENCIONADO** 🚨
   - **Problema:** Zero avisos sobre THC em gravidez/aleitamento (danos desenvolvimento fetal)

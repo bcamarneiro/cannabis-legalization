@@ -699,6 +699,41 @@ O sistema de licenciamento prevê penalizações proporcionais:
 * Plantas seguras e inacessíveis a menores
 * Proibida venda ou cedência
 
+#### Sistema de Sementes Certificadas
+
+**Modelo híbrido baseado em Alemanha e Suíça** [@bundesgesundheit2024faq; @bagch2024pilots]:
+
+**Distribuição via clubes sociais** (modelo alemão):
+
+- Clubes distribuem **até 7 sementes por mês** aos membros (suficiente para 3 plantas com margem erro germinação)
+- Sementes fornecidas por **produtores licenciados** (Infarmed ou DGAV emite licenças)
+- **Rastreabilidade completa:** Cada lote de sementes com código rastreável (variedade, THC esperado, origem)
+- **Limite posse:** Membros podem deter até 50 sementes em casa (stock 7 meses)
+
+**Licenciamento de produtores** (modelo suíço):
+
+Fornecedores de sementes devem obter licença de Infarmed/DGAV com os seguintes requisitos:
+
+- **Testes obrigatórios:** Cada lote testado para pesticidas, metais pesados, micotoxinas, microorganismos [@eurofins2024]
+- **Rastreabilidade seed-to-sale:** Documentação completa da origem genética ao clube
+- **Cultivo orgânico certificado:** Sem pesticidas sintéticos ou fertilizantes químicos (padrão suíço)
+- **Auditoria anual:** Inspecção de instalações, verificação conformidade, testes aleatórios
+
+**Variedades autorizadas:**
+
+- **THC máximo sementes:** 15% (para adultos 21+), 10% (para 18-20 anos)
+- **Catálogo variedades:** Fornecedores submetem variedades para aprovação (genética estabilizada, THC previsível)
+- **Rotulagem obrigatória:** Cada semente/pacote com THC esperado, CBD, rácio, instruções cultivo
+
+**Enforcement e fiscalização:**
+
+- **Clubes:** Devem documentar origem de todas as sementes distribuídas (lote, fornecedor, data)
+- **Autocultivo independente:** Proibido obter sementes fora de clubes (mas enforcement reactivo, não proactivo)
+- **Penalidades:** Fornecedores não licenciados = coima €5.000-50.000 + apreensão stock
+- **Reconhecimento:** Impossível eliminar 100% sementes ilegais, mas sistema reduz risco vs. mercado negro
+
+**Justificação:** Alemanha permite clubes distribuírem 7 sementes/mês de seedbanks UE (sem certificação formal). Suíça exige produtores licenciados com transparência seed-to-sale e cultivo orgânico [@bagch2024pilots]. Modelo português combina praticabilidade alemã (distribuição via clubes) com rigor suíço (licenciamento produtores + testes qualidade).
+
 Para informação sobre o sistema de sementes certificadas proposto, ver Anexo B.
 
 ### Condução
