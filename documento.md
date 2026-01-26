@@ -36,7 +36,7 @@ Portugal **exporta 32.558 kg** de cannabis medicinal (2024) mas emite apenas **1
 - ✅ Clubes: max 500 membros, sem fins lucrativos, THC ≤10% para 18-21 anos
 - ✅ Autocultivo: 3 plantas, sementes certificadas
 - ✅ Produtos testados obrigatoriamente
-- ✅ €52M/ano para prevenção (poupanças enforcement)
+- ✅ €20-40M/ano para prevenção (transição gradual: inicial OE, depois poupanças enforcement)
 
 **Evidência internacional:**
 - Colorado: consumo juvenil -42%
@@ -240,7 +240,7 @@ O modelo de cultivo indoor dominante no mercado negro (e em alguns mercados lega
 
 * **Verificação de idade:** mercado negro não pede identificação
 * **Limites de potência:** THC máximo 10% para 18-21 anos (modelo alemão [@bundesgesundheit2024cannabis])
-* **Programas de prevenção financiados:** ~€52M/ano de poupanças enforcement ([ver financiamento](#financiamento))
+* **Programas de prevenção financiados:** €20-40M/ano via transição gradual OE→poupanças enforcement ([ver financiamento](#financiamento))
 * **Monitorização e investigação:** dados reais sobre consumo, não estimativas
 
 **3. Redução de custos sociais:**
@@ -275,7 +275,7 @@ O LIVRE defende **redução de danos** no álcool e tabaco. Cannabis não é dif
 - ✅ **Reduzir danos:** produtos testados vs. sintéticos perigosos 800x mais potentes [@euda2025nps]
 - ✅ **Descriminalizar:** 75% das condenações são consumidores ocasionais [@sicad2018condenacoes; @dn2020condenacoes]
 - ✅ **Controlar potência:** THC rotulado vs. mercado negro com resina a 24.8% THC sem rotulagem [@euda2024cannabis]
-- ✅ **Financiar prevenção:** ~€52M/ano de poupanças enforcement para tratamento
+- ✅ **Financiar prevenção:** €20-40M/ano (transição gradual OE→poupanças enforcement) para tratamento
 - ✅ **Retirar rendimento ao crime:** €52-151M/ano para clubes licenciados sem fins lucrativos [@ribeiro2024economic]
 
 **Princípio central:** A proibição não elimina o consumo — apenas elimina o controlo e a segurança.
@@ -457,7 +457,7 @@ O estudo EU-GEI 2019 demonstra que o risco elevado de psicose (OR 4,8) requer a 
 * Formação de profissionais de saúde
 * Fiscalização dos clubes e controlo de qualidade
 
-**Fonte de financiamento:** Afetação de verbas equivalentes a 30% das **poupanças em custos de enforcement** (estimadas em ~€174M/ano para Portugal, baseado em dados alemães — [ver cálculos detalhados](#financiamento)) + taxas de licenciamento dos clubes. Isto equivale a **~€52M/ano** para prevenção e tratamento.
+**Fonte de financiamento:** Transição gradual — **€10-15M/ano inicial via Orçamento de Estado** (Anos 1-2 programa piloto), evoluindo para **€20-40M/ano** (Anos 3-10) à medida que poupanças enforcement se concretizam ([ver faseamento detalhado](#financiamento)). Modelo **não depende de execução perfeita** — se clubes falharem, enforcement mantém-se e Estado continua a gastar como actualmente.
 
 Nota: Modelos comerciais (Colorado, Washington) geram receitas fiscais significativas (~37-50% destinado a educação/saúde [@tax2024]), mas este não é o modelo proposto para Portugal.
 
@@ -984,6 +984,31 @@ Regulação de clubes sociais implica custos novos:
 
 * **Fonte adicional:** Taxas de licenciamento dos clubes sociais (modelo alemão: €250-500 adesão + quotas mensais €20-40/mês)
 
+**Faseamento do financiamento (transição gradual, não dependente de "execução perfeita"):**
+
+O financiamento de prevenção **não depende** de clubes funcionarem perfeitamente. Segue modelo faseado realista:
+
+* **Anos 1-2 (2027-2028, programa piloto):**
+  * Financiamento inicial **€10-15M/ano via Orçamento de Estado** (linha orçamental dedicada)
+  * Poupanças enforcement ainda mínimas (apenas 2-3 clubes piloto)
+  * Análise custo-benefício em curso para validar estimativas
+
+* **Anos 3-5 (2029-2031, expansão gradual):**
+  * Transição progressiva para poupanças enforcement à medida que clubes reduzem mercado ilegal (40-50% captura esperada, [ver MÉDIA 5](#impacto-esperado-dos-clubes-sociais-no-mercado-ilegal))
+  * Financiamento híbrido: parte OE, parte poupanças enforcement verificadas
+  * Ajuste anual baseado em dados reais de custos/poupanças
+
+* **Anos 6-10 (2032-2036, regime permanente):**
+  * Financiamento estabilizado em €20-40M/ano (dependente de avaliação 2028-2030)
+  * Maioria vem de poupanças enforcement se clubes demonstrarem eficácia
+  * **Se clubes falharem:** Enforcement mantém-se, custos também — Estado não "perde" €52M, simplesmente continua a gastar em enforcement como actualmente. Programa piloto permite identificar falhas cedo e ajustar.
+
+**Modelo de risco mitigado:**
+
+* Investimento inicial (€10-15M OE) é **experimental e reversível**
+* Expansão só acontece se dados mostrarem eficácia (consumo juvenil, mercado ilegal, custos)
+* Não há "dependência de execução perfeita" — há **iteração baseada em evidência**
+
 **Disclaimer:** Valores conservadores assumem cenário pessimista. Análise rigorosa PT pode revelar poupanças maiores ou menores. Compromisso: publicar análise custo-benefício detalhada antes implementação Fase 2.
 
 ## Cânhamo Industrial: Uma oportunidade económica e ambiental
@@ -1143,7 +1168,7 @@ Quando atacado, usa esta estrutura:
 
 **Resposta curta (30s):**
 
-"Não ignoramos nada. O nosso documento cita os riscos de psicose, cita a taxa de 22% de dependência entre utilizadores pesados. Levamos a ciência a sério — toda ela. E é por isso que propomos limites de THC, idade 21, e ~€52M/ano para tratamento ([ver financiamento](#financiamento)). A proibição não oferece nenhuma destas protecções."
+"Não ignoramos nada. O nosso documento cita os riscos de psicose, cita a taxa de 22% de dependência entre utilizadores pesados. Levamos a ciência a sério — toda ela. E é por isso que propomos limites de THC, idade 21, e €20-40M/ano para tratamento ([ver financiamento](#financiamento)). A proibição não oferece nenhuma destas protecções."
 
 **Resposta desenvolvida (2min):**
 
@@ -1157,7 +1182,7 @@ Levamos isto tão a sério que a nossa proposta inclui:
 
 * Idade mínima de **21 anos** (não 18) [@transform2020]
 * Limites de THC de **10% para menores de 21** — modelo alemão [@bundesministerium2024]
-* **~€52M/ano** obrigatoriamente para tratamento e prevenção ([ver cálculo](#financiamento))
+* **€20-40M/ano** obrigatoriamente para tratamento e prevenção ([ver cálculo](#financiamento))
 * Rotulagem obrigatória de potência e avisos de saúde
 * Oficial de prevenção em cada clube com encaminhamento proactivo
 
@@ -1405,7 +1430,7 @@ Por fim, permita-me uma pergunta: prefere que as pessoas cultivem em casa com se
 
 Na Alemanha, no primeiro ano após a legalização, os crimes relacionados com cannabis caíram entre **56% e 80%** dependendo da região. Foram evitados aproximadamente **100.000 processos criminais** [@businesscannabis2025a].
 
-Posso concordar que devemos investir mais em prevenção e tratamento — é por isso que propomos **~€52M/ano** dedicados a esse fim ([ver financiamento](#financiamento)). Mas dizer que não há prova de que a legalização reduz o tráfico é ignorar a evidência internacional."
+Posso concordar que devemos investir mais em prevenção e tratamento — é por isso que propomos **€20-40M/ano** dedicados a esse fim ([ver financiamento](#financiamento)). Mas dizer que não há prova de que a legalização reduz o tráfico é ignorar a evidência internacional."
 
 **Dados de suporte:**
 
@@ -1498,7 +1523,7 @@ A Alemanha implementa fiscalização através de documentação obrigatória (§
 
 A razão é simples: um vendedor licenciado perde a licença se vender a menores. Um traficante não se importa com a idade do cliente. Aliás, em Portugal, sob a actual proibição, o consumo de risco entre jovens aumentou 6,5 vezes entre 2012 e 2022 — de 0,2% para 1,3%.
 
-A proibição não está a proteger ninguém. A nossa proposta inclui idade mínima de 21 anos, limites de THC para menores de 21 (10% máximo nos clubes), e ~€52M/ano obrigatoriamente destinados a prevenção e tratamento ([ver financiamento](#financiamento)). Isto é proteger os jovens a sério — não é proibir e esperar que funcione."
+A proibição não está a proteger ninguém. A nossa proposta inclui idade mínima de 21 anos, limites de THC para menores de 21 (10% máximo nos clubes), e €20-40M/ano obrigatoriamente destinados a prevenção e tratamento ([ver financiamento](#financiamento)). Isto é proteger os jovens a sério — não é proibir e esperar que funcione."
 
 **Dados de suporte:**
 
@@ -1636,15 +1661,15 @@ Propomos incluir um mecanismo de avaliação independente, como a Alemanha fez. 
 
 **Resposta curta (30s):**
 
-"Concordo completamente. Por isso propomos que 30% das poupanças em custos de enforcement — cerca de **€52 milhões/ano** — sejam obrigatoriamente destinados a prevenção e tratamento ([ver cálculo](#financiamento)). A pergunta é: de onde vem esse dinheiro? Com a proibição, vem do Orçamento de Estado — sempre insuficiente. Com a regulação, vem das poupanças que o Estado deixa de gastar em perseguir consumidores."
+"Concordo completamente. Por isso propomos **€20-40 milhões/ano** dedicados a prevenção e tratamento, via transição gradual ([ver faseamento](#financiamento)): inicial €10-15M via Orçamento de Estado (programa piloto), depois €20-40M via poupanças enforcement à medida que clubes demonstram eficácia. A pergunta é: de onde vem esse dinheiro? Com a proibição, vem do OE — sempre insuficiente. Com regulação bem-sucedida, vem das poupanças em enforcement."
 
 **Resposta desenvolvida (2min):**
 
 "Estamos de acordo na importância da prevenção. A questão é como financiá-la de forma sustentável. Actualmente, a prevenção e o tratamento competem com hospitais, escolas e pensões pelo Orçamento de Estado. E historicamente, os serviços de saúde mental e tratamento de dependências são sempre os primeiros a sofrer cortes.
 
-A nossa proposta oferece uma solução: **€52 milhões/ano** garantidos para prevenção, tratamento e investigação ([ver cálculo detalhado](#financiamento)). De onde vêm estes €52M? Das **poupanças em custos de enforcement** — o dinheiro que o Estado deixa de gastar a perseguir, processar e encarcerar consumidores. Um estudo alemão de 2021 estimou poupanças de €1,36 mil milhões/ano. Ajustado à população portuguesa: **~€174M/ano** [@cannabisnow2024].
+A nossa proposta oferece uma solução: **€20-40 milhões/ano** para prevenção, tratamento e investigação via modelo faseado ([ver detalhes](#financiamento)). Começa com €10-15M/ano via Orçamento de Estado (programa piloto Anos 1-2), transita para €20-40M/ano (Anos 3-10) à medida que poupanças enforcement se concretizam. **Crítico:** Se clubes falharem, enforcement mantém-se — Estado não "perde" dinheiro, continua a gastar como actualmente. Investimento inicial é experimental e reversível.
 
-Propomos afetar **30% destas poupanças** (€52M) a:
+Propomos afetar estes fundos a:
 * Reforço do SICAD (tratamento de dependências)
 * Programas de prevenção nas escolas
 * Investigação científica sobre riscos e benefícios
@@ -1655,8 +1680,9 @@ Prevenção e regulação não são opostos — são complementares. A regulaç�
 
 **Dados de suporte:**
 
-* Poupanças enforcement estimadas: ~€174M/ano para Portugal [@cannabisnow2024]
-* Proposta: 30% (€52M/ano) obrigatoriamente para prevenção/tratamento
+* Poupanças enforcement estimadas: €40-80M/ano conservador PT (vs €174M extrapolação alemã) [@cannabisnow2024]
+* Proposta faseada: €10-15M/ano inicial (OE) → €20-40M/ano (poupanças enforcement, Anos 3-10)
+* Modelo de risco mitigado: se clubes falharem, enforcement mantém-se (Estado não perde dinheiro)
 * Consumo de risco jovens (sob proibição): 0,2% → 1,3% (2012-2022) [@leung2020]
 * Modelo actual: prevenção compete com hospitais/escolas/pensões por Orçamento de Estado
 * Modelo proposto: financiamento dedicado via poupanças de enforcement
