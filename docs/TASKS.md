@@ -20,16 +20,18 @@ Este ficheiro rastreia melhorias identificadas para o documento de posição.
   - **Decisão estratégica:** 10% alemão mais conservador que Suíça, equilibrado vs. proibicionista
   - Commit: [76b680e](../../commit/76b680e)
 
-- [ ] **CRÍTICO 2: Rastreio psiquiátrico - NÃO PROPOSTO** 🚨
-  - **Problema:** Zero screening de saúde mental antes de adesão aos clubes
-  - **Ataque esperado:** "Reconhecem risco psicose mas propõem zero triagem"
-  - **Acção:** Adicionar requisito obrigatório de screening
-  - **Conteúdo necessário:**
-    - PHQ-9 (depressão), GAD-7 (ansiedade), brief psychosis risk assessment
-    - Alto risco → referência para serviços de saúde mental OU acesso restrito (THC <5%)
-    - Re-screening anual obrigatório
-    - Oficial de Prevenção treinado em triagem psiquiátrica
-  - **Validar:** Protocolos de screening usados em programas de redução de danos (Suíça, Canadá)
+- [x] **CRÍTICO 2: Rastreio psiquiátrico e Oficial de Prevenção** ✅ CONCLUÍDO (2026-01-26)
+  - **Problema resolvido:** Adicionada subsecção "Oficial de Prevenção e Monitorização de Saúde Mental" em Propostas > Clubes Sociais
+  - **Conteúdo implementado:**
+    - **Modelo alemão como base:** Präventionsbeauftragter com educação admissão, monitorização contínua, referenciação SNS
+    - **Qualificações:** Psicologia/serviço social/enfermagem + formação adição 40h
+    - **Rácio:** 1 oficial por 200-300 membros, salário €28-35k/ano
+    - **Sessões educação:** Trimestral sobre consumo consciente e redução de danos
+    - **Modelo suíço mencionado:** Screening formal PHQ-9/GAD-7/ERIraos como alternativa mais rigorosa (se necessário)
+    - **Contra-exemplo:** Canadá sem screening = aumento consultas psicose (Wootten 2023)
+  - **Referências adicionadas:** Springer 2024 Züri Can, Wootten 2023 Ontario
+  - **Decisão estratégica:** Modelo alemão (educação + monitorização) vs suíço (screening formal). Alemão equilibra proteção com praticabilidade
+  - Commit: [d49f2ad](../../commit/d49f2ad)
 
 - [ ] **CRÍTICO 3: Sistemas de monitorização completamente vagos** 🚨
   - **Problema:** "Monitorização de padrões" sem definir como funciona, quem executa, como é financiado
