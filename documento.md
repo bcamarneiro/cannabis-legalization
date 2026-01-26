@@ -836,6 +836,71 @@ Fornecedores de sementes devem obter licença de Infarmed/DGAV com os seguintes 
 
 Para informação sobre o sistema de sementes certificadas proposto, ver Anexo B.
 
+### Integração da Indústria Licenciada Existente
+
+**Contexto:** Portugal tem **37 empresas licenciadas** para cultivo de cannabis medicinal [@cmslaw2024], exportando **32.558 kg em 2024** [@eco2024]. Estas empresas têm infraestrutura, conhecimento técnico, e capacidade produtiva já estabelecidos. **Ignorar este ecossistema existente seria economicamente irracional** e criaria oposição política desnecessária.
+
+**Problema identificado:** O modelo de clubes sociais auto-cultivando toda a sua cannabis poderia ser visto como competição directa à indústria licenciada, gerando resistência do sector produtivo que emprega centenas de pessoas e representa investimento significativo.
+
+**Solução proposta — Modelo híbrido de fornecimento:**
+
+#### Opção 1: Fornecimento wholesale a clubes sociais
+
+Produtores licenciados podem **fornecer cannabis a clubes** que optem por não cultivar (ou cultivar apenas parcialmente):
+
+- **Preço wholesale regulado:** Custo de produção + margem máxima 20% (vs. 40-60% típico)
+- **Requisitos de qualidade:** Produto deve cumprir padrões EU-GMP já exigidos para exportação
+- **Rastreabilidade:** Sistema seed-to-sale integrado com rastreamento de clubes (§26 KCanG)
+- **Variedades:** Catálogo aprovado com THC conhecido (10% para 18-20 anos, sem limite 21+)
+- **Clubes decidem:** Cada clube escolhe entre auto-cultivo, fornecimento externo, ou mix
+
+**Vantagens:**
+
+- Clubes sem capital inicial para instalações de cultivo podem operar mais rapidamente
+- Produtores mantêm mercado doméstico (além de exportação)
+- Qualidade consistente (produtores profissionais vs. cultivo amador)
+- Diversificação económica: indústria menos dependente de exportação
+
+#### Opção 2: Produtores podem operar clubes sociais (limitado)
+
+Para evitar concentração de mercado, permitir **máximo 1-2 clubes por produtor licenciado**:
+
+- **Requisito non-profit mantém-se:** Clube opera a custo real (cost-recovery), sem distribuir lucros
+- **Separação contabilística:** Clube é entidade separada do produtor (auditoria independente)
+- **Price cap aplica-se:** Máximo €6/g, excedentes doados a SICAD (como todos os clubes)
+- **Governance rigorosa:** Mesmas obrigações que clubes independentes (auditoria, transparência, whistleblowing)
+
+**Justificação:** Suíça permite produtores licenciados operarem pontos de venda em pilotos Zur Can [@springer2024zurican]. Limitar a 1-2 clubes/produtor previne oligopólio, mantendo diversidade de clubes independentes.
+
+#### Opção 3: Parcerias técnicas
+
+Produtores podem **fornecer assistência técnica** a clubes (mediante pagamento):
+
+- Consultoria agrícola (setup cultivo, controlo pragas orgânico, optimização rendimento)
+- Formação de pessoal de clubes
+- Partilha de genéticas certificadas (além das sementes)
+- **Limite:** Produtor não pode ter controlo operacional do clube
+
+**Reconhecimento de impacto laboral:**
+
+**Perda de empregos em enforcement:** Regulação reduz necessidade de policiamento cannabis (estimativa: -200 a -400 ETC em PSP/GNR dedicados a cannabis)
+
+**Criação de empregos em administração de clubes:**
+
+Estimativa conservadora para 100-200 clubes a nível nacional:
+
+- Oficiais de Prevenção: 100-200 postos (1 por clube, €28.000-35.000/ano)
+- Gestão e administração: 200-400 postos (2-4 por clube)
+- Cultivo e produção: 300-600 postos (3-6 por clube, se auto-cultivo)
+- Auditores e inspectores (SICAD): +50-100 postos
+- **Total:** 650-1.350 empregos criados
+
+**Empregos líquidos:** +250 a +950 (offset parcial de perdas enforcement)
+
+**Nota importante:** Transição deve incluir **formação profissional** para agentes de PSP/GNR afectados (reconversão para fiscalização de clubes, SICAD, ou outros sectores).
+
+**Conclusão:** Integrar a indústria licenciada existente no modelo de clubes sociais cria solução win-win: (1) produtores mantêm mercado doméstico, (2) clubes têm acesso a cannabis profissional de qualidade, (3) reduz resistência política, (4) mantém empregos qualificados. O requisito non-profit e governance rigorosa previnem que produtores lucrativos dominem o mercado.
+
 ### Condução
 * Limite: 3,5 ng/ml THC no sangue
 * Tolerância zero: menores de 21 e novos condutores
