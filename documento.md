@@ -847,6 +847,94 @@ Sessões de grupo trimestrais do Oficial de Prevenção devem incluir:
 
 **Justificação:** Portugal tem prevalência elevada de poliuso (70% utilizadores cannabis), mas sistemas de tratamento frequentemente não estão preparados para dual diagnosis. Screening proactivo nos clubes permite identificação precoce e referenciação antes de desenvolvimento de dependências múltiplas severas. Modelo difere do mercado negro (zero screening) e dispensários comerciais (foco em vendas, não prevenção).
 
+#### Peer Influences e Normalização em Ambiente de Grupo
+
+**Risco identificado:**
+
+Clubes sociais, por definição, criam **ambiente de grupo** de utilizadores de cannabis. Este contexto social pode gerar riscos não presentes no autocultivo isolado ou compra de mercado negro:
+
+1. **Normalização de uso frequente:**
+   - Membros podem começar a ver consumo diário/frequente como "normal" porque outros membros o fazem
+   - Redução da percepção de risco quando rodeado por outros utilizadores
+   - "Toda a gente aqui consome, portanto deve ser seguro" (falácia de consenso)
+
+2. **Pressão social implícita ou explícita:**
+   - Sentir-se obrigado a consumir para "pertencer" ao grupo ou participar em conversas
+   - Competição informal sobre quantidades consumidas, tolerância, ou THC elevado ("bragging rights")
+   - Dificuldade em moderar ou parar quando amigos/conhecidos do clube continuam
+
+3. **Escalada de padrões de uso:**
+   - Membros com uso ocasional podem aumentar frequência por influência de membros com uso diário
+   - Progressão de THC baixo para THC elevado por exposição a membros experientes
+   - "Apenas mais um grama este mês" (ultrapassar limites auto-impostos por influência grupal)
+
+**Evidência:**
+
+Estudos sobre peer influence no consumo de substâncias demonstram que:
+
+- Adolescentes e jovens adultos são particularmente susceptíveis a peer influence para consumo de cannabis
+- Grupos de pares que normalizam uso frequente aumentam risco de desenvolvimento de CUD (Cannabis Use Disorder)
+- Ambientes sociais onde consumo é normalizado reduzem motivação para moderação ou cessação
+
+**Mitigações implementadas no modelo proposto:**
+
+1. **Consumo no local proibido (take-home only):**
+   - Clubes NÃO são "lounges" sociais ou "coffee shops" onde membros consomem em grupo
+   - Distribuição é para levar para casa (take-away model)
+   - Previne criação de "cultura de consumo" no espaço físico do clube
+   - Reduz oportunidades para pressão social directa durante sessões de consumo
+
+2. **Oficial de Prevenção promove moderação activamente:**
+   - Sessões educativas trimestrais enfatizam: "não há quantidade 'normal' — cada pessoa tem limites diferentes"
+   - Desmistificar mitos: "tolerar mais THC não é positivo, pode indicar desenvolvimento de dependência"
+   - Mensagem explícita: "pausas/moderação são sinal de controlo, não fraqueza"
+   - Normalizar redução ou pausa: "muitos membros fazem pausas regulares (tolerance breaks)"
+
+3. **Monitorização individual (não comparações grupais):**
+   - Oficial de Prevenção analisa padrões de cada membro individualmente vs. seu próprio baseline
+   - Evita rankings, comparações, ou estatísticas grupais que possam criar competição
+   - Conversas privadas com membros cujo uso está a aumentar — sem exposição ao grupo
+
+4. **Limite de tamanho do clube (máximo 500 membros):**
+   - Previne mega-clubes onde anonimato facilitaria normalização descontrolada
+   - Clubes pequenos-médios permitem Oficial Prevenção conhecer membros individualmente
+   - Dificulta formação de "sub-grupos" de uso pesado que reforçam comportamentos de risco
+
+5. **Educação sobre peer pressure:**
+   - Sessões de grupo abordam explicitamente: "está tudo bem não consumir sempre que outros consomem"
+   - Ensinar competências de resistência: "Como recusar sem sentir pressão?"
+   - Identificar sinais: "Estou a consumir porque quero, ou porque sinto que 'devo'?"
+
+6. **Cultura de harm reduction (não "cultura stoner"):**
+   - Oficial de Prevenção modela tom: clubes são sobre **acesso seguro**, não celebração de consumo
+   - Desencorajar linguagem que glamoriza uso pesado ("estou sempre pedrado", "não consigo passar sem")
+   - Promover diversidade de padrões: "alguns membros consomem diariamente, outros apenas mensalmente — ambos são válidos"
+
+7. **Mecanismo de denúncia anónima:**
+   - Membros podem reportar ao Oficial de Prevenção (anonimamente) se sentirem pressão social de outros membros
+   - Oficial pode intervir discretamente com membros problemáticos
+   - Casos graves de coerção = expulsão do clube
+
+**Comparação com outros modelos:**
+
+| Modelo | Ambiente social | Risco peer influence | Mitigações |
+| ------ | --------------- | -------------------- | ---------- |
+| **Mercado negro** | Transacção rápida, sem grupo | Baixo (sem ambiente social) | Nenhuma (mas zero controlo qualidade/idade) |
+| **Dispensários comerciais (EUA/Canadá)** | "Budtenders" encorajam vendas, lounges em alguns estados | Médio-Alto (lounges, cultura comercial pro-consumo) | Variável — alguns estados proíbem lounges, outros permitem |
+| **Coffee shops (Holanda)** | Consumo no local, ambiente social explícito | Alto (normalização forte, turismo) | Limitadas (foco comercial, não prevenção) |
+| **Clubes sociais (Espanha)** | Consumo no local comum em muitos clubes | Alto (ambiente social sem Oficial Prevenção obrigatório) | Limitadas (regulação fraca, sem obrigatoriedade prevenção) |
+| **Modelo alemão KCanG** | Take-home only, Oficial Prevenção obrigatório | Médio (ambiente associativo, mas consumo não-local) | Moderadas (Oficial Prevenção, take-home only) |
+| **Modelo PT proposto** | Take-home only, 2 Oficiais Prevenção, educação explícita sobre peer pressure | Médio-Baixo (mitigações rigorosas) | **Elevadas** (todas as acima + screening individual proactivo) |
+
+**Reconhecimento de limitações:**
+
+Nenhum modelo elimina 100% o risco de peer influence. Clubes sempre terão dimensão social (mesmo sem consumo no local, membros podem conhecer-se em assembleias, eventos educativos). A diferença crítica é entre:
+
+- **Ignorar o risco** (modelo espanhol pré-regulação, mercado negro informal)
+- **Reconhecer e mitigar activamente** (modelo PT proposto)
+
+**Justificação:** Ambiente de grupo pode normalizar uso frequente (risco real em modelos Coffee Shop/Espanha sem prevenção rigorosa). Proibir consumo no local + Oficial Prevenção activo promovendo moderação + educação explícita sobre peer pressure reduz este risco significativamente vs. modelos comerciais ou clubes sem obrigatoriedade de prevenção.
+
 #### Sistema de Monitorização e Transparência Financeira
 
 **Tracking de distribuições** (modelo alemão [@cang2024; @justbob2024cscs]):
