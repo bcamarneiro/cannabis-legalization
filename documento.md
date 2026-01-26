@@ -598,11 +598,30 @@ Espanha não legalizou cannabis, mas tolera ~800-1.000 clubes sociais numa "áre
 
 ## Impacto no consumo juvenil {#3.5-impacto-no-consumo-juvenil}
 
+**Evidência internacional — declínios generalizados pós-legalização:**
+
 * **Colorado:** Consumo juvenil caiu **42%** (de 22% em 2011 para 12,8% em 2023\) — dados do Healthy Kids Colorado Survey [@cdphe2024]. Perceção de fácil acesso caiu 14 pontos percentuais.
 * **EUA geral:** MPP reporta que uso juvenil diminuiu em **19 de 21 estados** que legalizaram, com queda média de 35% nos primeiros estados [@marijuanapolicy2025].
 * **Alemanha:** Consumo juvenil (12-17) caiu de 6,7% para 6,1% no primeiro ano pós-legalização [@marijuanamoment2025].
 
-**Razão:** Vendedores licenciados verificam idade; traficantes não [@marijuanapolicy2025].
+**Contexto crítico — tendência nacional, não apenas estados legalizados:**
+
+É intelectualmente desonesto atribuir estes declínios exclusivamente à legalização. **Consumo juvenil de cannabis declinou nos EUA como um todo** entre 2011-2023, incluindo estados sem legalização:
+
+* **Monitoring the Future (Univ. Michigan):** Declínio nacional de **38% nos 8º e 10º anos, 13% no 12º ano** entre 2013-2023 [@monitoringthefuture2023] — padrão semelhante ao Colorado
+* **Confounds não mencionados:** Mudanças geracionais nas atitudes face a drogas, campanhas anti-tabagismo/vaping (que também afectam cannabis), aumento do financiamento de prevenção a nível nacional, mudanças metodológicas nos surveys pós-COVID-19
+* **Canadá (contra-exemplo parcial):** Também viu declínio (15-17 anos: 19,8%→10,4%), mas magnitude diferente sugere factores locais além da legalização [@statcan2019youth]
+
+**Interpretação honesta:**
+
+Não podemos isolar o efeito causal da legalização vs. tendências nacionais. **O que podemos concluir:**
+
+1. **Legalização não causou o aumento que opositores previam** — declínio ocorreu, não aumento
+2. **Verificação de idade funciona:** Vendedores licenciados perdem licença se venderem a menores; traficantes não têm desincentivo [@marijuanapolicy2025]
+3. **Múltiplos factores protectores:** Regulação (verificação idade, educação, produto testado) + tendências culturais + prevenção financiada = declínio sustentado
+4. **Portugal actual (proibição):** Consumo de risco juvenil **aumentou 6,5x** entre 2012-2022 (0,2%→1,3%) — proibição claramente não protege [@espad2023]
+
+**Conclusão:** Regulação não é panaceia, mas **evidência robusta** mostra que não piora protecção juvenil vs. proibição, e cria mecanismos protectores (verificação idade, educação, financiamento prevenção) inexistentes no mercado negro.
 
 
 # POSIÇÕES DOS PARTIDOS PORTUGUESES
@@ -1324,9 +1343,11 @@ A proibição não está a proteger ninguém. A nossa proposta inclui idade mín
 **Dados de suporte:**
 
 * Colorado: 22% → 12,8% consumo juvenil (CDPHE, 2011-2023) [@cdphe2024]
+* **Contexto nacional:** Declínio 38% nos 8º/10º anos, 13% no 12º ano nos EUA (2013-2023) — tendência nacional, não apenas estados legalizados [@monitoringthefuture2023]
 * Alemanha: 6,7% → 6,1% consumo juvenil (EKOCAN, 2024-2025) [@marijuanamoment2025]
 * Portugal consumo de risco jovens: 0,2% → 1,3% (SICAD, 2012-2022) [@leung2020]
 * MPP: consumo diminuiu em 19 de 21 estados que legalizaram [@marijuanapolicy2025]
+* **Conclusão:** Legalização não causou aumento; regulação cria verificação idade que mercado negro não tem
 
 ### Ataque 4: "O LIVRE é o partido da droga"
 
