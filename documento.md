@@ -15,7 +15,7 @@ Portugal **exporta 32.558 kg** de cannabis medicinal (2024) mas emite apenas **1
 **Uso recreativo:** 95% via mercado negro (€52-151M/ano) com:
 - **Sintéticos perigosos** (800x mais potentes que THC)
 - **Potência duplicada** sem rotulagem
-- **Catástrofe ambiental:** 2.300-5.200 kg CO₂/kg (23-52x pior que carne)
+- **Catástrofe ambiental:** Cultivo indoor clandestino gera 2.300-5.200 kg CO₂/kg (outdoor reduz 99%)
 - **75% das condenações** por drogas são consumidores ocasionais de cannabis
 
 ## O que Propomos
@@ -180,19 +180,26 @@ Este documento propõe que o LIVRE assuma uma posição clara e proactiva sobre 
 
 O modelo de cultivo indoor dominante no mercado negro (e em alguns mercados legais) é **ambientalmente insustentável:**
 
-* **Emissões de carbono:** Cultivo indoor gera **2.283-5.184 kg CO₂-equivalente por kg de flor seca** [@summers2021cannabis; @mills2021cannabis; @motherjones2021carbon]
-* **Comparação chocante:** Cannabis indoor é **23-52 vezes pior** que produção de carne de vaca (99 kg CO₂/kg) [@summers2021cannabis]
+* **Emissões de carbono indoor:** Cultivo indoor gera **2.283-5.184 kg CO₂-equivalente por kg de flor seca** [@summers2021cannabis; @mills2021cannabis]
+* **Comparação apropriada:** Tomates em estufa aquecida geram 1,7-5,6 kg CO₂/kg [@sciencedirect2025tomato]. Cannabis indoor é **comparável ou pior** que agricultura intensiva mais emissora
 * **Consumo energético:** Instalações indoor consomem tanta electricidade quanto data centers [@motherjones2021carbon]
-* **Insustentabilidade:** Custos energéticos incompatíveis com metas climáticas europeias
+* **Impacto grid energético:** Estas emissões assumem **grid energético actual português** (mix fóssil + renováveis). Com 100% renováveis, redução de 50-70% [@nature2021cannabis]
 
-**Alternativa sustentável — cultivo regenerativo e cânhamo:**
+**Alternativa sustentável — outdoor e requisitos vinculativos:**
 
+* **Cannabis outdoor:** Emite apenas **22,7 kg CO₂/kg** — redução de **99% vs. indoor** [@nature2021cannabis]
+* **Shift to outdoor:** Se 75% produção for outdoor, redução de 80% nas emissões do sector [@marijuanamoment2024outdoor]
 * **Cânhamo captura carbono:** 8-22 toneladas CO₂ por hectare por ciclo [@cambridge2022hemp; @britishhemp2024carbon]
-* **Cultivo outdoor/regenerativo:** Emissões drasticamente reduzidas, biodiversidade aumentada
-* **Agroecologia:** Integração com sistemas agroflorestais e permacultura
-* **Co-benefícios:** Regeneração de solos, produção de fibra/sementes, economia rural
+* **Co-benefícios outdoor:** Regeneração de solos, biodiversidade, economia rural, sem electricidade intensiva
 
-**A proibição força o cultivo indoor clandestino.** A regulação permite exigir métodos sustentáveis como condição de licenciamento — tal como a Alemanha exige clubes sem fins lucrativos, Portugal pode exigir cultivo regenerativo de baixo carbono.
+**Requisitos vinculativos propostos para clubes sociais:**
+
+- **Cultivo outdoor/greenhouse obrigatório** (indoor apenas para clones/mães, máximo 10% produção)
+- **Renováveis:** 50% energia renovável até 2030, 100% até 2035 (clubes que cultivem indoor)
+- **Certificação sustentável:** Clubes devem demonstrar redução progressiva pegada carbono em auditoria anual
+- **Agroecologia:** Incentivo a métodos regenerativos (permacultura, compostagem, sem pesticidas sintéticos)
+
+**A proibição força o cultivo indoor clandestino.** A regulação permite exigir métodos sustentáveis como condição de licenciamento — outdoor prioritário, renováveis obrigatórias, monitorização de emissões.
 
 ## O que a regulação permite (redução de danos)
 
@@ -382,24 +389,35 @@ A NASEM (2017) — analisando mais de 10.000 resumos científicos — estabelece
 A evidência sobre riscos é robusta e deve orientar a nossa proposta:
 
 * **Psicose:** Meta-análise Marconi et al. (2016): OR 3,90 para psicose nos consumidores mais pesados vs. não-consumidores [@unnews2020]
-* **Alta potência:** Estudo EU-GEI (2019): uso diário de cannabis de alta potência (THC ≥10%) associado a ~5x maior probabilidade de psicose (OR 4,8) [@dezeen2021]
+* **Alta potência + uso diário:** Estudo EU-GEI (2019): combinação de **uso diário** + cannabis de alta potência (THC ≥10%) associado a ~5x maior probabilidade de psicose (OR 4,8). **Nota crítica:** O risco elevado requer AMBOS fatores (uso diário + THC ≥10%), não apenas potência isolada [@dezeen2021]
 * **Cannabis Use Disorder (CUD):** Meta-análise Leung et al. (2020): **22% dos utilizadores de cannabis** desenvolvem CUD (não 22% da população geral). O risco sobe para 33% entre quem usa semanalmente ou mais [@stockholm2005]
-*
+* **Idade de início:** Consumo persistente com início na adolescência (antes dos 18 anos) associado a maior risco cognitivo e psiquiátrico. Início após 18-21 anos com uso ocasional tem risco substancialmente menor [@jackson2016; @meier2012]
 
 ### Como a nossa proposta mitiga estes riscos
 Reconhecemos os riscos e por isso propomos medidas específicas, baseadas em modelos internacionais comprovados [@hanway2022] [@cleirec2025]:
 
 | Risco | Medida de Mitigação |
 | :---- | :---- |
-| **Psicose em jovens** | Idade mínima 21 anos para compra; 18-21 apenas em clubes com THC≤10% |
-| **Alta potência** | Limites de THC obrigatórios; rotulagem clara da potência |
-| **Dependência (CUD)** | Sistema de monitorização de padrões de consumo; encaminhamento para apoio |
-| **Falta de informação** | Folhetos obrigatórios em todos os produtos; campanhas educativas |
-| **Acesso juvenil** | Verificação rigorosa de idade; proibição de publicidade |
+| **Psicose em jovens (OR 4,8 para uso diário + THC ≥10%)** | Idade mínima 21 anos para compra livre; 18-20 apenas em clubes com THC≤10% + limite 30g/mês (previne uso diário) + Oficial de Prevenção monitorizando padrões + referenciação SNS |
+| **Alta potência isolada** | Limites de THC obrigatórios (10% para 18-20, sem limite 21+); rotulagem clara da potência; educação sobre dosagem |
+| **Dependência (CUD)** | Sistema de monitorização de padrões de consumo; Oficial de Prevenção identifica uso problemático; encaminhamento SNS para apoio |
+| **Falta de informação** | Folhetos obrigatórios em todos os produtos; campanhas educativas; sessões trimestral clubes sobre "consumo consciente" |
+| **Acesso juvenil (<18 anos)** | Verificação rigorosa de idade nos clubes; proibição de publicidade; 200m distância escolas |
 | **Consumo problemático** | Financiamento garantido para tratamento e prevenção via Orçamento do Estado ([ver estimativas](#financiamento)) |
-| **Consumo frequente** | Limites mensais (50g/mês nos clubes); limite de plantas (3) em autocultivo; oficial de prevenção obrigatório nos clubes com encaminhamento proactivo para apoio |
+| **Uso frequente/diário** | Limites mensais (30g/mês para 18-20, 50g/mês para 21+); limite de plantas (3) em autocultivo; Oficial de Prevenção monitorizando frequência + encaminhamento proactivo |
 
-**Nota sobre frequência de consumo:** A frequência de consumo é um preditor de risco tão ou mais importante que a potência [@autor2024]. Contudo, tal como não se limita a frequência de consumo de álcool ou tabaco, a abordagem mais praticável é limitar a quantidade disponível. Esta proposta faz-lo através dos limites mensais (50g nos clubes) e de plantas (3 em autocultivo) — medidas mais restritivas do que as existentes para substâncias legais com maior score de dano.
+**Nota crítica sobre acesso 18-20 anos:**
+
+O estudo EU-GEI 2019 demonstra que o risco elevado de psicose (OR 4,8) requer a **combinação** de dois fatores: (1) uso diário + (2) THC ≥10%. O nosso modelo para 18-20 anos mitiga ambos:
+
+1. **Previne uso diário:** Limite 30g/mês = máximo ~1g/dia. Uso "diário de alta potência" no estudo refere utilizadores pesados sem limites estruturais
+2. **Cap THC no threshold:** Limite 10% para 18-20 impede acesso a >10% (o threshold de "alta potência" no estudo)
+3. **Supervisão activa:** Oficial de Prevenção identifica padrões problemáticos (frequência a aumentar, sinais dependência) e refere SNS
+4. **Educação obrigatória:** Sessão admissão sobre riscos psicose, dependência, impacto cognitivo jovens
+
+**Alternativa seria idade mínima absoluta 21 anos** (sem excepções), mas modelo alemão demonstra que 18-20 com restrições + supervisão é pragmático e evita criminalização desta faixa etária (que continuaria a usar via mercado negro sem qualquer protecção).
+
+**Nota sobre frequência de consumo:** A frequência de consumo é um preditor de risco tão ou mais importante que a potência [@autor2024]. Contudo, tal como não se limita a frequência de consumo de álcool ou tabaco, a abordagem mais praticável é limitar a quantidade disponível. Esta proposta faz-lo através dos limites mensais (30g para 18-20, 50g para 21+ nos clubes) e de plantas (3 em autocultivo) — medidas mais restritivas do que as existentes para substâncias legais com maior score de dano.
 
 **Proposta concreta de financiamento:** Dado que o modelo de clubes sociais sem fins lucrativos não gera receitas fiscais significativas (ao contrário de modelos comerciais), propõe-se financiamento via **Orçamento do Estado** para:
 
