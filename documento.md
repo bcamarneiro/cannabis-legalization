@@ -390,7 +390,11 @@ A evidência sobre riscos é robusta e deve orientar a nossa proposta:
 
 * **Psicose:** Meta-análise Marconi et al. (2016): OR 3,90 para psicose nos consumidores mais pesados vs. não-consumidores [@unnews2020]
 * **Alta potência + uso diário:** Estudo EU-GEI (2019): combinação de **uso diário** + cannabis de alta potência (THC ≥10%) associado a ~5x maior probabilidade de psicose (OR 4,8). **Nota crítica:** O risco elevado requer AMBOS fatores (uso diário + THC ≥10%), não apenas potência isolada [@dezeen2021]
-* **Cannabis Use Disorder (CUD):** Meta-análise Leung et al. (2020): **22% dos utilizadores de cannabis** desenvolvem CUD (não 22% da população geral). O risco sobe para 33% entre quem usa semanalmente ou mais [@stockholm2005]
+* **Cannabis Use Disorder (CUD) — Gradiente de risco por frequência de uso:** Meta-análise Leung et al. (2020): **~22% dos utilizadores de cannabis** desenvolvem CUD ao longo da vida (baseline). **Risco aumenta substancialmente com frequência:**
+  - **Uso ocasional/infrequente:** ~10-15% desenvolvem CUD (metade do risco baseline)
+  - **Uso semanal/regular:** ~25-30% desenvolvem CUD
+  - **Uso diário/near-daily:** **~33% desenvolvem dependência** (1 em cada 3) — dados longitudinais consistentes [@leung2020; @coffeeshop2024cud]
+  - **Contexto:** O risco NÃO é uniforme — padrões de uso ocasional têm risco significativamente menor que uso diário, reforçando importância de prevenção de escalada de frequência
 * **Idade de início:** Consumo persistente com início na adolescência (antes dos 18 anos) associado a maior risco cognitivo e psiquiátrico. Início após 18-21 anos com uso ocasional tem risco substancialmente menor [@jackson2016; @meier2012]
 
 ### Como a nossa proposta mitiga estes riscos
@@ -1174,7 +1178,7 @@ O que a evidência mostra é que o factor de risco não é a substância em si, 
 * **Dor neuropática e espasticidade (esclerose múltipla):** O Sativex (THC+CBD 1:1) está aprovado em vários países europeus e Canadá [@nabiximols2024; @jazzpharma2024sativex] precisamente porque o **THC é essencial** para a eficácia
 * **Náuseas e vómitos oncológicos:** Dronabinol (THC sintético) aprovado pela FDA desde **31 de Maio de 1985** [@ncbi2024dronabinol]
 * **Estimulação do apetite (HIV/cancro):** THC é o composto activo, com aprovação FDA em 1992 [@ncbi2024dronabinol]
-* **Insónias (evidência limitada e contraditória):** Meta-análise de **apenas 6 ensaios clínicos** (1.077 pacientes) sugere que formulações THC/CBN podem melhorar qualidade do sono a curto prazo (SMD 0.60, p<0.05), enquanto CBD isolado não mostra efeito [@suraev2020insomnia]. **CONTUDO:** Meta-análises recentes (2025) de estudos observacionais demonstram que **uso recreativo crónico de cannabis está associado a PIOR qualidade do sono**, maior insónia, e mais despertares nocturnos [@sciencedirect2025sleep]. **Risco dependência:** 15-25% dos utilizadores frequentes desenvolvem Cannabis Use Disorder [@leung2020], e uso crónico cria tolerância (efeito diminui com o tempo). **Conclusão:** Evidência para uso crónico é fraca; uso a curto prazo pode ajudar, mas risco dependência + tolerância não justificam recomendação generalizada
+* **Insónias (evidência limitada e contraditória):** Meta-análise de **apenas 6 ensaios clínicos** (1.077 pacientes) sugere que formulações THC/CBN podem melhorar qualidade do sono a curto prazo (SMD 0.60, p<0.05), enquanto CBD isolado não mostra efeito [@suraev2020insomnia]. **CONTUDO:** Meta-análises recentes (2025) de estudos observacionais demonstram que **uso recreativo crónico de cannabis está associado a PIOR qualidade do sono**, maior insónia, e mais despertares nocturnos [@sciencedirect2025sleep]. **Risco dependência:** ~30-33% dos utilizadores diários/frequentes desenvolvem Cannabis Use Disorder [@leung2020; @coffeeshop2024cud], e uso crónico cria tolerância (efeito diminui com o tempo). **Conclusão:** Evidência para uso crónico é fraca; uso a curto prazo pode ajudar, mas risco dependência + tolerância não justificam recomendação generalizada
 
 **Umbrella review BMJ (2023):** Revisão abrangente confirma benefícios do THC em múltiplas indicações [@solmi2023bmj]. Meta-análise BMC Medicine (2022) identificou eficácia em epilepsia, dor crónica, espasticidade, apetite, Parkinson, sono e Tourette [@hauser2022bmc].
 
