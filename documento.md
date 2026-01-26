@@ -120,7 +120,7 @@ Este documento propõe que o LIVRE assuma uma posição clara e proactiva sobre 
 
 ### Pilar complementar: Cânhamo Industrial
 
-* **Solução climática:** Captura **8-22 toneladas CO₂/hectare** [@cambridge2022hemp; @britishhemp2024carbon] — 4x mais que árvores
+* **Solução climática:** Captura **8-15 toneladas CO₂/hectare** por ciclo em condições UK [@cambridge2022hemp; @carboncredits2024hemp] — Portugal (clima mediterrânico) pode atingir **8-12 t CO₂/ha**, ainda assim 2-4x mais que florestas
 * Oportunidade agrícola (fibra, sementes, construção) e economia rural
 * Não controverso — já legal em toda a UE com THC<0,3%
 
@@ -190,7 +190,7 @@ O modelo de cultivo indoor dominante no mercado negro (e em alguns mercados lega
 
 * **Cannabis outdoor:** Emite apenas **22,7 kg CO₂/kg** — redução de **99% vs. indoor** [@nature2021cannabis]
 * **Shift to outdoor:** Se 75% produção for outdoor, redução de 80% nas emissões do sector [@marijuanamoment2024outdoor]
-* **Cânhamo captura carbono:** 8-22 toneladas CO₂ por hectare por ciclo [@cambridge2022hemp; @britishhemp2024carbon]
+* **Cânhamo captura carbono:** **8-15 toneladas CO₂/hectare** por ciclo em condições UK/Irlanda [@cambridge2022hemp; @carboncredits2024hemp]. Clima mediterrânico português (temperaturas até 35°C toleradas) permite **8-12 t CO₂/ha** com uma colheita, potencialmente **15-20 t** com duas colheitas/ano em regiões sul [@lampoon2024hemp]
 * **Co-benefícios outdoor:** Regeneração de solos, biodiversidade, economia rural, sem electricidade intensiva
 
 **Requisitos vinculativos propostos para clubes sociais:**
@@ -966,7 +966,7 @@ O cânhamo industrial (Cannabis sativa L. com THC<0,3%) representa uma oportunid
 
 **Benefícios ambientais:**
 
-* **Captura de carbono:** 8-15 toneladas CO₂/hectare (até 22 ton com duas colheitas/ano) [@dezeen2021]
+* **Captura de carbono:** **8-15 toneladas CO₂/hectare** por ciclo (condições UK/Irlanda) [@cambridge2022hemp; @carboncredits2024hemp]. Em Portugal: **8-12 t CO₂/ha** com uma colheita, potencialmente **15-20 t** com duas colheitas/ano no sul (Alentejo, Algarve) [@lampoon2024hemp]. Mesmo com valores conservadores, offset 10-20x superior a cultivo indoor cannabis
 * **Baixa necessidade de pesticidas** — naturalmente resistente à maioria das pragas
 * **Melhoria do solo** — raízes profundas, devolve azoto ao solo
 * **50-70% menos água que algodão** [@stockholm2005]
