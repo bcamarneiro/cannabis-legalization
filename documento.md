@@ -29,7 +29,7 @@ Portugal **exporta 32.558 kg** de cannabis medicinal (2024) mas emite apenas **1
 
 ### FASE 2: Cannabis Recreativa (proposta legislativa Q3-Q4 2026 → implementação 2027-2028)
 
-**Modelo:** Clubes sociais sem fins lucrativos + autocultivo (Alemanha 2024)
+**Modelo:** Clubes sociais sem fins lucrativos + autocultivo (framework legal alemão 2024)
 
 **NÃO é modelo comercial** (tipo Canadá/EUA):
 - ✅ Idade mínima 21 anos
@@ -38,10 +38,11 @@ Portugal **exporta 32.558 kg** de cannabis medicinal (2024) mas emite apenas **1
 - ✅ Produtos testados obrigatoriamente
 - ✅ €20-40M/ano para prevenção (transição gradual: inicial OE, depois poupanças enforcement)
 
-**Evidência internacional:**
-- Colorado: consumo juvenil -42%
-- Canadá: consumo juvenil (15-17 anos) -48%
-- Alemanha: 357 clubes aprovados (Nov 2025)
+**Evidência internacional de eficácia:**
+
+- Colorado (2014, 10+ anos dados): consumo juvenil -42%
+- Canadá (2018, 6 anos dados): consumo juvenil (15-17 anos) -48%
+- Alemanha (2024, framework legislativo): 357 clubes aprovados (Nov 2025), dados eficácia insuficientes (<1 ano)
 
 ### FASE 3: Cânhamo Industrial
 
@@ -135,7 +136,7 @@ Este documento propõe que o LIVRE assuma uma posição clara e proactiva sobre 
 
 **2. Evitar confusão de objectivos:** Separar claramente as duas fases responde antecipadamente à desinformação que mistura "comparticipação para doentes" com "legalização recreativa". São propostas distintas, com públicos distintos, mecanismos de financiamento distintos.
 
-**3. Aproveitar momentum:** O modelo alemão de clubes sociais (2024) oferece evidência recente de regulação sem comercialização [@bundesgesundheit2024cannabis]. Os dados de protecção juvenil do Canadá e Colorado reforçam o argumento [@statcan2019youth; @mpp2024colorado].
+**3. Aproveitar momentum:** O framework legal alemão de clubes sociais (2024) oferece modelo recente de regulação sem comercialização [@bundesgesundheit2024cannabis]. Evidência de eficácia vem de Colorado (10+ anos) e Canadá (6 anos) com dados robustos de protecção juvenil [@statcan2019youth; @mpp2024colorado].
 
 **Os dois objectivos são complementares, não conflituantes** — mas a sequência estratégica maximiza probabilidade de sucesso político.
 
@@ -292,7 +293,7 @@ O modelo proposto segue a restrição alemã de **THC máximo 10%** para idades 
 **Justificação:**
 
 - Limitar exposição a concentrações muito elevadas durante período crítico (18-25 anos)
-- Modelo alemão já testado com 1.400+ clubes (Nov 2025)
+- Framework alemão implementado em 357 clubes (Nov 2025, <1 ano operação)
 - Suíça permite até 20% THC aos 18+ sem declínio detectado em ensaios científicos (Züri Can 2021-2025)
 
 \newpage
@@ -446,7 +447,7 @@ O estudo EU-GEI 2019 demonstra que o risco elevado de psicose (OR 4,8) requer a 
 3. **Supervisão activa:** Oficial de Prevenção identifica padrões problemáticos (frequência a aumentar, sinais dependência) e refere SNS
 4. **Educação obrigatória:** Sessão admissão sobre riscos psicose, dependência, impacto cognitivo jovens
 
-**Alternativa seria idade mínima absoluta 21 anos** (sem excepções), mas modelo alemão demonstra que 18-20 com restrições + supervisão é pragmático e evita criminalização desta faixa etária (que continuaria a usar via mercado negro sem qualquer protecção).
+**Alternativa seria idade mínima absoluta 21 anos** (sem excepções), mas framework alemão estrutura 18-20 com restrições (THC 10%) + supervisão (Oficial de Prevenção) de forma pragmática, evitando criminalização desta faixa etária (que continuaria a usar via mercado negro sem qualquer protecção).
 
 **Nota sobre frequência de consumo:** A frequência de consumo é um preditor de risco tão ou mais importante que a potência [@autor2024]. Contudo, tal como não se limita a frequência de consumo de álcool ou tabaco, a abordagem mais praticável é limitar a quantidade disponível. Esta proposta faz-lo através dos limites mensais (30g para 18-20, 50g para 21+ nos clubes) e de plantas (3 em autocultivo) — medidas mais restritivas do que as existentes para substâncias legais com maior score de dano.
 
@@ -785,7 +786,7 @@ O sistema de licenciamento prevê penalizações proporcionais:
 - **Falta de transparência financeira:** Recusa de apresentar contas ou auditoria = licença revogada imediatamente
 - **Distribuição a menores:** Revogação permanente da licença + processo criminal contra responsáveis
 
-**Justificação:** Modelo alemão demonstra que fiscalização rigorosa + transparência total permitem modelo non-profit funcional sem criar mercado paralelo. A rastreabilidade individual é necessária (limites legais), mas dados permanecem privados salvo fiscalização.
+**Justificação:** Framework alemão estrutura fiscalização rigorosa + transparência total para modelo non-profit. A rastreabilidade individual é necessária (limites legais), mas dados permanecem privados salvo fiscalização. Evidência de impacto no mercado paralelo virá de dados long-term (Colorado -60%, Canadá -97% em 6 anos).
 
 #### Proteção Materno-Infantil
 
