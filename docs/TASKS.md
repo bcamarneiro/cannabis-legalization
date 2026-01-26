@@ -8,16 +8,17 @@ Este ficheiro rastreia melhorias identificadas para o documento de posição.
 
 **Fonte:** Análise multi-dimensional por especialistas ambientais, médicos, psiquiatras, psicólogos, e oposição política
 
-- [ ] **CRÍTICO 1: Impacto cognitivo em jovens - COMPLETAMENTE AUSENTE** 🚨
-  - **Problema:** Documento não menciona declínio IQ 8-10 pontos em adolescentes (irreversível)
-  - **Ataque esperado:** "Ignoram neuroscience sobre danos cerebrais em 18-20 anos"
-  - **Acção:** Nova secção "Desenvolvimento Cognitivo e Cannabis"
-  - **Conteúdo necessário:**
-    - Citar estudos longitudinais (Meier 2012, Lubman 2015): 8-10 pontos IQ decline
-    - Reconhecer: idade 21 reduz mas não elimina risco
-    - Propor: THC max 5% (não 10%) para 18-20 anos
-    - Propor: Baseline cognitive testing para membros 18-20, re-teste anual
-  - **Validar:** Literatura 2020-2024 sobre cannabis e desenvolvimento cerebral
+- [x] **CRÍTICO 1: Impacto cognitivo em jovens** ✅ CONCLUÍDO (2026-01-26)
+  - **Problema resolvido:** Adicionada secção "Proteção do Desenvolvimento Cognitivo em Jovens Adultos" em FUNDAMENTAÇÃO
+  - **Conteúdo implementado:**
+    - Cita Meier 2012 (declínio 8pt QI utilizadores persistentes adolescentes)
+    - Cita Jackson 2016 (nuance: efeito concentrado em persistentes/dependentes, não casuais)
+    - Mantém modelo alemão **10% THC para 18-20 anos** (não reduz para 5%)
+    - Compara favoravelmente com Suíça (permite até 20% THC aos 18+)
+    - Justifica medida como precaução razoável baseada em evidência
+  - **Referências adicionadas:** Meier 2012 PNAS, Jackson 2016 PNAS
+  - **Decisão estratégica:** 10% alemão mais conservador que Suíça, equilibrado vs. proibicionista
+  - Commit: [76b680e](../../commit/76b680e)
 
 - [ ] **CRÍTICO 2: Rastreio psiquiátrico - NÃO PROPOSTO** 🚨
   - **Problema:** Zero screening de saúde mental antes de adesão aos clubes
