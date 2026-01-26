@@ -69,7 +69,7 @@ Portugal **exporta 32.558 kg** de cannabis medicinal (2024) mas emite apenas **1
 **Com PS:** Foco exclusivo medicinal inicialmente
 **Com PSD:** Autocultivo como compromisso (não clubes)
 **Com PCP:** Ênfase anti-mercado negro, clubes sem fins lucrativos
-**Contra Chega:** Dados evidência (descriminalização 2001 não aumentou consumo)
+**Contra Chega:** Dados evidência (descriminalização 2001: consumo estável, não causou epidemia temida)
 
 ## Próximos Passos
 
@@ -372,7 +372,7 @@ Os dados comprovam que tratar consumo como questão de saúde (e não criminal) 
 * Redução de 98% nos diagnósticos de HIV relacionado com drogas [@internationalcbc2025]
 * Mortes por overdose caíram significativamente [@businesscannabis2025b]
 * Portugal tem agora uma das taxas mais baixas de mortalidade por drogas na Europa (10 por milhão vs. 22 média UE) [@mmjdaily2025]
-* **Descriminalização NÃO aumentou consumo** — Portugal mantém taxas abaixo da média europeia [@wikipedia2025] [@healthcanada2024]
+* **Consumo não aumentou após descriminalização** — Portugal mantém taxas abaixo da média europeia (8,2% vs 8,3% UE, último ano) [@euda2024cannabis]. **Nota metodológica:** Impossível provar causalidade (múltiplos factores confundidos: tendências europeias, mudanças culturais, políticas prevenção). A conclusão defensável é que a descriminalização **não causou a epidemia temida** pelos opositores [@greenwald2009; @springer2021pt]
 
 **2\. O sistema judicial tornou-se mais eficaz e humano**
 
@@ -1521,7 +1521,7 @@ A proibição não está a proteger ninguém. A nossa proposta inclui idade mín
 
 * As mortes por overdose caíram de **369 (1999) para ~80 por ano** [@bessergrowen2025]
 * Os novos casos de HIV relacionados com drogas caíram **98%** — de 907 (2000) para 18 (2017) [@manthey2024]
-* E o consumo não aumentou — Portugal mantém-se abaixo da média europeia
+* E o consumo manteve-se estável — Portugal continua abaixo da média europeia. Não podemos provar que a descriminalização *causou* essa estabilidade (muitos factores envolvidos), mas certamente **não causou a epidemia** que os críticos previam
 
 Sabe quem elogiou o modelo português? O **Cato Institute** — um think tank conservador americano. Chamaram-lhe 'sucesso retumbante por praticamente todas as métricas' [@greenwald2009].
 
@@ -1531,7 +1531,7 @@ Nós não somos o partido da droga. Somos o partido que lê os dados e age em co
 
 * Descriminalização 2001: mortes overdose 369→80, HIV -98% [@bessergrowen2025] [@manthey2024]
 * Cato Institute (conservador): "sucesso retumbante" [@greenwald2009]
-* Consumo PT abaixo média EU: 2,8% vs 8,4% último ano
+* Consumo PT estável pós-2001, abaixo média EU (8,2% vs 8,3% último ano) — correlação não prova causalidade, mas refuta previsões catastrofistas [@springer2021pt]
 * 25 anos de evidência vs. rótulos ideológicos
 
 ### "Isto vai normalizar o consumo"
