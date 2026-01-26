@@ -247,6 +247,20 @@ O LIVRE defende **redução de danos** no álcool e tabaco. Cannabis não é dif
 
 **Princípio central:** A proibição não elimina o consumo — apenas elimina o controlo e a segurança.
 
+### Proteção do Desenvolvimento Cognitivo em Jovens Adultos
+
+O desenvolvimento do córtex pré-frontal continua até aos ~25 anos. Estudos longitudinais demonstram que **utilizadores persistentes com início na adolescência** apresentam declínio de QI de 8 pontos aos 38 anos [@Meier2012]. Contudo, meta-análises recentes confirmam que este risco está concentrado em **consumo pesado/dependente**, não em utilizadores ocasionais [@Jackson2016].
+
+**Medida de precaução adotada:**
+
+O modelo proposto segue a restrição alemã de **THC máximo 10%** para idades 18-20 anos, mantendo 15% para 21+. Esta limitação é **mais conservadora** que o programa piloto suíço (5-20% THC sem diferenciação etária) e equilibra liberdade individual com proteção neurodesenvolvimental.
+
+**Justificação:**
+
+- Limitar exposição a concentrações muito elevadas durante período crítico (18-25 anos)
+- Modelo alemão já testado com 1.400+ clubes (Nov 2025)
+- Suíça permite até 20% THC aos 18+ sem declínio detectado em ensaios científicos (Züri Can 2021-2025)
+
 \newpage
 
 # O PANORAMA PORTUGUÊS EM NÚMEROS
