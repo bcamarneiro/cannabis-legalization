@@ -1065,14 +1065,14 @@ Trabalhar com Juventude Socialista como aliada [@publico2022]
 
 **A nossa resposta — A inconsistência do argumento:**
 
-|  | Vinho caseiro | Cannabis autocultivada |
+|  | Produção doméstica de vinho | Cannabis autocultivada |
 | :---- | :---- | :---- |
 | Estatuto legal | Legal até 4.000L/ano | Ilegal (proposta: até 3 plantas) |
 | Teor da substância | Álcool **não controlado** | THC "impossível de controlar" |
 | Score de dano | **72**/100 [@nutt2010] | **20**/100 [@nutt2010] |
 | Registo obrigatório | Não | Proposta: sementes certificadas |
 
-**Se Portugal permite a produção caseira de uma substância 3,5x mais nociva sem qualquer controlo do teor, porque exigir controlo absoluto do THC?**
+**Se Portugal permite a produção doméstica de uma substância 3,5x mais nociva sem qualquer controlo do teor, porque exigir controlo absoluto do THC?**
 
 **Proposta de compromisso — Autocultivo com sementes certificadas:**
 
