@@ -1072,7 +1072,7 @@ O que a evidência mostra é que o factor de risco não é a substância em si, 
 
 **Resposta curta (30s):**
 
-"Esse é um mito comum que importa desconstruir. O THC tem aplicações terapêuticas comprovadas e distintas do CBD: é essencial para dor neuropática (Sativex aprovado em vários países europeus [@nabiximols2024; @jazzpharma2024sativex]), náuseas oncológicas (Dronabinol aprovado pela FDA desde 1985 [@ncbi2024dronabinol]), estimulação do apetite, e insónia. Para o sono, meta-análises mostram que apenas THC/CBN são eficazes — CBD isolado não funciona [@suraev2020insomnia; @cannabisesaude2024sleep]."
+"Esse é um mito comum que importa desconstruir. O THC tem aplicações terapêuticas comprovadas e distintas do CBD: é essencial para dor neuropática (Sativex aprovado em vários países europeus [@nabiximols2024; @jazzpharma2024sativex]), náuseas oncológicas (Dronabinol aprovado pela FDA desde 1985 [@ncbi2024dronabinol]), e estimulação do apetite. **Insónia (evidência LIMITADA):** apenas 6 ensaios clínicos com THC/CBN mostraram melhoria a curto prazo, mas uso recreativo crónico está associado a PIOR qualidade do sono [@suraev2020insomnia; @sciencedirect2025sleep]."
 
 **Resposta desenvolvida (2min):**
 
@@ -1083,7 +1083,7 @@ O que a evidência mostra é que o factor de risco não é a substância em si, 
 * **Dor neuropática e espasticidade (esclerose múltipla):** O Sativex (THC+CBD 1:1) está aprovado em vários países europeus e Canadá [@nabiximols2024; @jazzpharma2024sativex] precisamente porque o **THC é essencial** para a eficácia
 * **Náuseas e vómitos oncológicos:** Dronabinol (THC sintético) aprovado pela FDA desde **31 de Maio de 1985** [@ncbi2024dronabinol]
 * **Estimulação do apetite (HIV/cancro):** THC é o composto activo, com aprovação FDA em 1992 [@ncbi2024dronabinol]
-* **Insónias:** Meta-análise de 6 ensaios clínicos (1.077 pacientes) demonstra que **apenas formulações com THC/CBN melhoram significativamente a qualidade do sono** (SMD 0.60, p<0.05), enquanto **CBD isolado não mostra efeito** [@suraev2020insomnia; @kuhathasan2022cbd; @cannabisesaude2024sleep]
+* **Insónias (evidência limitada e contraditória):** Meta-análise de **apenas 6 ensaios clínicos** (1.077 pacientes) sugere que formulações THC/CBN podem melhorar qualidade do sono a curto prazo (SMD 0.60, p<0.05), enquanto CBD isolado não mostra efeito [@suraev2020insomnia]. **CONTUDO:** Meta-análises recentes (2025) de estudos observacionais demonstram que **uso recreativo crónico de cannabis está associado a PIOR qualidade do sono**, maior insónia, e mais despertares nocturnos [@sciencedirect2025sleep]. **Risco dependência:** 15-25% dos utilizadores frequentes desenvolvem Cannabis Use Disorder [@leung2020], e uso crónico cria tolerância (efeito diminui com o tempo). **Conclusão:** Evidência para uso crónico é fraca; uso a curto prazo pode ajudar, mas risco dependência + tolerância não justificam recomendação generalizada
 
 **Umbrella review BMJ (2023):** Revisão abrangente confirma benefícios do THC em múltiplas indicações [@solmi2023bmj]. Meta-análise BMC Medicine (2022) identificou eficácia em epilepsia, dor crónica, espasticidade, apetite, Parkinson, sono e Tourette [@hauser2022bmc].
 
@@ -1102,7 +1102,7 @@ O que a evidência mostra é que o factor de risco não é a substância em si, 
 
 * Sativex (THC:CBD 1:1): aprovado em múltiplos países europeus e Canadá [@nabiximols2024; @jazzpharma2024sativex]
 * Dronabinol (THC sintético): FDA 1985 (náuseas/vómitos), 1992 (anorexia HIV/AIDS) [@ncbi2024dronabinol]
-* THC/CBN vs CBD no sono: meta-análise 6 trials, 1.077 pacientes — apenas THC/CBN eficaz [@suraev2020insomnia; @cannabisesaude2024sleep]
+* THC/CBN vs CBD no sono: evidência LIMITADA — 6 trials sugerem melhoria a curto prazo, mas uso crónico piora sono [@suraev2020insomnia; @sciencedirect2025sleep]
 * Portugal 2023: 11.973 kg exportados vs 17 kg locais (99,85% exportação) [@cannabislaw2024export]
 * Portugal 2024: 32.558 kg exportados (+172%) [@eco2024cannabis]
 * Apenas 1.157 prescrições totais em 2023 [@infarmed2024prescricoes]
@@ -1130,7 +1130,7 @@ O que a evidência mostra é que o factor de risco não é a substância em si, 
 
 * **84% dos consumidores** já usam cannabis para **reduzir stress/relaxar** [@cannareporter2022stress; @publico2023consumidor]
 * **38-40%** usam para tratar **ansiedade/depressão** [@publico2022depressao; @sicnoticias2023consumidor]
-* **51-52%** usam para **melhorar o sono** [@cannareporter2022stress; @sicnoticias2023consumidor]
+* **51-52%** usam para **melhorar o sono** [@cannareporter2022stress; @sicnoticias2023consumidor] — **contudo, evidência para uso crónico é FRACA e contraditória** [@sciencedirect2025sleep]
 * Apenas **0,1% usa cannabis medicinal prescrita** — **95% recorrem ao mercado negro** [@cannareporter2022stress]
 
 **Estes números mostram algo crucial:** As pessoas JÁ estão a usar cannabis para sintomas clínicos, mas sem:
