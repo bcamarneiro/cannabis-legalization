@@ -8,12 +8,6 @@ Este ficheiro rastreia melhorias identificadas para o documento de posição.
 
 ### Red-Team Vulnerabilities (MÉDIA PRIORIDADE)
 
-- [ ] **MÉDIA 1: Taxa dependência ambígua (9% vs 15-25%)** ℹ️
-  - **Problema:** Documento cita 9% Cannabis Use Disorder geral, depois 15-25% para uso crónico sono
-  - **Ataque esperado:** "Qual é a taxa verdadeira? 9% ou 25%? Dados contraditórios"
-  - **Fix:** Clarificar contextos - 9% é lifetime CUD para todos, 15-25% para uso terapêutico crónico diário. Adicionar gradiente: "Risco dependência aumenta com frequência: ocasional 5%, diário 20-30%"
-  - **Validar:** Meta-análises sobre CUD por padrão uso (occasional vs daily)
-
 - [ ] **MÉDIA 2: Dados potência desactualizados (Freeman 2019)** ℹ️
   - **Problema:** Cita estudo 2019 quando potência continua a aumentar
   - **Ataque esperado:** "Usam dados de 5 anos atrás. THC agora é 20-30%, não 17%"
@@ -121,6 +115,10 @@ Este ficheiro rastreia melhorias identificadas para o documento de posição.
 - [x] **ALTA 6:** Enforcement clubes inexistente → Distinguido modelo alemão §§24-26 vs safeguards PT ([07f9eaa](../../commit/07f9eaa))
 - [x] **ALTA 7:** Oposição indústria → Integração 3 opções (wholesale, operar clubes, parcerias) + impacto laboral ([e6f92d3](../../commit/e6f92d3))
 
+### Red-Team Vulnerabilities (MÉDIA)
+
+- [x] **MÉDIA 1:** Taxa dependência ambígua → Gradiente CUD por frequência: ocasional 10-15%, semanal 25-30%, diário 33% ([e7f0624](../../commit/e7f0624))
+
 ### Incoerências de dados
 
 - [x] Dados alemães inconsistentes → 791 candidaturas, 357 aprovados Nov 2025 (BCAv validado)
@@ -140,15 +138,17 @@ Este ficheiro rastreia melhorias identificadas para o documento de posição.
 
 ## 📊 Estatísticas
 
-- **PDF:** 311K (inicial 267K CRÍTICO → 292K ALTA 3 → 304K ALTA 4 → 307K ALTA 6 → 311K ALTA 7)
+- **PDF:** 312K (inicial 267K CRÍTICO → 292K ALTA 3 → 304K ALTA 4 → 307K ALTA 6 → 311K ALTA 7 → 312K MÉDIA 1)
 - **Commits CRÍTICO 1-5:** 76b680e, d49f2ad, f7239b9, f11342b, d0ab1c6
 - **Commits ALTA 1-7:** integrado 2026-01-25, CRÍTICO 1-2, ALTA 3-7, de045f9, 07f9eaa, e6f92d3
-- **Validação web research:** ALTA 6 (§§24-26 KCanG alemão), ALTA 5 (Gates 2025 sleep meta-analysis)
+- **Commits MÉDIA:** e7f0624 (MÉDIA 1)
+- **Validação web research:** ALTA 6 (§§24-26 KCanG alemão), ALTA 5 (Gates 2025 sleep meta-analysis), MÉDIA 1 (Leung 2020 + longitudinal 2024)
 
 ## 🎯 Próximos Passos
 
 **Prioridade ALTA concluída (7/7 ✅)**
-**Próximo:** MÉDIA 1-16 (vulnerabilidades média prioridade)
+**Prioridade MÉDIA em progresso (1/16 ✅)**
+**Próximo:** MÉDIA 2 (Dados potência desactualizados Freeman 2019)
 
 ---
 
@@ -159,4 +159,4 @@ Este ficheiro rastreia melhorias identificadas para o documento de posição.
 - Feedback externo: Luísa Álvares (experiência suíça) alterou fundamentação ambiental/económica
 - TASKS.md limpo: 466 → ~250 linhas (foco no pendente)
 
-**Última atualização:** 2026-01-26 22:45 (limpeza TASKS.md)
+**Última atualização:** 2026-01-26 23:15 (MÉDIA 1 concluída: gradiente CUD por frequência)
