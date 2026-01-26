@@ -714,7 +714,7 @@ Proposta baseada no modelo alemão [@bundesministerium2024] [@wikipedia2025], ad
 
 **Modelo alemão** (adotado como base [@bundesgesundheit2024cannabis]):
 
-Cada clube deve ter um **Präventionsbeauftragter** (Oficial de Prevenção) — função obrigatória prevista no framework alemão §9 CanG [@kcang2024].
+Cada clube deve ter um **Präventionsbeauftragter** (Oficial de Prevenção) — função obrigatória prevista no framework alemão §23 KCanG [@kcang2024].
 
 **Responsabilidades principais:**
 
@@ -749,25 +749,31 @@ Cada clube deve ter um **Präventionsbeauftragter** (Oficial de Prevenção) —
    - Relatório anual ao clube (assembleia geral): estatísticas anonimizadas, recomendações melhorias
    - Disponibilidade para auditorias SICAD/Infarmed
 
-**Qualificações mínimas:**
+**Qualificações mínimas (requisitos PT — mais rigorosos que modelo alemão base):**
+
+Alemanha (§23 KCanG) exige apenas formação certificada em addiction prevention em centros especializados, sem requisito de licenciatura. Portugal propõe padrão mais elevado:
 
 - **Formação base:** Licenciatura em Psicologia, Serviço Social, Enfermagem, ou Saúde Pública
 - **Formação especializada obrigatória:** Curso certificado em adições (mínimo 40 horas) reconhecido por SICAD ou Ordem dos Psicólogos
 - **Experiência preferencial:** Trabalho prévio com dependências, harm reduction, ou saúde mental comunitária (mínimo 1 ano)
 - **Competências interpessoais:** Empatia, comunicação não-punitiva, capacidade de estabelecer limites sem estigmatizar
 
+**Justificação requisitos mais rigorosos:** Portugal não tem tradição de Cannabis Social Clubs. Exigir qualificação formal superior (licenciatura + formação especializada) desde o início reduz risco de implementação deficiente. Alemanha permite formação sem licenciatura porque já tem infraestrutura de addiction prevention bem estabelecida.
+
 **Rácio e carga de trabalho:**
 
-- **1 oficial por 200-300 membros** (baseado em rácio alemão)
-- Clubes >300 membros devem ter Oficial a tempo inteiro (40h/semana)
-- Clubes 100-300 membros podem ter Oficial a tempo parcial (20h/semana), mas nunca <20h
-- Clubes <100 membros podem partilhar Oficial com outro clube próximo (mediante aprovação SICAD)
+Alemanha (§23 KCanG) exige **2 oficiais por clube** (máximo 500 membros) = rácio efectivo **1:250 membros**. Portugal adopta o mesmo padrão:
+
+- **2 oficiais de prevenção por clube** (obrigatório, independentemente do tamanho)
+- Clubes >300 membros: ambos oficiais a tempo inteiro (40h/semana cada)
+- Clubes 150-300 membros: 1 oficial tempo inteiro + 1 oficial tempo parcial (20h/semana)
+- Clubes <150 membros: ambos oficiais podem ser tempo parcial (mínimo 20h/semana cada), ou partilhar com outro clube próximo (mediante aprovação SICAD)
 
 **Salário e condições:**
 
-- €28.000-35.000/ano (tempo inteiro), ajustado pro-rata se tempo parcial
+- €28.000-35.000/ano (tempo inteiro, estimativa baseada em salários profissionais qualificados PT), ajustado pro-rata se tempo parcial
 - Financiado via quotas mensais dos clubes
-- Formação contínua obrigatória (8h/ano mínimo) paga pelo clube
+- **Formação contínua obrigatória:** Pelo menos a cada 3 anos (requisito alemão §23 KCanG), paga pelo clube
 - Seguro responsabilidade civil profissional obrigatório
 
 **Linha de reporting e independência:**
