@@ -257,11 +257,12 @@ O modelo de cultivo indoor dominante no mercado negro (e em alguns mercados lega
 
 ## Coerência com outras políticas do LIVRE
 
-O LIVRE defende **redução de danos** como abordagem de saúde pública:
+O LIVRE defende **redução de danos** no álcool e tabaco. Cannabis não é diferente:
 
-* **Regular ≠ promover:** Regulação de substâncias permite protecção de saúde pública, não promove consumo
+* **Regular ≠ promover:** tal como regular o álcool não é promover alcoolismo, regular cannabis é aplicar saúde pública
 * **A proibição não funciona:** 95% usa mercado negro [@cannareporter2025medicinal]
 * **A questão é:** produto seguro e testado, ou produto ilegal potencialmente adulterado?
+* **Princípio consistente:** Portugal já regula substâncias recreativas com perfis de dano conhecidos (álcool score 72, tabaco 26 no Lancet 2010 [@nutt2010]). Cannabis (score 20) permanece proibida. A proposta é aplicar os mesmos princípios de saúde pública.
 
 ## A resposta a "Porquê legalizar recreativo?"
 
@@ -472,6 +473,8 @@ O estudo de David Nutt com 20 drogas e 16 critérios de dano [@nutt2010]:
 | **Cannabis** | **20** |
 
 **Nota metodológica:** Esta tabela científica compara perfis de dano usando metodologia multicritério (16 critérios incluindo dano individual e social). Cannabis obteve score 20/100 nesta avaliação, colocando-a entre as substâncias de menor dano relativo no estudo. Isto não significa que é inofensiva — todos os riscos identificados (psicose, CUD, cognição) estão reconhecidos neste documento e justificam as salvaguardas propostas (idade 21, limites THC, Oficial de Prevenção).
+
+**Nota sobre proporcionalidade regulatória:** Portugal vende bebidas alcoólicas com teor >70% (absinto, aguardente) sem limite de potência. Se aplicamos o princípio de que substâncias mais nocivas devem ter regulação mais restritiva, então limitar o THC a 10% numa substância com score 20/100 — enquanto o álcool (score 72/100) não tem limite — é coerente com esse princípio. A cannabis é ~1/3 tão nociva quanto o álcool segundo esta metodologia multicritério. Isto não significa que é inofensiva — significa que a actual desproporção regulatória (álcool legal sem limites de potência, cannabis ilegal) não tem base nos perfis de dano relativos.
 
 ## Cannabis e condução: um desafio de implementação
 ### O problema
@@ -1061,6 +1064,15 @@ Trabalhar com Juventude Socialista como aliada [@publico2022]
 **O problema:** A linha vermelha do PSD é o autocultivo. Baptista Leite: "impossível regular a concentração da substância activa" [@publico2018a].
 
 **A nossa resposta — A inconsistência do argumento:**
+
+|  | Vinho caseiro | Cannabis autocultivada |
+| :---- | :---- | :---- |
+| Estatuto legal | Legal até 4.000L/ano | Ilegal (proposta: até 3 plantas) |
+| Teor da substância | Álcool **não controlado** | THC "impossível de controlar" |
+| Score de dano | **72**/100 [@nutt2010] | **20**/100 [@nutt2010] |
+| Registo obrigatório | Não | Proposta: sementes certificadas |
+
+**Se Portugal permite a produção caseira de uma substância 3,5x mais nociva sem qualquer controlo do teor, porque exigir controlo absoluto do THC?**
 
 **Proposta de compromisso — Autocultivo com sementes certificadas:**
 
