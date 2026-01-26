@@ -8,9 +8,6 @@ Este ficheiro rastreia melhorias identificadas para o documento de posição.
 
 ### Red-Team Vulnerabilities (MÉDIA PRIORIDADE)
 
-- [ ] **MÉDIA 10: Enforcement autocultivo "3 plantas" indefinido** ℹ️
-  - **Fix:** "Enforcement reactivo (queixas vizinhos), não porta-a-porta. Modelo: vinho caseiro 4.000L não fiscalizado proactivamente"
-
 - [ ] **MÉDIA 11: Oficial de Prevenção - role vago** ℹ️
   - **Acção:** Job description completo - responsabilidades, qualificações, rácio, accountability
   - **Validar:** Präventionsbeauftragter alemão oficial
@@ -95,6 +92,7 @@ Este ficheiro rastreia melhorias identificadas para o documento de posição.
 - [x] **MÉDIA 7:** €52M financiamento execução perfeita → Modelo faseado: €10-15M inicial OE → €20-40M gradual, se clubes falharem enforcement mantém-se (risco mitigado) ([92ac0d7](../../commit/92ac0d7))
 - [x] **MÉDIA 8:** Comparações álcool politicamente arriscadas → Removido whataboutism defensivo (4×), mantidas comparações regulatórias válidas (coerência frameworks) ([369cdc8](../../commit/369cdc8), corrigido [2755f43](../../commit/2755f43), terminologia [bd35219](../../commit/bd35219))
 - [x] **MÉDIA 9:** "Modelo alemão" usado circularmente → Distinguido framework legal (provisões §§24-26, limites THC, estruturas) de claims eficácia (requer anos dados). Alemanha <1 ano operação, evidência vem Colorado/Canadá 6+ anos ([0f41c46](../../commit/0f41c46))
+- [x] **MÉDIA 10:** Enforcement autocultivo "3 plantas" indefinido → Adicionada subsecção completa enforcement reactivo (modelo produção doméstica vinho 4.000L/ano): fiscalização mediante denúncias, não porta-a-porta. Foco tráfico (>20 plantas), proporcionalidade (4-5 plantas = contra-ordenação) ([924ee10](../../commit/924ee10))
 
 ### Incoerências de dados
 
@@ -115,17 +113,17 @@ Este ficheiro rastreia melhorias identificadas para o documento de posição.
 
 ## 📊 Estatísticas
 
-- **PDF:** 325K (inicial 267K CRÍTICO → 292K ALTA 3 → 304K ALTA 4 → 307K ALTA 6 → 311K ALTA 7 → 312K MÉDIA 1 → 314K MÉDIA 2 → 315K MÉDIA 3 → 320K MÉDIA 4 → 322K MÉDIA 5 → 323K MÉDIA 6 → 325K MÉDIA 7 → 323K MÉDIA 8 removido → 324K MÉDIA 8 restaurado válido → 325K MÉDIA 9)
+- **PDF:** 326K (inicial 267K CRÍTICO → 292K ALTA 3 → 304K ALTA 4 → 307K ALTA 6 → 311K ALTA 7 → 312K MÉDIA 1 → 314K MÉDIA 2 → 315K MÉDIA 3 → 320K MÉDIA 4 → 322K MÉDIA 5 → 323K MÉDIA 6 → 325K MÉDIA 7 → 323K MÉDIA 8 removido → 324K MÉDIA 8 restaurado válido → 325K MÉDIA 9 → 326K MÉDIA 10)
 - **Commits CRÍTICO 1-5:** 76b680e, d49f2ad, f7239b9, f11342b, d0ab1c6
 - **Commits ALTA 1-7:** integrado 2026-01-25, CRÍTICO 1-2, ALTA 3-7, de045f9, 07f9eaa, e6f92d3
-- **Commits MÉDIA:** e7f0624 (MÉDIA 1), 2e378ac (MÉDIA 2), 8d80dc9 (MÉDIA 3), 2eadec6 (MÉDIA 4), 99ab871 (MÉDIA 5), d61d23a (MÉDIA 6), 92ac0d7 (MÉDIA 7), 369cdc8 (MÉDIA 8), 0f41c46 (MÉDIA 9)
-- **Validação web research:** ALTA 6 (§§24-26 KCanG alemão), ALTA 5 (Gates 2025 sleep meta-analysis), MÉDIA 1 (Leung 2020 + longitudinal 2024), MÉDIA 2 (EUDA 2024 cannabis report), MÉDIA 3 (Cambridge hemp sequestration + Mediterranean climate tolerance), MÉDIA 4 (Portugal Lei 30/2000 timeline + Germany CanG 2024 legislative process), MÉDIA 5 (Uruguay 2013-2024 + Canada 2018-2024 + Colorado 2014-2024 black market data), MÉDIA 6 (Análise interna, rigor metodológico), MÉDIA 7 (Análise interna, modelo faseamento), MÉDIA 8 (Análise interna, remoção whataboutism), MÉDIA 9 (Análise interna, distinção framework vs eficácia)
+- **Commits MÉDIA:** e7f0624 (MÉDIA 1), 2e378ac (MÉDIA 2), 8d80dc9 (MÉDIA 3), 2eadec6 (MÉDIA 4), 99ab871 (MÉDIA 5), d61d23a (MÉDIA 6), 92ac0d7 (MÉDIA 7), 369cdc8 (MÉDIA 8), 0f41c46 (MÉDIA 9), 924ee10 (MÉDIA 10)
+- **Validação web research:** ALTA 6 (§§24-26 KCanG alemão), ALTA 5 (Gates 2025 sleep meta-analysis), MÉDIA 1 (Leung 2020 + longitudinal 2024), MÉDIA 2 (EUDA 2024 cannabis report), MÉDIA 3 (Cambridge hemp sequestration + Mediterranean climate tolerance), MÉDIA 4 (Portugal Lei 30/2000 timeline + Germany CanG 2024 legislative process), MÉDIA 5 (Uruguay 2013-2024 + Canada 2018-2024 + Colorado 2014-2024 black market data), MÉDIA 6 (Análise interna, rigor metodológico), MÉDIA 7 (Análise interna, modelo faseamento), MÉDIA 8 (Análise interna, remoção whataboutism), MÉDIA 9 (Análise interna, distinção framework vs eficácia), MÉDIA 10 (Análise interna, modelo enforcement reactivo)
 
 ## 🎯 Próximos Passos
 
 **Prioridade ALTA concluída (7/7 ✅)**
-**Prioridade MÉDIA em progresso (9/16 ✅)**
-**Próximo:** MÉDIA 10 (Enforcement autocultivo "3 plantas" indefinido)
+**Prioridade MÉDIA em progresso (10/16 ✅)**
+**Próximo:** MÉDIA 11 (Oficial de Prevenção - role vago, job description completo)
 
 ---
 
@@ -136,4 +134,4 @@ Este ficheiro rastreia melhorias identificadas para o documento de posição.
 - Feedback externo: Luísa Álvares (experiência suíça) alterou fundamentação ambiental/económica
 - TASKS.md limpo: 466 → ~250 linhas (foco no pendente)
 
-**Última atualização:** 2026-01-26 17:55 (MÉDIA 9 concluída: framework alemão distinguido de claims eficácia)
+**Última atualização:** 2026-01-26 18:10 (MÉDIA 10 concluída: enforcement autocultivo clarificado, modelo reactivo)
