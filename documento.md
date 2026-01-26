@@ -248,7 +248,7 @@ O modelo de cultivo indoor dominante no mercado negro (e em alguns mercados lega
 * **Menos processos judiciais:** 75% das condenações por drogas são cannabis [@sicad2018condenacoes]
 * **Menos urgências hospitalares:** produtos testados vs. sintéticos perigosos [@euda2024threat]
 * **Recursos policiais libertados:** foco em crime grave, não consumidores ocasionais
-* **Menos pessoas com registo criminal** por consumo de substância menos nociva que álcool [@nutt2010]
+* **Menos pessoas com registo criminal** por consumo pessoal de cannabis
 
 **4. Retirar rendimento ao crime organizado:**
 
@@ -257,9 +257,9 @@ O modelo de cultivo indoor dominante no mercado negro (e em alguns mercados lega
 
 ## Coerência com outras políticas do LIVRE
 
-O LIVRE defende **redução de danos** no álcool e tabaco. Cannabis não é diferente:
+O LIVRE defende **redução de danos** como abordagem de saúde pública:
 
-* **Regular ≠ promover** (tal como regular o álcool não é promover alcoolismo)
+* **Regular ≠ promover:** Regulação de substâncias permite protecção de saúde pública, não promove consumo
 * **A proibição não funciona:** 95% usa mercado negro [@cannareporter2025medicinal]
 * **A questão é:** produto seguro e testado, ou produto ilegal potencialmente adulterado?
 
@@ -471,9 +471,7 @@ O estudo de David Nutt com 20 drogas e 16 critérios de dano [@nutt2010]:
 | Tabaco | 26 |
 | **Cannabis** | **20** |
 
-**Nota sobre proporcionalidade regulatória:** Portugal permite a venda de bebidas alcoólicas com teor superior a 70% (absinto, aguardente) sem qualquer limite de potência. Se aplicamos o princípio de que substâncias mais nocivas devem ter regulação mais restritiva, então limitar o THC a 10% numa substância com score de dano de 20/100 — enquanto o álcool (72/100) não tem limite — representa uma desproporcionalidade difícil de justificar cientificamente.
-
-A cannabis é ~1/3 tão nociva quanto o álcool segundo esta metodologia multicritério. Isto não significa que é inofensiva — significa que a actual desproporção regulatória (álcool legal, cannabis ilegal) não tem base científica.
+**Nota metodológica:** Esta tabela científica compara perfis de dano usando metodologia multicritério (16 critérios incluindo dano individual e social). Cannabis obteve score 20/100 nesta avaliação, colocando-a entre as substâncias de menor dano relativo no estudo. Isto não significa que é inofensiva — todos os riscos identificados (psicose, CUD, cognição) estão reconhecidos neste documento e justificam as salvaguardas propostas (idade 21, limites THC, Oficial de Prevenção).
 
 ## Cannabis e condução: um desafio de implementação
 ### O problema
@@ -1064,15 +1062,6 @@ Trabalhar com Juventude Socialista como aliada [@publico2022]
 
 **A nossa resposta — A inconsistência do argumento:**
 
-|  | Vinho caseiro | Cannabis autocultivada |
-| :---- | :---- | :---- |
-| Estatuto legal | Legal ate 4.000L/ano | Ilegal (proposta: até 3 plantas) |
-| Teor da substância | Álcool **não controlado** | THC "impossível de controlar" |
-| Score de dano | **72**/100 [@nutt2010] | **20**/100 [@nutt2010] |
-| Registo obrigatório | Não | Proposta: sementes certificadas |
-
-**Se Portugal permite a produção caseira de uma substância 3,5x mais nociva sem qualquer controlo do teor, porque exigir controlo absoluto do THC?**
-
 **Proposta de compromisso — Autocultivo com sementes certificadas:**
 
 | Medida | Justificação |
@@ -1199,23 +1188,21 @@ Sabe o que o mercado negro oferece? Nenhuma destas protecções. Produto de pot�
 
 **Resposta curta (30s):**
 
-"Essa teoria da 'droga de entrada' foi abandonada pela ciência há décadas. 90% das pessoas que experimentam cannabis nunca passam para drogas mais pesadas. E sabe qual é a verdadeira 'droga de entrada'? O álcool — que é legal. A esmagadora maioria dos consumidores de heroína experimentou álcool primeiro, não cannabis."
+"Essa teoria da 'droga de entrada' foi abandonada pela ciência há décadas. 90% das pessoas que experimentam cannabis nunca passam para drogas mais pesadas. O que a ciência mostra é que o factor de risco não é a substância em si, mas o contexto: problemas familiares, trauma, exclusão social. Proibir cannabis não resolve nenhum desses problemas."
 
 **Resposta desenvolvida (2min):**
 
 "A teoria da 'gateway drug' é um mito dos anos 80 que a ciência já abandonou. Um estudo da Universidade do Colorado com 4.000 participantes não encontrou 'mudanças no uso de drogas ilícitas após a legalização' [@colorado2023]. Vamos olhar para os números: em Portugal, cerca de 10% da população já experimentou cannabis [@nugent2017]. Se a teoria da 'droga de entrada' fosse verdade, teríamos centenas de milhares de heroinómanos. Não temos.
 
-Na realidade, mais de 90% das pessoas que experimentam cannabis nunca consomem drogas mais pesadas. E se quisermos falar de 'drogas de entrada', o álcool e o tabaco são muito mais relevantes — praticamente todos os consumidores de drogas pesadas começaram por aí. E são legais. Estudos mostram que **86% dos consumidores experimentaram primeiro álcool (54%) ou tabaco (32%)** [@kirby2019].
-
-O que a evidência mostra é que o factor de risco não é a substância em si, mas o contexto: problemas familiares, trauma, exclusão social. Proibir cannabis não resolve nenhum desses problemas."
+Na realidade, mais de 90% das pessoas que experimentam cannabis nunca consomem drogas mais pesadas. O que a evidência mostra é que o factor de risco não é a substância em si, mas o contexto: problemas familiares, trauma, exclusão social. Proibir cannabis não resolve nenhum desses problemas. A regulação permite intervir nesses contextos de risco através de Oficiais de Prevenção, screening, e referenciação para apoio."
 
 **Dados de suporte:**
 
 * Estudo CU Boulder/Minnesota 2023: sem aumento de outras drogas [@colorado2023]
 * Prevalência cannabis PT: 10,5% ao longo da vida [@nugent2017]
 * Taxa de progressão para drogas pesadas: <10%
-* 86% consumidores começaram por álcool/tabaco [@kirby2019]
 * National Institute of Justice (2018): "não há evidência conclusiva" de causalidade
+* Factor de risco: contexto social/familiar, não substância per se
 
 ### "CBD já está disponível - não precisamos de legalizar THC"
 
@@ -1376,23 +1363,22 @@ A regulação não normaliza — **oferece controlo**. O mercado negro não pede
 
 **Resposta curta (30s):**
 
-"Também não controlamos o autocultivo de uvas para fazer vinho em casa. E o álcool é três vezes mais nocivo que a cannabis segundo o Lancet [@nutt2010]. A nossa proposta é autocultivo com sementes certificadas — assim o THC máximo é conhecido. É mais controlo que o mercado negro oferece."
+"A nossa proposta é autocultivo com sementes certificadas — assim o THC máximo é conhecido desde a origem. É mais controlo que o mercado negro oferece, onde não há qualquer rastreabilidade ou limite de potência."
 
 **Resposta desenvolvida (2min):**
 
-"É uma preocupação legítima, mas deixe-me explicar a nossa abordagem. Primeiro: em Portugal, qualquer pessoa pode cultivar uvas e fazer vinho ou aguardente em casa. Ninguém controla isso. E segundo o estudo do Lancet de 2010, o álcool é **3,6 vezes mais nocivo** que a cannabis (score 72 vs 20) [@nutt2010]. Se não proibimos o autocultivo do mais nocivo, porque proibiríamos o do menos nocivo?
+"É uma preocupação legítima, mas deixe-me explicar a nossa abordagem. A nossa proposta não é autocultivo livre. Propomos que as sementes só possam ser compradas a fornecedores autorizados [@bundesministerium2024]. Cada variedade de cannabis tem uma genética que determina o THC máximo. Uma semente certificada para 12% de THC não vai produzir uma planta com 25%.
 
-Segundo: a nossa proposta não é autocultivo livre. Propomos que as sementes só possam ser compradas a fornecedores autorizados [@bundesministerium2024]. Cada variedade de cannabis tem uma genética que determina o THC máximo. Uma semente certificada para 12% de THC não vai produzir uma planta com 25%.
+Segundo ponto: na Alemanha, onde o autocultivo é permitido, o consumo juvenil diminuiu no primeiro ano [@marijuanamoment2025]. O autocultivo não aumentou os problemas — reduziu a dependência do mercado negro. Proibir o autocultivo não elimina o cultivo — empurra-o para a clandestinidade. Regulá-lo dá-nos ferramentas de controlo que a proibição não oferece.
 
-Terceiro: na Alemanha, onde o autocultivo é permitido, o consumo juvenil diminuiu no primeiro ano [@marijuanamoment2025]. O autocultivo não aumentou os problemas — reduziu a dependência do mercado negro. Proibir o autocultivo não elimina o cultivo — empurra-o para a clandestinidade. Regulá-lo dá-nos ferramentas de controlo que a proibição não oferece."
+Terceiro: limite de 3 plantas garante que é para uso pessoal, não tráfico. Sistema de sementes certificadas permite rastreabilidade e controlo de qualidade impossível no mercado negro."
 
 **Dados de suporte:**
 
-* Comparação de danos: Álcool 72 vs Cannabis 20 (Lancet 2010) [@nutt2010]
-* Portugal: autocultivo de uvas/vinho não controlado (substância mais nociva)
 * Sementes certificadas: THC máximo conhecido e rotulado [@bundesministerium2024]
 * Alemanha: autocultivo permitido, consumo juvenil diminuiu [@marijuanamoment2025]
 * Limite proposto: 3 plantas = uso pessoal, não tráfico [@wikipedia2025]
+* Sistema certificação permite rastreabilidade impossível no mercado negro
 * **Princípio:** Regulação oferece mais controlo que proibição
 
 ### "O autocultivo impossibilita controlar a concentração de THC"
