@@ -51,11 +51,12 @@ Este ficheiro rastreia melhorias identificadas para o documento de posição.
     - **Modelo híbrido Alemanha + Suíça:** Clubes distribuem 7 sementes/mês (modelo alemão), produtores licenciados por Infarmed/DGAV (rigor suíço)
     - **Licenciamento produtores:** Testes obrigatórios (pesticidas, metais, micotoxinas, microorganismos), cultivo orgânico, auditoria anual
     - **Rastreabilidade seed-to-sale:** Cada lote com código rastreável (variedade, THC esperado, origem)
-    - **Variedades autorizadas:** THC máximo 15% (21+) ou 10% (18-20 anos), catálogo aprovado, rotulagem obrigatória
+    - **Variedades autorizadas:** THC máximo 10% apenas para 18-20 anos. Maiores de 21 sem restrição THC. Catálogo aprovado, rotulagem obrigatória
     - **Enforcement:** Clubes documentam origem sementes, autocultivo independente proibido (mas enforcement reactivo), coimas €5k-50k produtores ilegais
     - **Reconhecimento:** Impossível eliminar 100% sementes ilegais, mas redução risco significativa vs. mercado negro
   - **Referências adicionadas:** Bundesgesundheit 2024 FAQ (7 sementes/mês alemão), BAG Switzerland 2024 (pilots seed-to-sale), Eurofins 2024 (testes obrigatórios)
   - **Decisão estratégica:** Alemanha distribui via clubes sem certificação formal (pragmático). Suíça exige licenciamento produtores + testes + orgânico (rigoroso). Portugal combina praticabilidade alemã com controlo qualidade suíço
+  - Commit: [f11342b](../../commit/f11342b)
 
 - [ ] **CRÍTICO 5: Gravidez/Amamentação - NÃO MENCIONADO** 🚨
   - **Problema:** Zero avisos sobre THC em gravidez/aleitamento (danos desenvolvimento fetal)

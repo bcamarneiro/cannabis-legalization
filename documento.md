@@ -721,7 +721,7 @@ Fornecedores de sementes devem obter licença de Infarmed/DGAV com os seguintes 
 
 **Variedades autorizadas:**
 
-- **THC máximo sementes:** 15% (para adultos 21+), 10% (para 18-20 anos)
+- **THC máximo sementes:** 10% para 18-20 anos (seguindo modelo alemão clubes). Maiores de 21 anos sem restrição THC
 - **Catálogo variedades:** Fornecedores submetem variedades para aprovação (genética estabilizada, THC previsível)
 - **Rotulagem obrigatória:** Cada semente/pacote com THC esperado, CBD, rácio, instruções cultivo
 
