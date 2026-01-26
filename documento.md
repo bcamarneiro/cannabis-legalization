@@ -111,7 +111,7 @@ Este documento propõe que o LIVRE assuma uma posição clara e proactiva sobre 
 * **Problema actual:**
   * 75% das condenações por drogas são consumidores ocasionais de cannabis [@sicad2018condenacoes; @dn2020condenacoes]
   * Mercado negro com sintéticos perigosos: 18 novos canabinóides identificados em 2024, alguns **800x mais potentes** que THC [@euda2025nps]
-  * Potência duplicou sem rotulagem: resina 8%→17% THC, herbal 5%→10% [@freeman2019potency]
+  * Potência continua a subir: resina 8% (2006)→17% (2016)→**24.8% (2022)** THC, herbal estabilizou em ~10% [@freeman2019potency; @euda2024cannabis]
   * Mercado ilegal de €52-151M/ano sem qualquer controlo de qualidade [@ribeiro2024economic]
   * **Catástrofe ambiental:** Cultivo indoor clandestino gera **2.300-5.200 kg CO₂/kg** — 23-52x pior que carne de vaca [@summers2021cannabis]
 * **Solução:** Clubes sociais sem fins lucrativos + autocultivo regulado = produtos testados, verificação idade, informação clara, cultivo sustentável outdoor/regenerativo (modelo alemão [@bundesgesundheit2024cannabis])
@@ -165,9 +165,10 @@ Este documento propõe que o LIVRE assuma uma posição clara e proactiva sobre 
 
 **2. Aumento drástico da potência:**
 
-* **Resina:** THC médio aumentou de **8.14% (2006)** para **17.22% (2016)** — mais que duplicou [@freeman2019potency]
-* **Herbal:** THC médio aumentou de **5.00% (2006)** para **10.22% (2016)** — também duplicou [@freeman2019potency]
-* Mercado negro não rotula potência, não permite escolha informada
+* **Resina:** THC médio aumentou de **8.14% (2006)** para **17.22% (2016)** [@freeman2019potency] e continua a subir — **24.8% em 2022** (duplicou novamente em 10 anos) [@euda2024cannabis]
+* **Herbal:** THC médio aumentou de **5.00% (2006)** para **10.22% (2016)** [@freeman2019potency], estabilizando em **~10.1% (2022)** [@euda2024cannabis]
+* **Tendência:** Potência da resina duplicou na última década (2012-2022), enquanto herbal permaneceu estável. Mercado negro não rotula, não permite escolha informada
+* **Produtos de alta potência:** Extratos e edibles cada vez mais diversos, alguns adulterados com canabinóides sintéticos [@euda2024cannabis]
 
 **3. Riscos de saúde sem controlo:**
 
@@ -248,7 +249,7 @@ O LIVRE defende **redução de danos** no álcool e tabaco. Cannabis não é dif
 - ✅ **Proteger quem já consome** (95% da população utilizadora [@cannareporter2025medicinal])
 - ✅ **Reduzir danos:** produtos testados vs. sintéticos perigosos 800x mais potentes [@euda2025nps]
 - ✅ **Descriminalizar:** 75% das condenações são consumidores ocasionais [@sicad2018condenacoes; @dn2020condenacoes]
-- ✅ **Controlar potência:** THC rotulado vs. mercado negro que duplicou potência [@freeman2019potency]
+- ✅ **Controlar potência:** THC rotulado vs. mercado negro com resina a 24.8% THC sem rotulagem [@euda2024cannabis]
 - ✅ **Financiar prevenção:** ~€52M/ano de poupanças enforcement para tratamento
 - ✅ **Retirar rendimento ao crime:** €52-151M/ano para clubes licenciados sem fins lucrativos [@ribeiro2024economic]
 
