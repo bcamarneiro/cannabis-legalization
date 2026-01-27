@@ -150,6 +150,189 @@ Este documento propõe que o LIVRE assuma uma posição clara e proactiva sobre 
 
 **Os dois objectivos são complementares, não conflituantes** — mas a sequência estratégica maximiza probabilidade de sucesso político.
 
+### Evolução futura condicional: Coordenação europeia e modelo two-pillar
+
+**A proposta portuguesa segue explicitamente o modelo alemão de duas fases:**
+
+* **Fase 1 (Pillar 1): Clubes sociais não-comerciais + autocultivo** — implementação 2027-2030, avaliação rigorosa dados
+* **Fase 2 (Pillar 2): Possível transição para venda comercial regulada** — **condicional a três factores críticos:**
+  1. **Dados positivos piloto:** Evidência 2028-2030 mostrando captura >40% mercado ilegal, protecção juvenil, redução criminalização
+  2. **Coordenação europeia:** Resolução conflitos lei UE/Schengen (venda comercial cannabis actualmente bloqueada pela Comissão Europeia)
+  3. **Renovação aprovação parlamentar:** Nova votação pós-avaliação, não automatismo
+
+**Contexto legal internacional crítico:**
+
+A Alemanha desenhou o CanG 2024 como **sistema two-pillar** (clubes não-comerciais → venda comercial piloto 5 cidades), mas a **Comissão Europeia bloqueou Pillar 2 em 2024-2025** por violar Acordo Schengen e tratados ONU incorporados em lei UE [@parliament2024cannabis]. Resultado: 49 municípios alemães aplicaram pilotos comerciais, todos estagnados. Mudança política (CDU 2025) reverteu progresso.
+
+**Portugal não repete erro alemão:**
+
+* **Não promete venda comercial** sem resolver questões legais EU-level
+* **Clubes não-comerciais são tolerados** pela UE (Pillar 1 alemão operacional com 190+ clubes)
+* **Venda comercial depende de coordenação multilateral** — Portugal propõe trabalhar com outros estados-membros para alterar interpretação Comissão Europeia
+
+**Estratégia multilateral proposta:**
+
+1. **Coligação informal estados-membros progressistas:** Coordenação com Países Baixos, Luxemburgo, Malta (todos com pilotos cannabis ou intenção de regular)
+2. **Challenge interpretação Schengen:** Argumentar que venda comercial regulada **não viola** livre circulação se harmonizada (modelo equivalente ao tabaco/álcool)
+3. **Precedente tratados ONU:** Canadá violou 3 tratados ONU em 2018, Trudeau revelou 2024 "ONU nunca discutiu o tema" — críticas mas zero enforcement
+4. **Timeline realista:** Mudança política UE requer 5-10 anos coordenação, não é obstáculo imediato para Pillar 1 clubes
+
+**Honestidade com eleitores/decisores políticos:**
+
+* **Fase 1 (clubes) é viável agora** — modelo alemão Pillar 1 funciona, UE tolera
+* **Fase 2 (comercial) pode nunca acontecer** — depende de factores fora de controlo Portugal
+* **Benefício Fase 1 standalone:** Captura 40-50% mercado ilegal, ROI 120-753%, redução criminalização — **mesmo sem venda comercial**, objectivos principais atingidos
+* **Fase 2 adiciona:** 70-95% captura mercado (dados Canadá), receitas fiscais significativas (~€50-150M/ano), mas **não é essencial para sucesso harm reduction**
+
+**Esta abordagem maximiza viabilidade política:** Não compromete LIVRE com promessas dependentes de factores externos (mudanças lei UE), mas mantém ambição estratégica de longo prazo condicional a dados e coordenação europeia.
+
+
+\newpage
+
+# COMO CHEGÁMOS AQUI? — Contexto Histórico da Proibição {-}
+
+## Pré-Proibição: Cannabis antes dos Tratados Internacionais (até 1970)
+
+### O Cânhamo na História Marítima Portuguesa
+
+**Cannabis/cânhamo foi central para os Descobrimentos portugueses.** Durante séculos, o cânhamo industrial foi cultivado extensivamente em Portugal (principalmente vales do Tejo e Mondego) para produção de fibras têxteis — as mais resistentes fibras naturais conhecidas, superiores ao algodão.
+
+**As caravelas dos Descobrimentos dependiam de cânhamo:**
+
+* **Velas:** Tecido resistente de cânhamo (hemp canvas), mais durável que linho, essencial para longas viagens oceânicas
+* **Cordas e enxárcia:** Todas as cordas a bordo eram de cânhamo — única fibra resistente à água salgada e apodrecimento
+* **Calafetagem:** Fibras de cânhamo usadas para vedar juntas do casco
+
+**Exemplos históricos documentados:**
+
+* **Cristóvão Colombo (1492):** Navegou para América com **80 toneladas** de velas e cordas de cânhamo
+* **Fernão de Magalhães (séc. XVI):** Circum-navegou globo usando velas e enxárcia de cânhamo
+* **Chegada ao Brasil (1500):** Caravelas portuguesas tinham cordas e velas de cânhamo [@releaf2023; @jodope2024; @topshelfhemp2024]
+
+### Cultivo Obrigatório: Política Régia de Cânhamo
+
+**Portugal não apenas permitia, mas EXIGIA cultivo de cânhamo:**
+
+* **D. João IV (séc. XVI):** Tornou **obrigatório** o cultivo de cânhamo em território português para restaurar navios após guerra com Espanha
+* **D. João V:** Emitiu decreto encorajando produção de cânhamo
+* **Estado Novo (até 1961):** Cultivo de cânhamo **continuou obrigatório** em certas áreas do país para indústria têxtil [@releaf2023]
+
+**Ironia histórica brutal:** Cânhamo foi obrigatório até 1961, proibido em 1970 — **apenas 9 anos** separam mandato régio de criminalização. Portugal eliminou por pressão externa uma planta essencial à sua história nacional.
+
+### Uso Medicinal Tradicional
+
+Além do uso industrial, cannabis foi registada em **farmacopeias europeias desde século XIX** como planta medicinal para várias condições (dor, insónia, espasmos). O uso recreativo existia mas era marginal e não criminalizado.
+
+### Mudança de Paradigma Global (1960-1970s)
+
+Nos anos 1960-1970, sob pressão política dos EUA (Richard Nixon lançou a "War on Drugs" em 1971), a Organização das Nações Unidas promoveu três convenções internacionais que estabeleceram o regime proibicionista moderno:
+
+* **Convenção Única sobre Estupefacientes (1961)** — classificou cannabis na Schedule I e IV (substâncias "sem valor medicinal" e "particularmente perigosas")
+* **Convenção sobre Substâncias Psicotrópicas (1971)** — reforçou controlo sobre substâncias sintéticas e THC
+* **Convenção contra o Tráfico Ilícito (1988)** — criminalizou produção, distribuição e posse para consumo
+
+Estes tratados estabeleceram um **regime legal vinculativo** para Estados signatários, pressionando países a adoptarem legislação proibicionista mesmo sem evidência científica de necessidade.
+
+## A Proibição em Portugal: Decreto-Lei 420/70 (1970-1983)
+
+Portugal implementou a proibição da cannabis através do **Decreto-Lei n.º 420/70, de 3 de Setembro de 1970**, a primeira lei moderna de fiscalização de estupefacientes e substâncias psicotrópicas [@camara2015].
+
+**Contexto político:**
+
+* **Regime Estado Novo (1933-1974):** A lei foi aprovada nos últimos anos da ditadura salazarista/marcelista
+* **Pressão internacional:** Portugal ratificou a Convenção Única da ONU de 1961 em **Dezembro de 1971**, pouco depois da entrada em vigor da lei 420/70
+* **Influência dos EUA:** A "War on Drugs" de Nixon (iniciada Junho 1971) pressionou aliados da NATO a adoptarem leis similares
+
+**Evolução legislativa pós-tratados:**
+
+* **1979:** Portugal ratifica a Convenção sobre Substâncias Psicotrópicas (1971) em **Abril de 1979**
+* **1983:** Aprovação de legislação actualizada para incorporar plenamente as obrigações dos tratados ONU
+
+**Resultado:** Durante quase **30 anos (1970-2000)**, Portugal manteve um regime plenamente **criminalizador** do consumo, posse e tráfico de cannabis, alinhado com os tratados internacionais mas sem adaptação à realidade nacional.
+
+## Descriminalização 2000: Portugal Desafia o Consenso Internacional
+
+Em **2000-2001**, Portugal tornou-se pioneiro global ao **descriminalizar** (não legalizar) o consumo e posse de todas as drogas através da **Lei 30/2000, de 29 de Novembro**.
+
+**Contexto político crucial:**
+
+* **Governo:** António Guterres (PS) como Primeiro-Ministro com **115 deputados** (1 lugar antes da maioria absoluta)
+* **Presidente:** Jorge Sampaio (PS, 1996-2006), garantindo coerência institucional
+* **Comissão de peritos:** 11 especialistas (médicos, juristas, sociólogos) nomeados em **1998**, trabalharam 18 meses, relatório publicado **1999**
+* **Figuras-chave:** Alexandre Quintanilha (presidente da comissão), João Goulão (coordenador nacional antidroga), entre outros
+
+**Resistência política:**
+
+* **Oposição feroz da direita parlamentar:** CDS-PP liderou campanha contra "legalização das drogas" (termo deliberadamente enganoso — lei descriminalizava, não legalizava)
+* **Basílio Horta (CDS):** Exigiu referendo, argumentando que a lei "vai alterar profundamente o modelo de sociedade"
+* **Aprovação garantida:** PS tinha apoio suficiente (115/230 deputados) para aprovar sem maioria absoluta, ultrapassando oposição
+
+**Fundamentação da mudança:**
+
+* **Evidência de fracasso:** Regime punitivo não reduziu consumo, criminalizava toxicodependentes, sobrecarregava sistema prisional
+* **Abordagem de saúde pública:** Transferir resposta de sistema judicial para sistema de saúde (Comissões para a Dissuasão da Toxicodependência)
+* **Pragmatismo:** Reconhecimento que criminalizar consumidores era ineficaz e contraproducente
+
+**Resultado histórico:** Lei entrou em vigor **Julho 2001**. Vinte e cinco anos depois (2026), o modelo português é **referência mundial** [@parlamento2000lei30; @springer2021pt; @transform2016pt]:
+
+* Consumo de drogas **não aumentou** (previsão catastrofista da oposição nunca se concretizou)
+* Mortes relacionadas com drogas **reduziram 80%** (2001-2012)
+* Portugal passou de um dos países com maior prevalência VIH/SIDA entre consumidores (1999) para um dos mais baixos da Europa
+
+**Lição estratégica para 2026:** Portugal **já desafiou com sucesso** o consenso internacional proibicionista uma vez. A descriminalização de 2000 era igualmente controversa, enfrentou oposição similar, mas provou que **pragmatismo baseado em evidência** supera dogmatismo punitivo.
+
+## Cannabis Medicinal 2018: O Paradoxo Moderno
+
+Em **2018**, Portugal legalizou o **uso medicinal da cannabis** através da **Lei n.º 33/2018, de 18 de Julho**.
+
+**Timeline de implementação:**
+
+* **15 Junho 2018:** Aprovação parlamentar (votação transversal, apoio PS, BE, PCP, PAN, Os Verdes; abstenção PSD, CDS)
+* **1 Julho 2018:** Lei entra em vigor
+* **15 Janeiro 2019:** Decreto-Lei n.º 8/2019 estabelece framework de implementação (prescrição, cultivo, distribuição)
+* **31 Janeiro 2019:** Portaria n.º 44-A/2019 define sistema de preços
+* **15 Abril 2021:** Portaria n.º 83/2021 completa regulamentação (supervisão INFARMED)
+
+**Autoridades e entidades:**
+
+* **INFARMED** (Autoridade Nacional do Medicamento e Produtos de Saúde I.P.) — supervisiona todas as actividades relacionadas com cannabis medicinal
+* **Licenças emitidas (até 2022):** 20 autorizações de cultivo, 8 autorizações de fabrico
+
+**O paradoxo actual (2024-2026):**
+
+* **Exportações:** Portugal é o **2.º maior exportador mundial** — 32.558 kg em 2024, ultrapassados nos primeiros 8 meses de 2025 [@infarmed2024; @euronews2024]
+* **Prescrições internas:** Apenas **1.157 prescrições** em 2023 (~17 kg), representando **0,05% da produção** [@eco2024; @cannareporter2024]
+* **Uso recreativo:** Estimativa **540.000-900.000 utilizadores** em Portugal, 95% via mercado negro [@sicad2022prevalence; @cannareporter2025medicinal]
+* **Criminalização persistente:** 75% das condenações por drogas são consumidores ocasionais de cannabis [@sicad2018condenacoes; @dn2020condenacoes]
+
+**Contradição legal absurda:**
+
+* ✅ **Legal:** Produzir 32+ toneladas para exportação (lucro privado)
+* ✅ **Legal:** Prescrever cannabis a doentes (acesso restrito, €150/mês sem comparticipação SNS)
+* ❌ **Ilegal:** Adulto consumir cannabis recreativamente (mercado negro descontrolado, 95% dos utilizadores)
+* ❌ **Criminalizado:** Consumidores ocasionais (75% das condenações por drogas)
+
+## Conclusão: Hora de Resolver a Contradição
+
+A história mostra **quatro momentos decisivos** que revelam o absurdo da proibição:
+
+1. **Séculos pré-1961:** Cânhamo foi **planta estratégica nacional** — cultivo obrigatório por decreto régio, essencial aos Descobrimentos (80 toneladas em cada caravela). Portugal construiu império marítimo dependendo desta planta
+
+2. **1961-1970:** Em **9 anos**, Portugal passa de cultivo obrigatório (até 1961) para proibição total (1970) — não por decisão nacional baseada em evidência, mas por **pressão externa** (tratados ONU, "War on Drugs" dos EUA). Absurdo histórico: eliminar planta central à identidade portuguesa
+
+3. **2000:** Portugal **desafia consenso internacional** com descriminalização — oposição política prevê catástrofe, mas modelo torna-se **referência mundial** 25 anos depois. Prova que pragmatismo supera dogmatismo
+
+4. **2018:** Portugal legaliza cannabis medicinal mas mantém recreativa criminalizada — **contradição insustentável** que beneficia exportadores privados (32+ toneladas/ano) enquanto criminaliza centenas de consumidores (75% das condenações por drogas)
+
+**A proposta de regulação do uso adulto em 2026 não é radicalismo.** É a **conclusão lógica** de um processo histórico absurdo:
+
+* **Ironia histórica:** Planta que alimentou Descobrimentos (obrigatória até 1961) é criminalizada 9 anos depois por pressão externa
+* **Evidência científica:** Se cannabis tem valor medicinal reconhecido (2018), não pode estar na Schedule I da ONU (1961: "sem valor medicinal")
+* **Precedente de sucesso:** Se descriminalização (2000) foi eficaz reduzindo danos, regulação completa pode ser ainda mais eficaz
+* **Hipocrisia económica:** Se Portugal exporta 99,95% da produção (2024), proibir consumo interno é indefensável
+* **Falha de saúde pública:** Se 95% dos utilizadores compram no mercado negro, estamos a falhar protecção de centenas de milhares de portugueses
+
+**Portugal já provou duas vezes (Descobrimentos, descriminalização 2000) que pragmatismo português supera dogmatismos externos.** A regulação proposta é o próximo passo dessa mesma lógica histórica — recuperar soberania nacional sobre uma planta que sempre foi parte da nossa história.
 
 \newpage
 
@@ -182,7 +365,7 @@ Este documento propõe que o LIVRE assuma uma posição clara e proactiva sobre 
 
 * **Anos 1-2 (2027-2028):** 10-15% utilizadores migram para clubes (early adopters, programa piloto limitado)
 * **Anos 3-5 (2029-2031):** 40-50% mercado legal (expansão clubes, confiança estabelecida, sem barreiras privacidade)
-* **Anos 6-10:** Estabilização 50-60% mercado legal com modelo clubes, ou transição para modelo comercial (70-95% legal, dados Canadá)
+* **Anos 6-10:** Estabilização 50-60% mercado legal com modelo clubes, ou transição para modelo comercial regulado (70-95% legal, dados Canadá) — **CONDICIONAL a:** (1) dados piloto positivos 2028-2030, (2) resolução conflitos lei UE/Schengen (Comissão Europeia bloqueou venda comercial Alemanha 2024-2025, requer coordenação multilateral), (3) renovação aprovação parlamentar. **Fase comercial pode nunca acontecer** se obstáculos legais UE persistirem. Modelo clubes standalone (Fase 1) já atinge objetivos principais harm reduction
 
 **Portugal pode ultrapassar Uruguai porque:**
 
@@ -1573,6 +1756,61 @@ Impactos positivos **não incluídos** no balanço fiscal acima:
 
 **Conclusão fiscal:** Modelo não-comercial PT tem **risco fiscal limitado** (investimento inicial €50-90M reversível após piloto) e **potencial ganho significativo** (ROI 120-753% se clubes demonstrarem eficácia). Decisão baseada em dados 2028-2030 minimiza risco downside.
 
+##### ROI Análise: Phase 1 (Clubes) vs Phase 2 (Comercial Potencial)
+
+**IMPORTANTE:** Análise ROI distingue claramente modelo clubes standalone (viável agora) vs transição comercial futura (condicional a coordenação UE).
+
+**Phase 1: Clubes Sociais Não-Comerciais (2027-2037, standalone)**
+
+Todos os valores ROI apresentados acima (**120-753%**) baseiam-se **exclusivamente em modelo clubes** sem venda comercial:
+
+| Parâmetro | Valor Conservador | Valor Optimista | Fonte |
+| :---- | :---- | :---- | :---- |
+| **Captura mercado ilegal** | 40% (ano 5-10) | 50% (ano 5-10) | Uruguai clubes 24-39%, PT adiciona autocultivo |
+| **Poupanças enforcement** | €30M/ano | €65M/ano | Enforcement actual €45-90M, redução proporcional |
+| **Receitas fiscais** | €0 | €0 | Clubes cost-recovery, zero impostos |
+| **ROI 10 anos** | +€36M (+120%) | +€226M (+753%) | Poupanças líquidas vs investimento inicial |
+| **Payback** | 4 anos | 3 anos | Tempo recuperar investimento inicial |
+
+**Viabilidade standalone:** Phase 1 sozinha **já atinge objectivos principais** harm reduction (proteger quem consome, reduzir mercado negro, acabar criminalização), **independentemente de transição comercial futura**.
+
+**Phase 2: Venda Comercial Regulada (hipotético, 2033+, condicional)**
+
+**Premissa:** SE (1) dados piloto 2028-2030 positivos, (2) UE resolver bloqueio Schengen via coordenação multilateral, (3) aprovação parlamentar renovada, **ENTÃO** possível transição venda comercial.
+
+**Projecção receitas fiscais comercial (ESPECULATIVO):**
+
+| Parâmetro | Cálculo | Valor Estimado | Notas |
+| :---- | :---- | :---- | :---- |
+| **Mercado total PT** | €52-151M/ano | €100M (mid-range) | ResearchGate study [@ribeiro2024economic] |
+| **Captura comercial** | 70-95% (dados Canadá) | 80% | Comercial > clubes em captura mercado |
+| **Receitas capturadas** | €100M × 80% | €80M/ano | Vendas sujeitas a impostos |
+| **Taxa fiscal** | 20-37% (Colorado 37%) | 25% (conservador) | Impostos específicos cannabis |
+| **RECEITAS FISCAIS** | €80M × 25% | **€20M/ano** | ADICIONAL a poupanças enforcement |
+
+**ROI combinado Phase 1 + Phase 2 (hipotético):**
+
+- **Poupanças enforcement** (Phase 1): €30-65M/ano (mantém-se)
+- **Receitas fiscais** (Phase 2): €20M/ano (adicional)
+- **TOTAL:** €50-85M/ano benefício fiscal
+- **ROI 10 anos:** +€200-500M (vs apenas clubes +€36-226M)
+
+**MAS CRÍTICO — Phase 2 pode nunca acontecer:**
+
+* **Obstáculo legal:** Comissão Europeia bloqueou venda comercial Alemanha 2024-2025 por violar Schengen
+* **Timeline incerto:** Mudança política UE requer 5-10+ anos coordenação multilateral
+* **Risco político:** Mesmo se UE permitir, governo português futuro pode rejeitar transição
+
+**Estratégia fiscal prudente:**
+
+1. **Planejar baseado em Phase 1 standalone** (clubes apenas) — ROI 120-753% conservador, viável agora
+2. **Não prometer receitas fiscais comerciais** — dependem de factores externos fora de controlo Portugal
+3. **Tratar Phase 2 como bonus condicional** — se acontecer, €20M/ano adicionais permitem expansão prevenção/tratamento SNS; se não acontecer, objectivos harm reduction já atingidos
+
+**Mensagem política:**
+
+*"O nosso modelo clubes entrega ROI positivo (120-753%) **sem depender de venda comercial futura**. Poupanças enforcement (€30-65M/ano) financiam prevenção, reduzem criminalização, protegem consumidores. Venda comercial — se algum dia for possível via coordenação europeia — adiciona receitas fiscais (~€20M/ano), mas **não é necessária para sucesso harm reduction**. Não prometemos o que não controlamos."*
+
 #### Estimativa de Clubes Necessários: Distribuição Geográfica Nacional
 
 **Rácio base Alemanha:**
@@ -1767,6 +2005,126 @@ Trabalhar com Juventude Socialista como aliada [@publico2022]
 |  |  |  |
 
 **Táctica:** Começar pelo Nível 1, negociar Nível 2, manter Nível 3 como objectivo futuro.
+
+## Coordenação Europeia: Desafios Legais UE/Schengen e Estratégia Multilateral
+
+### O Obstáculo Legal: Comissão Europeia Bloqueou Venda Comercial Alemã
+
+**Contexto crítico que Portugal deve compreender:**
+
+Alemanha desenhou o CanG 2024 como **sistema two-pillar**:
+- **Pillar 1 (Säule 1):** Clubes sociais não-comerciais + autocultivo (implementado Abril 2024, operacional)
+- **Pillar 2 (Säule 2):** Venda comercial regulada em 5 cidades-piloto (planejado 2024-2025)
+
+**O que aconteceu com Pillar 2:**
+
+* **2024:** Comissão Europeia objeta formalmente — venda comercial cannabis viola:
+  * **Acordo Schengen** (livre circulação + proibição cannabis = conflict enforcement fronteiras)
+  * **Tratados ONU** (1961 Single Convention, 1971 Psychotropic, 1988 Trafficking) incorporados em lei UE
+* **2025:** 49 municípios alemães aplicam pilotos comerciais, todos bloqueados/estagnados
+* **2025:** CDU (conservador) assume governo alemão, reverte progresso Pillar 2 — "likely not coming to fruition" [@businessofcannabis2025pillar2]
+
+**Lição para Portugal:** Clubes sociais não-comerciais (Pillar 1) são **tolerados pela UE**. Venda comercial (Pillar 2) **viola lei UE actual** e requer mudança política europeia.
+
+### Diferença Estratégia Portugal vs Alemanha
+
+**Alemanha errou ao prometer Pillar 2 sem garantir coordenação UE primeiro.** Portugal adopta abordagem diferente:
+
+| Aspecto | Alemanha CanG 2024 | Portugal Proposta 2026 |
+| :---- | :---- | :---- |
+| **Pillar 1 (clubes)** | ✅ Implementado, 190+ clubes operacionais | ✅ **Prioritário, viável agora** |
+| **Pillar 2 (comercial)** | ❌ Prometido mas bloqueado UE | ⚠️ **Condicional, honestidade com eleitores** |
+| **Timeline comercial** | Prometido 2024-2025 (falhou) | **Sem promessas firmes** — depende coordenação EU |
+| **Viabilidade standalone** | Pillar 1 visto como "temporário" | **Pillar 1 atinge objectivos principais** (harm reduction, 40-50% captura mercado) |
+| **Risco político** | Reversão CDU 2025 matou Pillar 2 | **Implementação completa Pillar 1 minimiza risco** reversão |
+
+**Vantagem estratégica Portugal:** Não comprometer credibilidade política com promessas dependentes de factores externos (mudança lei UE). Clubes standalone (Fase 1) já entregam ROI 120-753%, captura 40-50% mercado, protecção juvenil.
+
+### Estratégia Multilateral: Trabalhar para Mudança Política Europeia
+
+**Portugal não aceita bloqueio UE passivamente.** Proposta inclui diplomacia activa para alterar interpretação Comissão Europeia:
+
+**1. Coligação informal estados-membros progressistas**
+
+* **Países Baixos:** Piloto Maastricht (10 municípios) iniciado 2023, planeia expansão nacional [@government2023netherlands]
+* **Luxemburgo:** Legalizou autocultivo 2021, estuda venda comercial [@luxembourg2023]
+* **Malta:** Legalizou autocultivo + clubes 2021, sem comercialização [@malta2021]
+* **Alemanha (se houver mudança governo):** 190+ clubes operacionais, precedente estabelecido
+
+**Objectivo:** Coordenar lobby conjunto na Comissão Europeia para reinterpretar Schengen — argumentar que venda comercial **regulada harmonizada** (padrões comuns UE) **não viola** livre circulação, análogo a tabaco/álcool.
+
+**2. Challenge jurídico interpretação Schengen**
+
+**Argumento central:** Acordo Schengen visa eliminar controlos fronteiras para cidadãos UE, **não** harmonizar políticas drogas. Cannabis legal em estado-membro A e ilegal em estado-membro B **não é violação** — é exercício soberania nacional dentro competências Estados.
+
+**Precedentes:**
+* **Aborto:** Legal Holanda/Espanha, restrito Polónia/Malta — Schengen não impediu divergência
+* **Eutanásia:** Legal Países Baixos/Bélgica/Luxemburgo, ilegal resto UE — sem conflito Schengen
+* **Tabaco/álcool:** Impostos divergentes (€1-10/maço cigarros entre estados), idades mínimas divergentes — harmonização **não é obrigatória**
+
+**Por que cannabis seria tratada diferente?** Comissão argumenta tratados ONU via Schengen, mas **tratados são recomendações sem enforcement** (ver Canadá violou 3 tratados, zero consequências).
+
+**3. Precedente tratados ONU: Críticas sem enforcement**
+
+**Canadá 2018:**
+* Violou 3 tratados ONU (Single Convention 1961, Psychotropic 1971, Trafficking 1988)
+* INCB criticou publicamente
+* **Resultado:** Trudeau revelou 2024 **"ONU nunca discutiu o tema connosco desde legalização"** [@marijuanamoment2024trudeau]
+* **Zero sanções, zero consequências diplomáticas práticas**
+
+**Alemanha 2024:**
+* Violou mesmos tratados (Pillar 1 autocultivo + clubes)
+* INCB criticou
+* **Resultado:** Zero enforcement, 190+ clubes operacionais
+
+**Conclusão:** Tratados ONU produzem críticas mas **não impedem legalização**. Obstáculo real é interpretação Comissão Europeia de Schengen, não tratados internacionais.
+
+**4. Timeline realista mudança política UE**
+
+**Cenário optimista (5-7 anos):**
+* 2026-2028: Portugal + 3-4 estados progressistas implementam pilotos clubes não-comerciais
+* 2028-2030: Dados robustos mostram modelos funcionam (protecção juvenil, captura mercado negro)
+* 2029-2031: Pressão coordenada na Comissão + Parlamento Europeu para reinterpretar Schengen
+* 2032-2034: Approval venda comercial harmonizada (standards comuns UE)
+
+**Cenário realista (10+ anos):**
+* Mudança requer nova Comissão Europeia progressista + maioria estados-membros support
+* Comparação: Cannabis medicinal demorou 15 anos harmonizar parcialmente UE
+* Obstáculo: Estados conservadores (Hungria, Polónia) podem bloquear mudanças requiring unanimidade
+
+**Cenário pessimista (nunca):**
+* Se maioria estados-membros mantém oposição, mudança lei UE impossível
+* Portugal fica limitado a clubes não-comerciais permanentemente
+
+### Honestidade Política: Fase Comercial Pode Nunca Acontecer
+
+**Portugal deve ser explícito com eleitores e decisores políticos:**
+
+* ✅ **Fase 1 (clubes não-comerciais) é viável AGORA** — modelo alemão Pillar 1 funciona, UE tolera, objectivos harm reduction atingidos
+* ⚠️ **Fase 2 (venda comercial) depende factores externos** — coordenação UE, mudança política europeia, timeline 5-10+ anos
+* ❌ **Fase 2 pode nunca acontecer** — se UE mantém bloqueio, Portugal aceita clubes standalone como solução permanente
+
+**Benefícios Fase 1 standalone (sem venda comercial):**
+* Captura 40-50% mercado ilegal (dados Uruguay clubes, PT com autocultivo adicional)
+* ROI 120-753% via poupanças enforcement (não receitas fiscais)
+* Protecção juvenil (Colorado -42%, Canadá -48%)
+* Produtos testados vs. mercado negro contaminado (94% pesticidas)
+* Redução criminalização (75% condenações drogas são cannabis)
+
+**Fase 2 adiciona mas não essencial:**
+* Captura 70-95% mercado ilegal (dados Canadá comercial)
+* Receitas fiscais ~€50-150M/ano (se impostos similares Colorado/Canadá)
+* **MAS objectivos harm reduction principais já atingidos Fase 1**
+
+**Esta transparência maximiza credibilidade:** LIVRE não promete o que não pode garantir. Fase comercial é ambição condicional, não promessa firme.
+
+### Posição LIVRE na Assembleia/Comunicação Pública
+
+**Quando questionados sobre venda comercial futura:**
+
+*"Portugal segue modelo alemão two-pillar. **Fase 1 — clubes sociais não-comerciais** — é nossa prioridade e é viável agora. **Fase 2 — possível venda comercial regulada** — depende de três condições: (1) dados piloto 2028-2030 mostrarem eficácia, (2) coordenação europeia resolver conflitos lei UE/Schengen, (3) renovação aprovação parlamentar. **Fase comercial pode nunca acontecer** se obstáculos legais UE persistirem. Mas mesmo sem Fase 2, clubes standalone já atingem objectivos principais: proteger quem consome, reduzir mercado negro, acabar criminalização utilizadores ocasionais. Não prometemos o que não controlamos — prometemos trabalhar diplomaticamente para mudança europeia, mas viabilidade Fase 1 não depende disso."*
+
+**Mensagem-chave:** **Honestidade > promessas inflacionadas.** Modelo clubes funciona standalone, venda comercial é bonus condicional.
 
 
 # ANEXO I: Guia de Argumentação {-}
@@ -2837,6 +3195,283 @@ Portugal já possui:
 * Exportação para outros mercados europeus legalizados
 
 Isto criaria uma cadeia de valor totalmente nacional, desde a genética até ao consumidor final.
+
+\newpage
+
+# Anexo A: O Modelo Suíço de Pilotos Científicos Cannabis (2023-2025)
+
+## Overview dos Pilotos Suíços
+
+A Suíça implementou em 2021 uma alteração à Lei Federal de Estupefacientes que permite **pilotos científicos municipais** para testar modelos de venda regulada de cannabis a adultos, mantendo proibição nacional enquanto coleta dados rigorosos para decisão futura sobre legalização federal.
+
+**Framework legal único:** Artigo 8a LStup (Lei de Estupefacientes) permite cantões/cidades proporem estudos científicos com fornecimento legal cannabis a participantes registados, sob supervisão do Gabinete Federal de Saúde Pública (OFSP/BAG) [@bagch2024pilots].
+
+### Pilotos Aprovados e Operacionais (2023-2025)
+
+**7 pilotos municipais autorizados**, ~7.000 participantes totais (Junho 2024):
+
+| Cidade | Nome Projecto | Início | Participantes | Duração | Canais Distribuição |
+| :---- | :---- | :---- | :---- | :---- | :---- |
+| **Zurique** | Züri Can | Maio 2023 | 2.300+ (meta: 7.500) | 2023-2028 (extensão) | 3 lojas especializadas + 8 farmácias |
+| **Basileia** | Weed Care | Janeiro 2023 | 374 (inicial) | 2023-2027 (extensão) | 10 farmácias + 10 clubes sociais + 1 centro info drogas |
+| **Genebra** | La Cannabinothèque | 2023 | ~2.700 | 2023-2026 | Clubes não-comerciais |
+| **Lausanne** | Cann-L | 2023 | ~500 | 2023-2026 | Modelo não-lucrativo |
+| **Berna** | — | 2024 | ~500 | 2024-2027 | Farmácias |
+| **Biel** | — | 2024 | ~300 | 2024-2027 | Modelo misto |
+| **Lucerna** | — | 2024 | ~300 | 2024-2027 | Farmácias |
+
+**Total investimento:** ~CHF 7,5M retirados do mercado negro nos primeiros 18 meses (estimativa oficial) [@businessofcannabis2024zurican].
+
+## Framework Regulatório Suíço
+
+### Critérios de Elegibilidade
+
+**Participantes devem cumprir:**
+- Idade 18+ anos
+- Residência cantão/cidade do piloto (mínimo 1 ano)
+- Consumo prévio cannabis (auto-declarado)
+- Consentimento informado participação estudo científico
+- Proibido vender/partilhar cannabis adquirida
+
+**Exclusões:** Gravidez, condições psiquiátricas graves, dependência outras substâncias.
+
+### Padrões de Qualidade Produto
+
+**Exigências rigorosas cannabis vendida pilotos:**
+
+* **THC:** 5-20% (sem diferenciação etária, contraste com Alemanha 10% limite 18-20)
+* **Padrões GMP:** Boas Práticas Fabrico (Good Manufacturing Practice) ou equivalente
+* **Cultivo orgânico certificado:** Obrigatório para produtores licenciados (sem pesticidas sintéticos)
+* **Testes laboratoriais:** Canabinóides (THC/CBD), pesticidas, metais pesados, micotoxinas, microorganismos
+* **Rastreabilidade seed-to-sale:** Transparência completa cadeia produção
+* **Embalagem:** Rotulagem obrigatória com teor THC/CBD, avisos saúde, proibição marketing atrativo
+
+### Preços e Tributação
+
+**Preço médio:** CHF 8-12/grama (~€8,50-12,50), ligeiramente abaixo mercado negro CHF 10-15/g
+
+**Tributação:** Modelo cost-recovery (pontos não-comerciais) ou lucro limitado (lojas licenciadas), sem impostos específicos cannabis (apenas IVA standard 7,7%)
+
+### Modelos de Distribuição Testados
+
+Os pilotos suíços testam deliberadamente **3 modelos distintos** para comparar eficácia:
+
+#### Modelo 1: Farmácias (Zurique, Basileia, Berna)
+
+**Características:**
+
+- Ambiente médico/clínico
+- Farmacêuticos fornecem aconselhamento harm reduction
+- Horário limitado (9h-19h)
+- Atmosfera neutral, sem marketing
+
+**Vantagens:** Destigmatização (contexto saúde), acesso conselho profissional
+
+**Desvantagens:** Menos acessível (horário), ambiente pode intimidar consumidores recreativos
+
+#### Modelo 2: Clubes Sociais Não-Comerciais (Basileia, Genebra, Lausanne)
+
+**Características:**
+
+- Modelo associativo sem fins lucrativos
+- Membership restrito a residentes locais
+- Espaços sociais para consumo (alguns pilotos)
+- Foco prevenção e educação
+- Atmosfera comunitária
+
+**Vantagens:** Ambiente peer-support, controlo consumo no local, educação integrada
+
+**Desvantagens:** Capacidade limitada (membership), requer gestão voluntária/baixo custo
+
+#### Modelo 3: Lojas Especializadas Licenciadas (Zurique)
+
+**Características:**
+
+- Retail profissional com branding (limitado)
+- Horário estendido (10h-22h)
+- Staff treinado (não farmacêuticos)
+- Variedade produtos (flores, pré-enrolados, óleos)
+
+**Vantagens:** Conveniência, variedade, experiência consumer-friendly
+
+**Desvantagens:** Risco normalização excessiva, marketing pode incentivar consumo
+
+## Resultados Preliminares (2023-2024)
+
+### Impacto Mercado Negro
+
+**Züri Can (Zurique):**
+- **>90% participantes** compraram cannabis exclusivamente de fontes legais piloto após registo [@businessofcannabis2024zurican]
+- **CHF 7,5M retirados mercado negro** em 18 meses (estimativa oficial)
+- **Zero leakage detectado:** Nenhum caso documentado de revenda cannabis piloto mercado ilegal
+
+**Weed Care (Basileia):**
+- **94% satisfação participantes** (inquérito 2024)
+- Redução significativa contacto dealers ilegais
+
+### Padrões Consumo e Saúde
+
+**Observações preliminares (dados parciais 2024):**
+
+* **Shift para métodos menos nocivos:** Aumento uso vaporizadores vs fumar (dados qualitativos, quantificação pending)
+* **Sem aumento consumo geral:** Participantes não aumentaram quantidade consumida após acesso legal (auto-reportado)
+* **Destigmatização:** Participantes reportam maior conforto em discutir uso cannabis com profissionais saúde
+* **Acesso informação:** 78% participantes valorizam aconselhamento staff sobre THC/CBD, harm reduction
+
+**Importante:** Resultados saúde mental/comportamental completos requerem 3-5 anos dados (estudos ongoing até 2027-2028).
+
+### Segurança Pública
+
+**Consensus autoridades suíças (OFSP report Junho 2024):**
+
+* **Zero problemas ordem pública** relacionados com pilotos
+* **Colaboração exemplar** entre autoridades, polícia, pontos venda
+* **Nenhuma crítica significativa** comunidades locais (contrasta com NIMBY fears)
+
+## Legislação Federal: Cannabis Products Act (2025-2026)
+
+### Transição Pilotos → Legalização Nacional
+
+Em **Agosto 2025**, governo suíço abriu **consulta pública sobre Lei de Produtos Cannabis** (Cannabis Products Act), permitindo comentários até Dezembro 2025 [@cannabisregulations2025switzerland].
+
+**Objetivo:** Expandir fornecimento cannabis adultos 18+ para além de trials científicos, permitindo **venda comercial regulada a nível nacional** (mantendo opt-out cantonal).
+
+### Proposta Legislativa Principal
+
+**Framework proposto (draft 2025):**
+
+* **Idade mínima:** 18+ (sem diferenciação THC como Alemanha)
+* **Venda comercial regulada:** Lojas licenciadas, farmácias, potencialmente clubes sociais
+* **Licenciamento produtores:** GMP obrigatório, cultivo orgânico incentivado
+* **Tributação:** Imposto específico cannabis (taxa a definir, provavelmente 20-30%)
+* **Autocultivo:** Permitido (quantidade a definir, provavelmente 3-4 plantas)
+* **Marketing:** Restrito (proibição publicidade direta, branding neutral)
+* **Opt-out cantonal:** Cantões conservadores podem recusar implementação local (modelo federalismo suíço)
+
+**Timeline estimada:**
+
+- 2025 Q4: Consulta pública fechada
+- 2026 Q1-Q2: Revisão proposta, debate parlamentar
+- 2026 Q3-Q4: Votação Parlamento Federal (requer maioria ambas câmaras)
+- 2027-2028: Implementação gradual (se aprovada)
+
+**Probabilidade aprovação:** Moderada-alta. Pilotos demonstraram viabilidade, opinião pública favorável (~55-60% apoio segundo sondagens 2024), mas resistência cantões conservadores pode exigir compromissos.
+
+## Comparação Modelo Suíço vs Modelo Português Proposto
+
+| Aspecto | Suíça (2023-2025) | Portugal (Proposta 2026) |
+| :---- | :---- | :---- |
+| **Approach inicial** | Pilotos municipais científicos rigorosos | Pilotos nacionais + expansão phased |
+| **Participantes** | Restrito a residentes locais, consumidores prévios | Aberto todos adultos 21+ (18-20 com limite THC 10%) |
+| **Idade mínima** | 18+ (sem restrição THC) | 18+ (10% THC), 21+ (sem limite) |
+| **Modelos distribuição** | 3 modelos testados (farmácias, clubes, lojas) | Clubes sociais não-comerciais primário |
+| **Autocultivo** | Não permitido durante pilotos (proposto Lei 2026) | Permitido desde início (3 plantas, sementes certificadas) |
+| **Venda comercial** | Proposta Lei Federal 2025-2026 | Condicional Fase 2 (depende dados + coordenação EU) |
+| **Qualidade produto** | GMP obrigatório, cultivo orgânico | ISO 17025 labs, sementes certificadas, testes obrigatórios |
+| **Preço** | CHF 8-12/g (€8,50-12,50) | €3-6/g (cost-recovery clubes) |
+| **Tributação** | IVA 7,7% apenas (pilotos), imposto específico proposto Lei 2026 | Zero impostos específicos Fase 1 (clubes cost-recovery) |
+| **Coordenação federal** | OFSP supervisão centralizada, uniformidade standards | SICAD supervisão, INFARMED licensing |
+| **Duração avaliação** | 3-5 anos por piloto | 2 anos piloto → 3 anos avaliação (2027-2030) |
+| **Leakage mercado ilegal** | Zero detectado (~90% captura participantes) | Expectativa 40-50% captura nacional (modelo clubes) |
+
+## Lições Aprendidas: O Que Portugal Pode Importar do Modelo Suíço
+
+### 1. Rigor Científico Como Legitimação Política
+
+**Suíça:** Pilotos desenhados como **estudos científicos peer-reviewed**, não "legalização disfarçada". Isto despolitizou debate, shift para evidência vs ideologia.
+
+**Aplicação PT:** Proposta portuguesa já inclui avaliação rigorosa SICAD 2028-2030, mas pode reforçar:
+
+- Parcerias universidades portuguesas (ULisboa, UPorto) para research protocols
+- Publicação resultados em journals internacionais (aumenta credibilidade)
+- Advisory board científico independente (não apenas SICAD)
+
+### 2. Testes Múltiplos Modelos Distribuição
+
+**Suíça:** 3 modelos paralelos (farmácias, clubes, lojas) permitem comparação direta eficácia, satisfação participantes, impacto saúde pública.
+
+**Aplicação PT:** Modelo atual foca clubes sociais (viável dado obstáculo UE venda comercial). **Sugestão:** Dentro de clubes, testar sub-modelos:
+
+- Clubes "standard" (membership aberto)
+- Clubes "preventive" (Oficial Prevenção + screening intensivo, modelo Basel Weed Care)
+- Clubes "community" (focus espaço social, eventos educação)
+
+Comparar outcomes 2028-2030 informa expansão/refinement.
+
+### 3. Preços Competitivos Mercado Negro Essenciais
+
+**Suíça:** CHF 8-12/g (~€8,50-12,50) consegue >90% captura participantes registados porque **marginalmente abaixo mercado negro** CHF 10-15/g.
+
+**Portugal:** Mercado negro €10-15/g, proposta clubes €3-6/g (cost-recovery). **Vantagem competitiva enorme** — mas risk: se custos compliance aumentam (labs, pessoal, facilities), €6/g pode não ser suficiente break-even. **Lição:** Monitorizar custos reais pilotos, ajustar cap preço se necessário para sustainability (até €8-9/g ainda competitivo).
+
+### 4. Zero Leakage É Possível Mas Requer Enforcement Inteligente
+
+**Suíça:** Nenhum caso documentado revenda cannabis pilotos para mercado ilegal. **Como?**
+
+- Registo participantes com ID verificação
+- Limites mensais (10g Basileia, 20g Zurique)
+- Embalagens rastreáveis (QR codes)
+- Penalidades severas revenda (expulsão piloto + criminal charges)
+
+**Portugal:** Proposta já inclui registo nacional, limites mensais (50g), embalagens QR. **Adicionar:** Auditorias aleatórias clubes (SICAD), mystery shoppers testar compliance, penalties claras para clubes que toleram revenda.
+
+### 5. Destigmatização Requer Integração Sistema Saúde
+
+**Suíça:** Modelo farmácias especialmente eficaz em normalizar cannabis como questão saúde, não crime/moral issue. 78% participantes valorizam aconselhamento profissional.
+
+**Portugal:** Oficial de Prevenção nos clubes cumpre função similar. **Reforçar:** Integração com CATs (Centros Apoio Toxicodependentes), permitir Oficiais Prevenção referenciarem não apenas psiquiatria/addiction mas também primary care SNS para check-ups gerais. Mensagem: "Cannabis legal integra sistema saúde pública, não paralelo."
+
+### 6. Opt-Out Cantonal Reduz Resistência Política
+
+**Suíça:** Lei Federal proposta 2025-2026 permite cantões conservadores (Schwyz, Uri, Appenzell) opt-out implementação local. Isto **neutraliza oposição cantões rurais católicos** que bloqueriam Lei a nível nacional.
+
+**Portugal:** Sistema centralizado sem equivalente cantonal, mas **pode aplicar conceito a municípios**: Lei nacional permite clubes, mas câmaras municipais podem recusar licenciar clubes em território (zoning veto). **Trade-off:** Reduz resistência PSD/CDS (autarcas conservadores protegidos), mas cria desigualdade acesso geográfica (Lisboa/Porto têm clubes, Trás-os-Montes não). **Mitigação:** Autocultivo sempre permitido nacionalmente (não depende município), garantindo acesso mínimo.
+
+### 7. Timeline Realista: 3-5 Anos Dados Antes Legalização Nacional
+
+**Suíça:** Pilotos iniciados 2023, Lei Federal proposta apenas 2025-2026 (2-3 anos após). **Mensagem política:** "Não legalizamos cegamente, testamos primeiro."
+
+**Portugal:** Proposta já prevê 2027-2030 avaliação antes decisão Fase 2 comercial. **Importante:** Comunicar claramente que **Fase 1 clubes NÃO é legalização definitiva**, é piloto rigoroso. Decisão final 2030+ baseada dados. Isto reduz ansiedade conservadores ("podemos reverter se falhar") e aumenta credibilidade científica.
+
+## Obstáculos Suíços vs Obstáculos Portugueses
+
+### Obstáculos Suíços (Resolvidos/Mitigados)
+
+**Obstáculo 1 — Federalismo:** Cantões podem bloquear implementação.
+**Solução:** Opt-out cantonal na Lei Federal proposta, pilotos municipais permitem progresso mesmo sem consensus nacional.
+
+**Obstáculo 2 — Tratados ONU:** Suíça signatária mesmos tratados que Portugal.
+**Solução:** Pilotos enquadrados como "research científica" (Article 2 Single Convention permite), não "legalização recreativa". Lei Federal 2026 vai violar tratados explicitamente (como Canadá/Alemanha), mas consensus político é que enforcement ONU = zero.
+
+**Obstáculo 3 — Schengen/EU:** Suíça NÃO é membro UE, mas é Schengen.
+**Solução:** Nenhuma objeção formal Comissão Europeia aos pilotos suíços (contraste com bloqueio Alemanha Pillar 2 comercial). **Possível razão:** Pilotos são temporários e científicos, não permanent retail. Lei Federal 2026 pode enfrentar objeções UE similares a Alemanha — ainda unclear.
+
+### Obstáculos Portugueses (Não Resolvidos por Modelo Suíço)
+
+**Obstáculo PT-1 — Comissão Europeia Bloqueou Alemanha Pillar 2:**
+Suíça pode avançar com Lei Federal 2025-2026 porque **Schengen mas não UE** (menor jurisdição Comissão). Portugal é membro pleno UE, venda comercial Fase 2 requer coordenação multilateral ou challenge Schengen interpretation. **Modelo suíço não resolve.**
+
+**Obstáculo PT-2 — Consensus Político Ausente:**
+Suíça teve apoio bipartisan para pilotos (consenso harm reduction). Portugal 2026: PS incerto, PSD oposto, Chega hostil. **Modelo suíço prova viabilidade técnica mas não cria consensus político magicamente.**
+
+**Obstáculo PT-3 — Banking Access:**
+Pilotos suíços aparentemente têm acesso banca (190 clubes operacionais), mas sem dados públicos sobre como. Portugal pode enfrentar recusa bancos portugueses (mesmo com Lei nacional) se cannabis tecnicamente ilegal EU-level. **Modelo suíço não documenta solução banking publicly.**
+
+## Conclusão: Modelo Suíço Como Benchmark Rigor Científico
+
+**Principais takeaways para Portugal:**
+
+1. **Pilotos científicos rigorosos despolitizam debate** — shift para evidência vs ideologia
+2. **Múltiplos modelos distribuição testados simultaneamente** optimizam learning
+3. **Preços competitivos + qualidade GMP conseguem >90% captura participantes**
+4. **Zero leakage é achievable** com enforcement inteligente (registo, limites, auditorias)
+5. **Integração sistema saúde (farmácias, Oficiais Prevenção) destigmatiza cannabis**
+6. **Timeline 3-5 anos dados antes legalização nacional** é realista e politicamente defensável
+7. **Suíça avança venda comercial 2025-2026 APESAR Schengen** — possível porque não-UE, mas Portugal enfrenta obstáculo adicional Comissão Europeia
+
+**Recomendação estratégica:** Portugal deve emular **rigor científico e múltiplos modelos** suíços na Fase 1 clubes, mas **não prometer venda comercial Fase 2** sem resolver obstáculo UE (diferente de Suíça que pode avançar unilaterally).
+
+**Mensagem política:** "Portugal segue exemplo suíço — pilotos científicos rigorosos, avaliação independente, decisão baseada dados. Não legalizamos cegamente, testamos com padrões mais altos Europa."
 
 \newpage
 
