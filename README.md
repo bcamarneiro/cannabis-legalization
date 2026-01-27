@@ -4,11 +4,15 @@
 [![Discussions](https://img.shields.io/github/discussions/bcamarneiro/cannabis-legalization)](https://github.com/bcamarneiro/cannabis-legalization/discussions)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-Proposta do **LIVRE** para um enquadramento legal e regulatório da cannabis em Portugal, abrangendo uso medicinal, recreativo e industrial.
+Proposta de enquadramento legal e regulatório da cannabis em Portugal, abrangendo uso medicinal, recreativo e industrial.
+
+**Desenvolvida inicialmente pelo LIVRE, mas aberta a contribuições de TODOS** — outros partidos, associações, profissionais, e cidadãos que concordem com políticas baseadas em evidência e direitos humanos.
 
 ## 🤝 Como Contribuir
 
-**Advogado? Médico? Economista? Activista?** Precisamos de ti!
+**Advogado? Médico? Economista? Activista? Qualquer cidadão?** Precisamos de ti!
+
+**Contribuições abertas a todos** independentemente de filiação política ou ideologia.
 
 - ⚖️ **Não-técnicos** (não sabes Git): Ver [CONTRIBUTING.md - Secção Não-Técnicos](CONTRIBUTING.md#-para-contribuidores-não-técnicos)
 - 💻 **Técnicos** (sabes Git/GitHub): Ver [CONTRIBUTING.md - Secção Técnicos](CONTRIBUTING.md#-workflow-de-contribuição-técnico)

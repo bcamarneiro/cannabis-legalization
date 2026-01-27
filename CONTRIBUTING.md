@@ -1,6 +1,18 @@
 # Como Contribuir
 
-Obrigado pelo interesse em contribuir para o documento de posição do LIVRE sobre regulação da cannabis! Este guia ajuda-te a começar.
+**Este é um projeto aberto a TODOS** — independentemente de filiação partidária, ideologia política, ou background.
+
+Embora desenvolvido inicialmente no contexto do LIVRE, esta proposta pretende ser **abrangente e colaborativa**:
+
+- ✅ **Outros partidos políticos** (PS, PSD, BE, PAN, IL, etc.)
+- ✅ **Juventudes partidárias** (JS, JSD, Jovens do BE, etc.)
+- ✅ **Associações e ONGs** (redução de danos, direitos humanos, saúde pública)
+- ✅ **Pessoas singulares** (advogados, médicos, economistas, ativistas, cidadãos)
+- ✅ **Grupos de trabalho** (académicos, profissionais, movimentos sociais)
+
+**O que importa:** Concordar com os princípios de **política baseada em evidência**, **redução de danos**, e **direitos humanos**. A tua filiação política não é um entrave — contribuições são avaliadas pelo mérito, não pela ideologia.
+
+---
 
 ## 📋 Estrutura do Projeto
 
@@ -40,22 +52,23 @@ cannabis-legalization/
 
 1. **Participa numa Discussion** existente ou abre uma nova
 2. **Escreve livremente** - não precisa seguir template rígido
-3. **Bruno analisa** e cria Issue formatada se apropriado
-4. **Issue entra no Project Board** quando pronta para trabalhar
-5. **Serás creditado** quando a Issue for implementada
+3. **Comunidade discute e refina** a proposta colaborativamente
+4. **Maintainers criam Issues** quando proposta está madura
+5. **Implementação** por quem tiver capacidade técnica
+6. **Todos os contribuidores são creditados**
 
 ### 🔄 Workflow Completo
 
 ```
 Discussions (abertas, conversacionais)
     ↓
-Bruno analisa e triagem
+Discussão colaborativa e refinamento
     ↓
 Issues (estruturadas, prontas para trabalhar)
     ↓
 Project Board (tracking activo)
     ↓
-Pull Request → Merge → Crédito
+Pull Request → Review → Merge → Crédito
 ```
 
 ---
@@ -111,12 +124,12 @@ Se ainda não tens:
 
 ### O Que Acontece Depois?
 
-1. **Comunidade discute** - outros contribuem, debatem
-2. **Bruno analisa** - avalia se é válido, prioritário
-3. **Issue criada** - Bruno formata como Issue estruturada (se apropriado)
-4. **Project Board** - Issue entra em tracking quando pronta
-5. **Implementação** - Alguém (técnico) implementa a alteração
-6. **Crédito** - Serás creditado no commit: `Co-Authored-By: Teu Nome <email>`
+1. **Comunidade discute** - outros contribuem, debatem, refinam
+2. **Consenso emerge** - proposta é validada colaborativamente
+3. **Issue criada** - Maintainers formatam como Issue estruturada (quando madura)
+4. **Project Board** - Issue entra em tracking quando pronta para implementar
+5. **Implementação** - Alguém com capacidade técnica implementa
+6. **Crédito** - Todos os contribuidores creditados: `Co-Authored-By: Teu Nome <email>`
 
 ---
 
