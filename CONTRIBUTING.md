@@ -36,16 +36,35 @@ cannabis-legalization/
 
 **Não sabes usar Git? Não há problema!** Podes contribuir apenas escrevendo texto.
 
-### Como Funciona (Simples)
+### 💬 Como Funciona (Simples)
 
-1. **Lê [TASKS.md](docs/TASKS.md)** e escolhe uma vulnerabilidade que matches a tua expertise
-2. **Abre uma "Issue"** no GitHub usando o template "Proposta de Correção (Não-técnico)"
-3. **Escreve** a tua proposta de texto/alteração diretamente na issue
-4. **Aguarda revisão** - alguém da equipa técnica vai implementar e creditar-te
+1. **Participa numa Discussion** existente ou abre uma nova
+2. **Escreve livremente** - não precisa seguir template rígido
+3. **Bruno analisa** e cria Issue formatada se apropriado
+4. **Issue entra no Project Board** quando pronta para trabalhar
+5. **Serás creditado** quando a Issue for implementada
 
-### Passo-a-Passo Detalhado
+### 🔄 Workflow Completo
 
-#### 1. Criar conta GitHub (grátis, 2 minutos)
+```
+Discussions (abertas, conversacionais)
+    ↓
+Bruno analisa e triagem
+    ↓
+Issues (estruturadas, prontas para trabalhar)
+    ↓
+Project Board (tracking activo)
+    ↓
+Pull Request → Merge → Crédito
+```
+
+---
+
+## 💬 Opção 1: Participar em Discussions (RECOMENDADO)
+
+**Melhor para:** Reportar problemas, sugerir melhorias, discutir abordagens
+
+### Passo 1: Criar conta GitHub (grátis, 2 minutos)
 
 Se ainda não tens:
 
@@ -53,14 +72,69 @@ Se ainda não tens:
 2. Clica "Sign up"
 3. Segue as instruções (email, password, username)
 
-#### 2. Abrir uma Issue
+### Passo 2: Abrir ou participar numa Discussion
+
+1. Vai a [github.com/bcamarneiro/cannabis-legalization/discussions](https://github.com/bcamarneiro/cannabis-legalization/discussions)
+2. **Explorar discussions existentes:**
+   - 15 discussions prioritárias já abertas (DEVIL 1-4, LEGAL 1-5, HEALTH, ECON, etc.)
+   - Podes comentar, adicionar insights, responder perguntas
+3. **Criar nova discussion:**
+   - Clica "New discussion"
+   - Escolhe categoria:
+     - 💡 **Ideas** - Sugestões de melhorias
+     - ❓ **Q&A** - Perguntas, problemas identificados
+     - 💬 **General** - Discussão geral
+   - Escreve livremente (sem template rígido)
+
+### Passo 3: O que escrever?
+
+**Formato livre, mas útil incluir:**
+
+- **Qual o problema/sugestão?** (descrição clara)
+- **Porque é importante?** (impacto, vulnerabilidade)
+- **Tens expertise nesta área?** (advogado, médico, economista)
+- **Fontes/referências?** (se aplicável)
+- **Ideias de solução?** (opcional)
+
+**Exemplo:**
+
+> Encontrei inconsistência no documento sobre THC limits por idade.
+>
+> O documento justifica 10% THC para 18-20 anos devido a "desenvolvimento cerebral", mas permite 25% THC aos 21+. Evidência científica (Casey 2019) mostra que o cérebro continua a desenvolver até ~25 anos.
+>
+> Sou neurologista e acho que isto é vulnerabilidade científica. Sugestões:
+> 1. Extend limit até 25 anos (cientificamente consistente)
+> 2. Remover limit (autonomia adultos)
+> 3. Mudar justificação (não usar brain development)
+>
+> Fontes: Casey et al. 2019, Di Forti 2019
+
+### O Que Acontece Depois?
+
+1. **Comunidade discute** - outros contribuem, debatem
+2. **Bruno analisa** - avalia se é válido, prioritário
+3. **Issue criada** - Bruno formata como Issue estruturada (se apropriado)
+4. **Project Board** - Issue entra em tracking quando pronta
+5. **Implementação** - Alguém (técnico) implementa a alteração
+6. **Crédito** - Serás creditado no commit: `Co-Authored-By: Teu Nome <email>`
+
+---
+
+## 📋 Opção 2: Abrir Issue Diretamente
+
+**Melhor para:** Propostas muito estruturadas, quem já sabe exactamente o que quer mudar
+
+### Quando usar Issues vs Discussions?
+
+- **Discussions:** Problemas vagos, brainstorming, não sabes solução exacta
+- **Issues:** Proposta específica, texto pronto, solução clara
+
+### Como abrir Issue
 
 1. Vai a [github.com/bcamarneiro/cannabis-legalization/issues](https://github.com/bcamarneiro/cannabis-legalization/issues)
-2. Clica botão verde **"New issue"**
+2. Clica **"New issue"**
 3. Escolhe template **"Proposta de Correção (Não-técnico)"**
-4. Clica **"Get started"**
-
-#### 3. Preencher o Template
+4. Preenche:
 
 ```markdown
 ## 👤 Sobre Ti
@@ -72,53 +146,38 @@ Email: joao.silva@exemplo.pt
 LEGAL 1 - International Treaty Obligations
 
 ## 📝 Proposta de Alteração
-
-### Texto Proposto
-Portugal ratificou três convenções ONU sobre drogas (1961, 1971, 1988),
-mas o Artigo 4 da Convenção de 1961 permite interpretação flexível.
-O Uruguai usou a mesma convenção para legalizar cannabis em 2013,
-argumentando que a saúde pública justifica regulação estatal.
-
-Recomendação: Adicionar secção no documento explicando...
-[continua com a tua proposta]
+[Texto específico proposto]
 
 ## 📚 Fontes/Referências
-- Convenção Única sobre Estupefacientes (1961), Artigo 4
-- Caso Uruguai: Lei 19.172/2013
-- Análise jurídica: [URL ou citação]
+[Lista de fontes]
 
 ## 💡 Justificação
-Esta secção é crítica porque oponentes vão argumentar que Portugal
-viola tratados internacionais. Precisamos mostrar que...
+[Porque esta alteração é importante]
 ```
 
-#### 4. Submeter
+---
 
-1. Clica **"Submit new issue"** (botão verde)
-2. Vais receber notificação por email quando alguém responder
-3. Podes acompanhar discussão e fazer ajustes se necessário
+## 📧 Opção 3: Email Privado
 
-### O Que Acontece Depois?
+**Melhor para:** Feedback confidencial antes de tornar público
 
-1. **Revisão**: Equipa técnica revê a proposta (normalmente 2-3 dias)
-2. **Discussão**: Podem pedir clarificações ou sugerir ajustes
-3. **Implementação**: Alguém implementa a alteração no documento
-4. **Crédito**: Serás creditado no commit e no documento final
+- **Email:** <bruno@camarneiro.com>
+- Review privada antes de publicar
 
-### Exemplos de Contribuições Não-Técnicas Valiosas
+---
 
-- **Advogado**: Análise de LEGAL 1-9 (tratados ONU, lei UE, Código Trabalho)
-- **Médico**: Revisão HEALTH 1-4 (riscos cardiovasculares, desenvolvimento cerebral)
-- **Economista**: Modelação ECON 1-5 (sensitivity analysis ROI, custos realistas)
-- **Político**: Estratégia POLITIC 1-6 (referendos, media, Igreja Católica)
-- **Jornalista**: POLITIC 3 (estratégia media, rapid response)
+## 🎯 Exemplos de Contribuições Valiosas
 
-### Não Queres Abrir Issue Pública?
+**Por área de expertise:**
 
-Se preferires feedback privado primeiro:
+- **Advogado:** Análise LEGAL 1-9 (tratados ONU, lei UE, IVA, Código Trabalho, Schengen)
+- **Médico:** Revisão HEALTH 1-4, DEVIL 8 (riscos cardiovasculares, psicose, THC limits)
+- **Economista:** Modelação ECON 1-5 (ROI sensitivity, capital gap, market capture)
+- **Analista Político:** DEVIL 2-3, POLITIC 1-6, STRATEGIC 1 (timeline, media, EU)
+- **Jornalista:** POLITIC 3 (estratégia media, rapid response, counter-narratives)
+- **Data Scientist:** DEVIL 1, 4 (modelação quantitativa, causal inference)
 
-- **Email**: <bruno.camarneiro@livre.pt>
-- Enviamos-te review antes de tornares pública
+**Discussions prioritárias já abertas:** [Ver todas](https://github.com/bcamarneiro/cannabis-legalization/discussions)
 
 ---
 
