@@ -1,5 +1,9 @@
 # Documento de Posição: Regulação da Cannabis em Portugal
 
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![Discussions](https://img.shields.io/github/discussions/bcamarneiro/cannabis-legalization)](https://github.com/bcamarneiro/cannabis-legalization/discussions)
+[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
+
 Proposta do **LIVRE** para um enquadramento legal e regulatório da cannabis em Portugal, abrangendo uso medicinal, recreativo e industrial.
 
 ## 🤝 Como Contribuir
