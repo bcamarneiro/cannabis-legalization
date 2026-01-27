@@ -6,6 +6,146 @@ Este ficheiro rastreia melhorias identificadas para o documento de posição.
 
 ## 🔴 TAREFAS PENDENTES
 
+### Devil's Advocate Analysis (2026-01-26)
+
+**TIER 1 - Devastating Attacks (4 vulnerabilities críticas)**
+
+- [ ] **DEVIL 1:** The 2.6% Problem - Documento admite 46 clubes servem apenas 18.400 users (2,6% de 706.000 total), mas claims 40-50% market capture sem modelo quantitativo explicando salto 15-17x. **Attack:** "Você afirma clubes vão servir 282k-353k users mas seus dados mostram 18.400. Como?" **Fix needed:** Adicionar modelo quantitativo explicando autocultivo + clubes combinados = 40-50% (com assumptions explícitas)
+
+- [ ] **DEVIL 2:** Germany's 47% Operational Failure Rate - Documento trata Alemanha como "proven success", mas realidade: 357 clubes aprovados, apenas 190 operacionais (taxa operacional 53%, falha 47%). Modelo PT espelha CSCs alemães exactamente. **Attack:** "Se modelo alemão tem 47% failure rate após 9 meses, porque Portugal vai ter sucesso?" **Fix needed:** Acknowledge challenges alemãs, adjust expectativas PT, ou explicar diferenças que justificam melhor resultado PT
+
+- [ ] **DEVIL 3:** Timeline Fantasy (3-4 anos realidade, não 18 meses) - Claims 12-18 meses citando Lei 30/2000 (tinha consenso cross-party) e CanG 2024 (supermajority), mas Portugal 2026 não tem nenhum precedente. Regulamentação secundária (INFARMED, IVV, licensing) adiciona 18-24 meses. **Reality:** 36-48 meses até aprovação, resultados piloto 2028-2030. **Attack:** "Lei 30/2000 tinha apoio PS, PSD, consenso médico. Onde está o consenso agora?" **Fix needed:** Revisar timeline para 3-4 anos cenário realista como primário (não optimista)
+
+- [ ] **DEVIL 4:** Colorado -42% Youth Drop é Tendência Nacional - Documento claims legalização Colorado causou -42% queda consumo jovens, mas EUA inteiro (incluindo estados não-legais) viu -38% decline 2011-2021. Diferença de 4 pontos pode ser margin of error. **Attack:** "A queda aconteceu em todo lado. Você está claiming causation sem controlar para tendências nacionais." **Fix needed:** Remover ou reframe claim Colorado para acknowledge tendência nacional, focar apenas em "não aumentou" (defensável)
+
+**TIER 2 - Serious Vulnerabilities (3 vulnerabilities sérias)**
+
+- [ ] **DEVIL 5:** "Impossível Provar Causalidade" Logical Fallacy - L1165 admite "impossível provar causalidade direta", L1166 claims "a descriminalização não causou aumento". **Self-contradiction.** **Attack:** "Você diz que não pode provar causalidade e depois afirma causalidade. Qual é?" **Fix needed:** Resolver contradição, reframe para "evidência sugere não causou" ou similar language académico
+
+- [ ] **DEVIL 6:** €52-151M Market Estimate é 3x Range - Baseado em single non-peer-reviewed ResearchGate study, sem confidence intervals. Se mercado actual é €52M (lower bound), entire economic case collapses. ROI calculations baseados em €52-151M meaningless com 3x range. **Attack:** "A sua estimativa de mercado varia 3x. Se for €52M em vez de €151M, todo o ROI desaparece." **Fix needed:** Comissionar validação independente, adicionar confidence intervals, sensitivity analysis mostrando ROI em múltiplos cenários, ou drop estimate completamente
+
+- [ ] **DEVIL 7:** Oficial de Prevenção Staffing Crisis - 92 specialists needed (46 clubes × 2 turnos) = 23-30% de TODA workforce addiction specialists Portugal (~300-400 total). Vai drenar capacidade SICAD/CATs existentes. **Attack:** "Você vai roubar 1/4 dos addiction specialists do país para clubes, enfraquecendo tratamento para todos os outros." **Fix needed:** Address staffing source (formação nova specialists? part-time model? shared between clubes?), impact on SICAD/CATs, ou reduzir rácio
+
+**TIER 3 - Exploitable Gaps (5 vulnerabilities moderadas)**
+
+- [ ] **DEVIL 8:** Health Claims Vulnerabilities - Myocardial infarction +1.75x (Mittleman 2001) não mencionado, psychosis +4.8x young heavy users (Di Forti 2019) presente mas underplayed. **Attack:** "Você esconde que cannabis aumenta ataques cardíacos 75% e psicose quase 5x." **Fix needed:** Include all major health risks upfront com mitigations (THC limits, screening, Oficial Prevenção)
+
+- [ ] **DEVIL 9:** Canada's 72% Legal Market é Survey-Based - Tax data mostra 55-65% (discrepância common em surveys vs receipts). Documento uses 72% como evidence modelo funciona. **Attack:** "Dados fiscais canadianos mostram 55-65%, não 72%. Você está usando surveys enviesadas." **Fix needed:** Use tax data instead, ou acknowledge survey vs tax discrepancy, range 55-72%
+
+- [ ] **DEVIL 10:** €6/gram Price Cap Conflicts Cost-Recovery Model - Análise económica mostra cost-recovery requires €3-6/gram, mas mercado negro €10-15/g. Se clubes cobram €6/g (topo range), é 5-7x markup sobre custo produção (~€1/g grow costs). **Contradiction:** "Cost-recovery" implica minimal markup, mas €6/g é commercial pricing. **Fix needed:** Clarify cost-recovery includes ALL costs (compliance, pessoal, facilities), ou adjust language
+
+- [ ] **DEVIL 11:** Chega/PCP Coalition Vulnerability - Estratégia política assume Chega isolated, mas se PCP (anti-drugs historically) + Chega formarem tactical alliance contra, documento não tem counter-strategy. **Attack politico:** "Extremos esquerda e direita unidos contra drogas." **Fix needed:** Preparar counter-arguments PCP (harm reduction aligns socialist values?), ou acknowledge risk
+
+- [ ] **DEVIL 12:** Enforcement Model Untested Assumptions - Modelo assumes clubs self-police, members don't share outside, autocultivo stays <3 plants, mercado negro doesn't adapt. Zero enforcement até problems aparecerem (reactivo). **Attack:** "Modelo baseado em honestidade honour system. Ingénuo." **Fix needed:** Add proactive enforcement mechanisms (random audits? compliance checks?), ou strengthen reactive response description
+
+**TIER 4-5 - Minor Issues (5 vulnerabilities menores mas exploitáveis)**
+
+- [ ] **DEVIL 13:** Potency Regulations Missing Discussion - Documento menciona 10% THC cap 18-20 anos, mas não discute como enforcement funciona (testes on-site? honor system? labs?). Colorado/Washington têm extensive testing infrastructure. **Gap regulatório.**
+
+- [ ] **DEVIL 14:** Banking/Financial Infrastructure Not Addressed - Clubes need bank accounts, insurance, payment systems. Cannabis businesses têm notoriously difficult banking access (mesmo legal). PT vai ter este problema? **Operational blocker potencial.**
+
+- [ ] **DEVIL 15:** Inter-Club Transfer Loophole - Documento permite membership simultânea proibida, mas não discute enforcement. Clever users could rotate between clubs. **Regulatory gap.**
+
+- [ ] **DEVIL 16:** Outdoor Growing Season Limits - Portugal tem climate good for 2 harvests/year Sul, mas Norte? Clubes Norte têm higher costs (indoor necessário inverno)? **Regional inequality.**
+
+- [ ] **DEVIL 17:** Data Privacy vs Monitoring Tension - Sistema nacional monitoring requires extensive data collection (consumption patterns, PHQ-9 scores, etc), mas RGPD? Documento não address data privacy safeguards. **Legal vulnerability RGPD compliance.**
+
+**LEGAL/STRUCTURAL GAPS (9 vulnerabilities críticas não endereçadas)**
+
+- [ ] **LEGAL 1:** International Treaty Obligations - Portugal é signatário UN drug conventions (1961 Single Convention, 1971 Psychotropic, 1988 Trafficking). Cannabis recreativa viola Article 4 (limit to medical/scientific use). Documento ZERO discussion de: treaty denunciation? reinterpretation (Uruguay model)? diplomatic consequences? **Attack:** "Portugal vai violar tratados ONU assinados. Consequências internacionais?"
+
+- [ ] **LEGAL 2:** EU Law Conflicts - Schengen free movement + cannabis legal PT mas ilegal ES/FR = nightmare enforcement fronteiras. Turista francês compra cannabis clube Lisboa, volta França de carro = tráfico internacional? Documento não discute coordenação EU, cross-border legal liability. **Attack:** "Vai criar zona Schengen lawless."
+
+- [ ] **LEGAL 3:** Workplace Drug Testing - Cannabis legal mas employers podem despedir por positive test? Documento não address labor law implications. Colorado/Washington tiveram massive litigation (Coats v. Dish Network: employer CAN fire even off-duty legal use). PT tem stronger labor protections - vai criar conflito Código Trabalho. **Attack:** "Trabalhadores vão ser despedidos por uso legal."
+
+- [ ] **LEGAL 4:** Autocultivo Enforcement Paradox - Documento diz "enforcement reactivo" (complaint-based, sem fiscalização porta-a-porta), MAS também exige "sementes certificadas obrigatórias". **Circular logic:** Se não há fiscalização proativa, como enforce sementes certificadas? Se há fiscalização para seeds, contradiz "reactivo only". **Attack:** "Como vão fiscalizar sementes sem entrar nas casas?"
+
+- [ ] **LEGAL 5:** Taxation Inconsistency (IVA Problem) - Documento afirma "cost-recovery only, ZERO receitas fiscais", mas Portugal tem IVA 23% obrigatório sobre bens/serviços. Clubes exempt de IVA? Se não, há tax revenue (contradiz modelo). Se sim, precisa legislative exemption (complicates approval). **Attack:** "Vocês dizem zero impostos mas IVA 23% é obrigatório. Qual é a verdade?"
+
+- [ ] **LEGAL 6:** Product Liability Insurance Costs - Se membro clube causa acidente while high, vítimas podem sue clube? Product liability insurance para cannabis pode ser prohibitively expensive (US: $10k-50k/year/clube). Documento não discute insurance requirements, costs, availability PT market. **Operational blocker:** Banks may require insurance, insurance companies may refuse cannabis. **Attack:** "Clubes não vão conseguir seguro. Inviável."
+
+- [ ] **LEGAL 7:** Child Custody Weaponization - Cannabis legal para adultos, mas family courts vão tratar igual a álcool? Judges conservadores podem weaponize contra parents em custody battles ("mãe usa drogas"). Documento não address family law implications, protections for legal users. **Attack social:** "Pais vão perder custódia dos filhos por uso legal."
+
+- [ ] **LEGAL 8:** Clube Location Zoning Not Discussed - Documento não menciona zoning regulations (distância escolas? áreas residenciais? limite por freguesia?). Colorado/Washington tiveram massive NIMBY problems, delays 12-18 meses. PT vai precisar: municipal approval? buffer zones? public hearings? **Implementation blocker.** **Attack:** "Câmaras municipais vão bloquear clubes. NIMBYism."
+
+- [ ] **LEGAL 9:** Medical Cannabis Patient Stigma - Documento tem track medicinal separado, mas não address: recreational legalization vai stigmatize medical use? Insurance vai stop covering se recreational available ("não é medicinal, é recreativo")?患 patients vulneráveis podem perder access. **Unintended consequence.** **Attack:** "Vão prejudicar doentes que precisam cannabis medicinal."
+
+**CROSS-CUTTING INCONSISTENCIES (6 vulnerabilities lógicas internas)**
+
+- [ ] **INCONSIST 1:** Germany Cited as Model vs Germany 47% Failure Rate - Documento cita Alemanha como "modelo comprovado" em múltiplas secções (framework legal, Oficial Prevenção, sementes certificadas, etc), MAS análise mostra 47% clubes alemães failed operationally. **Contradiction:** Can't be both "proven model" AND 47% failure. **Fix needed:** Distinguish "legal framework works" from "operational success TBD"
+
+- [ ] **INCONSIST 2:** "Impossible to Prove Causality" Used Selectively - L1165 diz "impossível provar causalidade" sobre descriminalização, MAS documento claims causality em: Colorado -42% (legalização caused drop), Canada 72% legal market (clubes caused shift), Uruguay clubs (caused 24-39% capture). **Double standard evidência.** **Fix needed:** Consistent epistemological rigor throughout
+
+- [ ] **INCONSIST 3:** Timeline Optimistic vs Precedent-Based - Documento claims "realista baseado Lei 30/2000 + CanG", mas ignora: Lei 30/2000 tinha consenso PS+PSD+médicos, CanG tinha supermajority. PT 2026 não tem nem um nem outro. **False equivalence.** Cronograma optimista (12-18 meses) contradicts political reality (PS incerto, PSD oposto, eleições 2026?).
+
+- [ ] **INCONSIST 4:** Cost-Recovery vs €6/gram Price Cap - Modelo "cost-recovery" implica minimal markup, mas €6/gram é 5-7x production costs (~€1/g). **Terminologia enganadora:** "Cost-recovery" sounds non-profit/altruistic, mas reality é commercial pricing competitivo mercado negro €10-15/g. Should call it "competitive pricing below black market" não "cost-recovery".
+
+- [ ] **INCONSIST 5:** Clubs Serve 2.6% but Claim 40-50% Impact - BAIXA 4 calcula 46 clubes × 400 members = 18.400 users = 2.6% mercado, documento claims 40-50% capture anos 5-10. **Gap explicativo 15-17x:** Documento diz "combinado autocultivo esperado 30-45%" mas não model quantitativo showing HOW. Assumptions escondidas: % users que vão autocultivo? Overlap clubs+autocultivo? Substitution rate mercado negro?
+
+- [ ] **INCONSIST 6:** Reactive Enforcement vs Comprehensive Monitoring - Documento diz enforcement é "reactivo" (complaint-based, L1105-1165), MAS sistema monitoring é comprehensive proactive (base dados nacional, auditorias SICAD trimestrais, tracking consumption patterns individual). **Contradiction:** Can't be both "reactive" AND "comprehensive proactive monitoring". **Clarify:** Enforcement reactivo para autocultivo HOME, proactive para clubes licensed.
+
+**ECONOMIC MODEL VULNERABILITIES (5 vulnerabilities financeiras não testadas)**
+
+- [ ] **ECON 1:** ROI Calculation Assumes Club Success - ROI 120-753% baseado em assumption clubes succeed operationally, mas Germany shows 47% failure rate. **Sensitivity analysis missing:** Se 30-50% clubes PT failed, ROI collapse? Poupanças enforcement dependem de market capture 40-50% - se only 20% (clubes failed), ROI negativo? **Fix needed:** Downside scenario modeling
+
+- [ ] **ECON 2:** Startup Capital Gap €68k-152k - Documento diz clubes precisam €168k-252k capital inicial, propõe subsídio Estado €50-100k, mas isso é apenas 30-40% needed. Gap €68k-152k de onde vem? "Quotas fundadores €500-1000 × 200-300 = €100k-300k" assumes 200-300 pessoas pagam upfront antes clube existir. **Unrealistic.** Banks historically refuse cannabis (mesmo legal). **Attack:** "Clubes não vão conseguir capital. Letra morta."
+
+- [ ] **ECON 3:** Oficial Prevenção Salário €28-35k Subdimensionado - Documento propõe €28-35k para role requiring: licenciatura, 40h formação adições, 1 ano experiência, responsabilidades clínicas (screening PHQ-9/GAD-7, referenciação SNS). **Comparação:** Enfermeiros SNS €28k-35k entry-level sem especialização. Técnicos Superiores Saúde €32k-42k. **Reality:** Para atrair talent com experiência adições, precisa €35k-45k minimum. Impacto: +€7k-10k/clube × 46 = +€322k-460k/ano costs. **Breaks break-even.**
+
+- [ ] **ECON 4:** Churn Rate Not Modeled - Break-even analysis assumes 400 members stable, mas documento não discute churn (members que saem). Cannabis use fluctuates - pessoas quit, relocate, switch autocultivo. **Realistic churn:** 15-25%/year (based Colorado dispensary membership data)? Clubes need constant recruitment para maintain 400, marketing costs não incluídos budget. **Attack:** "Modelo assume members stay forever. Ingénuo."
+
+- [ ] **ECON 5:** Laboratory Testing Costs May Be Underestimated - Documento diz €150-300/lote testing costs, mas Colorado/Washington labs charge $200-500 (€185-460) PER SAMPLE (not lote). Se clube produz 12 lotes/ano (monthly harvest), × €300 = €3.600/ano. Parece low. **Reality check needed:** Quantos labs ISO 17025 em PT podem test cannabis? Competition drives prices - se only 2-3 labs monopoly, podem charge €500-800/lote. Impacto budget compliance 10-15% pode jump para 20-25%.
+
+**PUBLIC HEALTH CONTRADICTIONS (4 vulnerabilities saúde pública não resolvidas)**
+
+- [ ] **HEALTH 1:** 10% THC Cap 18-20 vs Full THC 21+ Inconsistent - Documento justifica 10% THC limit 18-20 anos "proteger desenvolvimento cognitivo frontal cortex", MAS permite full 20-25% THC aos 21+. **Evidência científica:** Brain development continua até ~25 anos (Casey 2019, frontal cortex maturation). Se cognitive protection é rationale, deveria ser 10% até 25 anos, OR full THC 18+ (risco informado). **Inconsistency arbitrária.** **Attack:** "Se proteger cérebro é importante, porque 21 pode usar 25% THC? Cérebro ainda desenvolve até 25."
+
+- [ ] **HEALTH 2:** Harm Reduction vs Dual Use Contradiction - Documento claims cannabis é harm reduction vs álcool (Lancet score 20 vs 72), MAS dados PT mostram 70% users cannabis also use álcool (SICAD). Dual use aumenta riscos (synergistic impairment). **Contradiction:** Se harm reduction é goal, documento deveria desencorajar ativamente dual use, mas apenas "menciona" em secção Poliuso sem strong intervention. **Attack:** "Vocês dizem harm reduction mas 70% vão usar ambos. Piora resultados."
+
+- [ ] **HEALTH 3:** Oficial de Prevenção Role Contradicts "Clubes Não São Tratamento" - Documento diz "clubes não são serviços tratamento" mas Oficial Prevenção tem: screening clínico (PHQ-9/GAD-7), referenciação SNS com follow-up, sessões grupo harm reduction. **These ARE treatment functions.** **Contradiction terminológica:** Se clubes não são tratamento, porque têm clinicians fazendo screening/referral? **Clarify:** "Clubes não substituem tratamento especializado mas oferecem prevenção secundária" OR remove "não são tratamento" claim.
+
+- [ ] **HEALTH 4:** Youth Access Despite 21+ Limit (Social Supply) - Documento ignora "social supply" problem: adults 21+ compram clubes, share com friends <21 (mesmo involuntariamente - festas, grupos). Colorado data: 45% youth who use cannabis get from "friends/family" legal users. Documento não address: penalties para adults sharing com <21? Education campaigns? **Enforcement gap.** **Attack:** "Pais vão dar aos filhos. Limite 21+ é ilusório."
+
+**POLITICAL NAIVETY (6 vulnerabilities estratégia política ingénua)**
+
+- [ ] **POLITIC 1:** PS 2024 ≠ PS 2000 False Equivalence - Documento assumes PS support baseado em decriminalization 2000, mas PS 2024 é partido completamente diferente: leadership (Pedro Nuno Santos not Guterres), constituency (mais conservadora pós-austeridade), political calculus (oposição não quer dar win LIVRE). **Attack interno PS:** "Descriminalização teve Guterres + Sampaio + consenso médico. Onde está consenso agora? Nós vamos associar-nos a isto e perder votos centristas?"
+
+- [ ] **POLITIC 2:** PSD "Dados Convencem" Assumption Ignores Moral Base - Estratégia documento: "mostrar dados PSD, eles são racionais public health focus". **Reality:** PSD tem base conservadora católica para quem drogas são moral issue não public health. Dados não convencem quando values clash. **Example:** Abortion PT - dados mostravam abortos clandestinos matavam mulheres, mesmo assim PSD dividiu-se, precisou referendum. Cannabis será similar. **Attack:** "Vocês acham que números convencem conservadores. Não percebem política."
+
+- [ ] **POLITIC 3:** Media Strategy Completely Absent - Documento não menciona media relations, communications strategy. **Reality:** Portuguese media (TVI, SIC, principais jornais) leans conservative em drogas. Tabloids vão explorar every club failure, youth access incident, traffic accident. **Needs:** Proactive media strategy, rapid response team, sympathetic medical voices prepared. **Attack media:** "Clubes cannabis = narcotráfico disfarçado" (headline inevitable).
+
+- [ ] **POLITIC 4:** Catholic Church Influence Not Addressed - Igreja Católica ainda tem significant influence Portugal (60-70% Catholic, declining mas influential idosos voting block). Bishops historically opposed: abortion, euthanásia, same-sex marriage. Cannabis será next. **Documento não tem:** outreach religious leaders, moral framing that doesn't clash Catholic social teaching. **Attack Igreja:** "Drogas destroem famílias. Deus não quer."
+
+- [ ] **POLITIC 5:** Pharmaceutical Industry Lobbying Not Discussed - Tilray Portugal, Bedrocan têm monopólio cannabis medicinal. Recreational clubs = competition, threat business model. **Lobbying poder:** Pharma tem deep pockets, access ministers, can fund opposition campaigns. Documento não anticipa nem prepara counter. **Attack pharma:** "Clubes = cannabis não regulada, perigosa, compete medicinal seguro."
+
+- [ ] **POLITIC 6:** No Discussion of Referendum Risk - Se proposta passa Assembleia mas opposition mobilizes, Presidente pode call referendum (Constitution allows). **Precedent:** Abortion 1998 failed referendum (50.1% NO), 2007 passed (59% YES) após 10 anos education. Cannabis pode need similar timeline. Documento não address: referendum strategy? Public opinion polling? Education campaign multi-year? **Attack:** "Deixem povo decidir. Referendum."
+
+**STRATEGIC BLIND SPOTS (4 vulnerabilities estratégicas críticas baseadas em precedentes internacionais)**
+
+- [ ] **STRATEGIC 1:** EU Blocked Germany's Pillar 2 Commercial Sales - Documento menciona "transição para modelo comercial" (L185) como possibilidade futura, MAS **Germany's CanG Pillar 2 (commercial retail) was BLOCKED by EU Commission** devido a Schengen violations. Status 2025-2026: 49 municípios aplicaram pilotos comerciais, todos bloqueados. CDU assumiu governo 2025, reversing progress. **Attack:** "Vocês prometem venda comercial futura mas UE bloqueou exactamente isso na Alemanha. Ilusão." **Fix needed:** Documento deve explicar que venda comercial requer coordenação EU-level (não depende só de Portugal), OU commit apenas a clubes não-comerciais permanentemente, OU propor challenge directo a lei UE
+
+- [ ] **STRATEGIC 2:** Phased Implementation Allows Political Reversal - Alemanha tentou modelo duas fases (clubes 2024 → comercial 2025+), mas mudança política CDU 2025 está a reverter tudo antes de Pillar 2 implementar. **Lição:** Implementação faseada dá tempo oposição política matar fase 2. **Portugal risk:** Se proposta passa com PS support 2027, mas eleições 2028 trazem PSD/CDS coligação, podem cancelar "fase comercial" antes de começar (como CDU alemão). **Attack:** "Modelo de duas fases = letra morta. Oposição vai matar fase 2." **Fix needed:** Explicar como proteger contra reversão política (referendum binding? constitutional protection? commitment cross-party?), OU fazer implementação completa de uma vez (Canadá model)
+
+- [ ] **STRATEGIC 3:** Banking Access Crisis Unresolved Internationally - Canadá 6+ anos pós-legalização: apenas BMO + credit unions servem indústria, grandes bancos recusam. EUA 10+ anos estados legais: só 830 de 4.000+ bancos servem cannabis. **SAFER Banking Act** passou Senate Committee 2023, ainda não aprovado 2+ anos depois. **Reality:** Legalização estatal não resolve banking se federal prohibition persiste. **Portugal problema:** Bancos portugueses operam em framework EU, se cannabis tecnicamente ilegal EU-level (tratados ONU via Schengen), bancos podem recusar serviço. Alemanha 190 clubes operacionais sugere banking possível (modelo non-profit?), mas sem dados públicos confirmar. **Attack:** "Clubes não vão conseguir contas bancárias. Cash-only = crime magnet." **Fix needed:** Documento deve address banking explicitly: diálogo pré-emptive Banco de Portugal, safe harbor legislativo para bancos, ou opção banca pública/cooperativa
+
+- [ ] **STRATEGIC 4:** Document Doesn't Frame Clubs as "Phase 1" Explicitly - Documento menciona transição comercial (L185) e diagrams README refere Pilar 2 alemão, MAS **narrativa estratégica não está no documento principal**. Oportunidade perdida para framing político: "Portugal adota modelo alemão two-pillar - Fase 1 clubes (harm reduction, cost-recovery, dados 2028-2030) → decisão baseada em evidência sobre Fase 2 comercial (se dados mostram sucesso + coordenação EU permite)." **Current framing:** Clubes parecem endpoint permanente, menção comercial é one-liner obscuro. **Better framing:** Explícito two-phase conditional approach dá flexibilidade política ("não estamos a prometer venda comercial, apenas avaliar opções baseado dados"), evita compromisso irreversível, permite evolution se contexto EU mudar. **Fix needed:** Adicionar secção Executive Summary com strategic phasing explícito, condicional a: (1) dados piloto positivos, (2) coordenação EU, (3) approval parlamentar renovada pós-avaliação
+
+**IMPLEMENTATION GAPS (7 vulnerabilities operacionais não resolvidas)**
+
+- [ ] **IMPLEMENT 1:** Oficial de Prevenção Training Pipeline Missing - 92 specialists needed (46 clubes × 2), documento exige: licenciatura + 40h formação adições + 1 ano experiência. **Questões:** Quem fornece 40h training? SICAD capacity? Universidades? Timeline to train 92 pessoas? Se clubes launch Q3-Q4 2027, training deve começar Q1 2027 (6-9 meses before). **Not discussed.** **Implementation blocker.**
+
+- [ ] **IMPLEMENT 2:** Laboratory Testing Infrastructure Undefined - Documento exige testes obrigatórios ISO 17025 labs (THC/CBD, pesticidas, metais, micotoxinas, microorganismos). **Questões:** Quantos labs ISO 17025 em Portugal podem test cannabis currently? Need to build capacity? Equipment costs (HPLC, GC-MS, LC-MS, ICP-MS = €500k-2M)? Accreditation timeline (ISO 17025 process 12-18 meses)? **Gap could delay pilot.**
+
+- [ ] **IMPLEMENT 3:** SICAD Capacity Expansion Not Budgeted - SICAD currently monitors ~200 treatment centers, documento adiciona: 46 clubes (auditorias trimestrais, relatórios compliance), base dados nacional autocultivo/members, análise consumption patterns. **Workload increase 30-50%.** Documento não budget: additional SICAD staff? IT infrastructure base dados? Training auditors cannabis-specific? **Underfunded mandate.**
+
+- [ ] **IMPLEMENT 4:** Seed Certification Body Not Established - Documento exige sementes certificadas obrigatórias (clubes + autocultivo), mas **não define:** Quem certifica? DGAV (agricultura)? INFARMED (medicinal)? New agency? Certification criteria (genetic stability, THC testing, organic)? Approval timeline fornecedores? **Chicken-egg:** Clubes launch Q4 2027, mas seed certification system precisa exist Q2 2027. **Timeline too tight.**
+
+- [ ] **IMPLEMENT 5:** Municipal Coordination Not Discussed - Clubes precisam: zoning approval (distância escolas?), licenças municipais (alimentos? saúde?), public hearings? Documento não menciona coordination câmaras municipais. **Reality check:** Lisboa CML progressivo (pode aprovar), Braga CML conservador (pode bloquear). **Federal-municipal conflict potencial.** 46 clubes = 46 negociações municipais. **Timeline 12-18 meses only municipal approvals.**
+
+- [ ] **IMPLEMENT 6:** IT Infrastructure Base Dados Nacional - Sistema monitoring exige: base dados nacional integrada (clubes + autocultivo + labs + SICAD), APIs real-time reporting, encryption RGPD-compliant, QR codes embalagens, tracking seed-to-sale. **Costs:** €2M-5M development + €200k-500k/ano maintenance. **Timeline:** 12-18 meses development. **Not budgeted explicitly.** Should be em "custos enforcement" mas documento diz €30-65M enforcement SAVINGS não costs.
+
+- [ ] **IMPLEMENT 7:** Cross-Border EU Coordination Absent - Portugal legaliza, mas Espanha/França neighbors mantêm proibição. **Questões práticas:** Portuguese resident compra clube Lisboa, drive Espanha visitar família = tráfico internacional? Espanha GC pode stop/search portugueses fronteira Schengen? Diplomatic incidents? **Needs:** Bilateral agreements ES/FR, Schengen exemption cannabis (like firearms controlled), or accept cross-border legal chaos. **Not discussed.**
+
 ### Estrutura e refinamentos
 
 Todas as tarefas BAIXA concluídas.
