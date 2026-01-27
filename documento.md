@@ -77,10 +77,13 @@ Portugal **exporta 32.558 kg** de cannabis medicinal (2024) mas emite apenas **1
 
 ## Estratégia de Consenso
 
-**Com PS:** Foco exclusivo medicinal inicialmente
-**Com PSD:** Autocultivo como compromisso (não clubes)
-**Com PCP:** Ênfase anti-mercado negro, clubes sem fins lucrativos
-**Contra Chega:** Dados evidência (descriminalização 2001: consumo estável, não causou epidemia temida)
+**Abordagem faseada:**
+- Foco exclusivo medicinal inicialmente (consenso parlamentar mais amplo)
+- Clubes sociais não-comerciais como próximo passo (modelo alemão Pillar 1)
+- Autocultivo com sementes certificadas (compromisso viável)
+- Ênfase em redução de danos e combate ao mercado negro
+
+**Evidência-base:** Descriminalização 2001 provou sucesso de políticas de saúde pública (consumo estável, não causou epidemia temida)
 
 ## Próximos Passos
 
@@ -1926,85 +1929,17 @@ Assumindo 46 clubes × 400 membros activos médios = **18.400 utilizadores** (ce
 
 
 # ESTRATÉGIAS PARA CONSTRUIR PONTES
-## Com o PS — Prioridade máxima
-**Estratégia:**
-
-Apresentar como continuação do legado português (Lei 30/2000)
-
-Pedir reactivação do grupo de trabalho prometido em 2023 [@publico2023]
-
-Focar primeiro em cannabis medicinal (consenso mais fácil)
-
-Trabalhar com Juventude Socialista como aliada [@publico2022]
-
-**Mensagem-chave:**
-
-*"O PS tem o legado da descriminalização. Portugal foi pioneiro há 25 anos. Não faz sentido outro partido liderar o passo seguinte."*
-
-## Com o PSD — O desafio do autocultivo
-**O problema:** A linha vermelha do PSD é o autocultivo. Baptista Leite: "impossível regular a concentração da substância activa" [@publico2018a].
-
-**A nossa resposta — A inconsistência do argumento:**
-
-|  | Produção doméstica de vinho | Cannabis autocultivada |
-| :---- | :---- | :---- |
-| Estatuto legal | Legal até 1.000L/ano | Ilegal (proposta: até 3 plantas) |
-| Teor da substância | Álcool **não controlado** | THC "impossível de controlar" |
-| Score de dano | **72**/100 [@nutt2010] | **20**/100 [@nutt2010] |
-| Registo obrigatório | Não | Proposta: sementes certificadas |
-
-**Se Portugal permite a produção doméstica de uma substância 3,5x mais nociva sem qualquer controlo do teor, porque exigir controlo absoluto do THC?**
-
-**Proposta de compromisso — Autocultivo com sementes certificadas:**
-
-| Medida | Justificação |
-| :---- | :---- |
-| Sementes apenas de fornecedores autorizados | THC máximo conhecido e rotulado |
-| Registo voluntário (não obrigatório) | Facilita apoio técnico, não é fiscalização |
-| Limite de 3 plantas | Claramente para uso pessoal |
-| Enforcement reactivo (não porta-a-porta) | Modelo produção doméstica vinho: fiscalização mediante denúncias, não inspecções aleatórias |
-| Proibição de venda | Distingue uso pessoal de tráfico |
-
-**Argumentos para o PSD:**
-
-* Modelo alemão permite autocultivo e consumo juvenil diminuiu [@marijuanamoment2025]
-* Proibir autocultivo empurra consumidores para o mercado negro
-* Sementes certificadas = mais controlo de THC que o mercado negro actual
-* Enforcement reactivo (modelo produção doméstica vinho): fiscalização proporcional focada em tráfico, não invasão privacidade
-
-## Com o PCP
-**Estratégia:** Não tentar converter para recreativo. Focar no que já concordam.
-
-**Pontos de convergência:**
-
-* Votaram a favor de cannabis medicinal em 2018 [@publico2018b]
-* Defendem investimento em prevenção
-* Querem abordagem de saúde pública, não ideológica
-
-**Proposta:**
-
-* Concordar que financiamento público deve reforçar prevenção e tratamento ([ver proposta de €52M/ano](#financiamento))
-* Propor comissão científica independente para avaliar resultados
-* Usar linguagem de "saúde pública", não ideológica
-
-**Objectivo realista:** Abstenção (não oposição activa)
-
-## Resposta ao Chega
-
-**Estratégia:** Não tentar convencer. Focar nos dados, não na ideologia.
-
-*"25 anos de descriminalização portuguesa provam que políticas baseadas em saúde pública funcionam [@greenwald2009]. Os factos falam por si."*
 
 ## Estratégia de Negociação em 3 Níveis {#5.5-estratégia-de-negociação-em-3-níveis}
 
 | Nível | Apoio esperado | Propostas |
 | :---- | :---- | :---- |
-| **1 — Consenso imediato** | PS, PSD, PCP, CDS, BE, IL, PAN | Comparticipação SNS cannabis medicinal; Avaliação Lei 33/2018 |
-| **2 — Consenso possível** | PS, BE, IL, PAN, ala PSD | Clubes sociais (modelo alemão); Autocultivo c/ sementes certificadas; Idade 21 |
-| **3 — Ideal (longo prazo)** | BE, IL, PAN, LIVRE | Autocultivo 3 plantas; 18 para clubes, 21 venda livre |
+| **1 — Consenso imediato** | Apoio parlamentar alargado (cross-party) | Comparticipação SNS cannabis medicinal; Avaliação Lei 33/2018 |
+| **2 — Consenso possível** | Maioria parlamentar viável | Clubes sociais (modelo alemão); Autocultivo c/ sementes certificadas; Idade 21 |
+| **3 — Ideal (longo prazo)** | Consenso progressista | Autocultivo 3 plantas; 18 para clubes, 21 venda livre |
 |  |  |  |
 
-**Táctica:** Começar pelo Nível 1, negociar Nível 2, manter Nível 3 como objectivo futuro.
+**Táctica:** Começar pelo Nível 1 (construir consenso máximo), negociar Nível 2 (implementação realista), manter Nível 3 como objectivo futuro baseado em evidência de sucesso.
 
 ## Coordenação Europeia: Desafios Legais UE/Schengen e Estratégia Multilateral
 
@@ -3302,12 +3237,6 @@ A 'normalização' que preocupa não acontece. O que acontece é transferir o me
 * Regulação oferece: controlo qualidade, verificação idade, informação riscos, financiamento prevenção
 * **Princípio:** Transferir mercado de criminosos para operadores licenciados não é normalizar — é controlar
 
-### Resposta ao Chega
-
-**Estratégia:** Não tentar convencer. Focar nos dados, não na ideologia.
-
-*"25 anos de descriminalização portuguesa provam que políticas baseadas em saúde pública funcionam [@greenwald2009]. Os factos falam por si."*
-
 ---
 
 ## 4. Argumentos Legais e de Governança
@@ -3470,11 +3399,6 @@ Aliás, se Portugal não agir, **perderemos a vantagem competitiva** que temos n
 * **Táctica:** Começar por cannabis medicinal (consensual) → preparar terreno para recreativa
 
 ---
-
-### Outros Partidos
-
-*(Secção a desenvolver com ataques de PSD, CDS, Chega, IL, outros)*
-
 
 # Referências {-}
 
