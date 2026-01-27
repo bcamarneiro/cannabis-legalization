@@ -2,6 +2,17 @@
 
 Proposta do **LIVRE** para um enquadramento legal e regulatório da cannabis em Portugal, abrangendo uso medicinal, recreativo e industrial.
 
+## 🤝 Como Contribuir
+
+**Advogado? Médico? Economista? Activista?** Precisamos de ti!
+
+- ⚖️ **Não-técnicos** (não sabes Git): Ver [CONTRIBUTING.md - Secção Não-Técnicos](CONTRIBUTING.md#-para-contribuidores-não-técnicos)
+- 💻 **Técnicos** (sabes Git/GitHub): Ver [CONTRIBUTING.md - Secção Técnicos](CONTRIBUTING.md#-workflow-de-contribuição-técnico)
+
+**Issues abertas**: [Vulnerabilidades identificadas em TASKS.md](docs/TASKS.md)
+
+---
+
 ## 🚀 Build Rápido
 
 ```bash

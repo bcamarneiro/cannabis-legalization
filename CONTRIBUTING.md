@@ -30,7 +30,99 @@ cannabis-legalization/
    - **Política**: POLITIC 1-6, DEVIL 2-3
    - **Análise de Dados**: DEVIL 1, 4, 9
 
-## 📝 Workflow de Contribuição
+---
+
+## 👤 Para Contribuidores Não-Técnicos
+
+**Não sabes usar Git? Não há problema!** Podes contribuir apenas escrevendo texto.
+
+### Como Funciona (Simples)
+
+1. **Lê [TASKS.md](docs/TASKS.md)** e escolhe uma vulnerabilidade que matches a tua expertise
+2. **Abre uma "Issue"** no GitHub usando o template "Proposta de Correção (Não-técnico)"
+3. **Escreve** a tua proposta de texto/alteração diretamente na issue
+4. **Aguarda revisão** - alguém da equipa técnica vai implementar e creditar-te
+
+### Passo-a-Passo Detalhado
+
+#### 1. Criar conta GitHub (grátis, 2 minutos)
+
+Se ainda não tens:
+
+1. Vai a [github.com](https://github.com)
+2. Clica "Sign up"
+3. Segue as instruções (email, password, username)
+
+#### 2. Abrir uma Issue
+
+1. Vai a [github.com/bcamarneiro/cannabis-legalization/issues](https://github.com/bcamarneiro/cannabis-legalization/issues)
+2. Clica botão verde **"New issue"**
+3. Escolhe template **"Proposta de Correção (Não-técnico)"**
+4. Clica **"Get started"**
+
+#### 3. Preencher o Template
+
+```markdown
+## 👤 Sobre Ti
+Nome: Dr. João Silva
+Expertise: Advogado (Direito Internacional)
+Email: joao.silva@exemplo.pt
+
+## 🎯 Qual Vulnerabilidade Addresses?
+LEGAL 1 - International Treaty Obligations
+
+## 📝 Proposta de Alteração
+
+### Texto Proposto
+Portugal ratificou três convenções ONU sobre drogas (1961, 1971, 1988),
+mas o Artigo 4 da Convenção de 1961 permite interpretação flexível.
+O Uruguai usou a mesma convenção para legalizar cannabis em 2013,
+argumentando que a saúde pública justifica regulação estatal.
+
+Recomendação: Adicionar secção no documento explicando...
+[continua com a tua proposta]
+
+## 📚 Fontes/Referências
+- Convenção Única sobre Estupefacientes (1961), Artigo 4
+- Caso Uruguai: Lei 19.172/2013
+- Análise jurídica: [URL ou citação]
+
+## 💡 Justificação
+Esta secção é crítica porque oponentes vão argumentar que Portugal
+viola tratados internacionais. Precisamos mostrar que...
+```
+
+#### 4. Submeter
+
+1. Clica **"Submit new issue"** (botão verde)
+2. Vais receber notificação por email quando alguém responder
+3. Podes acompanhar discussão e fazer ajustes se necessário
+
+### O Que Acontece Depois?
+
+1. **Revisão**: Equipa técnica revê a proposta (normalmente 2-3 dias)
+2. **Discussão**: Podem pedir clarificações ou sugerir ajustes
+3. **Implementação**: Alguém implementa a alteração no documento
+4. **Crédito**: Serás creditado no commit e no documento final
+
+### Exemplos de Contribuições Não-Técnicas Valiosas
+
+- **Advogado**: Análise de LEGAL 1-9 (tratados ONU, lei UE, Código Trabalho)
+- **Médico**: Revisão HEALTH 1-4 (riscos cardiovasculares, desenvolvimento cerebral)
+- **Economista**: Modelação ECON 1-5 (sensitivity analysis ROI, custos realistas)
+- **Político**: Estratégia POLITIC 1-6 (referendos, media, Igreja Católica)
+- **Jornalista**: POLITIC 3 (estratégia media, rapid response)
+
+### Não Queres Abrir Issue Pública?
+
+Se preferires feedback privado primeiro:
+
+- **Email**: <bruno.camarneiro@livre.pt>
+- Enviamos-te review antes de tornares pública
+
+---
+
+## 📝 Workflow de Contribuição (Técnico)
 
 ### 1. Fork e Clone
 
