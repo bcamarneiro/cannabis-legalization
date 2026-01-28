@@ -6,6 +6,33 @@
 
 **Proposta de posicionamento do LIVRE** sobre enquadramento legal e regulatório da cannabis em Portugal, abrangendo uso medicinal, recreativo e industrial.
 
+## 📄 Documento Principal
+
+**Ficheiro fonte:** [`documento.md`](documento.md) - Proposta completa em Markdown (200+ páginas)
+**Referências:** [`references.bib`](references.bib) - Bibliografia académica (150+ fontes)
+**Outputs gerados:** Disponíveis em [Releases](../../releases) - PDF e DOCX atualizados automaticamente
+
+### Como funcionam as citações
+
+No texto verás referências como `[@bundesministerium2024]` ou `[@who2023cannabis]`. Para encontrar a fonte completa:
+
+1. Abre [`references.bib`](references.bib)
+2. Procura pela chave (ex: `bundesministerium2024`)
+3. Encontrarás a referência completa em formato BibTeX
+
+**Exemplo:**
+
+```markdown
+Texto: "segundo estudos recentes [@who2023cannabis]"
+          ↓
+references.bib: @article{who2023cannabis,
+                  title = {Cannabis: Health Effects and Policy},
+                  author = {{World Health Organization}},
+                  year = {2023},
+                  ...
+                }
+```
+
 ## 📖 Sobre Este Documento
 
 **Desenvolvido pelo LIVRE de forma aberta e colaborativa.**
