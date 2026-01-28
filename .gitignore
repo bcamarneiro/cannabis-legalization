@@ -47,3 +47,11 @@ output/
 
 # VSCode (local settings, extensions break - use manual search instead)
 .vscode/
+
+# Social media drafts (internal use)
+SOCIAL_MEDIA.md
+REFACTORING_PROPOSAL.md
+
+# Internal planning docs (não precisam estar versionados)
+docs/EXAMPLE-ISSUES.md
+docs/GITHUB-ISSUES-READY.md
