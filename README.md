@@ -8,7 +8,7 @@
 
 ## 📄 Documento Principal
 
-**Ficheiro fonte:** [`documento.md`](documento.md) - Proposta completa em Markdown (200+ páginas)
+**Ficheiro fonte:** [`documento.md`](documento.md) - Proposta completa em Markdown
 **Referências:** [`references.bib`](references.bib) - Bibliografia académica (150+ fontes)
 **Outputs gerados:** Disponíveis em [Releases](../../releases) - PDF e DOCX atualizados automaticamente
 
