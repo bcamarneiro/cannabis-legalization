@@ -1,0 +1,91 @@
+name: Manual Release (MINOR/MAJOR)
+
+on:
+  workflow_dispatch:
+    inputs:
+      bump_type:
+        description: 'Tipo de release'
+        required: true
+        type: choice
+        options:
+          - minor
+          - major
+      release_notes:
+        description: 'Notas da release (opcional)'
+        required: false
+        type: string
+
+jobs:
+  manual-release:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Install Pandoc and LaTeX
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc texlive-xetex texlive-fonts-recommended texlive-latex-extra
+
+      - name: Bump version (${{ github.event.inputs.bump_type }})
+        id: version
+        run: |
+          chmod +x scripts/bump-version.sh
+          NEW_VERSION=$(bash scripts/bump-version.sh ${{ github.event.inputs.bump_type }})
+          echo "version=${NEW_VERSION}" >> $GITHUB_OUTPUT
+          echo "Bumped to version: ${NEW_VERSION}"
+
+      - name: Commit version bump
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add VERSION
+          git commit -m "chore: Bump version to ${{ steps.version.outputs.version }} (${{ github.event.inputs.bump_type }})"
+          git push
+
+      - name: Build PDF and DOCX
+        run: bash scripts/build.sh
+
+      - name: Determine release type label
+        id: release_type
+        run: |
+          if [ "${{ github.event.inputs.bump_type }}" == "major" ]; then
+            echo "label=🚀 Release MAJOR - Mudança estrutural significativa" >> $GITHUB_OUTPUT
+            echo "emoji=🚀" >> $GITHUB_OUTPUT
+          else
+            echo "label=✨ Release MINOR - Nova funcionalidade ou melhoria" >> $GITHUB_OUTPUT
+            echo "emoji=✨" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Create Release
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: v${{ steps.version.outputs.version }}
+          name: Proposta Cannabis v${{ steps.version.outputs.version }}
+          body: |
+            ## ${{ steps.release_type.outputs.label }}
+
+            **Versão:** `v${{ steps.version.outputs.version }}`
+            **Tipo:** `${{ github.event.inputs.bump_type }}` (manual)
+
+            ${{ github.event.inputs.release_notes != '' && format('### 📝 Notas da Release\n\n{0}\n', github.event.inputs.release_notes) || '' }}
+
+            ### 📦 Ficheiros disponíveis:
+            - 📄 `documento.pdf` - Versão PDF completa
+            - 📝 `documento.docx` - Versão Word editável
+
+            ### 🔗 Links úteis:
+            - [Ver documento fonte](../../blob/main/documento.md)
+            - [Ver referências bibliográficas](../../blob/main/references.bib)
+            - [Ver todas as releases](../../releases)
+
+            ---
+            👤 **Release manual** criada por @${{ github.actor }}
+          files: |
+            output/documento.pdf
+            output/documento.docx
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
