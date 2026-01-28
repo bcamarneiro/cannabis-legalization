@@ -22,7 +22,11 @@
       "Bash(comm:*)",
       "Bash(unzip:*)",
       "Bash(./scripts/build-pdf.sh:*)",
-      "mcp__MCP_DOCKER__brave_web_search"
+      "mcp__MCP_DOCKER__brave_web_search",
+      "Bash(gh --version:*)",
+      "Bash(gh auth:*)",
+      "Bash(gh repo edit:*)",
+      "Bash(git rm:*)"
     ],
     "additionalDirectories": [
       "/Users/brunocamarneiro/Projects/civic-contributions/cannabis-legalization"
