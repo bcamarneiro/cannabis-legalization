@@ -23,6 +23,14 @@ A evidência sobre riscos é robusta e deve orientar a nossa proposta:
   - **Contexto:** O risco NÃO é uniforme — padrões de uso ocasional têm risco significativamente menor que uso diário, reforçando importância de prevenção de escalada de frequência
 * **Idade de início:** Consumo persistente com início na adolescência (antes dos 18 anos) associado a maior risco cognitivo e psiquiátrico. Início após 18-21 anos com uso ocasional tem risco substancialmente menor [@jackson2016; @meier2012]
 
+* **Riscos cardiovasculares:** Evidência crescente associa cannabis a riscos cardiovasculares significativos:
+  - **Mittleman et al. (2001):** Risco de enfarte do miocárdio **4,8× superior** na hora seguinte ao consumo de cannabis — evento raro mas clinicamente significativo [@mittleman2001]
+  - **American Heart Association (2024):** Análise de 430.000 adultos encontrou associação significativa entre uso de cannabis (fumada, ingerida ou vaporizada) e **maior risco de enfarte e AVC**, mesmo após controlo de factores confundentes [@aha2024]
+  - **American College of Cardiology (2025):** Estudo multicêntrico retrospectivo reportou risco **6× superior de enfarte**, 4× de AVC isquémico e 2× de insuficiência cardíaca em utilizadores de cannabis vs não-utilizadores, ao longo de ~3 anos de follow-up [@acc2025]
+  - **Meta-análise Cheng et al. (2023):** Análise agrupada encontrou **aumento não-estatisticamente significativo** do risco de enfarte agudo — sugerindo que a evidência, embora preocupante, não é ainda conclusiva para todos os perfis de consumo [@cheng2023]
+  - **Mecanismos propostos:** Aumento agudo da frequência cardíaca, alteração da pressão arterial, efeitos pró-trombóticos do fumo de cannabis. O risco pode ser parcialmente atribuível à **via de administração** (fumo), não apenas ao THC
+  - **Contexto:** Estes riscos são particularmente relevantes para utilizadores com **patologia cardiovascular pré-existente**, **idade >50 anos**, ou **consumo combinado com tabaco**. Para utilizadores jovens saudáveis com consumo ocasional, o risco absoluto permanece baixo, mas não é nulo
+
 ### Como a nossa proposta mitiga estes riscos
 Reconhecemos os riscos e por isso propomos medidas específicas, baseadas em modelos internacionais comprovados [@hanway2022] [@cleirec2025]:
 
@@ -35,6 +43,7 @@ Reconhecemos os riscos e por isso propomos medidas específicas, baseadas em mod
 | **Acesso juvenil (<18 anos)** | Verificação rigorosa de idade nos clubes; proibição de publicidade; 200m distância escolas |
 | **Consumo problemático** | Financiamento garantido para tratamento e prevenção via Orçamento do Estado ([ver estimativas](#financiamento)) |
 | **Uso frequente/diário** | Limites mensais (30g/mês para 18-20, 50g/mês para 21+); limite de plantas (3) em autocultivo; Oficial de Prevenção monitorizando frequência + encaminhamento proactivo |
+| **Riscos cardiovasculares** | Informação obrigatória sobre riscos cardíacos na sessão de admissão; screening cardiovascular no PHQ inicial; aviso em rotulagem; recomendação de vaporização vs combustão (redução exposição a produtos de combustão); encaminhamento médico para utilizadores >50 anos ou com patologia cardíaca conhecida |
 
 **Nota crítica sobre acesso 18-20 anos:**
 
@@ -65,7 +74,7 @@ Modelos comerciais (Colorado, Washington, Canadá) geram receitas fiscais signif
 
 1. **Prevalência diferente:** Colorado tem prevalência de consumo adulto ~13-15% [@cdphe2024monitoring; @brfss2023cannabis], enquanto Portugal tem 8,2% [@euda2024cannabis]. Mesmo se Portugal adoptasse modelo comercial, as receitas fiscais seriam proporcionalmente menores devido à menor base de consumidores (quase metade).
 
-2. **Modelo completamente diferente:** Portugal propõe clubes sociais **sem fins lucrativos** (princípio cost-recovery, modelo alemão/maltês). Clubes não-comerciais geram **ZERO receitas fiscais** — apenas recuperam custos operacionais via quotas de membros. Não há impostos sobre vendas porque não há vendas comerciais.
+2. **Modelo completamente diferente:** Portugal propõe clubes sociais **sem fins lucrativos** (princípio cost-recovery, modelo alemão/maltês). Clubes não-comerciais não geram **impostos específicos sobre cannabis** (excise tax) — apenas recuperam custos operacionais via quotas de membros. **Nota fiscal:** As quotas de membros estão sujeitas ao IVA standard de 23% (obrigatório em Portugal para todas as transacções de bens e serviços, mesmo sem fins lucrativos). Na Alemanha, clubes sem fins lucrativos podem beneficiar da taxa reduzida de 7% se obtiverem estatuto de utilidade pública; na Suíça, o IVA standard é 7,7%. Portugal poderá explorar taxa reduzida (6% ou 13%) mediante alteração legislativa, mas o IVA a 23% é o cenário base.
 
 **Benefícios fiscais do modelo PT vêm de poupanças enforcement, não de impostos:**
 

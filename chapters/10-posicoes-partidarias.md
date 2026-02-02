@@ -59,10 +59,10 @@ Alemanha desenhou o CanG 2024 como **sistema two-pillar**:
 | **Pillar 1 (clubes)** | ✅ Implementado, 190+ clubes operacionais | ✅ **Prioritário, viável agora** |
 | **Pillar 2 (comercial)** | ❌ Prometido mas bloqueado UE | ⚠️ **Condicional, honestidade com eleitores** |
 | **Timeline comercial** | Prometido 2024-2025 (falhou) | **Sem promessas firmes** — depende coordenação EU |
-| **Viabilidade standalone** | Pillar 1 visto como "temporário" | **Pillar 1 atinge objectivos principais** (harm reduction, 40-50% captura mercado) |
+| **Viabilidade standalone** | Pillar 1 visto como "temporário" | **Pillar 1 atinge objectivos principais** (harm reduction, captura estimada 30-45% mercado — sujeita a validação) |
 | **Risco político** | Reversão CDU 2025 matou Pillar 2 | **Implementação completa Pillar 1 minimiza risco** reversão |
 
-**Vantagem estratégica Portugal:** Não comprometer credibilidade política com promessas dependentes de factores externos (mudança lei UE). Clubes standalone (Fase 1) já entregam ROI 120-753%, captura 40-50% mercado, protecção juvenil.
+**Vantagem estratégica Portugal:** Não comprometer credibilidade política com promessas dependentes de factores externos (mudança lei UE). Clubes standalone (Fase 1) já entregam ROI 120-753%, captura estimada 30-50% mercado (ver caveats Secção 6.2), sem evidência de aumento do consumo juvenil nas jurisdições comparáveis.
 
 ### Estratégia Multilateral: Trabalhar para Mudança Política Europeia
 
@@ -107,7 +107,7 @@ Alemanha desenhou o CanG 2024 como **sistema two-pillar**:
 
 **Cenário optimista (5-7 anos):**
 * 2026-2028: Portugal + 3-4 estados progressistas implementam pilotos clubes não-comerciais
-* 2028-2030: Dados robustos mostram modelos funcionam (protecção juvenil, captura mercado negro)
+* 2028-2030: Dados robustos mostram modelos funcionam (sem aumento consumo juvenil, captura mercado negro)
 * 2029-2031: Pressão coordenada na Comissão + Parlamento Europeu para reinterpretar Schengen
 * 2032-2034: Approval venda comercial harmonizada (standards comuns UE)
 
@@ -129,9 +129,9 @@ Alemanha desenhou o CanG 2024 como **sistema two-pillar**:
 * ❌ **Fase 2 pode nunca acontecer** — se UE mantém bloqueio, Portugal aceita clubes standalone como solução permanente
 
 **Benefícios Fase 1 standalone (sem venda comercial):**
-* Captura 40-50% mercado ilegal (dados Uruguay clubes, PT com autocultivo adicional)
+* Captura estimada 30-45% mercado ilegal (Uruguai misto atingiu ~37% em 10 anos; PT com autocultivo adicional — ver análise gap mercado)
 * ROI 120-753% via poupanças enforcement (não receitas fiscais)
-* Protecção juvenil (Colorado -42%; Canadá — dados disputados, ver Secção 3.5)
+* Sem evidência de aumento do consumo juvenil (Colorado -42%, mas tendência nacional similar -38%; Canadá — dados disputados, ver Secção 3.5)
 * Produtos testados vs. mercado negro contaminado (94% pesticidas)
 * Redução criminalização (75% processos CDT envolvem cannabis)
 

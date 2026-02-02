@@ -57,7 +57,7 @@ Este documento propõe que o LIVRE assuma uma posição clara e proactiva sobre 
 
 **2. Evitar confusão de objectivos:** Separar claramente as duas fases responde antecipadamente à desinformação que mistura "comparticipação para doentes" com "legalização recreativa". São propostas distintas, com públicos distintos, mecanismos de financiamento distintos.
 
-**3. Aproveitar momentum:** O framework legal alemão de clubes sociais (2024) oferece modelo recente de regulação sem comercialização [@bundesgesundheit2024cannabis]. Evidência de eficácia vem de Colorado (10+ anos) e Canadá (6 anos) com dados robustos de protecção juvenil [@statcan2019youth; @mpp2024colorado].
+**3. Aproveitar momentum:** O framework legal alemão de clubes sociais (2024) oferece modelo recente de regulação sem comercialização [@bundesgesundheit2024cannabis]. Evidência de Colorado (10+ anos) e Canadá (6 anos) mostra que a legalização **não provocou o aumento de consumo juvenil que opositores previam** [@statcan2019youth; @mpp2024colorado; @coley2024]. Contudo, os declínios observados reflectem também tendências nacionais pré-existentes (ver Secção 3.5), pelo que não se pode atribuir causalidade exclusiva à regulação.
 
 **Os dois objectivos são complementares, não conflituantes** — mas a sequência estratégica maximiza probabilidade de sucesso político.
 
@@ -83,7 +83,7 @@ Este documento propõe que o LIVRE assuma uma posição clara e proactiva sobre 
 
 * **Fase 1 (Pillar 1): Clubes sociais não-comerciais + autocultivo** — implementação 2027-2030, avaliação rigorosa dados
 * **Fase 2 (Pillar 2): Possível transição para venda comercial regulada** — **condicional a três factores críticos:**
-  1. **Dados positivos piloto:** Evidência 2028-2030 mostrando captura >40% mercado ilegal, protecção juvenil, redução criminalização
+  1. **Dados positivos piloto:** Evidência 2028-2030 mostrando captura significativa do mercado ilegal, sem aumento do consumo juvenil, redução da criminalização
   2. **Coordenação europeia:** Resolução conflitos lei UE/Schengen (venda comercial cannabis actualmente bloqueada pela Comissão Europeia)
   3. **Renovação aprovação parlamentar:** Nova votação pós-avaliação, não automatismo
 
@@ -91,7 +91,7 @@ Este documento propõe que o LIVRE assuma uma posição clara e proactiva sobre 
 
 * **Fase 1 (clubes) é viável agora** — modelo alemão Pillar 1 funciona, UE tolera
 * **Fase 2 (comercial) pode nunca acontecer** — depende de factores fora de controlo Portugal
-* **Benefício Fase 1 standalone:** Captura 40-50% mercado ilegal, ROI 120-753%, redução criminalização — **mesmo sem venda comercial**, objectivos principais atingidos
+* **Benefício Fase 1 standalone:** Captura estimada 30-45% mercado ilegal (sujeita a validação — ver análise gap mercado), ROI positivo via poupanças enforcement, redução criminalização — **mesmo sem venda comercial**, objectivos principais atingidos
 
 **Esta abordagem maximiza viabilidade política:** Não compromete LIVRE com promessas dependentes de factores externos (mudanças lei UE), mas mantém ambição estratégica de longo prazo condicional a dados e coordenação europeia.
 

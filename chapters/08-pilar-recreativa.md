@@ -392,7 +392,7 @@ Modelo alemão KCanG/CanG 2024 (adotado como base para PT) [@eurofins2024cannabi
 
 **Implementação PT:**
 
-- **Laboratórios acreditados:** Apenas laboratórios certificados ISO 17025 podem realizar testes cannabis (Eurofins Portugal, AL Tox, etc.)
+- **Laboratórios acreditados:** Apenas laboratórios certificados ISO 17025 podem realizar testes cannabis. **Nota sobre capacidade laboratorial em Portugal:** O IPAC (Instituto Português de Acreditação) acredita laboratórios de ensaio, mas não foi possível confirmar a existência de laboratórios em Portugal **actualmente acreditados especificamente para testes de cannabis recreativa** (potência THC/CBD, pesticidas, metais pesados, micotoxinas). Existem laboratórios com capacidade analítica relevante — nomeadamente os que servem a indústria de cannabis medicinal (37 empresas licenciadas pelo INFARMED exportam cannabis testada segundo padrões EU-GMP) [@cannareporter2022] e laboratórios de análise alimentar e ambiental acreditados ISO 17025 pelo IPAC. A transição para testes de cannabis recreativa requer: (1) extensão do âmbito de acreditação dos laboratórios existentes, (2) formação específica em matrizes cannabis, e (3) investimento em equipamento (HPLC, GC-MS). **Recomendação:** Mapear capacidade laboratorial existente e planear investimento necessário antes do lançamento do programa piloto. Considerar subcontratação internacional transitória (Eurofins, Fundación CANNA — Espanha) se necessário nos primeiros 12-18 meses
 - **Frequência testes:** Cada lote de cannabis antes de distribuição (modelo Alemanha/Canadá)
 - **Rastreabilidade:** Certificado teste acompanha cada lote distribuído (código QR em embalagem)
 - **Rejeição lotes:** Cannabis que falhe qualquer teste **não pode** ser distribuída — deve ser destruída sob supervisão Infarmed
@@ -529,6 +529,32 @@ Fornecedores de sementes devem obter licença de Infarmed/DGAV com os seguintes 
 
 Para informação sobre o sistema de sementes certificadas proposto, ver Anexo B.
 
+### Protecção Laboral e Cannabis no Local de Trabalho {#proteccao-laboral}
+
+A legalização do consumo recreativo levanta questões sobre os direitos laborais dos trabalhadores que consomem cannabis fora do horário de trabalho.
+
+#### Enquadramento legal português actual
+
+O Código do Trabalho português **não prevê testes de drogas obrigatórios** como requisito geral de emprego. A Comissão Nacional de Protecção de Dados (CNPD), na Deliberação n.º 890/2010, estabeleceu que:
+
+* Os **testes de alcoolemia e drogas no trabalho devem ser voluntários** e enquadrados como medidas de prevenção e saúde [@cnpd2010]
+* O trabalhador pode **recusar** realizar testes sem que isso constitua prova de consumo
+* Testes só são admissíveis em funções de **risco acrescido** (segurança de terceiros, condução profissional, operação de maquinaria pesada)
+* Os resultados são **confidenciais** e comunicados apenas ao médico do trabalho, não ao empregador directamente
+
+**Diferença fundamental face aos EUA:** Nos Estados Unidos, o *employment at-will* permite despedimento por teste positivo de cannabis em muitos estados, mesmo onde o consumo é legal. Em Portugal, o Código do Trabalho (Lei n.º 7/2009 e Lei n.º 13/2023) oferece **protecção substancialmente superior**: o despedimento requer justa causa (Art. 351º), e consumo fora do horário de trabalho **não constitui justa causa** salvo se afectar o desempenho profissional ou a segurança.
+
+#### Proposta de salvaguardas laborais
+
+Com a regulação do consumo recreativo, propõe-se clarificação legislativa:
+
+1. **Princípio geral:** Consumo legal de cannabis fora do horário de trabalho **não constitui fundamento para acção disciplinar**, incluindo despedimento — equiparado ao consumo de álcool
+2. **Excepções por risco funcional:** Funções de segurança crítica (condução profissional, operação de maquinaria pesada, profissionais de saúde em serviço, pilotos, controladores aéreos) podem exigir testes — limitados ao horário de trabalho e ao princípio da proporcionalidade
+3. **Proibição de discriminação:** Proibido negar emprego, promoção ou formação com base exclusiva no registo como membro de clube social ou consumidor legal de cannabis
+4. **Protecção de dados:** Registo em clubes sociais é informação de saúde protegida (RGPD) — empregadores **não podem** aceder a esta informação
+
+**Nota:** Esta é uma área que necessita de desenvolvimento legislativo específico, idealmente em coordenação com parceiros sociais (sindicatos, associações patronais) e a Autoridade para as Condições do Trabalho (ACT). A experiência canadiana e alemã pode informar o processo, mas o enquadramento laboral português (mais protector que o anglo-saxónico) oferece base sólida.
+
 ### Integração da Indústria Licenciada Existente
 
 **Contexto:** Portugal tem **37 empresas licenciadas** para cultivo de cannabis medicinal [@cmslaw2024], exportando **32.558 kg em 2024** [@eco2024]. Estas empresas têm infraestrutura, conhecimento técnico, e capacidade produtiva já estabelecidos. **Ignorar este ecossistema existente seria economicamente irracional** e criaria oposição política desnecessária.
@@ -657,7 +683,7 @@ O financiamento de prevenção **não depende** de clubes funcionarem perfeitame
   * Análise custo-benefício em curso para validar estimativas
 
 * **Anos 3-5 (2029-2031, expansão gradual):**
-  * Transição progressiva para poupanças enforcement à medida que clubes reduzem mercado ilegal (40-50% captura esperada, [ver MÉDIA 5](#impacto-esperado-dos-clubes-sociais-no-mercado-ilegal))
+  * Transição progressiva para poupanças enforcement à medida que clubes reduzem mercado ilegal (30-45% captura estimada, sujeita a validação — [ver análise gap mercado](#gap-mercado))
   * Financiamento híbrido: parte OE, parte poupanças enforcement verificadas
   * Ajuste anual baseado em dados reais de custos/poupanças
 
@@ -673,6 +699,36 @@ O financiamento de prevenção **não depende** de clubes funcionarem perfeitame
 * Não há "dependência de execução perfeita" — há **iteração baseada em evidência**
 
 **Disclaimer:** Valores conservadores assumem cenário pessimista. Análise rigorosa PT pode revelar poupanças maiores ou menores. Compromisso: publicar análise custo-benefício detalhada antes implementação Fase 2.
+
+#### Estratégia de Comunicação Pública {#estrategia-comunicacao}
+
+A ausência de uma estratégia media pode comprometer a viabilidade política da proposta. A experiência internacional demonstra que a comunicação é tão importante quanto o conteúdo legislativo.
+
+##### Lições internacionais
+
+* **Alemanha (2024):** O governo federal lançou campanha informativa coordenada com a entrada em vigor da CanG, focada em saúde pública e protecção juvenil. Apesar disso, tabloides como o *Bild* amplificaram narrativas alarmistas ("Cannabis-Chaos"). A resposta institucional — publicação regular de dados oficiais (Bundesgesundheitsministerium) — ajudou a contrariar desinformação [@lancet2024germany].
+* **Canadá (2018):** Health Canada investiu em campanhas educativas pré-legalização ("Don't Drive High", "Know Before You Go") e estabeleceu portais informativos públicos. A estratégia incluiu comunicação segmentada: pais, jovens, profissionais de saúde [@healthcanada2024].
+
+##### Princípios orientadores para Portugal
+
+1. **Liderar com dados, não com ideologia:** Toda a comunicação pública deve basear-se em evidência — incluindo os riscos. Admitir incerteza reforça credibilidade.
+2. **Separar claramente as fases:** Medicinal (doentes) ≠ recreativo (clubes). Confusão entre ambas é a principal arma de opositores.
+3. **Antecipar narrativas adversas:** Preparar respostas factuais para objecções previsíveis (ver Anexo D).
+4. **Comunicação segmentada:**
+   - **Decisores políticos:** Foco em poupanças fiscais, dados internacionais, reversibilidade do piloto
+   - **Profissionais de saúde:** Foco em harm reduction, evidência clínica, protocolos de prevenção
+   - **Público geral:** Foco em segurança, controlo de qualidade, protecção de menores
+   - **Jovens:** Foco em riscos reais (não moralização), informação de redução de danos
+5. **Transparência radical:** Publicar todos os dados do programa piloto em tempo real (dashboard SICAD). Transparência desarma desconfiança.
+6. **Porta-vozes credíveis:** Priorizar profissionais de saúde e investigadores, não apenas políticos. Credibilidade técnica > retórica partidária.
+
+##### Riscos comunicacionais a gerir
+
+* **Tabloidização:** Jornais como *Correio da Manhã* podem amplificar casos isolados. Resposta: publicar dados agregados proactivamente.
+* **Estigma residual:** Associação cannabis = "droga" está enraizada. Resposta: enquadrar como política de saúde pública (modelo Lei 30/2000).
+* **Turismo cannábico:** Receio de Portugal "virar Amesterdão". Resposta: enfatizar restrição a residentes (6 meses), proibição consumo público, modelo clubes (não coffee shops).
+
+**Nota:** Esta secção é um esboço de princípios. Uma estratégia de comunicação completa requer plano operacional detalhado (timing, canais, orçamento, porta-vozes), a desenvolver em coordenação com a equipa de comunicação do LIVRE e especialistas em comunicação de saúde pública.
 
 #### Impacto Fiscal Total para o Estado: Análise Consolidada
 
@@ -709,11 +765,11 @@ Diferentemente de modelos comerciais (Colorado, Canadá), Portugal propõe clube
 
 **Anos 3-5 (Expansão Gradual 2029-2031):**
 
-Assumindo clubes capturam **40-50% mercado ilegal** ([trajectória realista](#impacto-esperado-dos-clubes-sociais-no-mercado-ilegal)):
+Assumindo clubes capturam **30-45% mercado ilegal** (cenário optimista — [ver análise gap mercado](#gap-mercado)):
 
 | Categoria | Valor Anual | Impacto OE |
 | :---- | :---- | :---- |
-| **Poupanças enforcement** (40-50% captura) | -€25-45M | Redução gastos enforcement cannabis |
+| **Poupanças enforcement** (30-45% captura) | -€20-40M | Redução gastos enforcement cannabis |
 | **Custos regulatórios** (escala 20-30 clubes) | +€12-18M | Crescem com escala mas menos que proporcional |
 | **Poupanças saúde pública** (produtos testados) | -€2-5M | Menos tratamentos contaminação (pesticidas, fungos, metais) |
 | **Investimento prevenção** | +€20-40M | Financiado por poupanças enforcement |
@@ -721,11 +777,11 @@ Assumindo clubes capturam **40-50% mercado ilegal** ([trajectória realista](#im
 
 **Anos 6-10 (Regime Permanente 2032-2036):**
 
-Assumindo clubes consolidados, captura mercado 45-55%:
+Assumindo clubes consolidados, captura mercado 35-50% (cenário optimista):
 
 | Categoria | Valor Anual | Impacto OE |
 | :---- | :---- | :---- |
-| **Poupanças enforcement** (45-55% captura) | -€30-50M | Redução permanente gastos enforcement |
+| **Poupanças enforcement** (35-50% captura) | -€25-45M | Redução permanente gastos enforcement |
 | **Poupanças saúde pública** | -€3-7M | Redução tratamentos contaminação + menos admissões emergência |
 | **Custos regulatórios** (30-50 clubes estabilizados) | +€15-20M | Custos fixos fiscalização, testes, monitorização |
 | **Investimento prevenção** | +€20-40M | Autofinanciado poupanças |
@@ -759,7 +815,7 @@ Assumindo clubes consolidados, captura mercado 45-55%:
 
 Impactos positivos **não incluídos** no balanço fiscal acima:
 
-- **Redução violência:** Menos criminalidade organizada (mercado ilegal reduz 40-50%)
+- **Redução violência:** Menos criminalidade organizada (mercado ilegal potencialmente reduz 30-45%)
 - **Reinserção social:** Menos condenações por tráfico = menos antecedentes criminais
 - **Saúde mental:** Acesso a produtos THC controlado (10% máx. 18-20 anos) vs. mercado negro potência desconhecida
 - **Qualidade de vida:** Cidadãos não criminalizados por autocultivo 3 plantas
@@ -773,11 +829,11 @@ Impactos positivos **não incluídos** no balanço fiscal acima:
 | :---- | :---- | :---- | :---- |
 | **Colorado** (2022) | Comercial (impostos ~37%) | $423M (~€390M) | 37% educação, 26% saúde, 12% enforcement [@colorado2022tax] |
 | **Canadá** (2018-2025) | Comercial (impostos federais + provinciais) | $5,4B CAD acumulado (~€3,6B) | Provinces decidem afetação [@cbcnews2025] |
-| **Portugal** (proposta) | **Não-comercial (cost-recovery)** | **€0 receitas fiscais** | **Poupanças enforcement** (não impostos) |
+| **Portugal** (proposta) | **Não-comercial (cost-recovery)** | **€0 impostos específicos** (IVA 23% sobre quotas aplica-se) | **Poupanças enforcement** (não impostos cannabis) |
 
 **Por que Portugal difere:**
 
-- Clubes não-comerciais **não geram receitas fiscais** (apenas recuperam custos via quotas)
+- Clubes não-comerciais **não geram impostos específicos sobre cannabis** (apenas IVA standard 23% sobre quotas + custos operacionais normais)
 - Viabilidade fiscal baseia-se em **poupanças enforcement**, não em impostos
 - ROI vem de **redução gastos** (enforcement, saúde), não de receitas novas
 
@@ -808,9 +864,9 @@ Todos os valores ROI apresentados acima (**120-753%**) baseiam-se **exclusivamen
 
 | Parâmetro | Valor Conservador | Valor Optimista | Fonte |
 | :---- | :---- | :---- | :---- |
-| **Captura mercado ilegal** | 40% (ano 5-10) | 50% (ano 5-10) | Uruguai clubes 24-39%, PT adiciona autocultivo |
+| **Captura mercado ilegal** | 30% (ano 5-10) | 45% (ano 5-10) | Ver análise gap mercado abaixo |
 | **Poupanças enforcement** | €30M/ano | €65M/ano | Enforcement actual €45-90M, redução proporcional |
-| **Receitas fiscais** | €0 | €0 | Clubes cost-recovery, zero impostos |
+| **Receitas fiscais directas** | €0 impostos específicos | IVA 23% sobre quotas | Clubes cost-recovery; sem excise tax, mas IVA obrigatório |
 | **ROI 10 anos** | +€36M (+120%) | +€226M (+753%) | Poupanças líquidas vs investimento inicial |
 | **Payback** | 4 anos | 3 anos | Tempo recuperar investimento inicial |
 
@@ -931,10 +987,45 @@ Assumindo 46 clubes × 400 membros activos médios = **18.400 utilizadores** (ce
 - **Captura clubes:** 18.400 / 706.000 = **2,6% utilizadores totais** (escala piloto/inicial)
 - **Captura realista (Anos 5-10):** Com autocultivo (3 plantas) + clubes, esperado **30-45% captura** mercado ilegal ([ver MÉDIA 5](#impacto-esperado-dos-clubes-sociais-no-mercado-ilegal))
 
-**Limitação reconhecida:** 46 clubes sozinhos **não eliminam** mercado ilegal (2,6% captura directa). **Mas** combinados com:
+**Limitação reconhecida:** 46 clubes sozinhos capturam apenas **2,6% dos utilizadores** directamente. A projecção de captura de 30-45% do mercado ilegal em 5-10 anos requer análise honesta do gap e das premissas:
 
-- Autocultivo regulado (3 plantas, sementes certificadas)
-- Redução criminalização (enforcement focado em tráfico grande escala)
-- Produtos testados vs. contaminados (94% pesticidas mercado ilegal)
+##### O gap 2,6% → 30-45%: análise quantitativa e caveats {#gap-mercado}
 
-...espera-se **redução significativa** (30-45%) mercado ilegal em 5-10 anos, não eliminação total.
+**Dados internacionais comparáveis:**
+
+| Jurisdição | Modelo | Captura mercado legal (anos após legalização) | Notas |
+| :---- | :---- | :---- | :---- |
+| **Canadá** (comercial) | Dispensários + online | ~78% (2022, 4 anos) [@hammond2025] | Modelo comercial com ampla rede de retalho |
+| **Uruguai** (misto) | Clubes + farmácias + autocultivo | ~37% (2024, 10 anos) [@talkingdrugs2024]; 76% continuam a comprar ilegalmente [@dankreports2025] | Limites THC baixos afastaram consumidores durante anos |
+| **Alemanha** (clubes) | Clubes sociais + autocultivo | ~2% elegíveis com acesso (2025, <1 ano) [@businesscannabis2025b]; inquérito sugere 88,4% das fontes são legais entre quem tem acesso [@internationalcbc2025] | Demasiado cedo para avaliar; dados limitados a quem já aderiu |
+
+**Premissas da projecção 30-45% (clubes + autocultivo combinados):**
+
+1. **Clubes directos:** 2,6% (18.400 membros activos / 706.000 utilizadores)
+2. **Autocultivo (3 plantas):** Estimativa adicional 10-20% utilizadores migram para cultivo próprio — **sem dados internacionais fiáveis para esta estimativa** (Uruguai: autocultivo representa ~14% dos registados legais [@talkingdrugs2024])
+3. **Efeito cascata:** Membros partilham com agregado familiar/círculo próximo (efeito multiplicador estimado 2-3x) — **premissa razoável mas não comprovada empiricamente**
+4. **Atracção gradual:** À medida que oferta legal ganha reputação de qualidade e preço competitivo (€3-6/g vs €10-15/g mercado negro), mais consumidores migram
+
+**Honestidade sobre incerteza:**
+
+- A projecção de 30-45% é **o cenário optimista**, não a baseline. Uruguai (modelo mais comparável, com clubes) atingiu apenas ~37% após 10 anos — e com farmácias e autocultivo além dos clubes
+- Canadá atingiu 78%, mas com modelo **comercial** (dispensários) — não comparável directamente
+- Alemanha tem dados insuficientes (<1 ano)
+- **Cenário pessimista realista:** 15-25% captura em 5 anos (autocultivo + clubes), semelhante a Uruguai nos primeiros anos
+- **Cenário optimista:** 35-45% em 10 anos, se preço e qualidade forem competitivos desde o início (lição Uruguai: não repetir erro de THC baixo)
+
+**Factores que podem ampliar captura (PT vs Uruguai):**
+
+- Preço competitivo desde início (€3-6/g vs Uruguai $1,3/g que não cobria custos)
+- THC sem limite artificial (lição Uruguai: variedades competitivas)
+- Cultura de autocultivo (clima português favorável)
+- 3 plantas legais (Uruguai: 6, mas com condições climatéricas menos favoráveis)
+
+**Factores que podem limitar captura:**
+
+- Conveniência: mercado negro é mais acessível (não requer registo, sem horários)
+- Estigma residual: registo em base de dados pode deter consumidores
+- Capacidade produtiva: 46 clubes podem não ter escala suficiente
+- Qualidade: clubes novos podem não ter expertise de cultivo imediatamente
+
+**Conclusão:** A projecção de 30-45% de captura do mercado ilegal é plausível mas **incerta**. O programa piloto (2027-2028) é precisamente o mecanismo para testar esta premissa antes de escalar. Se os dados mostrarem captura inferior a 15%, a estratégia deve ser reavaliada.
