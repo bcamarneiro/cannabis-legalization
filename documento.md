@@ -18,10 +18,10 @@ lang: pt-PT
 Portugal encontra-se numa posição paradoxal: é o segundo maior exportador mundial de cannabis medicinal (32.558 kg em 2024 [@infarmed2024], ultrapassados nos primeiros 8 meses de 2025 [@euronews2024]), mas apenas 1.157 prescrições foram emitidas internamente em 2023 [@eco2024], equivalendo a cerca de 17 kg [@cannareporter2024].
 
 **Uso recreativo:** 95% via mercado negro (€52-151M/ano) com:
-- **Sintéticos perigosos** (até 800x mais potentes que THC [@oasas2024synthetic])
+- **Sintéticos perigosos** (800x mais potentes que THC)
 - **Potência duplicada** sem rotulagem
 - **Catástrofe ambiental:** Cultivo indoor clandestino gera 2.300-5.200 kg CO₂/kg (outdoor reduz 99%)
-- **75% dos processos por drogas** (CDT) envolvem consumidores de cannabis
+- **75% dos processos (CDT)** por drogas são consumidores ocasionais de cannabis
 
 ## O que propomos: abordagem estratégica em três fases
 
@@ -50,7 +50,7 @@ Este documento propõe que o LIVRE assuma uma posição clara e proactiva sobre 
 * €20-40M/ano para prevenção (transição gradual: inicial OE, depois poupanças enforcement)
 
 - Colorado (2014, 10+ anos dados): consumo juvenil -42% (nota: tendência nacional similar -38%, ver Secção 3.5)
-- Canadá (2018, 6 anos dados): consumo juvenil (15-17 anos) não aumentou pós-legalização [@statcan2019youth]; dados iniciais (NCS, 15-17 anos) mostraram queda de 19,8% para 10,4% (2018→2019), mas dados mais recentes (CCS, 16-19 anos) mostram ligeiro aumento de 36% para 41-43% entre 2018-2024 — interpretação disputada. Statistics Canada conclui "use among 15-to-17-year-olds has not increased with legalization"
+- Canadá (2018, 6 anos dados): consumo juvenil (15-17 anos) não aumentou pós-legalização [@statcan2019youth]; dados mais recentes (CCS, 16-19 anos) mostram ligeiro aumento de 36% para 41-43% entre 2018-2024 — interpretação disputada
 - Alemanha (2024, framework legislativo): 357 clubes aprovados (Nov 2025), dados eficácia insuficientes (<1 ano)
 
 ### Fase 3: Cânhamo Industrial
@@ -88,93 +88,7 @@ Este documento propõe que o LIVRE assuma uma posição clara e proactiva sobre 
 | **Q4 2027 - 2028** | Programa piloto cânhamo — 3-5 regiões (ISA/UTAD, incentivos PAC) |
 | **2028-2030** | Avaliação impactos + expansão gradual baseada em dados |
 
-**Caveats sobre o cronograma:**
-
-- Timeline baseado em precedentes históricos (Portugal Lei 30/2000: 18 meses; Alemanha CanG: 18 meses)
-- Possíveis atrasos: resistência parlamentar, eleições intercalares, complexidade técnica regulamentação
-- Cenário optimista: Aprovação Q2 2027 (12 meses pós-proposta)
-- Cenário realista: Aprovação Q3-Q4 2027 (15-18 meses pós-proposta)
-- Cenário conservador: Aprovação 2028 (24+ meses se houver necessidade de revisões substanciais ou mudanças governamentais)
-
-## Estratégia de Consenso
-
-**Abordagem faseada:**
-- Foco exclusivo medicinal inicialmente (consenso parlamentar mais amplo)
-- Clubes sociais não-comerciais como próximo passo (modelo alemão Pillar 1)
-- Autocultivo com sementes certificadas (compromisso viável)
-- Ênfase em redução de danos e combate ao mercado negro
-
-**Evidência-base:** Descriminalização 2001 provou sucesso de políticas de saúde pública (consumo estável, não causou epidemia temida)
-
-## Próximos Passos
-
-1. **Votação CTs** — aprovação proposta como posição LIVRE
-2. **Coordenação** — validação estratégia faseada
-3. **Parlamentar** — preparar Projecto de Resolução (grupo trabalho)
-4. **Comunicação** — lançamento público alinhado com Marcha Cannabis (Mai 2026)
-
-## Documentação Completa
-
-Este resumo condensa **documento de 40 páginas** com:
-- 75+ referências científicas validadas
-- Análise comparativa modelos internacionais
-- Manual de argumentação detalhado (Anexo I)
-- Especificações técnicas clubes sociais (Anexo II)
-
-**Para decisão informada:** ler Secções 1-4 (~14 páginas)
-**Para defesa pública:** consultar Anexo I (guia argumentação)
-
-\newpage
-
-# SUMÁRIO EXECUTIVO {-}
-
-## O paradoxo português
-
-Portugal encontra-se numa posição paradoxal: é o segundo maior exportador mundial de cannabis medicinal (32.558 kg em 2024 [@infarmed2024], ultrapassados nos primeiros 8 meses de 2025 [@euronews2024]), mas apenas 1.157 prescrições foram emitidas internamente em 2023 [@eco2024], equivalendo a cerca de 17 kg [@cannareporter2024].
-
-## Abordagem estratégica em duas fases
-
-Este documento propõe que o LIVRE assuma uma posição clara e proactiva sobre a regulação da cannabis, com uma **estratégia faseada** que reconhece os diferentes graus de consenso político e social:
-
-### Fase 1: Cannabis Medicinal (prioridade imediata - consenso mais amplo)
-
-* **Objectivo:** Garantir acesso efectivo para doentes com prescrição médica
-* **Medidas:** Comparticipação SNS, simplificação da prescrição, alargamento de indicações
-* **Consenso:** Potencial de apoio transversal (PS, PAN, BE, IL) — questão de saúde pública e justiça social
-* **Urgência:** Portugal exporta 99,85% da produção enquanto doentes pagam €150/mês sem comparticipação [@cannabislaw2024export; @drug2024]
-
-### Fase 2: Regulação do Uso Adulto (médio prazo - requer mais construção de consenso)
-
-#### Fundamentação: Redução de danos, não promoção de consumo
-
-* **Objectivo:** **Proteger os 95% que já consomem** via mercado negro [@cannareporter2025medicinal], não promover novos consumidores
-* **Problema actual:**
-  * 75% dos processos por drogas (CDT) são consumidores ocasionais de cannabis [@sicad2018condenacoes; @dn2020condenacoes]
-  * Mercado negro com sintéticos perigosos: 18 novos canabinóides identificados em 2024, alguns **800x mais potentes** que THC [@euda2025nps]
-  * Potência continua a subir: resina 8% (2006)→17% (2016)→**24.8% (2022)** THC, herbal estabilizou em ~10% [@freeman2019potency; @euda2024cannabis]
-  * Mercado ilegal de €52-151M/ano sem qualquer controlo de qualidade [@ribeiro2024economic]
-  * **Catástrofe ambiental:** Cultivo indoor clandestino gera **2.300-5.200 kg CO₂/kg** — 23-52x pior que carne de vaca [@summers2021cannabis]
-* **Solução:** Clubes sociais sem fins lucrativos + autocultivo regulado = produtos testados, verificação idade, informação clara, cultivo sustentável outdoor/regenerativo (modelo alemão [@bundesgesundheit2024cannabis])
-* **Protecção juvenil comprovada:** Canadá — dados iniciais (NCS, 15-17 anos) mostraram queda pós-legalização [@statcan2019youth], embora dados mais recentes (CCS, 16-19 anos) mostrem ligeiro aumento de 36% para 41-43% (2018-2024) — interpretação disputada. Colorado -42% [@mpp2024colorado] (nota: tendência nacional similar, ver Secção 3.5)
-* **Consenso:** Exige debate mais alargado, evidência dos resultados da Fase 1, mas fundamentação é **saúde pública** (não receitas fiscais)
-
-### Pilar complementar: Cânhamo Industrial
-
-* **Solução climática:** Captura **8-15 toneladas CO₂/hectare** por ciclo em condições UK [@cambridge2022hemp; @carboncredits2024hemp] — Portugal (clima mediterrânico) pode atingir **8-12 t CO₂/ha**, ainda assim 2-4x mais que florestas
-* Oportunidade agrícola (fibra, sementes, construção) e economia rural
-* Não controverso — já legal em toda a UE com THC<0,3%
-
-## Porquê esta abordagem?
-
-**1. Tática política:** Avançar rapidamente no medicinal (menos resistência) permite demonstrar resultados e construir confiança para debate posterior sobre uso adulto.
-
-**2. Evitar confusão de objectivos:** Separar claramente as duas fases responde antecipadamente à desinformação que mistura "comparticipação para doentes" com "legalização recreativa". São propostas distintas, com públicos distintos, mecanismos de financiamento distintos.
-
-**3. Aproveitar momentum:** O framework legal alemão de clubes sociais (2024) oferece modelo recente de regulação sem comercialização [@bundesgesundheit2024cannabis]. Evidência de eficácia vem de Colorado (10+ anos) e Canadá (6 anos) com dados robustos de protecção juvenil [@statcan2019youth; @mpp2024colorado].
-
-**Os dois objectivos são complementares, não conflituantes** — mas a sequência estratégica maximiza probabilidade de sucesso político.
-
-### Evolução futura condicional: Coordenação europeia e modelo two-pillar
+## Evolução futura condicional: Coordenação europeia e modelo two-pillar
 
 **A proposta portuguesa segue explicitamente o modelo alemão de duas fases:**
 
@@ -432,7 +346,7 @@ Em **2018**, Portugal legalizou o **uso medicinal da cannabis** através da **Le
 * Legal: Produzir 32+ toneladas para exportação (lucro privado)
 * Legal: Prescrever cannabis a doentes (acesso restrito, €150/mês sem comparticipação SNS)
 * Ilegal: Adulto consumir cannabis recreativamente (mercado negro descontrolado, 95% dos utilizadores)
-* Criminalizado: Consumidores ocasionais (75% dos processos por drogas (CDT))
+* Criminalizado: Consumidores ocasionais (75% dos processos por drogas — CDT)
 
 ## Conclusão: Hora de Resolver a Contradição
 
@@ -444,7 +358,7 @@ A história mostra **quatro momentos decisivos** que revelam o absurdo da proibi
 
 3. **2000:** Portugal **desafia consenso internacional** com descriminalização — oposição política prevê catástrofe, mas modelo torna-se **referência mundial** 25 anos depois. Prova que pragmatismo supera dogmatismo
 
-4. **2018:** Portugal legaliza cannabis medicinal mas mantém recreativa criminalizada — **contradição insustentável** que beneficia exportadores privados (32+ toneladas/ano) enquanto criminaliza centenas de consumidores (75% dos processos por drogas (CDT))
+4. **2018:** Portugal legaliza cannabis medicinal mas mantém recreativa criminalizada — **contradição insustentável** que beneficia exportadores privados (32+ toneladas/ano) enquanto criminaliza centenas de consumidores (75% dos processos por drogas — CDT)
 
 **A proposta de regulação do uso adulto em 2026 não é radicalismo.** É a **conclusão lógica** de um processo histórico absurdo:
 
@@ -828,7 +742,7 @@ Não podemos isolar o efeito causal da legalização vs. tendências nacionais. 
 **1. Canabinóides sintéticos perigosos:**
 
 * **18 novos canabinóides semi-sintéticos** identificados em 2024 [@euda2025nps]
-* Alguns são **2 a 800 vezes mais potentes** que THC natural [@oasas2024synthetic; @euda2025nps]
+* Alguns são **2 a 800 vezes mais potentes** que THC natural [@euda2025nps]
 * **HHC** (hexahydrocannabinol) e derivados vendidos como "alternativas legais" reportados em **27 países europeus**, controlados em 22 Estados-Membros [@euda2025nps]
 * **Hungria reportou 30 intoxicações agudas** por gomas adulteradas com sintéticos em 2024 [@euda2024threat]
 
@@ -889,7 +803,7 @@ O modelo de cultivo indoor dominante no mercado negro (e em alguns mercados lega
 
 **3. Redução de custos sociais:**
 
-* **Menos processos judiciais:** 75% dos processos CDT por drogas são cannabis [@sicad2018condenacoes]
+* **Menos processos judiciais:** 75% dos processos por drogas (CDT) envolvem cannabis [@sicad2018condenacoes]
 * **Menos urgências hospitalares:** produtos testados vs. sintéticos perigosos [@euda2024threat]
 * **Recursos policiais libertados:** foco em crime grave, não consumidores ocasionais
 * **Menos pessoas com registo criminal** por consumo pessoal de cannabis
@@ -917,7 +831,7 @@ O LIVRE defende **redução de danos** para substâncias psicoactivas. Cannabis 
 **É para:**
 - ✅ **Proteger quem já consome** (95% da população utilizadora [@cannareporter2025medicinal])
 - ✅ **Reduzir danos:** produtos testados vs. sintéticos perigosos 800x mais potentes [@euda2025nps]
-- ✅ **Descriminalizar:** 75% dos processos CDT são consumidores ocasionais [@sicad2018condenacoes; @dn2020condenacoes]
+- ✅ **Descriminalizar:** 75% dos processos (CDT) envolvem consumidores ocasionais [@sicad2018condenacoes; @dn2020condenacoes]
 - ✅ **Controlar potência:** THC rotulado vs. mercado negro com resina a 24.8% THC sem rotulagem [@euda2024cannabis]
 - ✅ **Financiar prevenção:** €20-40M/ano (transição gradual OE→poupanças enforcement) para tratamento
 - ✅ **Retirar rendimento ao crime:** €52-151M/ano para clubes licenciados sem fins lucrativos [@ribeiro2024economic]
@@ -939,151 +853,9 @@ O modelo proposto segue a restrição alemã de **THC máximo 10%** para idades 
 - Suíça permite até 20% THC aos 18+ sem declínio detectado em ensaios científicos (Züri Can 2021-2025)
 
 \newpage
+\newpage
 
-# COMO CHEGÁMOS AQUI? — Contexto Histórico da Proibição {-}
-
-## Pré-Proibição: Cannabis antes dos Tratados Internacionais (até 1970)
-
-### O Cânhamo na História Marítima Portuguesa
-
-**Cannabis/cânhamo foi central para os Descobrimentos portugueses.** Durante séculos, o cânhamo industrial foi cultivado extensivamente em Portugal (principalmente vales do Tejo e Mondego) para produção de fibras têxteis — as mais resistentes fibras naturais conhecidas, superiores ao algodão.
-
-**As caravelas dos Descobrimentos dependiam de cânhamo:**
-
-* **Velas:** Tecido resistente de cânhamo (hemp canvas), mais durável que linho, essencial para longas viagens oceânicas
-* **Cordas e enxárcia:** Todas as cordas a bordo eram de cânhamo — única fibra resistente à água salgada e apodrecimento
-* **Calafetagem:** Fibras de cânhamo usadas para vedar juntas do casco
-
-**Exemplos históricos documentados:**
-
-* **Cristóvão Colombo (1492):** Navegou para América com **80 toneladas** de velas e cordas de cânhamo
-* **Fernão de Magalhães (séc. XVI):** Circum-navegou globo usando velas e enxárcia de cânhamo
-* **Chegada ao Brasil (1500):** Caravelas portuguesas tinham cordas e velas de cânhamo [@releaf2023; @jodope2024; @topshelfhemp2024]
-
-### Cultivo Obrigatório: Política Régia de Cânhamo
-
-**Portugal não apenas permitia, mas EXIGIA cultivo de cânhamo:**
-
-* **D. João IV (séc. XVI):** Tornou **obrigatório** o cultivo de cânhamo em território português para restaurar navios após guerra com Espanha
-* **D. João V:** Emitiu decreto encorajando produção de cânhamo
-* **Estado Novo (até 1961):** Cultivo de cânhamo **continuou obrigatório** em certas áreas do país para indústria têxtil [@releaf2023]
-
-**Ironia histórica brutal:** Cânhamo foi obrigatório até 1961, proibido em 1970 — **apenas 9 anos** separam mandato régio de criminalização. Portugal eliminou por pressão externa uma planta essencial à sua história nacional.
-
-### Uso Medicinal Tradicional
-
-Além do uso industrial, cannabis foi registada em **farmacopeias europeias desde século XIX** como planta medicinal para várias condições (dor, insónia, espasmos). O uso recreativo existia mas era marginal e não criminalizado.
-
-### Mudança de Paradigma Global (1960-1970s)
-
-Nos anos 1960-1970, sob pressão política dos EUA (Richard Nixon lançou a "War on Drugs" em 1971), a Organização das Nações Unidas promoveu três convenções internacionais que estabeleceram o regime proibicionista moderno:
-
-* **Convenção Única sobre Estupefacientes (1961)** — classificou cannabis na Schedule I e IV (substâncias "sem valor medicinal" e "particularmente perigosas")
-* **Convenção sobre Substâncias Psicotrópicas (1971)** — reforçou controlo sobre substâncias sintéticas e THC
-* **Convenção contra o Tráfico Ilícito (1988)** — criminalizou produção, distribuição e posse para consumo
-
-Estes tratados estabeleceram um **regime legal vinculativo** para Estados signatários, pressionando países a adoptarem legislação proibicionista mesmo sem evidência científica de necessidade.
-
-## A Proibição em Portugal: Decreto-Lei 420/70 (1970-1983)
-
-Portugal implementou a proibição da cannabis através do **Decreto-Lei n.º 420/70, de 3 de Setembro de 1970**, a primeira lei moderna de fiscalização de estupefacientes e substâncias psicotrópicas [@camara2015].
-
-**Contexto político:**
-
-* **Regime Estado Novo (1933-1974):** A lei foi aprovada nos últimos anos da ditadura salazarista/marcelista
-* **Pressão internacional:** Portugal ratificou a Convenção Única da ONU de 1961 em **Dezembro de 1971**, pouco depois da entrada em vigor da lei 420/70
-* **Influência dos EUA:** A "War on Drugs" de Nixon (iniciada Junho 1971) pressionou aliados da NATO a adoptarem leis similares
-
-**Evolução legislativa pós-tratados:**
-
-* **1979:** Portugal ratifica a Convenção sobre Substâncias Psicotrópicas (1971) em **Abril de 1979**
-* **1983:** Aprovação de legislação actualizada para incorporar plenamente as obrigações dos tratados ONU
-
-**Resultado:** Durante quase **30 anos (1970-2000)**, Portugal manteve um regime plenamente **criminalizador** do consumo, posse e tráfico de cannabis, alinhado com os tratados internacionais mas sem adaptação à realidade nacional.
-
-## Descriminalização 2000: Portugal Desafia o Consenso Internacional
-
-Em **2000-2001**, Portugal tornou-se pioneiro global ao **descriminalizar** (não legalizar) o consumo e posse de todas as drogas através da **Lei 30/2000, de 29 de Novembro**.
-
-**Contexto político crucial:**
-
-* **Governo:** António Guterres (PS) como Primeiro-Ministro com **115 deputados** (1 lugar antes da maioria absoluta)
-* **Presidente:** Jorge Sampaio (PS, 1996-2006), garantindo coerência institucional
-* **Comissão de peritos:** 11 especialistas (médicos, juristas, sociólogos) nomeados em **1998**, trabalharam 18 meses, relatório publicado **1999**
-* **Figuras-chave:** Alexandre Quintanilha (presidente da comissão), João Goulão (coordenador nacional antidroga), entre outros
-
-**Resistência política:**
-
-* **Oposição feroz da direita parlamentar:** CDS-PP liderou campanha contra "legalização das drogas" (termo deliberadamente enganoso — lei descriminalizava, não legalizava)
-* **Basílio Horta (CDS):** Exigiu referendo, argumentando que a lei "vai alterar profundamente o modelo de sociedade"
-* **Aprovação garantida:** PS tinha apoio suficiente (115/230 deputados) para aprovar sem maioria absoluta, ultrapassando oposição
-
-**Fundamentação da mudança:**
-
-* **Evidência de fracasso:** Regime punitivo não reduziu consumo, criminalizava toxicodependentes, sobrecarregava sistema prisional
-* **Abordagem de saúde pública:** Transferir resposta de sistema judicial para sistema de saúde (Comissões para a Dissuasão da Toxicodependência)
-* **Pragmatismo:** Reconhecimento que criminalizar consumidores era ineficaz e contraproducente
-
-**Resultado histórico:** Lei entrou em vigor **Julho 2001**. Vinte e cinco anos depois (2026), o modelo português é **referência mundial** [@parlamento2000lei30; @springer2021pt; @transform2016pt]:
-
-* Consumo de drogas **não aumentou** (previsão catastrofista da oposição nunca se concretizou)
-* Mortes relacionadas com drogas **reduziram 80%** (2001-2012)
-* Portugal passou de um dos países com maior prevalência VIH/SIDA entre consumidores (1999) para um dos mais baixos da Europa
-
-**Lição estratégica para 2026:** Portugal **já desafiou com sucesso** o consenso internacional proibicionista uma vez. A descriminalização de 2000 era igualmente controversa, enfrentou oposição similar, mas provou que **pragmatismo baseado em evidência** supera dogmatismo punitivo.
-
-## Cannabis Medicinal 2018: O Paradoxo Moderno
-
-Em **2018**, Portugal legalizou o **uso medicinal da cannabis** através da **Lei n.º 33/2018, de 18 de Julho**.
-
-**Timeline de implementação:**
-
-* **15 Junho 2018:** Aprovação parlamentar (votação transversal, apoio PS, BE, PCP, PAN, Os Verdes; abstenção PSD, CDS)
-* **1 Julho 2018:** Lei entra em vigor
-* **15 Janeiro 2019:** Decreto-Lei n.º 8/2019 estabelece framework de implementação (prescrição, cultivo, distribuição)
-* **31 Janeiro 2019:** Portaria n.º 44-A/2019 define sistema de preços
-* **15 Abril 2021:** Portaria n.º 83/2021 completa regulamentação (supervisão INFARMED)
-
-**Autoridades e entidades:**
-
-* **INFARMED** (Autoridade Nacional do Medicamento e Produtos de Saúde I.P.) — supervisiona todas as actividades relacionadas com cannabis medicinal
-* **Licenças emitidas (até 2022):** 20 autorizações de cultivo, 8 autorizações de fabrico
-
-**O paradoxo actual (2024-2026):**
-
-* **Exportações:** Portugal é o **2.º maior exportador mundial** — 32.558 kg em 2024, ultrapassados nos primeiros 8 meses de 2025 [@infarmed2024; @euronews2024]
-* **Prescrições internas:** Apenas **1.157 prescrições** em 2023 (~17 kg), representando **0,05% da produção** [@eco2024; @cannareporter2024]
-* **Uso recreativo:** Estimativa **540.000-900.000 utilizadores** em Portugal, 95% via mercado negro [@sicad2022prevalence; @cannareporter2025medicinal]
-* **Criminalização persistente:** 75% dos processos CDT por drogas são consumidores ocasionais de cannabis [@sicad2018condenacoes; @dn2020condenacoes]
-
-**Contradição legal absurda:**
-
-* ✅ **Legal:** Produzir 32+ toneladas para exportação (lucro privado)
-* ✅ **Legal:** Prescrever cannabis a doentes (acesso restrito, €150/mês sem comparticipação SNS)
-* ❌ **Ilegal:** Adulto consumir cannabis recreativamente (mercado negro descontrolado, 95% dos utilizadores)
-* ❌ **Criminalizado:** Consumidores ocasionais (75% dos processos CDT por drogas)
-
-## Conclusão: Hora de Resolver a Contradição
-
-A história mostra **quatro momentos decisivos** que revelam o absurdo da proibição:
-
-1. **Séculos pré-1961:** Cânhamo foi **planta estratégica nacional** — cultivo obrigatório por decreto régio, essencial aos Descobrimentos (80 toneladas em cada caravela). Portugal construiu império marítimo dependendo desta planta
-
-2. **1961-1970:** Em **9 anos**, Portugal passa de cultivo obrigatório (até 1961) para proibição total (1970) — não por decisão nacional baseada em evidência, mas por **pressão externa** (tratados ONU, "War on Drugs" dos EUA). Absurdo histórico: eliminar planta central à identidade portuguesa
-
-3. **2000:** Portugal **desafia consenso internacional** com descriminalização — oposição política prevê catástrofe, mas modelo torna-se **referência mundial** 25 anos depois. Prova que pragmatismo supera dogmatismo
-
-4. **2018:** Portugal legaliza cannabis medicinal mas mantém recreativa criminalizada — **contradição insustentável** que beneficia exportadores privados (32+ toneladas/ano) enquanto criminaliza centenas de consumidores (75% dos processos CDT por drogas)
-
-**A proposta de regulação do uso adulto em 2026 não é radicalismo.** É a **conclusão lógica** de um processo histórico absurdo:
-
-* **Ironia histórica:** Planta que alimentou Descobrimentos (obrigatória até 1961) é criminalizada 9 anos depois por pressão externa
-* **Evidência científica:** Se cannabis tem valor medicinal reconhecido (2018), não pode estar na Schedule I da ONU (1961: "sem valor medicinal")
-* **Precedente de sucesso:** Se descriminalização (2000) foi eficaz reduzindo danos, regulação completa pode ser ainda mais eficaz
-* **Hipocrisia económica:** Se Portugal exporta 99,95% da produção (2024), proibir consumo interno é indefensável
-* **Falha de saúde pública:** Se 95% dos utilizadores compram no mercado negro, estamos a falhar protecção de centenas de milhares de portugueses
-
-**Portugal já provou duas vezes (Descobrimentos, descriminalização 2000) que pragmatismo português supera dogmatismos externos.** A regulação proposta é o próximo passo dessa mesma lógica histórica — recuperar soberania nacional sobre uma planta que sempre foi parte da nossa história.
+# PILAR 1: CANNABIS MEDICINAL (prioridade imediata)
 
 ## Cannabis Medicinal (prioridade imediata)
 * Comparticipação pelo SNS dos medicamentos à base de cannabis para indicações aprovadas [@euronews2024]
@@ -2183,9 +1955,9 @@ Alemanha desenhou o CanG 2024 como **sistema two-pillar**:
 **Benefícios Fase 1 standalone (sem venda comercial):**
 * Captura 40-50% mercado ilegal (dados Uruguay clubes, PT com autocultivo adicional)
 * ROI 120-753% via poupanças enforcement (não receitas fiscais)
-* Protecção juvenil (Colorado -42%, Canadá: dados iniciais mostram queda juvenil, dados recentes CCS mostram ligeiro aumento 16-19 anos — interpretação disputada)
+* Protecção juvenil (Colorado -42%; Canadá — dados disputados, ver Secção 3.5)
 * Produtos testados vs. mercado negro contaminado (94% pesticidas)
-* Redução criminalização (75% processos CDT por drogas são cannabis)
+* Redução criminalização (75% processos CDT envolvem cannabis)
 
 **Fase 2 adiciona mas não essencial:**
 * Captura 70-95% mercado ilegal (dados Canadá comercial)
@@ -3173,7 +2945,7 @@ A comparticipação selectiva, combinada com acesso regulado (autocultivo/clubes
 
 **O que a evidência mostra sobre protecção juvenil na regulação:**
 
-* **Canadá:** Dados iniciais mostraram queda 15-17 anos (19,8%→10,4%, 2018→2019) [@statcan2019youth], embora dados mais recentes mostrem estabilização. Statistics Canada conclui: consumo juvenil "has not increased with legalization"
+* **Canadá:** Consumo entre 15-17 anos **desceu de 19,8% para 10,4%** após legalização (2018-2019) [@statcan2019youth; @statcan2021cannabis]
 * **Colorado:** Consumo em adolescentes **desceu de 22% (2011) para 12,8% (2023)** — redução de 42% [@mpp2024colorado; @cdc2023yrbs]
 * **Meta-análise JAMA Pediatrics:** Leis de cannabis medicinal **não aumentaram consumo juvenil** nos EUA [@sarvet2018jama]
 * **Alemanha:** Clubes sociais incluem medidas específicas de protecção juvenil [@bundesgesundheit2024cannabis]
@@ -3187,7 +2959,7 @@ A regulação não normaliza — **oferece controlo**. O mercado negro não pede
 * Doentes pagam €150/mês sem comparticipação [@drug2024]
 * Apenas 1.157 prescrições em 2023 vs. 32.558 kg exportados [@infarmed2024prescricoes; @eco2024cannabis]
 * Clubes sociais (modelo alemão): sem fins lucrativos, 200m escolas, oficial prevenção, THC limitado [@bundesgesundheit2024cannabis]
-* Canadá: consumo juvenil 15-17 anos não aumentou pós-legalização — dados iniciais mostraram queda de 19,8% para 10,4% (2018→2019) [@statcan2019youth], embora dados subsequentes (Canadian Cannabis Survey 2024) mostrem estabilização, não declínio sustentado. Statistics Canada conclui: "use among 15-to-17-year-olds has not increased with legalization"
+* Canadá: dados iniciais (NCS, 15-17 anos) mostraram queda de 19,8% para 10,4%, mas dados mais recentes (CCS, 16-19 anos) mostram aumento de 36% para 41-43% (2018-2024) — interpretação disputada [@statcan2019youth]
 * Colorado: consumo adolescente **↓ 42%** (22%→12,8%) pós-legalização [@mpp2024colorado; @cdphe2024monitoring]
 * Meta-análise: leis cannabis medicinal não aumentaram uso juvenil [@sarvet2018jama]
 * **Princípio:** Medicinal e recreativo são objectivos distintos com mecanismos diferentes — misturá-los é desinformação
