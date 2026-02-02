@@ -41,7 +41,7 @@ Portugal **exporta 32.558 kg** de cannabis medicinal (2024) mas emite apenas **1
 **Evidência internacional de eficácia:**
 
 - Colorado (2014, 10+ anos dados): consumo juvenil -42% (nota: tendência nacional similar -38%, ver Secção 3.5)
-- Canadá (2018, 6 anos dados): consumo juvenil (15-17 anos) não aumentou pós-legalização [@statcan2019youth]; dados iniciais mostraram queda de 19,8% para 10,4% (2018→2019), mas dados subsequentes mostram estabilização — Statistics Canada conclui "use among 15-to-17-year-olds has not increased with legalization"
+- Canadá (2018, 6 anos dados): consumo juvenil (15-17 anos) não aumentou pós-legalização [@statcan2019youth]; dados iniciais (NCS, 15-17 anos) mostraram queda de 19,8% para 10,4% (2018→2019), mas dados mais recentes (CCS, 16-19 anos) mostram ligeiro aumento de 36% para 41-43% entre 2018-2024 — interpretação disputada. Statistics Canada conclui "use among 15-to-17-year-olds has not increased with legalization"
 - Alemanha (2024, framework legislativo): 357 clubes aprovados (Nov 2025), dados eficácia insuficientes (<1 ano)
 
 ### FASE 3: Cânhamo Industrial
@@ -128,13 +128,13 @@ Este documento propõe que o LIVRE assuma uma posição clara e proactiva sobre 
 
 * **Objectivo:** **Proteger os 95% que já consomem** via mercado negro [@cannareporter2025medicinal], não promover novos consumidores
 * **Problema actual:**
-  * 75% das condenações por drogas são consumidores ocasionais de cannabis [@sicad2018condenacoes; @dn2020condenacoes]
+  * 75% dos processos por drogas (CDT) são consumidores ocasionais de cannabis [@sicad2018condenacoes; @dn2020condenacoes]
   * Mercado negro com sintéticos perigosos: 18 novos canabinóides identificados em 2024, alguns **800x mais potentes** que THC [@euda2025nps]
   * Potência continua a subir: resina 8% (2006)→17% (2016)→**24.8% (2022)** THC, herbal estabilizou em ~10% [@freeman2019potency; @euda2024cannabis]
   * Mercado ilegal de €52-151M/ano sem qualquer controlo de qualidade [@ribeiro2024economic]
   * **Catástrofe ambiental:** Cultivo indoor clandestino gera **2.300-5.200 kg CO₂/kg** — 23-52x pior que carne de vaca [@summers2021cannabis]
 * **Solução:** Clubes sociais sem fins lucrativos + autocultivo regulado = produtos testados, verificação idade, informação clara, cultivo sustentável outdoor/regenerativo (modelo alemão [@bundesgesundheit2024cannabis])
-* **Protecção juvenil comprovada:** Canadá — consumo juvenil (15-17 anos) não aumentou pós-legalização [@statcan2019youth], Colorado -42% [@mpp2024colorado] (nota: tendência nacional similar, ver Secção 3.5)
+* **Protecção juvenil comprovada:** Canadá — dados iniciais (NCS, 15-17 anos) mostraram queda pós-legalização [@statcan2019youth], embora dados mais recentes (CCS, 16-19 anos) mostrem ligeiro aumento de 36% para 41-43% (2018-2024) — interpretação disputada. Colorado -42% [@mpp2024colorado] (nota: tendência nacional similar, ver Secção 3.5)
 * **Consenso:** Exige debate mais alargado, evidência dos resultados da Fase 1, mas fundamentação é **saúde pública** (não receitas fiscais)
 
 ### Pilar complementar: Cânhamo Industrial
@@ -202,7 +202,7 @@ A Alemanha desenhou o CanG 2024 como **sistema two-pillar** (clubes não-comerci
 
 **Dados de criminalização (SICAD 2018, Diário de Notícias 2020):**
 
-* **75% de todas as condenações por drogas** em Portugal são por cannabis [@sicad2018condenacoes; @dn2020condenacoes]
+* **75% de todos os processos por drogas (CDT)** em Portugal são por cannabis [@sicad2018condenacoes; @dn2020condenacoes]
 * **86% dos indiciados** têm perfil "não toxicodependente" — são consumidores ocasionais criminalizados, não pessoas com dependência [@cannareporter2023legalization]
 * **95% dos utilizadores** portugueses usa cannabis ilegal (mercado negro) [@cannareporter2025medicinal]
 * Mercado negro estimado em **36-58 toneladas/ano**, potencial receita fiscal €52-151M [@ribeiro2024economic]
@@ -295,7 +295,7 @@ O modelo de cultivo indoor dominante no mercado negro (e em alguns mercados lega
 
 **3. Redução de custos sociais:**
 
-* **Menos processos judiciais:** 75% das condenações por drogas são cannabis [@sicad2018condenacoes]
+* **Menos processos judiciais:** 75% dos processos CDT por drogas são cannabis [@sicad2018condenacoes]
 * **Menos urgências hospitalares:** produtos testados vs. sintéticos perigosos [@euda2024threat]
 * **Recursos policiais libertados:** foco em crime grave, não consumidores ocasionais
 * **Menos pessoas com registo criminal** por consumo pessoal de cannabis
@@ -323,7 +323,7 @@ O LIVRE defende **redução de danos** para substâncias psicoactivas. Cannabis 
 **É para:**
 - ✅ **Proteger quem já consome** (95% da população utilizadora [@cannareporter2025medicinal])
 - ✅ **Reduzir danos:** produtos testados vs. sintéticos perigosos 800x mais potentes [@euda2025nps]
-- ✅ **Descriminalizar:** 75% das condenações são consumidores ocasionais [@sicad2018condenacoes; @dn2020condenacoes]
+- ✅ **Descriminalizar:** 75% dos processos CDT são consumidores ocasionais [@sicad2018condenacoes; @dn2020condenacoes]
 - ✅ **Controlar potência:** THC rotulado vs. mercado negro com resina a 24.8% THC sem rotulagem [@euda2024cannabis]
 - ✅ **Financiar prevenção:** €20-40M/ano (transição gradual OE→poupanças enforcement) para tratamento
 - ✅ **Retirar rendimento ao crime:** €52-151M/ano para clubes licenciados sem fins lucrativos [@ribeiro2024economic]
@@ -460,14 +460,14 @@ Em **2018**, Portugal legalizou o **uso medicinal da cannabis** através da **Le
 * **Exportações:** Portugal é o **2.º maior exportador mundial** — 32.558 kg em 2024, ultrapassados nos primeiros 8 meses de 2025 [@infarmed2024; @euronews2024]
 * **Prescrições internas:** Apenas **1.157 prescrições** em 2023 (~17 kg), representando **0,05% da produção** [@eco2024; @cannareporter2024]
 * **Uso recreativo:** Estimativa **540.000-900.000 utilizadores** em Portugal, 95% via mercado negro [@sicad2022prevalence; @cannareporter2025medicinal]
-* **Criminalização persistente:** 75% das condenações por drogas são consumidores ocasionais de cannabis [@sicad2018condenacoes; @dn2020condenacoes]
+* **Criminalização persistente:** 75% dos processos CDT por drogas são consumidores ocasionais de cannabis [@sicad2018condenacoes; @dn2020condenacoes]
 
 **Contradição legal absurda:**
 
 * ✅ **Legal:** Produzir 32+ toneladas para exportação (lucro privado)
 * ✅ **Legal:** Prescrever cannabis a doentes (acesso restrito, €150/mês sem comparticipação SNS)
 * ❌ **Ilegal:** Adulto consumir cannabis recreativamente (mercado negro descontrolado, 95% dos utilizadores)
-* ❌ **Criminalizado:** Consumidores ocasionais (75% das condenações por drogas)
+* ❌ **Criminalizado:** Consumidores ocasionais (75% dos processos CDT por drogas)
 
 ## Conclusão: Hora de Resolver a Contradição
 
@@ -479,7 +479,7 @@ A história mostra **quatro momentos decisivos** que revelam o absurdo da proibi
 
 3. **2000:** Portugal **desafia consenso internacional** com descriminalização — oposição política prevê catástrofe, mas modelo torna-se **referência mundial** 25 anos depois. Prova que pragmatismo supera dogmatismo
 
-4. **2018:** Portugal legaliza cannabis medicinal mas mantém recreativa criminalizada — **contradição insustentável** que beneficia exportadores privados (32+ toneladas/ano) enquanto criminaliza centenas de consumidores (75% das condenações por drogas)
+4. **2018:** Portugal legaliza cannabis medicinal mas mantém recreativa criminalizada — **contradição insustentável** que beneficia exportadores privados (32+ toneladas/ano) enquanto criminaliza centenas de consumidores (75% dos processos CDT por drogas)
 
 **A proposta de regulação do uso adulto em 2026 não é radicalismo.** É a **conclusão lógica** de um processo histórico absurdo:
 
@@ -2042,9 +2042,9 @@ Alemanha desenhou o CanG 2024 como **sistema two-pillar**:
 **Benefícios Fase 1 standalone (sem venda comercial):**
 * Captura 40-50% mercado ilegal (dados Uruguay clubes, PT com autocultivo adicional)
 * ROI 120-753% via poupanças enforcement (não receitas fiscais)
-* Protecção juvenil (Colorado -42%, Canadá: consumo juvenil não aumentou)
+* Protecção juvenil (Colorado -42%, Canadá: dados iniciais mostram queda juvenil, dados recentes CCS mostram ligeiro aumento 16-19 anos — interpretação disputada)
 * Produtos testados vs. mercado negro contaminado (94% pesticidas)
-* Redução criminalização (75% condenações drogas são cannabis)
+* Redução criminalização (75% processos CDT por drogas são cannabis)
 
 **Fase 2 adiciona mas não essencial:**
 * Captura 70-95% mercado ilegal (dados Canadá comercial)
