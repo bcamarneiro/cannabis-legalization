@@ -13,10 +13,10 @@
 Portugal **exporta 32.558 kg** de cannabis medicinal (2024) mas emite apenas **1.157 prescrições** internas. Doentes pagam **€150/mês** sem comparticipação SNS.
 
 **Uso recreativo:** 95% via mercado negro (€52-151M/ano) com:
-- **Sintéticos perigosos** (800x mais potentes que THC)
+- **Sintéticos perigosos** (até 800x mais potentes que THC [@oasas2024synthetic])
 - **Potência duplicada** sem rotulagem
 - **Catástrofe ambiental:** Cultivo indoor clandestino gera 2.300-5.200 kg CO₂/kg (outdoor reduz 99%)
-- **75% das condenações** por drogas são consumidores ocasionais de cannabis
+- **75% dos processos por drogas** (CDT) envolvem consumidores de cannabis
 
 ## O que Propomos
 
@@ -40,8 +40,8 @@ Portugal **exporta 32.558 kg** de cannabis medicinal (2024) mas emite apenas **1
 
 **Evidência internacional de eficácia:**
 
-- Colorado (2014, 10+ anos dados): consumo juvenil -42%
-- Canadá (2018, 6 anos dados): consumo juvenil (15-17 anos) -48%
+- Colorado (2014, 10+ anos dados): consumo juvenil -42% (nota: tendência nacional similar -38%, ver Secção 3.5)
+- Canadá (2018, 6 anos dados): consumo juvenil (15-17 anos) não aumentou pós-legalização [@statcan2019youth]; dados iniciais mostraram queda de 19,8% para 10,4% (2018→2019), mas dados subsequentes mostram estabilização — Statistics Canada conclui "use among 15-to-17-year-olds has not increased with legalization"
 - Alemanha (2024, framework legislativo): 357 clubes aprovados (Nov 2025), dados eficácia insuficientes (<1 ano)
 
 ### FASE 3: Cânhamo Industrial
@@ -134,7 +134,7 @@ Este documento propõe que o LIVRE assuma uma posição clara e proactiva sobre 
   * Mercado ilegal de €52-151M/ano sem qualquer controlo de qualidade [@ribeiro2024economic]
   * **Catástrofe ambiental:** Cultivo indoor clandestino gera **2.300-5.200 kg CO₂/kg** — 23-52x pior que carne de vaca [@summers2021cannabis]
 * **Solução:** Clubes sociais sem fins lucrativos + autocultivo regulado = produtos testados, verificação idade, informação clara, cultivo sustentável outdoor/regenerativo (modelo alemão [@bundesgesundheit2024cannabis])
-* **Protecção juvenil comprovada:** Canadá -48% (15-17 anos) [@statcan2019youth], Colorado -42% [@mpp2024colorado]
+* **Protecção juvenil comprovada:** Canadá — consumo juvenil (15-17 anos) não aumentou pós-legalização [@statcan2019youth], Colorado -42% [@mpp2024colorado] (nota: tendência nacional similar, ver Secção 3.5)
 * **Consenso:** Exige debate mais alargado, evidência dos resultados da Fase 1, mas fundamentação é **saúde pública** (não receitas fiscais)
 
 ### Pilar complementar: Cânhamo Industrial
@@ -234,7 +234,7 @@ A Alemanha desenhou o CanG 2024 como **sistema two-pillar** (clubes não-comerci
 **1. Canabinóides sintéticos perigosos:**
 
 * **18 novos canabinóides semi-sintéticos** identificados em 2024 [@euda2025nps]
-* Alguns são **2 a 800 vezes mais potentes** que THC natural [@euda2025nps]
+* Alguns são **2 a 800 vezes mais potentes** que THC natural [@oasas2024synthetic; @euda2025nps]
 * **HHC** (hexahydrocannabinol) e derivados vendidos como "alternativas legais" reportados em **27 países europeus**, controlados em 22 Estados-Membros [@euda2025nps]
 * **Hungria reportou 30 intoxicações agudas** por gomas adulteradas com sintéticos em 2024 [@euda2024threat]
 
@@ -908,7 +908,7 @@ Espanha não legalizou cannabis, mas tolera ~800-1.000 clubes sociais numa "áre
 
 * **Monitoring the Future (Univ. Michigan):** Declínio nacional de **38% nos 8º e 10º anos, 13% no 12º ano** entre 2013-2023 [@monitoringthefuture2023] — padrão semelhante ao Colorado
 * **Confounds não mencionados:** Mudanças geracionais nas atitudes face a drogas, campanhas anti-tabagismo/vaping (que também afectam cannabis), aumento do financiamento de prevenção a nível nacional, mudanças metodológicas nos surveys pós-COVID-19
-* **Canadá (contra-exemplo parcial):** Também viu declínio (15-17 anos: 19,8%→10,4%), mas magnitude diferente sugere factores locais além da legalização [@statcan2019youth]
+* **Canadá:** Dados iniciais (2018→2019) mostraram declínio 15-17 anos (19,8%→10,4%), mas dados mais recentes (Canadian Cannabis Survey 2024) mostram estabilização ou ligeiro aumento em faixas mais amplas (16-19 anos: 36%→43%, 2018→2023). Statistics Canada conclui que consumo juvenil "has not increased with legalization" [@statcan2019youth] — interpretação mais defensável que declínio sustentado
 
 **Interpretação honesta:**
 
@@ -2042,7 +2042,7 @@ Alemanha desenhou o CanG 2024 como **sistema two-pillar**:
 **Benefícios Fase 1 standalone (sem venda comercial):**
 * Captura 40-50% mercado ilegal (dados Uruguay clubes, PT com autocultivo adicional)
 * ROI 120-753% via poupanças enforcement (não receitas fiscais)
-* Protecção juvenil (Colorado -42%, Canadá -48%)
+* Protecção juvenil (Colorado -42%, Canadá: consumo juvenil não aumentou)
 * Produtos testados vs. mercado negro contaminado (94% pesticidas)
 * Redução criminalização (75% condenações drogas são cannabis)
 
@@ -2994,7 +2994,7 @@ A comparticipação selectiva, combinada com acesso regulado (autocultivo/clubes
 
 **O que a evidência mostra sobre protecção juvenil na regulação:**
 
-* **Canadá:** Consumo entre 15-17 anos **desceu de 19,8% para 10,4%** após legalização (2018-2019) [@statcan2019youth; @statcan2021cannabis]
+* **Canadá:** Dados iniciais mostraram queda 15-17 anos (19,8%→10,4%, 2018→2019) [@statcan2019youth], embora dados mais recentes mostrem estabilização. Statistics Canada conclui: consumo juvenil "has not increased with legalization"
 * **Colorado:** Consumo em adolescentes **desceu de 22% (2011) para 12,8% (2023)** — redução de 42% [@mpp2024colorado; @cdc2023yrbs]
 * **Meta-análise JAMA Pediatrics:** Leis de cannabis medicinal **não aumentaram consumo juvenil** nos EUA [@sarvet2018jama]
 * **Alemanha:** Clubes sociais incluem medidas específicas de protecção juvenil [@bundesgesundheit2024cannabis]
@@ -3008,7 +3008,7 @@ A regulação não normaliza — **oferece controlo**. O mercado negro não pede
 * Doentes pagam €150/mês sem comparticipação [@drug2024]
 * Apenas 1.157 prescrições em 2023 vs. 32.558 kg exportados [@infarmed2024prescricoes; @eco2024cannabis]
 * Clubes sociais (modelo alemão): sem fins lucrativos, 200m escolas, oficial prevenção, THC limitado [@bundesgesundheit2024cannabis]
-* Canadá: consumo juvenil 15-17 **↓ 48%** (19,8%→10,4%) pós-legalização [@statcan2019youth]
+* Canadá: consumo juvenil 15-17 anos não aumentou pós-legalização — dados iniciais mostraram queda de 19,8% para 10,4% (2018→2019) [@statcan2019youth], embora dados subsequentes (Canadian Cannabis Survey 2024) mostrem estabilização, não declínio sustentado. Statistics Canada conclui: "use among 15-to-17-year-olds has not increased with legalization"
 * Colorado: consumo adolescente **↓ 42%** (22%→12,8%) pós-legalização [@mpp2024colorado; @cdphe2024monitoring]
 * Meta-análise: leis cannabis medicinal não aumentaram uso juvenil [@sarvet2018jama]
 * **Princípio:** Medicinal e recreativo são objectivos distintos com mecanismos diferentes — misturá-los é desinformação
