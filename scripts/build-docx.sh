@@ -6,7 +6,7 @@ SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 PROJECT_DIR="$(dirname "$SCRIPT_DIR")"
 CHAPTERS_DIR="$PROJECT_DIR/chapters"
 OUTPUT_DOCX="$PROJECT_DIR/output/Documento_Cannabis.docx"
-CSL_STYLE="$PROJECT_DIR/assets/templates/csl/apa.csl"
+CSL_STYLE="$PROJECT_DIR/ieee.csl"
 
 # Criar pasta output
 mkdir -p "$PROJECT_DIR/output"
@@ -25,11 +25,10 @@ echo "   Fonte: $SOURCE_LABEL (${#SOURCE_FILES[@]} ficheiros)"
 echo "   Destino: $OUTPUT_DOCX"
 echo ""
 
-# Download CSL se não existir (estilo APA)
+# Verificar que CSL existe
 if [[ ! -f "$CSL_STYLE" ]]; then
-    echo "📥 Downloading APA citation style..."
-    mkdir -p "$PROJECT_DIR/assets/templates/csl"
-    curl -sL https://raw.githubusercontent.com/citation-style-language/styles/master/apa.csl -o "$CSL_STYLE"
+    echo "❌ CSL style not found: $CSL_STYLE"
+    exit 1
 fi
 
 # Preprocessar Markdown

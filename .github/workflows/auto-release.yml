@@ -6,6 +6,7 @@ on:
     paths:
       - 'documento.md'
       - 'references.bib'
+      - 'chapters/**'
 
 jobs:
   auto-release:
