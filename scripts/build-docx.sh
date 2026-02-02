@@ -4,15 +4,24 @@ set -euo pipefail
 # Configuração
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 PROJECT_DIR="$(dirname "$SCRIPT_DIR")"
-SOURCE_MD="$PROJECT_DIR/documento.md"
+CHAPTERS_DIR="$PROJECT_DIR/chapters"
 OUTPUT_DOCX="$PROJECT_DIR/output/Documento_Cannabis.docx"
 CSL_STYLE="$PROJECT_DIR/assets/templates/csl/apa.csl"
 
 # Criar pasta output
 mkdir -p "$PROJECT_DIR/output"
 
+# Recolher ficheiros fonte (chapters/ se existir, senão documento.md)
+if [[ -d "$CHAPTERS_DIR" ]]; then
+    SOURCE_FILES=("$CHAPTERS_DIR"/[0-9]*.md)
+    SOURCE_LABEL="chapters/"
+else
+    SOURCE_FILES=("$PROJECT_DIR/documento.md")
+    SOURCE_LABEL="documento.md"
+fi
+
 echo "📄 Convertendo Markdown → DOCX..."
-echo "   Fonte: $SOURCE_MD"
+echo "   Fonte: $SOURCE_LABEL (${#SOURCE_FILES[@]} ficheiros)"
 echo "   Destino: $OUTPUT_DOCX"
 echo ""
 
@@ -25,7 +34,7 @@ fi
 
 # Preprocessar Markdown
 TEMP_MD="/tmp/doc-clean-temp.md"
-sed 's/#heading=/#/' "$SOURCE_MD" > "$TEMP_MD"
+cat "${SOURCE_FILES[@]}" | sed 's/#heading=/#/' > "$TEMP_MD"
 
 # Conversão com Pandoc
 pandoc "$TEMP_MD" \

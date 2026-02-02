@@ -26,7 +26,12 @@
       "Bash(gh --version:*)",
       "Bash(gh auth:*)",
       "Bash(gh repo edit:*)",
-      "Bash(git rm:*)"
+      "Bash(git rm:*)",
+      "mcp__Desktop_Commander__list_directory",
+      "mcp__Desktop_Commander__read_file",
+      "mcp__Desktop_Commander__get_file_info",
+      "Bash(gh discussion list:*)",
+      "Bash(gh repo view:*)"
     ],
     "additionalDirectories": [
       "/Users/brunocamarneiro/Projects/civic-contributions/cannabis-legalization"
