@@ -1,3 +1,7 @@
+<!-- FICHEIRO AUTO-GERADO — NÃO EDITAR DIRECTAMENTE -->
+<!-- Fonte de verdade: chapters/*.md -->
+<!-- Regenerar com: bash scripts/merge-chapters.sh -->
+
 ---
 title: "Regulação da Cannabis em Portugal"
 subtitle: "Documento de Posição — LIVRE"
