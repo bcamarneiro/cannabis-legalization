@@ -174,7 +174,7 @@ Em **Agosto 2025**, governo suíço abriu **consulta pública sobre Lei de Produ
 | **Tributação** | IVA 7,7% apenas (pilotos), imposto específico proposto Lei 2026 | Sem impostos específicos cannabis Fase 1; IVA 23% obrigatório sobre quotas (clubes cost-recovery) |
 | **Coordenação federal** | OFSP supervisão centralizada, uniformidade standards | SICAD supervisão, INFARMED licensing |
 | **Duração avaliação** | 3-5 anos por piloto | 2 anos piloto → 3 anos avaliação (2027-2030) |
-| **Leakage mercado ilegal** | Zero detectado (~90% captura participantes) | Expectativa 40-50% captura nacional (modelo clubes) |
+| **Leakage mercado ilegal** | Zero detectado (~90% captura participantes) | Expectativa 30-45% captura nacional (modelo clubes — ver análise gap mercado) |
 
 ## Lições Aprendidas: O Que Portugal Pode Importar do Modelo Suíço
 

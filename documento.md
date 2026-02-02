@@ -737,7 +737,7 @@ Não podemos isolar o efeito causal da legalização vs. tendências nacionais. 
 **Expectativa realista para Portugal (modelo clubes sem registo biométrico):**
 
 * **Anos 1-2 (2027-2028):** 10-15% utilizadores migram para clubes (early adopters, programa piloto limitado)
-* **Anos 3-5 (2029-2031):** 40-50% mercado legal (expansão clubes, confiança estabelecida, sem barreiras privacidade)
+* **Anos 3-5 (2029-2031):** 30-45% mercado legal (expansão clubes, confiança estabelecida — estimativa optimista, ver análise gap mercado)
 * **Anos 6-10:** Estabilização 50-60% mercado legal com modelo clubes, ou transição para modelo comercial regulado (70-95% legal, dados Canadá) — **CONDICIONAL a:** (1) dados piloto positivos 2028-2030, (2) resolução conflitos lei UE/Schengen (Comissão Europeia bloqueou venda comercial Alemanha 2024-2025, requer coordenação multilateral), (3) renovação aprovação parlamentar. **Fase comercial pode nunca acontecer** se obstáculos legais UE persistirem. Modelo clubes standalone (Fase 1) já atinge objetivos principais harm reduction
 
 **Portugal pode ultrapassar Uruguai porque:**
@@ -2745,7 +2745,7 @@ Em **Agosto 2025**, governo suíço abriu **consulta pública sobre Lei de Produ
 | **Tributação** | IVA 7,7% apenas (pilotos), imposto específico proposto Lei 2026 | Sem impostos específicos cannabis Fase 1; IVA 23% obrigatório sobre quotas (clubes cost-recovery) |
 | **Coordenação federal** | OFSP supervisão centralizada, uniformidade standards | SICAD supervisão, INFARMED licensing |
 | **Duração avaliação** | 3-5 anos por piloto | 2 anos piloto → 3 anos avaliação (2027-2030) |
-| **Leakage mercado ilegal** | Zero detectado (~90% captura participantes) | Expectativa 40-50% captura nacional (modelo clubes) |
+| **Leakage mercado ilegal** | Zero detectado (~90% captura participantes) | Expectativa 30-45% captura nacional (modelo clubes — ver análise gap mercado) |
 
 ## Lições Aprendidas: O Que Portugal Pode Importar do Modelo Suíço
 
