@@ -7,7 +7,7 @@ export PATH="/Library/TeX/texbin:$PATH"
 # Configuração
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 PROJECT_DIR="$(dirname "$SCRIPT_DIR")"
-SOURCE_MD="$PROJECT_DIR/documento.md"
+CHAPTERS_DIR="$PROJECT_DIR/chapters"
 TEMPLATE_TEX="$PROJECT_DIR/assets/templates/template.tex"
 OUTPUT_PDF="$PROJECT_DIR/output/Documento_Cannabis.pdf"
 OUTPUT_TEX="$PROJECT_DIR/output/Documento_Cannabis.tex"
@@ -15,15 +15,25 @@ OUTPUT_TEX="$PROJECT_DIR/output/Documento_Cannabis.tex"
 # Criar pasta output
 mkdir -p "$PROJECT_DIR/output"
 
+# Recolher ficheiros fonte (chapters/ se existir, senão documento.md)
+if [[ -d "$CHAPTERS_DIR" ]]; then
+    SOURCE_FILES=("$CHAPTERS_DIR"/[0-9]*.md)
+    SOURCE_LABEL="chapters/"
+else
+    SOURCE_FILES=("$PROJECT_DIR/documento.md")
+    SOURCE_LABEL="documento.md"
+fi
+
 echo "📄 Convertendo Markdown → LaTeX → PDF..."
-echo "   Fonte: $SOURCE_MD"
+echo "   Fonte: $SOURCE_LABEL (${#SOURCE_FILES[@]} ficheiros)"
 echo "   Template: $TEMPLATE_TEX"
 echo "   Destino: $OUTPUT_PDF"
 echo ""
 
 # Preprocessar Markdown (remover emojis e limpar links)
 TEMP_MD="/tmp/doc-clean-temp.md"
-sed 's/#heading=/#/' "$SOURCE_MD" | \
+cat "${SOURCE_FILES[@]}" | \
+sed 's/#heading=/#/' | \
 sed 's/⚠️//g' | \
 sed 's/✅//g' | \
 sed 's/❌//g' | \

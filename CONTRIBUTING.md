@@ -18,12 +18,28 @@ Embora desenvolvido inicialmente no contexto do LIVRE, esta proposta pretende se
 
 ```
 cannabis-legalization/
-├── documento.md                 # Documento final completo (gerado automaticamente)
+├── chapters/                    # 📂 Capítulos individuais (SOURCE OF TRUTH)
+│   ├── 00-metadata.md           #   Metadados do documento
+│   ├── 01-sumario-executivo.md  #   Sumário executivo
+│   ├── 02-panorama-portugues.md #   Panorama português
+│   ├── ...                      #   (capítulos 03-16)
+│   └── 17-referencias.md        #   Referências
+├── documento.md                 # Documento completo (gerado por scripts/merge-chapters.sh)
 ├── references.bib               # Bibliografia (citações [@autor2024])
-├── scripts/build-pdf.sh         # Gera PDF a partir do documento.md
+├── scripts/
+│   ├── build-pdf.sh             # Gera PDF
+│   ├── build-docx.sh            # Gera DOCX
+│   └── merge-chapters.sh        # Regenera documento.md a partir dos capítulos
 ├── docs/TASKS.md                # Lista de vulnerabilidades/melhorias pendentes
 └── CONTRIBUTING.md              # Este ficheiro
 ```
+
+> **⚠️ Nota:** Os ficheiros em `chapters/` são a fonte de verdade. Edita sempre o capítulo
+> apropriado em vez de `documento.md` directamente. O `documento.md` é regenerado
+> automaticamente com `scripts/merge-chapters.sh`.
+>
+> **Convenção de numeração:** Os capítulos usam prefixo numérico `00`-`17` para garantir
+> a ordem correcta de concatenação (ex: `04-ciencia.md`, `08-pilar-recreativa.md`).
 
 ## 🎯 Como Escolher Uma Tarefa
 
@@ -204,9 +220,13 @@ cd cannabis-legalization
 git checkout -b fix/devil-2-germany-failure-rate
 ```
 
-### 2. Edita o Documento
+### 2. Edita o Capítulo Apropriado
 
-Abre [documento.md](documento.md) e faz as alterações necessárias.
+Abre o ficheiro correspondente em `chapters/` e faz as alterações necessárias.
+Por exemplo, para editar o modelo recreativo, edita `chapters/08-pilar-recreativa.md`.
+
+> **Não edites `documento.md` directamente** — é gerado automaticamente.
+> Após editar capítulos, regenera com: `bash scripts/merge-chapters.sh`
 
 **⚠️ IMPORTANTE sobre referências internas:**
 
@@ -293,7 +313,7 @@ xdg-open output/Documento_Cannabis.pdf  # Linux
 ### 5. Commit e Pull Request
 
 ```bash
-git add documento.md references.bib
+git add chapters/ references.bib
 git commit -m "Fix DEVIL 2: Acknowledge Germany 47% club failure rate
 
 - Adiciona contexto sobre 357 aprovados vs 190 operacionais
@@ -354,6 +374,8 @@ git push origin fix/devil-2-germany-failure-rate
 ## 🔍 Checklist Antes de Submeter
 
 - [ ] Li a vulnerabilidade/tarefa em [TASKS.md](docs/TASKS.md)
+- [ ] Editei o capítulo correcto em `chapters/` (não `documento.md`)
+- [ ] Regenerei `documento.md` com `bash scripts/merge-chapters.sh`
 - [ ] Minhas alterações addressam o problema identificado
 - [ ] Adicionei citações para claims novos
 - [ ] Testei compilação PDF (`./scripts/build-pdf.sh`)
