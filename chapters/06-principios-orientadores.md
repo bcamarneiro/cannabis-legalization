@@ -14,7 +14,7 @@
 
 **Dados de criminalização (SICAD 2018, Diário de Notícias 2020):**
 
-* **75% de todas as condenações por drogas** em Portugal são por cannabis [@sicad2018condenacoes; @dn2020condenacoes]
+* **75% de todos os processos por drogas (CDT)** em Portugal são por cannabis [@sicad2018condenacoes; @dn2020condenacoes]
 * **86% dos indiciados** têm perfil "não toxicodependente" — são consumidores ocasionais criminalizados, não pessoas com dependência [@cannareporter2023legalization]
 * **95% dos utilizadores** portugueses usa cannabis ilegal (mercado negro) [@cannareporter2025medicinal]
 * Mercado negro estimado em **36-58 toneladas/ano**, potencial receita fiscal €52-151M [@ribeiro2024economic]
@@ -107,7 +107,7 @@ O modelo de cultivo indoor dominante no mercado negro (e em alguns mercados lega
 
 **3. Redução de custos sociais:**
 
-* **Menos processos judiciais:** 75% das condenações por drogas são cannabis [@sicad2018condenacoes]
+* **Menos processos judiciais:** 75% dos processos por drogas (CDT) envolvem cannabis [@sicad2018condenacoes]
 * **Menos urgências hospitalares:** produtos testados vs. sintéticos perigosos [@euda2024threat]
 * **Recursos policiais libertados:** foco em crime grave, não consumidores ocasionais
 * **Menos pessoas com registo criminal** por consumo pessoal de cannabis
@@ -135,7 +135,7 @@ O LIVRE defende **redução de danos** para substâncias psicoactivas. Cannabis 
 **É para:**
 - ✅ **Proteger quem já consome** (95% da população utilizadora [@cannareporter2025medicinal])
 - ✅ **Reduzir danos:** produtos testados vs. sintéticos perigosos 800x mais potentes [@euda2025nps]
-- ✅ **Descriminalizar:** 75% das condenações são consumidores ocasionais [@sicad2018condenacoes; @dn2020condenacoes]
+- ✅ **Descriminalizar:** 75% dos processos (CDT) envolvem consumidores ocasionais [@sicad2018condenacoes; @dn2020condenacoes]
 - ✅ **Controlar potência:** THC rotulado vs. mercado negro com resina a 24.8% THC sem rotulagem [@euda2024cannabis]
 - ✅ **Financiar prevenção:** €20-40M/ano (transição gradual OE→poupanças enforcement) para tratamento
 - ✅ **Retirar rendimento ao crime:** €52-151M/ano para clubes licenciados sem fins lucrativos [@ribeiro2024economic]

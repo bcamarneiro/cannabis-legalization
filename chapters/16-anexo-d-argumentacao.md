@@ -237,7 +237,7 @@ A regulação não normaliza — **oferece controlo**. O mercado negro não pede
 * Doentes pagam €150/mês sem comparticipação [@drug2024]
 * Apenas 1.157 prescrições em 2023 vs. 32.558 kg exportados [@infarmed2024prescricoes; @eco2024cannabis]
 * Clubes sociais (modelo alemão): sem fins lucrativos, 200m escolas, oficial prevenção, THC limitado [@bundesgesundheit2024cannabis]
-* Canadá: consumo juvenil 15-17 **↓ 48%** (19,8%→10,4%) pós-legalização [@statcan2019youth]
+* Canadá: dados iniciais (NCS, 15-17 anos) mostraram queda de 19,8% para 10,4%, mas dados mais recentes (CCS, 16-19 anos) mostram aumento de 36% para 41-43% (2018-2024) — interpretação disputada [@statcan2019youth]
 * Colorado: consumo adolescente **↓ 42%** (22%→12,8%) pós-legalização [@mpp2024colorado; @cdphe2024monitoring]
 * Meta-análise: leis cannabis medicinal não aumentaram uso juvenil [@sarvet2018jama]
 * **Princípio:** Medicinal e recreativo são objectivos distintos com mecanismos diferentes — misturá-los é desinformação

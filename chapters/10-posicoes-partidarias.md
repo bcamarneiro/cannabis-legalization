@@ -131,9 +131,9 @@ Alemanha desenhou o CanG 2024 como **sistema two-pillar**:
 **Benefícios Fase 1 standalone (sem venda comercial):**
 * Captura 40-50% mercado ilegal (dados Uruguay clubes, PT com autocultivo adicional)
 * ROI 120-753% via poupanças enforcement (não receitas fiscais)
-* Protecção juvenil (Colorado -42%, Canadá -48%)
+* Protecção juvenil (Colorado -42%; Canadá — dados disputados, ver Secção 3.5)
 * Produtos testados vs. mercado negro contaminado (94% pesticidas)
-* Redução criminalização (75% condenações drogas são cannabis)
+* Redução criminalização (75% processos CDT envolvem cannabis)
 
 **Fase 2 adiciona mas não essencial:**
 * Captura 70-95% mercado ilegal (dados Canadá comercial)

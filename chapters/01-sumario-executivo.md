@@ -10,7 +10,7 @@ Portugal encontra-se numa posição paradoxal: é o segundo maior exportador mun
 - **Sintéticos perigosos** (800x mais potentes que THC)
 - **Potência duplicada** sem rotulagem
 - **Catástrofe ambiental:** Cultivo indoor clandestino gera 2.300-5.200 kg CO₂/kg (outdoor reduz 99%)
-- **75% das condenações** por drogas são consumidores ocasionais de cannabis
+- **75% dos processos (CDT)** por drogas são consumidores ocasionais de cannabis
 
 ## O que propomos: abordagem estratégica em três fases
 
@@ -38,7 +38,9 @@ Este documento propõe que o LIVRE assuma uma posição clara e proactiva sobre 
 * Produtos testados obrigatoriamente
 * €20-40M/ano para prevenção (transição gradual: inicial OE, depois poupanças enforcement)
 
-**Protecção juvenil comprovada:** Canadá -48% (15-17 anos) [@statcan2019youth], Colorado -42% [@mpp2024colorado]
+- Colorado (2014, 10+ anos dados): consumo juvenil -42% (nota: tendência nacional similar -38%, ver Secção 3.5)
+- Canadá (2018, 6 anos dados): consumo juvenil (15-17 anos) não aumentou pós-legalização [@statcan2019youth]; dados mais recentes (CCS, 16-19 anos) mostram ligeiro aumento de 36% para 41-43% entre 2018-2024 — interpretação disputada
+- Alemanha (2024, framework legislativo): 357 clubes aprovados (Nov 2025), dados eficácia insuficientes (<1 ano)
 
 ### Fase 3: Cânhamo Industrial
 

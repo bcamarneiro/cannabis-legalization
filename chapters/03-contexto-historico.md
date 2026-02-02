@@ -114,14 +114,14 @@ Em **2018**, Portugal legalizou o **uso medicinal da cannabis** através da **Le
 * **Exportações:** Portugal é o **2.º maior exportador mundial** — 32.558 kg em 2024, ultrapassados nos primeiros 8 meses de 2025 [@infarmed2024; @euronews2024]
 * **Prescrições internas:** Apenas **1.157 prescrições** em 2023 (~17 kg), representando **0,05% da produção** [@eco2024; @cannareporter2024]
 * **Uso recreativo:** Estimativa **540.000-900.000 utilizadores** em Portugal, 95% via mercado negro [@sicad2022prevalence; @cannareporter2025medicinal]
-* **Criminalização persistente:** 75% das condenações por drogas são consumidores ocasionais de cannabis [@sicad2018condenacoes; @dn2020condenacoes]
+* **Criminalização persistente:** 75% dos processos por drogas (CDT) envolvem consumidores ocasionais de cannabis [@sicad2018condenacoes; @dn2020condenacoes]
 
 **Contradição legal absurda:**
 
 * Legal: Produzir 32+ toneladas para exportação (lucro privado)
 * Legal: Prescrever cannabis a doentes (acesso restrito, €150/mês sem comparticipação SNS)
 * Ilegal: Adulto consumir cannabis recreativamente (mercado negro descontrolado, 95% dos utilizadores)
-* Criminalizado: Consumidores ocasionais (75% das condenações por drogas)
+* Criminalizado: Consumidores ocasionais (75% dos processos por drogas — CDT)
 
 ## Conclusão: Hora de Resolver a Contradição
 
@@ -133,7 +133,7 @@ A história mostra **quatro momentos decisivos** que revelam o absurdo da proibi
 
 3. **2000:** Portugal **desafia consenso internacional** com descriminalização — oposição política prevê catástrofe, mas modelo torna-se **referência mundial** 25 anos depois. Prova que pragmatismo supera dogmatismo
 
-4. **2018:** Portugal legaliza cannabis medicinal mas mantém recreativa criminalizada — **contradição insustentável** que beneficia exportadores privados (32+ toneladas/ano) enquanto criminaliza centenas de consumidores (75% das condenações por drogas)
+4. **2018:** Portugal legaliza cannabis medicinal mas mantém recreativa criminalizada — **contradição insustentável** que beneficia exportadores privados (32+ toneladas/ano) enquanto criminaliza centenas de consumidores (75% dos processos por drogas — CDT)
 
 **A proposta de regulação do uso adulto em 2026 não é radicalismo.** É a **conclusão lógica** de um processo histórico absurdo:
 
