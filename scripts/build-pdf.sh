@@ -61,6 +61,10 @@ pandoc "$TEMP_MD" \
 
 echo "✅ LaTeX gerado: $OUTPUT_TEX"
 
+# Debug: mostrar primeiros headers
+echo "📋 DEBUG - Primeiras secções no .tex:"
+grep -m5 "\\\\section" "$OUTPUT_TEX" || echo "   (nenhuma \\section encontrada)"
+
 # Passo 2: LaTeX → PDF
 echo "📝 Passo 2/2: Compilando LaTeX → PDF..."
 cd "$PROJECT_DIR/output"
