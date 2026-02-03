@@ -15,6 +15,9 @@ on:
         required: false
         type: string
 
+permissions:
+  contents: write
+
 jobs:
   manual-release:
     runs-on: ubuntu-latest
@@ -85,7 +88,7 @@ jobs:
             ---
             👤 **Release manual** criada por @${{ github.actor }}
           files: |
-            output/documento.pdf
-            output/documento.docx
+            output/Documento_Cannabis.pdf
+            output/Documento_Cannabis.docx
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

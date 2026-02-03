@@ -7,6 +7,9 @@ on:
       - 'references.bib'
       - 'chapters/**'
 
+permissions:
+  contents: write
+
 jobs:
   auto-release:
     runs-on: ubuntu-latest
@@ -85,7 +88,7 @@ jobs:
             💡 **Nota:** Release automática gerada por alterações a `documento.md` ou `references.bib`.
             Para releases MINOR ou MAJOR, use o [workflow manual](../../actions/workflows/manual-release.yml).
           files: |
-            output/documento.pdf
-            output/documento.docx
+            output/Documento_Cannabis.pdf
+            output/Documento_Cannabis.docx
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
