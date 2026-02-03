@@ -178,11 +178,11 @@ Um estudo de 2024 publicado na ResearchGate estima o mercado ilegal português d
 Os dados do V Inquérito Nacional (SICAD, 2022) mostram que Portugal mantém taxas de consumo abaixo da média europeia:
 
 * **Prevalência ao longo da vida (15-64 anos):** 10,5% (PT) [@nugent2017]
-* **Consumo último ano (15-64 anos):** 2,8% (PT) vs. 8,4% (média UE) [@marconi2016][@di2019]
+* **Consumo último ano (15-64 anos):** 2,8% (PT) vs. 8,4% (média UE) [@marconi2016; @di2019]
 
 **Dado preocupante:** O consumo de risco elevado entre jovens 15-24 anos aumentou de 0,2% (2012) para 1,3% (2022), medido pelo Cannabis Abuse Screening Test (CAST) [@leung2020].
 
-**Contexto importante:** Este aumento de 6,5x no consumo de risco juvenil (0,2% → 1,3%) [@transform2020] ocorreu durante o período de **desinvestimento drástico nos serviços de prevenção e tratamento**: em 2012, o financiamento foi cortado de €76 milhões para €16 milhões (-79%) [@tax2024][@nutt2010], o IDT foi extinto e substituído pelo SICAD, e o tempo de espera para tratamento passou de 4 horas para 1 ano [@rogeberg2019]. Em 2025, o coordenador nacional João Goulão confirmou que o orçamento actual continua inferior ao de antes de 2012 [@bundesministerium2024]. **A proibição não impediu este aumento; regulação permitiria controlo de potência e programas de prevenção adequadamente financiados.**
+**Contexto importante:** Este aumento de 6,5x no consumo de risco juvenil (0,2% → 1,3%) [@transform2020] ocorreu durante o período de **desinvestimento drástico nos serviços de prevenção e tratamento**: em 2012, o financiamento foi cortado de €76 milhões para €16 milhões (-79%) [@tax2024; @nutt2010], o IDT foi extinto e substituído pelo SICAD, e o tempo de espera para tratamento passou de 4 horas para 1 ano [@rogeberg2019]. Em 2025, o coordenador nacional João Goulão confirmou que o orçamento actual continua inferior ao de antes de 2012 [@bundesministerium2024]. **A proibição não impediu este aumento; regulação permitiria controlo de potência e programas de prevenção adequadamente financiados.**
 
 ## A descriminalização de 2001: resultados comprovados
 A Lei 30/2000 descriminalizou o consumo pessoal. Os resultados em 25 anos são notáveis:
@@ -214,7 +214,7 @@ Retirar utilizadores do sistema penal libertou recursos e reduziu pressão sobre
 
 **3\. O modelo requer financiamento sustentado para funcionar**
 
-**Lição crítica:** O desinvestimento durante o período de austeridade (2012-2021) mostrou a fragilidade do modelo [@latinamerica2024][@softsecrets2025][@tni2018]:
+**Lição crítica:** O desinvestimento durante o período de austeridade (2012-2021) mostrou a fragilidade do modelo [@latinamerica2024; @softsecrets2025; @tni2018]:
 
 * Corte de financiamento de €76M para €16M (-79%) [@transform2018]
 * Serviços de proximidade (equipas de rua) subcontratados a ONGs com menos recursos [@hightimes2024]
@@ -408,7 +408,7 @@ A evidência sobre riscos é robusta e deve orientar a nossa proposta:
   - **Contexto:** Estes riscos são particularmente relevantes para utilizadores com **patologia cardiovascular pré-existente**, **idade >50 anos**, ou **consumo combinado com tabaco**. Para utilizadores jovens saudáveis com consumo ocasional, o risco absoluto permanece baixo, mas não é nulo
 
 ### Como a nossa proposta mitiga estes riscos
-Reconhecemos os riscos e por isso propomos medidas específicas, baseadas em modelos internacionais comprovados [@hanway2022][@cleirec2025]:
+Reconhecemos os riscos e por isso propomos medidas específicas, baseadas em modelos internacionais comprovados [@hanway2022; @cleirec2025]:
 
 | Risco | Medida de Mitigação |
 | :---- | :---- |
@@ -633,7 +633,7 @@ Todos os produtos cannabis (clubes sociais, autocultivo com sementes certificada
 
 # MODELOS INTERNACIONAIS
 ## Alemanha (2024): o modelo de clubes sociais
-**A Cannabis Act (CanG)** entrou em vigor a 1 de abril de 2024\. É o modelo mais relevante para Portugal por várias razões [@bundesministerium2024][@wikipedia2025]:
+**A Cannabis Act (CanG)** entrou em vigor a 1 de abril de 2024\. É o modelo mais relevante para Portugal por várias razões [@bundesministerium2024; @wikipedia2025]:
 
 * Contexto europeu similar
 * Compatibilidade com tratados internacionais
@@ -795,14 +795,14 @@ Mesmo assumindo dificuldades semelhantes às alemãs, o modelo continua viável:
 ## Uruguai (2013): lições de uma década
 **Sucesso:** Idade média de primeiro uso subiu de 18 para 20 anos [@cdays2025]. Uso problemático estável em 2,1% desde 2011\. Consumo global desceu de 14,6% (2018) para 12,3% (2024) [@cdays2025].
 
-**Problema:** Apenas 37% acedem via canais legais (2024) [@cdays2025]. Os limites iniciais de THC (2-9% entre 2017-2022) afastaram consumidores para o mercado negro — só após introdução de variedades com 15% (2022) e 20% THC (2024) o mercado legal ganhou competitividade [@latinamerica2024][@softsecrets2025].
+**Problema:** Apenas 37% acedem via canais legais (2024) [@cdays2025]. Os limites iniciais de THC (2-9% entre 2017-2022) afastaram consumidores para o mercado negro — só após introdução de variedades com 15% (2022) e 20% THC (2024) o mercado legal ganhou competitividade [@latinamerica2024; @softsecrets2025].
 
 **Lição para Portugal:** Qualquer modelo deve oferecer produto competitivo com o mercado negro em potência, qualidade e preço desde o início.
 
 Estudos sobre preferências de consumidores confirmam que a escolha entre mercado legal e ilegal depende de múltiplos factores — qualidade, preço, conveniência e potência — e não apenas da legalidade [@autor2024]. Qualquer modelo regulatório deve considerar estes factores para ser competitivo face ao mercado negro.
 
 ## Espanha: o risco da não-regulação
-Espanha não legalizou cannabis, mas tolera ~800-1.000 clubes sociais numa "área cinzenta legal" baseada em jurisprudência sobre consumo partilhado [@tni2018][@transform2018].
+Espanha não legalizou cannabis, mas tolera ~800-1.000 clubes sociais numa "área cinzenta legal" baseada em jurisprudência sobre consumo partilhado [@tni2018; @transform2018].
 
 **Problemas documentados:**
 
@@ -1192,7 +1192,7 @@ Paradoxalmente, em 2023 apenas **17 kg** foram vendidos domesticamente. Os doent
 
 # PILAR 2: CANNABIS RECREATIVA (médio prazo)
 
-Proposta baseada no modelo alemão [@bundesministerium2024][@wikipedia2025], adaptada a Portugal:
+Proposta baseada no modelo alemão [@bundesministerium2024; @wikipedia2025], adaptada a Portugal:
 
 **Nota importante:** Esta proposta NÃO contempla o modelo comercial de dispensários (tipo Canadá/EUA). Propõe-se exclusivamente: (1) clubes sociais sem fins lucrativos, onde os preços reflectem apenas custos de produção; e (2) autocultivo com sementes de fornecedores certificados. A menor conveniência face ao mercado negro é intencional — evita comercialização excessiva e turismo cannábico, mantendo foco na saúde pública.
 
@@ -3851,7 +3851,7 @@ Sabe o que o mercado negro oferece? Nenhuma destas protecções. Produto de pot�
 
 * Riscos reconhecidos: psicose [@marconi2016], dependência, impacto cognitivo [@di2019]
 * Salvaguardas propostas: idade 21, limites THC 10% (18-21), financiamento prevenção
-* Evidência: Colorado consumo juvenil -42%, Alemanha -9% [@cdphe2024][@marijuanamoment2025]
+* Evidência: Colorado consumo juvenil -42%, Alemanha -9% [@cdphe2024; @marijuanamoment2025]
 * **Princípio:** Reconhecer riscos ≠ manter proibição ineficaz
 
 ### Ataque 2: "Uma ganza é o início de uma vida de toxicodependência"
@@ -4214,7 +4214,7 @@ Nós não somos o partido da droga. Somos o partido que lê os dados e age em co
 
 **Dados de suporte:**
 
-* Descriminalização 2001: mortes overdose 369→80, HIV -98% [@bessergrowen2025][@manthey2024]
+* Descriminalização 2001: mortes overdose 369→80, HIV -98% [@bessergrowen2025; @manthey2024]
 * Cato Institute (conservador): "sucesso retumbante" [@greenwald2009]
 * Consumo PT estável pós-2001, abaixo média EU (8,2% vs 8,3% último ano) — correlação não prova causalidade, mas refuta previsões catastrofistas [@springer2021pt]
 * 25 anos de evidência vs. rótulos ideológicos
