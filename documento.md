@@ -8,6 +8,7 @@ subtitle: "Documento de Posição — LIVRE"
 author: "Bruno Camarneiro"
 date: "Janeiro 2026"
 lang: pt-PT
+toc: true
 ---
 # SUMÁRIO EXECUTIVO {-}
 
@@ -866,10 +867,192 @@ O modelo proposto segue a restrição alemã de **THC máximo 10%** para idades 
 
 # PILAR 1: CANNABIS MEDICINAL (prioridade imediata)
 
-## Cannabis Medicinal (prioridade imediata)
-* Comparticipação pelo SNS dos medicamentos à base de cannabis para indicações aprovadas [@euronews2024]
-* Simplificação do acesso — prescrição por médicos de família, não apenas especialistas [@rtp2019]
-* Avaliação formal da Lei 33/2018: porque é que 7 anos depois o acesso continua tão limitado? [@euronews2024] [@eco2024]
+## Cannabis Medicinal: Uma Promessa Por Cumprir
+
+A cannabis medicinal é o pilar de maior consenso político e social desta proposta. Já é legal desde 2018, mas na prática os doentes continuam sem acesso. Portugal produz e exporta milhares de quilos, enquanto os pacientes portugueses compram no mercado negro. Este capítulo analisa o que falhou e propõe soluções concretas.
+
+## Análise da Lei 33/2018: Porque Falhou
+
+A Lei n.º 33/2018, de 18 de julho, legalizou o uso de medicamentos, preparações e substâncias à base da planta *cannabis* para fins medicinais [@lei2024]. O Decreto-Lei n.º 8/2019 regulamentou os procedimentos de autorização e colocação no mercado. Sete anos depois, os resultados são desanimadores.
+
+**Números que demonstram o fracasso:**
+
+* Entre 2021 e 2023, as prescrições de cannabis medicinal aumentaram de 460 para 1.157 por ano — um número irrisório para um país de 10 milhões de habitantes [@prohibition2025]
+* Em 2024, os dados mostram uma **desaceleração**: apenas 757 prescrições até ao 3.º trimestre (média de 252/trimestre) [@prohibition2025]
+* No mesmo período, Portugal **exportou mais de 18 toneladas** de cannabis medicinal, um aumento de 54% face a 2023 [@eco2024]
+* Em 2023, apenas **17 kg** foram vendidos a doentes portugueses — 99,85% da produção nacional foi exportada [@cannabis2024_1]
+
+**As causas identificadas:**
+
+1. **Processo de prescrição complexo:** Embora qualquer médico licenciado possa prescrever, a cannabis é restrita a "tratamento de último recurso", apenas para indicações aprovadas, e requer uma receita médica especial com formulário próprio aprovado pelo Ministério da Saúde [@cmslaw2024; @prohibition2025]
+2. **Ausência de comparticipação pelo SNS:** Os doentes pagam a totalidade dos custos do próprio bolso. Uma caixa de 15g de flor de cannabis (Tilray THC 18%) custa **€150** — acima do preço do mercado negro [@euronews2024]. Outro medicamento (Sativex) está comparticipado a apenas 37%, ficando o doente com um encargo de **€300** [@cannareporter2021]
+3. **Poucos produtos disponíveis:** Apenas sete extratos e dois produtos de flor têm Autorização de Colocação no Mercado (ACM). O processo de ACM é burocrático, moroso e dispendioso [@prohibition2025]
+4. **Falta de formação médica:** Existe um desconhecimento generalizado sobre o sistema endocanabinóide nas faculdades de medicina. Poucos médicos se sentem confortáveis a prescrever [@rtp2019]
+5. **Estigma:** Tanto entre profissionais de saúde como na sociedade, persiste a associação entre cannabis e uso recreativo, dificultando a abordagem terapêutica [@cannareporter2021]
+
+**Comparação com a Alemanha:**
+
+A Alemanha legalizou a cannabis medicinal em 2017, enfrentando inicialmente barreiras semelhantes a Portugal: poucos médicos a prescrever, seguradoras a recusar reembolsos, e processos burocráticos. No entanto, a Alemanha reformou progressivamente o sistema:
+
+* Desde outubro de 2024, médicos de **16 especialidades** (incluindo medicina geral) podem prescrever cannabis para reembolso **sem autorização prévia** das seguradoras [@lancet2024germany]
+* As prescrições privadas (fora do seguro) passaram a representar 80% do total, enquanto as comparticipadas representam 20% — mas o acesso global aumentou enormemente [@cannabishealthnews2024]
+* A Alemanha tem cerca de **4,5 milhões de utilizadores** de cannabis, e o mercado médico movimenta centenas de milhões de euros [@globenewswire2024]
+
+## Modelo de Comparticipação Proposto
+
+### Custo Atual para os Doentes
+
+O custo é a principal barreira ao acesso. Atualmente em Portugal:
+
+* Uma caixa de flor (Tilray THC 18%, 15g) custa **€150** sem qualquer comparticipação [@euronews2024]
+* Os extratos aprovados custam entre **€98 e €193,40** por unidade [@prohibition2025]
+* Um doente que necessite de tratamento contínuo pode gastar **€150–300/mês** — incomportável para a maioria, especialmente doentes crónicos com rendimentos reduzidos
+
+Para contexto: €300/mês corresponde à totalidade do rendimento disponível de uma pessoa com pensão de invalidez, depois das despesas essenciais [@internationalcbc2021].
+
+### Proposta de Comparticipação
+
+Propomos um modelo de comparticipação faseado:
+
+| Fase | Prazo | Mecanismo |
+|------|-------|-----------|
+| Fase 1 | Imediata | Comparticipação a 69% (escalão B) para indicações aprovadas pelo Infarmed |
+| Fase 2 | 6 meses | Alargamento a 90% (escalão A) para doentes crónicos com baixos rendimentos |
+| Fase 3 | 12 meses | Inclusão no Formulário Nacional de Medicamentos com revisão anual |
+
+### Comparação Internacional de Comparticipação
+
+* **Alemanha:** O seguro de saúde público (*Gesetzliche Krankenversicherung*) cobre cannabis medicinal desde 2017; desde outubro de 2024, sem necessidade de autorização prévia para 16 especialidades. O doente paga apenas a taxa de copagamento habitual (5–10€) [@cannabishealthnews2024]
+* **Israel:** Reformas de 2024 simplificaram o acesso — basta uma prescrição médica, sem licença adicional. Mais de **137.940 pacientes** com licença ativa em 2024. O custo é parcialmente subsidiado pelo sistema de saúde [@prohibitionpartners2024israel]
+* **Canadá:** A cannabis medicinal **não é coberta** pelos planos de saúde provinciais, obrigando os doentes a pagar do próprio bolso (até $500 CAD/mês). Este é considerado um dos maiores fracassos do modelo canadiano [@pmc2024canadainsurance]
+* **Reino Unido:** Não há cobertura NHS. O acesso é quase exclusivamente privado (custo médio ~£151/mês). O Project Twenty21 tentou criar evidência para justificar inclusão no NHS, mas sem sucesso até à data [@levaclinic2024]
+
+**Lição:** Os modelos sem comparticipação (Canadá, Reino Unido, Portugal atual) resultam em baixa adesão e manutenção do mercado negro. O modelo alemão demonstra que a inclusão no sistema de saúde público é o fator decisivo para o acesso efetivo.
+
+### Análise Custo-Benefício para o SNS
+
+* **Custo estimado:** Com 5.000 doentes (projeção conservadora para os primeiros 2 anos) e um custo médio de €120/mês comparticipado a 69%, o encargo anual para o SNS seria de ~€5 milhões
+* **Poupanças potenciais:** Substituição parcial de opióides (custo anual por doente: €2.000–5.000), benzodiazepinas e anti-epilépticos de nova geração. Estudos indicam que estados/países com programas de cannabis medicinal registam reduções de 20–35% nas prescrições de opióides [@norml2024]
+* **Balanço:** O investimento é modesto face ao orçamento do SNS (~€14 mil milhões em 2024) e pode gerar poupanças líquidas a médio prazo
+
+## Simplificação do Acesso
+
+### Barreiras Atuais
+
+* **Prescrição restrita a "último recurso":** Na prática, o doente tem de demonstrar que todas as outras opções falharam — criando um percurso burocrático e desumanizante [@prohibition2025]
+* **Poucos médicos prescritores:** Embora a lei permita que qualquer médico prescreva, a falta de formação e o estigma significam que apenas uma mão-cheia o faz [@rtp2019]
+* **Farmácias limitadas:** Nem todas as farmácias dispensam estes produtos, obrigando doentes a deslocações
+
+### Propostas de Simplificação
+
+1. **Alargamento da prescrição a médicos de família:**
+   * Evidência: Na Austrália, os médicos de família (GPs) estão na linha da frente da prescrição de cannabis medicinal, com aumentos substanciais nos últimos anos [@pmc2022ausGP]. Na Nova Zelândia, 55% dos GPs já tinham sido solicitados a prescrever cannabis antes da alteração regulatória [@pmc2022nzGP]
+   * Na Alemanha, apesar da permissão legal, os GPs continuam a prescrever raramente — demonstrando que a mudança legal deve ser acompanhada de formação [@cannabisbusinesstimes2025]
+   * Proposta: Permitir a prescrição por médicos de família após formação certificada obrigatória (mínimo 16h)
+
+2. **Programa nacional de formação:**
+   * Parceria com as Ordens dos Médicos e dos Farmacêuticos
+   * Módulo obrigatório no internato de medicina geral e familiar
+   * Formação contínua para especialistas (neurologia, oncologia, reumatologia, psiquiatria)
+   * O OPCM (Observatório Português de Cannabis Medicinal) já identificou esta necessidade em 2019 [@rtp2019]
+
+3. **Expansão da rede de farmácias:**
+   * Todas as farmácias comunitárias devem poder dispensar produtos aprovados
+   * Sistema de encomenda centralizada para farmácias sem *stock* permanente
+
+4. **Eliminação do requisito de "último recurso":**
+   * Substituir por critério de "benefício clínico comprovado" a par de outras opções terapêuticas
+   * Alinhamento com a prática alemã, onde a cannabis pode ser prescrita quando existe "perspetiva fundamentada de benefício" (*begründete Aussicht auf einen Therapieerfolg*)
+
+## Indicações Terapêuticas
+
+### Indicações Atualmente Aprovadas em Portugal
+
+O Infarmed aprovou sete indicações em 2019 [@publico2019]:
+
+1. Espasticidade associada a esclerose múltipla ou lesão medular
+2. Náuseas e vómitos induzidos por quimioterapia/radioterapia
+3. Estimulação do apetite em cuidados paliativos (cancro ou SIDA)
+4. Dor crónica (associada a doença oncológica ou sistema nervoso)
+5. Síndrome de Tourette
+6. Epilepsia e crises epiléticas graves
+7. Glaucoma resistente à terapêutica convencional
+
+### Evidência Científica para Alargamento
+
+A revisão *umbrella* do BMJ (2023) analisou 101 meta-análises sobre benefícios e riscos dos canabinóides, concluindo que existe evidência moderada a elevada para várias condições [@solmi2023]:
+
+* **Dor crónica:** Revisões sistemáticas mostram eficácia moderada, particularmente para dor neuropática. A revisão Cochrane mais recente (2024) nota que a evidência é mista, mas existem benefícios para subgrupos específicos [@nugent2017]
+* **Epilepsia refratária:** O CBD (canabidiol) demonstrou eficácia robusta em ensaios clínicos de fase III para Síndrome de Dravet e Lennox-Gastaut, reduzindo convulsões em 36–44% [@devinsky2017]
+* **Espasticidade em esclerose múltipla:** O nabiximols (Sativex) é eficaz como tratamento adjuvante, com uma meta-análise confirmando benefícios significativos [@torresmoreno2023]
+* **PTSD (Perturbação de Stress Pós-Traumático):** Evidência ainda insuficiente mas promissora; estudos em veteranos mostram redução de sintomas. Necessita de mais ensaios clínicos [@national2017]
+* **Insónia:** Meta-análises recentes sugerem benefícios do THC e CBN na qualidade do sono [@suraev2020; @kuhathasan2022]
+* **Substituição de opióides:** Crescente evidência de que o acesso a cannabis medicinal está associado a reduções nas prescrições de opióides — relevante para a crise de dependência [@norml2024; @rock2024]
+
+### Proposta de Alargamento
+
+* **Fase 1 (imediata):** Manter as 7 indicações atuais, mas eliminar requisito de "último recurso"
+* **Fase 2 (6 meses):** Adicionar PTSD, fibromialgia, doença inflamatória intestinal e artrite reumatoide
+* **Fase 3 (12 meses):** Revisão baseada em evidência atualizada, com comissão técnica independente
+
+## Integração com a Indústria Existente
+
+### O Paradoxo Português
+
+Portugal é o **maior exportador europeu** de cannabis medicinal e o segundo maior do mundo [@cannareporter2024]:
+
+* Em 2024, exportou mais de **18 toneladas** de cannabis medicinal [@prohibition2025]
+* Destinos: Alemanha (46%), Espanha (20%), Polónia (16%), Reino Unido (10%), Austrália (5%)
+* Existem **mais de 50 empresas** autorizadas a exportar
+* Mais de **61 licenças de cultivo** ativas em março de 2025
+
+Paradoxalmente, em 2023 apenas **17 kg** foram vendidos domesticamente. Os doentes portugueses não têm acesso ao que Portugal produz [@cannabis2024_1].
+
+### Proposta: Redirecionamento para o Mercado Interno
+
+1. **Quota obrigatória de mercado interno:**
+   * Exigir que pelo menos 5% da produção licenciada seja disponibilizada ao mercado nacional
+   * Preço máximo regulado para o mercado interno (inferior ao preço de exportação)
+
+2. **Simplificação da ACM (Autorização de Colocação no Mercado):**
+   * Processo acelerado para produtos já aprovados em outros mercados da UE (reconhecimento mútuo)
+   * Redução das taxas para produtos destinados ao mercado interno
+
+3. **Normas de qualidade:**
+   * Manutenção das normas EU-GMP (*Good Manufacturing Practice*)
+   * Testes obrigatórios para pesticidas, metais pesados, micotoxinas e contaminantes microbiológicos [@eurofins2024cannabis]
+   * Rastreabilidade *seed-to-sale* através do sistema informático do Infarmed
+
+## Tabela Comparativa Internacional
+
+| Critério | Portugal | Alemanha | Israel | Reino Unido | Canadá |
+|----------|----------|----------|--------|-------------|--------|
+| Ano de legalização | 2018 | 2017 | 1999 | 2018 | 2001 |
+| Pacientes ativos | ~1.000 (est.) | ~370.000 prescrições/ano | ~137.940 | ~40.000 (privados) | ~450.000 |
+| Comparticipação | Nenhuma (37% apenas Sativex) | Seguro público (desde 2024 sem aprovação prévia) | Parcial | Nenhuma (NHS muito raro) | Nenhuma (provincial) |
+| Quem prescreve | Qualquer médico (na teoria) | Qualquer médico (16 especialidades sem aprovação prévia) | Especialistas + GPs (reforma 2024) | Especialistas privados | Qualquer médico |
+| Indicações | 7 indicações restritas | Sem lista fixa ("perspetiva de benefício") | Lista ampla + expansão em curso | Sem lista fixa | Sem lista fixa |
+| Custo para o doente | €150–300/mês | €5–10 copagamento | Subsidiado parcialmente | £150+/mês (privado) | $100–500 CAD/mês |
+| Produção nacional | 18+ toneladas (export) | Limitada (importa maioria) | Significativa | Limitada | Excesso de oferta |
+
+*Nota: valores aproximados, dados de 2024. Dados a confirmar para alguns valores específicos.*
+
+## Recomendações Prioritárias
+
+1. **Curto prazo (0–6 meses):**
+   * Comparticipação imediata a 69% para as indicações aprovadas
+   * Programa de formação para médicos de família
+   * Simplificação do processo de ACM
+
+2. **Médio prazo (6–18 meses):**
+   * Alargamento das indicações terapêuticas
+   * Quota de mercado interno para produtores
+   * Eliminação do requisito de "último recurso"
+
+3. **Longo prazo (18–36 meses):**
+   * Comparticipação a 90% para doentes crónicos de baixos rendimentos
+   * Inclusão no Formulário Nacional de Medicamentos
+   * Avaliação de impacto e publicação de relatório anual
 \newpage
 
 # PILAR 2: CANNABIS RECREATIVA (médio prazo)
@@ -1905,23 +2088,219 @@ Assumindo 46 clubes × 400 membros activos médios = **18.400 utilizadores** (ce
 
 # PILAR 3: CÂNHAMO INDUSTRIAL
 
-## Cânhamo Industrial: Uma oportunidade económica e ambiental
+## Cânhamo Industrial: Uma Oportunidade Económica e Ambiental
 
-O cânhamo industrial (Cannabis sativa L. com THC<0,3%) representa uma oportunidade estratégica para Portugal [@ec2024].
+O cânhamo industrial (*Cannabis sativa* L. com THC<0,3%) representa uma oportunidade estratégica para Portugal, combinando benefícios económicos, ambientais e sociais. O mercado europeu de cânhamo industrial foi avaliado em **USD 2,9 mil milhões** em 2024, com projeções de crescimento a uma taxa anual de 24% até atingir **USD 20,4 mil milhões em 2033** [@marketdataforecast2025]. A Europa representa cerca de **40% do mercado global** [@psmarketresearch2024].
 
-**Benefícios ambientais:**
+## Análise Económica
 
-* **Captura de carbono:** **8-15 toneladas CO₂/hectare** por ciclo (condições UK/Irlanda) [@cambridge2022hemp; @carboncredits2024hemp]. Em Portugal: **8-12 t CO₂/ha** com uma colheita, potencialmente **15-20 t** com duas colheitas/ano no sul (Alentejo, Algarve) [@lampoon2024hemp]. Mesmo com valores conservadores, offset 10-20x superior a cultivo indoor cannabis
-* **Baixa necessidade de pesticidas** — naturalmente resistente à maioria das pragas
-* **Melhoria do solo** — raízes profundas, devolve azoto ao solo
-* **50-70% menos água que algodão** [@stockholm2005]
+### Mercado Europeu e Global
 
-**Proposta:**
+O mercado global de cânhamo industrial foi avaliado em **USD 9,47 mil milhões** em 2024, com projeção de atingir **USD 47,82 mil milhões em 2032** (CAGR 22,7%) [@fortunebusinessinsights2025]. A procura é impulsionada por:
 
-* Simplificação regulatória para cânhamo THC<0,3%
-* Programa piloto em 3-5 regiões
-* Parcerias com universidades (ISA, UTAD)
-* Incentivos PAC para conversão de culturas
+* **Têxteis sustentáveis:** Alternativa ao algodão, com menor consumo de água e sem necessidade de pesticidas
+* **Materiais de construção:** O *hempcrete* (betão de cânhamo) é um material carbono-negativo que pode sequestrar **mais de 100 kg CO₂/m²** de parede construída [@anthropocene2022]
+* **Alimentação e suplementos:** Sementes de cânhamo ricas em ómega-3, ómega-6 e proteínas completas
+* **Bioplásticos:** Alternativa biodegradável aos plásticos derivados do petróleo
+* **Papel e celulose:** O cânhamo produz 4× mais celulose por hectare que as árvores
+
+### Vantagens Competitivas de Portugal
+
+Portugal reúne condições excecionais para o cultivo de cânhamo:
+
+1. **Clima mediterrânico:** Verões quentes e secos ideais para a maturação da planta; possibilidade de **duas colheitas anuais** no sul (Alentejo, Algarve) — algo impossível no norte da Europa [@lampoon2024hemp]
+2. **Tradição agrícola:** O cânhamo foi cultivado em Portugal durante séculos, particularmente para cordoaria naval
+3. **Custos de produção competitivos:** Mão-de-obra e terra agrícola mais acessíveis que França ou Alemanha
+4. **Infraestrutura de exportação:** Portos de Sines e Leixões com ligações diretas aos principais mercados
+5. **Elegibilidade para subsídios PAC:** O cânhamo é uma cultura elegível para pagamentos diretos da Política Agrícola Comum (PAC) da UE [@ec2024]
+
+### Produtos e Cadeias de Valor
+
+| Produto | Aplicações | Valor estimado/ha |
+|---------|------------|-------------------|
+| Fibra | Têxteis, isolamento, compósitos automóveis | €600–1.200 |
+| Semente | Alimentação, suplementos, cosméticos | €800–1.500 |
+| *Shiv* (parte lenhosa) | *Hempcrete*, camas para animais, mulch | €200–400 |
+| CBD/extratos | Suplementos, cosmética | €2.000–5.000 |
+| Biomassa total | Energia, bioplásticos | €400–800 |
+
+*Nota: valores estimados com base em dados europeus. Rendimento em Portugal pode ser superior devido ao clima. Dados a confirmar com ensaios locais.*
+
+Para comparação, o trigo duro em Itália rende cerca de **€300/ha**, enquanto o cânhamo pode render **€600–2.500/ha** — tornando-o uma alternativa atrativa para agricultores [@wikipedia2025italy].
+
+## Enquadramento Regulatório
+
+### Regulação Europeia Atual
+
+Desde janeiro de 2023, a nova PAC (2023–2027) elevou o limite de THC permitido em cânhamo de **0,2% para 0,3%**, alinhando a UE com o padrão internacional [@vitafoodsinsights2022]. Isto alargou significativamente o número de variedades cultiváveis e facilitou o acesso a genética mais produtiva.
+
+O cânhamo está incluído no Catálogo Comum de Variedades da UE, sendo obrigatório o uso de **sementes certificadas** de variedades listadas. As variedades devem ser registadas e testadas quanto ao teor de THC.
+
+### Situação Regulatória em Portugal
+
+Atualmente, o cultivo de cânhamo em Portugal exige:
+
+* Autorização do Ministério da Agricultura (Portaria 83/2021)
+* Uso exclusivo de sementes certificadas de variedades aprovadas pela UE
+* Inspeções regulares ao longo do ciclo de cultivo
+* Declaração de cultivo junto do IFAP (Instituto de Financiamento da Agricultura e Pescas)
+
+### Alterações Regulatórias Propostas
+
+1. **Regime simplificado para cânhamo industrial:**
+   * Processo de licenciamento online, com resposta em 30 dias
+   * Eliminação de requisitos de segurança aplicáveis à cannabis psicoativa (vedações, câmaras, etc.)
+   * Fiscalização focada no teor de THC, não na segurança física das explorações
+
+2. **Licença diferenciada:**
+   * **Tipo A — Fibra e semente:** Licença automática para variedades com THC<0,3%, sujeita a notificação e inspeção aleatória
+   * **Tipo B — Extração de CBD e outros canabinóides:** Licença específica com requisitos adicionais de rastreabilidade
+   * **Tipo C — Investigação:** Licença académica para universidades e centros de investigação
+
+3. **Harmonização com a PAC:**
+   * Garantir que todos os agricultores de cânhamo accedem automaticamente aos pagamentos diretos da PAC
+   * Incentivar a conversão de culturas através de pagamentos eco-*scheme* adicionais
+
+## Benefícios Ambientais
+
+### Captura de Carbono
+
+O cânhamo é uma das culturas com maior capacidade de sequestro de carbono:
+
+* **9 a 15 toneladas de CO₂/hectare** por ciclo de cultivo, segundo a Comissão Europeia [@ec2024]
+* Em condições do Reino Unido/Irlanda: **8–15 t CO₂/ha** [@cambridge2022hemp; @carboncredits2024hemp]
+* Em Portugal, com uma colheita: **8–12 t CO₂/ha**; com duas colheitas/ano no sul: potencialmente **15–20 t CO₂/ha** [@lampoon2024hemp]
+* O *hempcrete* continua a absorver CO₂ durante décadas após a construção (carbonatação da cal), sendo classificado como **material carbono-negativo** [@anthropocene2022; @researchgate2017hempcrete]
+
+Para contexto: a floresta de eucalipto em Portugal sequestra cerca de 6–8 t CO₂/ha/ano. O cânhamo, numa única colheita, pode igualar ou superar este valor.
+
+### Fitorremediação de Solos
+
+Múltiplos estudos científicos demonstram que o cânhamo é um **fitorremediador eficaz** de solos contaminados:
+
+* O cânhamo absorve metais pesados (chumbo, cádmio, zinco) através das raízes, removendo-os do solo [@pmc2022hemp]
+* Ensaios em Sardenha (Itália), em solos poluídos por atividade mineira, demonstraram absorção significativa de Pb, Cd e Zn em condições semiáridas — clima comparável ao do Alentejo [@mdpi2022hemp]
+* Nos EUA, variedades de cânhamo industrial demonstraram capacidade de crescer em solos de minas de carvão abandonadas, simultaneamente remediando o solo e produzindo canabinóides [@pmc2019hemp]
+* Uma revisão de 2023 confirma que o cânhamo é adequado para fitorremediação de Pb e Zn, entre os mais eficazes das fibras *bast* [@pmc2023phyto]
+
+**Aplicação em Portugal:** Existem áreas contaminadas pela antiga atividade mineira (São Domingos, Aljustrel, Panasqueira) onde o cânhamo poderia contribuir para a recuperação ambiental, desde que a biomassa contaminada seja destinada a uso energético e não alimentar.
+
+### Consumo de Água
+
+* O cânhamo requer **50–70% menos água** que o algodão para produzir uma quantidade equivalente de fibra [@stockholm2005]
+* Em condições de sequeiro no Alentejo, o cânhamo pode produzir biomassa suficiente para fibra e semente, enquanto o algodão é praticamente inviável sem irrigação intensiva
+* Contribui para a resiliência agrícola face às alterações climáticas e à crescente escassez hídrica no sul de Portugal
+
+### Saúde do Solo
+
+* Raízes profundas (até 2–3 metros) que descompactam o solo e melhoram a drenagem
+* Devolve azoto ao solo quando as folhas caem e se decompõem
+* **Naturalmente resistente à maioria das pragas**, reduzindo ou eliminando a necessidade de pesticidas
+* Excelente cultura de rotação — melhora o rendimento das culturas subsequentes
+
+## Programa Piloto Nacional
+
+### Regiões Prioritárias
+
+| Região | Justificação | Área piloto proposta |
+|--------|-------------|---------------------|
+| **Alentejo** | Maior região agrícola; clima ideal; solos subutilizados; duas colheitas possíveis | 500 ha |
+| **Trás-os-Montes** | Tradição agrícola; proximidade da UTAD; clima continental adequado | 200 ha |
+| **Beira Interior** | Terras agrícolas abandonadas; baixa densidade populacional; áreas mineiras a remediar | 150 ha |
+| **Ribatejo** | Solos aluviais do Tejo; tradição de culturas industriais | 150 ha |
+| **Total** | | **1.000 ha** |
+
+### Parcerias Universitárias
+
+* **Instituto Superior de Agronomia (ISA/ULisboa):** Investigação agronómica e fitotecnia; capacidade laboratorial para análise de THC, canabinóides e qualidade de fibra
+* **UTAD (Universidade de Trás-os-Montes e Alto Douro):** Centro de investigação CITAB com experiência em cadeias agrícolas e agricultura sustentável; programa doutoral AgriChains [@utadagrichains2024]
+* **Universidade de Évora:** Investigação em agricultura mediterrânica e recursos hídricos
+* **INIAV (Instituto Nacional de Investigação Agrária e Veterinária):** Ensaios de variedades, certificação de sementes
+
+### Cronograma e Avaliação
+
+| Fase | Prazo | Ação |
+|------|-------|------|
+| Preparação | Meses 1–6 | Licenciamento simplificado; seleção de variedades; acordos com agricultores |
+| Plantação piloto | Meses 7–12 | Primeira campanha (primavera); monitorização agronómica |
+| Avaliação ano 1 | Meses 13–18 | Análise de rendimentos, qualidade, custos, viabilidade económica |
+| Expansão | Meses 19–36 | Alargamento a 2.500–5.000 ha com base nos resultados |
+
+**Métricas de avaliação:**
+
+* Rendimento de fibra e semente (t/ha)
+* Teor de THC (conformidade com <0,3%)
+* Sequestro de carbono medido
+* Rentabilidade para o agricultor (€/ha líquido vs. culturas alternativas)
+* Emprego criado (direto e indireto)
+
+## Exemplos Internacionais
+
+### França — Líder Europeu
+
+A França é o **maior produtor europeu** de cânhamo, representando mais de **60% da produção da UE** [@ec2024]:
+
+* **~23.000 hectares** cultivados em 2024, com produção de ~28.000 toneladas métricas de fibra [@marketdataforecast2025]
+* Foco principal em fibra para isolamento térmico, papel de cigarro (Bolloré) e compósitos automóveis (PSA/Stellantis)
+* A *InterChanvre* (interprofissão do cânhamo) coordena a cadeia de valor desde os anos 1990
+* Mais de **1.400 agricultores** envolvidos
+* A produção de fibra representou **60% da produção total de fibra de cânhamo da UE** em 2022 [@hempcbdbusinessplans2024]
+
+### Itália — Renascença do Cânhamo
+
+Itália ilustra o potencial de recuperação de uma indústria histórica:
+
+* Antes da proibição, Itália era o **2.º maior produtor mundial** de cânhamo (atrás da URSS)
+* A Lei 242/2016 relançou o cultivo: de **400 hectares em 2013** para **4.000 hectares em 2018** — crescimento de 10× em cinco anos [@enecta2024; @usdaitaly2020]
+* Mais de **800 explorações** agrícolas envolvidas
+* O rendimento por hectare (€600–2.500) é **2–8× superior ao trigo duro** (€300/ha) [@wikipedia2025italy]
+* Aplicações: materiais de construção, têxteis de moda, alimentação biológica
+
+### Alemanha — Segundo Produtor Europeu
+
+* Representa **17% da produção europeia** de cânhamo [@ec2024]
+* Foco em sementes para alimentação e CBD para suplementos
+* Forte integração com a indústria automóvel (compósitos de fibra de cânhamo para painéis interiores)
+
+## Projeções Económicas para Portugal
+
+### Cenário Conservador (5 anos)
+
+| Indicador | Ano 1 | Ano 3 | Ano 5 |
+|-----------|-------|-------|-------|
+| Hectares cultivados | 1.000 | 3.000 | 5.000 |
+| Produção de fibra (t) | 5.000 | 15.000 | 25.000 |
+| Empregos diretos | 200 | 600 | 1.000 |
+| Empregos indiretos | 400 | 1.200 | 2.000 |
+| Receita bruta (M€) | 5 | 18 | 35 |
+| Valor de exportação (M€) | 2 | 8 | 18 |
+
+*Nota: projeções baseadas em rendimentos europeus médios e preços de mercado 2024. Valores a confirmar com dados dos ensaios piloto.*
+
+### Subsídios PAC Disponíveis
+
+Os agricultores de cânhamo em Portugal podem aceder a:
+
+* **Pagamento base da PAC:** ~€100–250/ha (dependendo da região e dos direitos de pagamento)
+* **Eco-*schemes*:** Pagamento adicional por práticas sustentáveis (rotação de culturas, cobertura do solo)
+* **Medidas agroambientais:** Apoio ao cultivo em zonas ambientalmente sensíveis
+* **Investimento:** Apoio FEADER para transformação primária (desfibragem, decorticação)
+
+### Potencial de CO₂
+
+Com 5.000 hectares em produção:
+
+* Sequestro mínimo estimado: **40.000–60.000 toneladas CO₂/ano**
+* Se utilizado em *hempcrete*: sequestro adicional de longo prazo nos edifícios
+* Contribuição para as metas do PNEC (Plano Nacional Energia e Clima) 2030
+
+## Proposta Legislativa Resumida
+
+1. **Simplificação regulatória** para cânhamo com THC<0,3% — regime de notificação em vez de autorização
+2. **Programa piloto** em 4 regiões com 1.000 ha iniciais
+3. **Parcerias universidades-empresas** para I&D e certificação de variedades adaptadas ao clima português
+4. **Incentivos PAC e FEADER** para conversão de culturas e investimento em transformação
+5. **Estratégia de exportação** coordenada pela AICEP para produtos de cânhamo português
 \newpage
 
 # POSIÇÕES PARTIDÁRIAS E ESTRATÉGIA DE CONSENSO
@@ -2118,7 +2497,14 @@ Este documento demonstra que existe uma base sólida de evidência para avançar
 
 **59% dos portugueses apoiam a legalização regulada** [@hanway2022]. A maioria da população está à frente dos políticos. O LIVRE pode liderar esta mudança.
 
-\newpage
+## Síntese das Ações Prioritárias
+
+O caminho proposto organiza-se em três eixos de ação complementares. **No eixo medicinal**, a prioridade imediata é garantir que os doentes portugueses acedam aos tratamentos que a Lei 33/2018 prometeu mas nunca entregou: comparticipação pelo SNS, formação de médicos de família, simplificação do processo de prescrição e eliminação do paradoxo de um país que exporta 18 toneladas mas vende apenas 17 kg aos seus próprios cidadãos. Este é o eixo de maior urgência e de maior consenso político — nenhum partido pode argumentar que os doentes devam continuar sem tratamento acessível.
+
+**No eixo do cânhamo industrial**, Portugal tem condições naturais e competitivas para se tornar um produtor de referência europeu. Com um programa piloto de 1.000 hectares em quatro regiões, parcerias universitárias sólidas e o enquadramento favorável da PAC, o cânhamo pode gerar milhares de empregos em regiões de baixa densidade, contribuir para as metas climáticas nacionais e diversificar a economia agrícola. É uma oportunidade que não implica qualquer controvérsia ideológica — apenas vontade política de simplificar a regulação.
+
+**No eixo recreativo**, a abordagem deve ser gradual e ancorada na experiência internacional. A legalização regulada do uso adulto, com limites claros de idade, potência, publicidade e segurança rodoviária, é o passo seguinte para completar o modelo português de política de drogas baseada na saúde pública. A descriminalização de 2001 foi visionária; a regulação responsável é a sua continuação lógica. Com os modelos do Uruguai, Canadá e Alemanha como referência — aprendendo tanto com os sucessos como com os erros — Portugal pode construir um quadro regulatório que proteja a saúde pública, reduza o mercado negro e gere receitas fiscais significativas para financiar prevenção e tratamento.
+
 \newpage
 \newpage
 
