@@ -183,7 +183,7 @@ A pergunta não é se a comparticipação custa dinheiro — é se custa **mais 
 * Gastamos ~€150/15g sem controlo de qualidade (mercado negro)
 * 95% dos consumidores não têm acesso legal
 * Perdemos oportunidade de poupar em medicação mais cara
-* Não geramos nenhuma receita fiscal
+* Não geramos impostos específicos sobre cannabis (apenas IVA standard sobre quotas dos clubes)
 
 A comparticipação selectiva, combinada com acesso regulado (autocultivo/clubes), pode ser **custo-neutra ou até gerar poupanças** quando contabilizamos substituição de medicação cara e redução de custos com emergências."
 
@@ -221,14 +221,15 @@ A comparticipação selectiva, combinada com acesso regulado (autocultivo/clubes
 * **Financiamento:** Quotas de membros (clubes) ou produção própria (autocultivo), **sem custos para o SNS**
 * **Protecção juvenil:** Sistema semelhante ao alemão — clubes a 200m de escolas, oficial de prevenção, limite THC 10% para 18-21 anos [@bundesgesundheit2024cannabis; @dw2024clubs]
 
-**O que a evidência mostra sobre protecção juvenil na regulação:**
+**O que a evidência mostra sobre consumo juvenil após regulação:**
 
-* **Canadá:** Consumo entre 15-17 anos **desceu de 19,8% para 10,4%** após legalização (2018-2019) [@statcan2019youth; @statcan2021cannabis]
-* **Colorado:** Consumo em adolescentes **desceu de 22% (2011) para 12,8% (2023)** — redução de 42% [@mpp2024colorado; @cdc2023yrbs]
+* **Canadá:** Consumo entre 15-17 anos **desceu de 19,8% para 10,4%** após legalização (2018-2019) [@statcan2019youth; @statcan2021cannabis] — mas dados mais recentes (CCS 2024, 16-19 anos) mostram ligeiro aumento (36%→41-43%), interpretação disputada
+* **Colorado:** Consumo em adolescentes **desceu de 22% (2011) para 12,8% (2023)** — redução de 42% [@mpp2024colorado; @cdc2023yrbs] — **nota:** tendência nacional EUA similar (-38%), pelo que a causalidade exclusiva da legalização não é demonstrável
 * **Meta-análise JAMA Pediatrics:** Leis de cannabis medicinal **não aumentaram consumo juvenil** nos EUA [@sarvet2018jama]
-* **Alemanha:** Clubes sociais incluem medidas específicas de protecção juvenil [@bundesgesundheit2024cannabis]
+* **Coley et al. (2024, Boston College):** Estudo longitudinal 2011-2021 encontrou **associações limitadas** entre legalização recreativa e consumo juvenil [@coley2024]
+* **Alemanha:** Clubes sociais incluem medidas específicas de protecção juvenil; consumo juvenil (12-17) desceu de 6,7% para 6,1% no primeiro ano [@bundesgesundheit2024cannabis; @marijuanamoment2025]
 
-A regulação não normaliza — **oferece controlo**. O mercado negro não pede identificação, não testa qualidade, não financia prevenção."
+**Interpretação honesta:** Não se pode afirmar que a legalização *protege* jovens (causalidade não demonstrada), mas **não há evidência de que provoque o aumento de consumo que opositores prevêem**. A regulação oferece mecanismos de controlo (verificação idade, educação, financiamento prevenção) inexistentes no mercado negro."
 
 **Dados de suporte:**
 
