@@ -66,16 +66,16 @@
 \do\0\do\1\do\2\do\3\do\4\do\5\do\6\do\7\do\8\do\9}
 
 % CSLReferences environment for bibliography (required by pandoc --citeproc)
+% Using simple environment instead of list to allow proper page breaks
 \newlength{\cslhangindent}
 \setlength{\cslhangindent}{1.5em}
 \newlength{\csllabelwidth}
 \setlength{\csllabelwidth}{3em}
 \newenvironment{CSLReferences}[2]
-  {\list{}{\setlength{\itemindent}{0pt}
-           \setlength{\leftmargin}{\cslhangindent}
-           \setlength{\parsep}{\parskip}
-           \setlength{\itemsep}{0.5\baselineskip}}}
-  {\endlist}
+  {\setlength{\parindent}{0pt}
+   \setlength{\parskip}{0.5\baselineskip}
+   \everypar{\hangindent=\cslhangindent}}
+  {\par}
 \newcommand{\CSLBlock}[1]{#1\hfill\break}
 \newcommand{\CSLLeftMargin}[1]{\parbox[t]{\csllabelwidth}{#1}}
 \newcommand{\CSLRightInline}[1]{\parbox[t]{\linewidth - \csllabelwidth}{\raggedright\sloppy#1}\break}
