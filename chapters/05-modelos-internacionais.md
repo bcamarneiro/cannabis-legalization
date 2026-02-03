@@ -2,7 +2,7 @@
 
 # MODELOS INTERNACIONAIS
 ## Alemanha (2024): o modelo de clubes sociais
-**A Cannabis Act (CanG)** entrou em vigor a 1 de abril de 2024\. É o modelo mais relevante para Portugal por várias razões [@bundesministerium2024] [@wikipedia2025]:
+**A Cannabis Act (CanG)** entrou em vigor a 1 de abril de 2024\. É o modelo mais relevante para Portugal por várias razões [@bundesministerium2024][@wikipedia2025]:
 
 * Contexto europeu similar
 * Compatibilidade com tratados internacionais
@@ -164,14 +164,14 @@ Mesmo assumindo dificuldades semelhantes às alemãs, o modelo continua viável:
 ## Uruguai (2013): lições de uma década
 **Sucesso:** Idade média de primeiro uso subiu de 18 para 20 anos [@cdays2025]. Uso problemático estável em 2,1% desde 2011\. Consumo global desceu de 14,6% (2018) para 12,3% (2024) [@cdays2025].
 
-**Problema:** Apenas 37% acedem via canais legais (2024) [@cdays2025]. Os limites iniciais de THC (2-9% entre 2017-2022) afastaram consumidores para o mercado negro — só após introdução de variedades com 15% (2022) e 20% THC (2024) o mercado legal ganhou competitividade [@latinamerica2024] [@softsecrets2025].
+**Problema:** Apenas 37% acedem via canais legais (2024) [@cdays2025]. Os limites iniciais de THC (2-9% entre 2017-2022) afastaram consumidores para o mercado negro — só após introdução de variedades com 15% (2022) e 20% THC (2024) o mercado legal ganhou competitividade [@latinamerica2024][@softsecrets2025].
 
 **Lição para Portugal:** Qualquer modelo deve oferecer produto competitivo com o mercado negro em potência, qualidade e preço desde o início.
 
 Estudos sobre preferências de consumidores confirmam que a escolha entre mercado legal e ilegal depende de múltiplos factores — qualidade, preço, conveniência e potência — e não apenas da legalidade [@autor2024]. Qualquer modelo regulatório deve considerar estes factores para ser competitivo face ao mercado negro.
 
 ## Espanha: o risco da não-regulação
-Espanha não legalizou cannabis, mas tolera ~800-1.000 clubes sociais numa "área cinzenta legal" baseada em jurisprudência sobre consumo partilhado [@tni2018] [@transform2018].
+Espanha não legalizou cannabis, mas tolera ~800-1.000 clubes sociais numa "área cinzenta legal" baseada em jurisprudência sobre consumo partilhado [@tni2018][@transform2018].
 
 **Problemas documentados:**
 

@@ -32,7 +32,7 @@ A evidência sobre riscos é robusta e deve orientar a nossa proposta:
   - **Contexto:** Estes riscos são particularmente relevantes para utilizadores com **patologia cardiovascular pré-existente**, **idade >50 anos**, ou **consumo combinado com tabaco**. Para utilizadores jovens saudáveis com consumo ocasional, o risco absoluto permanece baixo, mas não é nulo
 
 ### Como a nossa proposta mitiga estes riscos
-Reconhecemos os riscos e por isso propomos medidas específicas, baseadas em modelos internacionais comprovados [@hanway2022] [@cleirec2025]:
+Reconhecemos os riscos e por isso propomos medidas específicas, baseadas em modelos internacionais comprovados [@hanway2022][@cleirec2025]:
 
 | Risco | Medida de Mitigação |
 | :---- | :---- |

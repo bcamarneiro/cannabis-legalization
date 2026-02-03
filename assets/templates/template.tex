@@ -10,6 +10,14 @@
 \usepackage{titlesec}
 \usepackage{fancyhdr}
 \usepackage{tocloft}
+
+% TOC formatting - consistent dots and colors
+\renewcommand{\cftsecleader}{\cftdotfill{\cftdotsep}}
+\renewcommand{\cftsubsecleader}{\cftdotfill{\cftdotsep}}
+\renewcommand{\cftsubsubsecleader}{\cftdotfill{\cftdotsep}}
+\renewcommand{\cftsecpagefont}{\color{azulLivre}}
+\renewcommand{\cftsubsecpagefont}{\color{azulLivre}}
+\renewcommand{\cftsubsubsecpagefont}{\color{azulLivre}}
 \usepackage{graphicx}
 \usepackage{longtable}
 \usepackage{booktabs}
@@ -74,6 +82,8 @@
 \newenvironment{CSLReferences}[2]
   {\setlength{\parindent}{0pt}
    \setlength{\parskip}{0.5\baselineskip}
+   \sloppy  % Allow more flexible line breaks for URLs
+   \emergencystretch=3em  % Extra stretch to avoid overfull boxes
    \everypar{\hangindent=\cslhangindent}}
   {\par}
 \newcommand{\CSLBlock}[1]{#1\hfill\break}

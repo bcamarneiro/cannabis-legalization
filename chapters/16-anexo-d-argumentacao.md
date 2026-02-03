@@ -68,7 +68,7 @@ Sabe o que o mercado negro oferece? Nenhuma destas protecções. Produto de pot�
 
 * Riscos reconhecidos: psicose [@marconi2016], dependência, impacto cognitivo [@di2019]
 * Salvaguardas propostas: idade 21, limites THC 10% (18-21), financiamento prevenção
-* Evidência: Colorado consumo juvenil -42%, Alemanha -9% [@cdphe2024] [@marijuanamoment2025]
+* Evidência: Colorado consumo juvenil -42%, Alemanha -9% [@cdphe2024][@marijuanamoment2025]
 * **Princípio:** Reconhecer riscos ≠ manter proibição ineficaz
 
 ### Ataque 2: "Uma ganza é o início de uma vida de toxicodependência"
@@ -431,7 +431,7 @@ Nós não somos o partido da droga. Somos o partido que lê os dados e age em co
 
 **Dados de suporte:**
 
-* Descriminalização 2001: mortes overdose 369→80, HIV -98% [@bessergrowen2025] [@manthey2024]
+* Descriminalização 2001: mortes overdose 369→80, HIV -98% [@bessergrowen2025][@manthey2024]
 * Cato Institute (conservador): "sucesso retumbante" [@greenwald2009]
 * Consumo PT estável pós-2001, abaixo média EU (8,2% vs 8,3% último ano) — correlação não prova causalidade, mas refuta previsões catastrofistas [@springer2021pt]
 * 25 anos de evidência vs. rótulos ideológicos
