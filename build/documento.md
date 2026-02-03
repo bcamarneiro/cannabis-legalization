@@ -41,7 +41,7 @@ Este documento propõe que o LIVRE assuma uma posição clara e proactiva sobre 
 * **Consenso:** Potencial de apoio transversal (PS, PAN, BE, IL) — questão de saúde pública e justiça social
 * **Urgência:** Portugal exporta 99,85% da produção enquanto doentes pagam €150/mês sem comparticipação [@cannabislaw2024export; @drug2024]
 
-### Fase 2: Cannabis Recreativa (proposta legislativa Q3-Q4 2026 → implementação 2027-2028)
+### Fase 2: Cannabis Recreativa (Q3-Q4 2026)
 
 **Modelo:** Clubes sociais sem fins lucrativos + autocultivo (framework legal alemão 2024)
 
