@@ -79,6 +79,10 @@ fi
 echo "   Usando: $LATEX_CMD"
 $LATEX_CMD -interaction=nonstopmode Documento_Cannabis.tex 2>&1 | tail -20 || true
 echo "   Compilação 1/3 completa"
+echo "📋 DEBUG - Ficheiros após 1ª compilação:"
+ls -la *.toc *.aux 2>/dev/null || echo "   (nenhum .toc/.aux)"
+echo "📋 DEBUG - Conteúdo do .toc (se existir):"
+head -20 Documento_Cannabis.toc 2>/dev/null || echo "   (sem .toc)"
 $LATEX_CMD -interaction=nonstopmode Documento_Cannabis.tex 2>&1 | tail -20 || true
 echo "   Compilação 2/3 completa"
 $LATEX_CMD -interaction=nonstopmode Documento_Cannabis.tex 2>&1 | tail -20 || true
