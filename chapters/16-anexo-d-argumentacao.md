@@ -223,7 +223,7 @@ A comparticipação selectiva, combinada com acesso regulado (autocultivo/clubes
 
 **O que a evidência mostra sobre consumo juvenil após regulação:**
 
-* **Canadá:** Consumo entre 15-17 anos **desceu de 19,8% para 10,4%** após legalização (2018-2019) [@statcan2019youth; @statcan2021cannabis] — mas dados mais recentes (CCS 2024, 16-19 anos) mostram ligeiro aumento (36%→41-43%), interpretação disputada
+* **Canadá:** Consumo juvenil **não aumentou** pós-legalização segundo Statistics Canada [@statcan2019youth]. Dados contraditórios: survey NCS 2019 (15-17 anos) mostrou queda inicial; survey CCS 2024 (16-19 anos) mostra aumento de 36%→41-43%. Health Canada conclui: "não há tendência clara" — evidência mais honesta que cherry-picking de um único ano
 * **Colorado:** Consumo em adolescentes **desceu de 22% (2011) para 12,8% (2023)** — redução de 42% [@mpp2024colorado; @cdc2023yrbs] — **nota:** tendência nacional EUA similar (-38%), pelo que a causalidade exclusiva da legalização não é demonstrável
 * **Meta-análise JAMA Pediatrics:** Leis de cannabis medicinal **não aumentaram consumo juvenil** nos EUA [@sarvet2018jama]
 * **Coley et al. (2024, Boston College):** Estudo longitudinal 2011-2021 encontrou **associações limitadas** entre legalização recreativa e consumo juvenil [@coley2024]
@@ -238,7 +238,7 @@ A comparticipação selectiva, combinada com acesso regulado (autocultivo/clubes
 * Doentes pagam €150/mês sem comparticipação [@drug2024]
 * Apenas 1.157 prescrições em 2023 vs. 32.558 kg exportados [@infarmed2024prescricoes; @eco2024cannabis]
 * Clubes sociais (modelo alemão): sem fins lucrativos, 200m escolas, oficial prevenção, THC limitado [@bundesgesundheit2024cannabis]
-* Canadá: dados iniciais (NCS, 15-17 anos) mostraram queda de 19,8% para 10,4%, mas dados mais recentes (CCS, 16-19 anos) mostram aumento de 36% para 41-43% (2018-2024) — interpretação disputada [@statcan2019youth]
+* Canadá: Statistics Canada conclui "consumo juvenil não aumentou" pós-legalização; dados variam por survey/metodologia — interpretação honesta evita cherry-picking [@statcan2019youth]
 * Colorado: consumo adolescente **↓ 42%** (22%→12,8%) pós-legalização [@mpp2024colorado; @cdphe2024monitoring]
 * Meta-análise: leis cannabis medicinal não aumentaram uso juvenil [@sarvet2018jama]
 * **Princípio:** Medicinal e recreativo são objectivos distintos com mecanismos diferentes — misturá-los é desinformação

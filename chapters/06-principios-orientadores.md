@@ -46,7 +46,7 @@
 **1. Canabinóides sintéticos perigosos:**
 
 * **18 novos canabinóides semi-sintéticos** identificados em 2024 [@euda2025nps]
-* Alguns são **2 a 800 vezes mais potentes** que THC natural [@euda2025nps]
+* Alguns são **2 a 800 vezes mais potentes** que THC natural [@oasas2024synthetic] — EUDA 2025 confirma que são "altamente potentes" mas não quantifica [@euda2025nps]
 * **HHC** (hexahydrocannabinol) e derivados vendidos como "alternativas legais" reportados em **27 países europeus**, controlados em 22 Estados-Membros [@euda2025nps]
 * **Hungria reportou 30 intoxicações agudas** por gomas adulteradas com sintéticos em 2024 [@euda2024threat]
 
