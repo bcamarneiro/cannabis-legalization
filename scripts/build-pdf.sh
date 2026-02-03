@@ -60,10 +60,27 @@ echo "✅ LaTeX gerado: $OUTPUT_TEX"
 # Passo 2: LaTeX → PDF
 echo "📝 Passo 2/2: Compilando LaTeX → PDF..."
 cd "$PROJECT_DIR/output"
-pdflatex -interaction=nonstopmode Documento_Cannabis.tex > /dev/null 2>&1 || true
+
+# Usar xelatex se disponível (melhor suporte Unicode), senão pdflatex
+if command -v xelatex &> /dev/null; then
+    LATEX_CMD="xelatex"
+else
+    LATEX_CMD="pdflatex"
+fi
+
+echo "   Usando: $LATEX_CMD"
+$LATEX_CMD -interaction=nonstopmode Documento_Cannabis.tex 2>&1 | tail -20 || true
 echo "   Compilação 1/2 completa"
-pdflatex -interaction=nonstopmode Documento_Cannabis.tex > /dev/null 2>&1 || true
+$LATEX_CMD -interaction=nonstopmode Documento_Cannabis.tex 2>&1 | tail -20 || true
 echo "   Compilação 2/2 completa"
+
+# Verificar se PDF foi gerado
+if [[ ! -f "Documento_Cannabis.pdf" ]]; then
+    echo "❌ ERRO: PDF não foi gerado!"
+    echo "   Log de erros:"
+    cat Documento_Cannabis.log 2>/dev/null | grep -A5 "^!" || echo "   (sem log disponível)"
+    exit 1
+fi
 
 # Limpar ficheiros temporários
 rm -f *.aux *.log *.out *.toc "$TEMP_MD"
