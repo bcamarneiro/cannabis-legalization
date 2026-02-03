@@ -56,11 +56,11 @@ Um estudo de 2024 publicado na ResearchGate estima o mercado ilegal português d
 Os dados do V Inquérito Nacional (SICAD, 2022) mostram que Portugal mantém taxas de consumo abaixo da média europeia:
 
 * **Prevalência ao longo da vida (15-64 anos):** 10,5% (PT) [@nugent2017]
-* **Consumo último ano (15-64 anos):** 2,8% (PT) vs. 8,4% (média UE) [@marconi2016][@di2019]
+* **Consumo último ano (15-64 anos):** 2,8% (PT) vs. 8,4% (média UE) [@marconi2016; @di2019]
 
 **Dado preocupante:** O consumo de risco elevado entre jovens 15-24 anos aumentou de 0,2% (2012) para 1,3% (2022), medido pelo Cannabis Abuse Screening Test (CAST) [@leung2020].
 
-**Contexto importante:** Este aumento de 6,5x no consumo de risco juvenil (0,2% → 1,3%) [@transform2020] ocorreu durante o período de **desinvestimento drástico nos serviços de prevenção e tratamento**: em 2012, o financiamento foi cortado de €76 milhões para €16 milhões (-79%) [@tax2024][@nutt2010], o IDT foi extinto e substituído pelo SICAD, e o tempo de espera para tratamento passou de 4 horas para 1 ano [@rogeberg2019]. Em 2025, o coordenador nacional João Goulão confirmou que o orçamento actual continua inferior ao de antes de 2012 [@bundesministerium2024]. **A proibição não impediu este aumento; regulação permitiria controlo de potência e programas de prevenção adequadamente financiados.**
+**Contexto importante:** Este aumento de 6,5x no consumo de risco juvenil (0,2% → 1,3%) [@transform2020] ocorreu durante o período de **desinvestimento drástico nos serviços de prevenção e tratamento**: em 2012, o financiamento foi cortado de €76 milhões para €16 milhões (-79%) [@tax2024; @nutt2010], o IDT foi extinto e substituído pelo SICAD, e o tempo de espera para tratamento passou de 4 horas para 1 ano [@rogeberg2019]. Em 2025, o coordenador nacional João Goulão confirmou que o orçamento actual continua inferior ao de antes de 2012 [@bundesministerium2024]. **A proibição não impediu este aumento; regulação permitiria controlo de potência e programas de prevenção adequadamente financiados.**
 
 ## A descriminalização de 2001: resultados comprovados
 A Lei 30/2000 descriminalizou o consumo pessoal. Os resultados em 25 anos são notáveis:
@@ -92,7 +92,7 @@ Retirar utilizadores do sistema penal libertou recursos e reduziu pressão sobre
 
 **3\. O modelo requer financiamento sustentado para funcionar**
 
-**Lição crítica:** O desinvestimento durante o período de austeridade (2012-2021) mostrou a fragilidade do modelo [@latinamerica2024][@softsecrets2025][@tni2018]:
+**Lição crítica:** O desinvestimento durante o período de austeridade (2012-2021) mostrou a fragilidade do modelo [@latinamerica2024; @softsecrets2025; @tni2018]:
 
 * Corte de financiamento de €76M para €16M (-79%) [@transform2018]
 * Serviços de proximidade (equipas de rua) subcontratados a ONGs com menos recursos [@hightimes2024]

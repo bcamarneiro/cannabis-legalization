@@ -2,7 +2,7 @@
 
 # PILAR 2: CANNABIS RECREATIVA (médio prazo)
 
-Proposta baseada no modelo alemão [@bundesministerium2024][@wikipedia2025], adaptada a Portugal:
+Proposta baseada no modelo alemão [@bundesministerium2024; @wikipedia2025], adaptada a Portugal:
 
 **Nota importante:** Esta proposta NÃO contempla o modelo comercial de dispensários (tipo Canadá/EUA). Propõe-se exclusivamente: (1) clubes sociais sem fins lucrativos, onde os preços reflectem apenas custos de produção; e (2) autocultivo com sementes de fornecedores certificados. A menor conveniência face ao mercado negro é intencional — evita comercialização excessiva e turismo cannábico, mantendo foco na saúde pública.
 
