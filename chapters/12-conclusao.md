@@ -22,3 +22,4 @@ O caminho proposto organiza-se em três eixos de ação complementares. **No eix
 **No eixo recreativo**, a abordagem deve ser gradual e ancorada na experiência internacional. A legalização regulada do uso adulto, com limites claros de idade, potência, publicidade e segurança rodoviária, é o passo seguinte para completar o modelo português de política de drogas baseada na saúde pública. A descriminalização de 2001 foi visionária; a regulação responsável é a sua continuação lógica. Com os modelos do Uruguai, Canadá e Alemanha como referência — aprendendo tanto com os sucessos como com os erros — Portugal pode construir um quadro regulatório que proteja a saúde pública, reduza o mercado negro e gere receitas fiscais significativas para financiar prevenção e tratamento.
 
 <!-- CI test Tue Feb  3 17:59:40 WET 2026 -->
+<!-- 1770141743 -->
