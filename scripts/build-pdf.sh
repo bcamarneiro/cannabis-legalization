@@ -72,9 +72,11 @@ fi
 
 echo "   Usando: $LATEX_CMD"
 $LATEX_CMD -interaction=nonstopmode Documento_Cannabis.tex 2>&1 | tail -20 || true
-echo "   Compilação 1/2 completa"
+echo "   Compilação 1/3 completa"
 $LATEX_CMD -interaction=nonstopmode Documento_Cannabis.tex 2>&1 | tail -20 || true
-echo "   Compilação 2/2 completa"
+echo "   Compilação 2/3 completa"
+$LATEX_CMD -interaction=nonstopmode Documento_Cannabis.tex 2>&1 | tail -20 || true
+echo "   Compilação 3/3 completa"
 
 # Verificar se PDF foi gerado
 if [[ ! -f "Documento_Cannabis.pdf" ]]; then
