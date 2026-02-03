@@ -57,7 +57,7 @@ Cada clube deve ter um **Präventionsbeauftragter** (Oficial de Prevenção) —
 3. **Referenciação e encaminhamento SNS**
    - Encaminhamento para consulta psiquiatria/psicologia do SNS quando: uso diário persistente, sinais psicose (paranóia, desrealização), depressão/ansiedade severa
    - Manter lista actualizada de contactos SNS locais (hospitais, centros de saúde mental, linhas apoio)
-   - **Follow-up:** Contactar membro 2 semanas após referenciação (verificar se acedeu a cuidados)
+   - **Seguimento:** Contactar membro 2 semanas após referenciação (verificar se acedeu a cuidados)
 
 4. **Sessões educativas de grupo**
    - Mínimo trimestral (4x/ano) para todos os membros
@@ -69,7 +69,7 @@ Cada clube deve ter um **Präventionsbeauftragter** (Oficial de Prevenção) —
    - Negar acesso a menores (verificação ID) — **único poder de veto do Oficial**
    - Recusar admissão a candidatos com psicose activa não estabilizada
 
-6. **Relatórios e accountability**
+6. **Relatórios e responsabilização**
    - Relatório trimestral ao SICAD: número de referenciações, padrões identificados, taxa de follow-up bem-sucedido
    - Relatório anual ao clube (assembleia geral): estatísticas anonimizadas, recomendações melhorias
    - Disponibilidade para auditorias SICAD/Infarmed
@@ -819,7 +819,7 @@ Impactos positivos **não incluídos** no balanço fiscal acima:
 - **Reinserção social:** Menos condenações por tráfico = menos antecedentes criminais
 - **Saúde mental:** Acesso a produtos THC controlado (10% máx. 18-20 anos) vs. mercado negro potência desconhecida
 - **Qualidade de vida:** Cidadãos não criminalizados por autocultivo 3 plantas
-- **Transparência:** Relatórios públicos trimestrais SICAD (accountability)
+- **Transparência:** Relatórios públicos trimestrais SICAD (responsabilização)
 
 ##### Comparação com Modelos Comerciais (Colorado/Canadá)
 

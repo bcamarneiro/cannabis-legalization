@@ -38,7 +38,7 @@ O turismo cannabis cria problemas documentados em cidades europeias:
 
 * **Amsterdam:** 58% dos turistas internacionais visitam especificamente para consumir drogas; 3 milhões de turistas/ano frequentam coffee shops. A autarca descreveu o fenómeno como "a blight on the city, fostering crime and public disorder" [@natgeo2024amsterdam; @schengen2024amsterdam]. Apesar de propostas para implementar critério de residência (i-criterium), Amsterdam não conseguiu aplicar a medida por receio de expansão do mercado negro.
 
-* **Barcelona:** Em 2024, o município ordenou encerramento de 30 clubes por violações e turismo cannabis. Supremo Tribunal Espanhol (2021-2023) estabeleceu que clubes que operam como negócios, aceitam turistas ou fazem publicidade constituem **tráfico de drogas**. Inspections regulares resultaram em encerramentos e acusações criminais [@medium2024barcelona; @greendream2024spain].
+* **Barcelona:** Em 2024, o município ordenou encerramento de 30 clubes por violações e turismo cannabis. Supremo Tribunal Espanhol (2021-2023) estabeleceu que clubes que operam como negócios, aceitam turistas ou fazem publicidade constituem **tráfico de drogas**. Inspeções regulares resultaram em encerramentos e acusações criminais [@medium2024barcelona; @greendream2024spain].
 
 **Política portuguesa proposta:**
 

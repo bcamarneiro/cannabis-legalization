@@ -17,7 +17,7 @@
 
 
 
-# ESTRATÉGIAS PARA CONSTRUIR PONTES
+## ESTRATÉGIAS PARA CONSTRUIR PONTES
 
 ## Estratégia de Negociação em 3 Níveis {#5.5-estratégia-de-negociação-em-3-níveis}
 
