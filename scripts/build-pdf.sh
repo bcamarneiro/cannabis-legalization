@@ -20,8 +20,8 @@ if [[ -d "$CHAPTERS_DIR" ]]; then
     SOURCE_FILES=("$CHAPTERS_DIR"/[0-9]*.md)
     SOURCE_LABEL="chapters/"
 else
-    SOURCE_FILES=("$PROJECT_DIR/documento.md")
-    SOURCE_LABEL="documento.md"
+    SOURCE_FILES=("$PROJECT_DIR/build/documento.md")
+    SOURCE_LABEL="build/documento.md"
 fi
 
 echo "📄 Convertendo Markdown → LaTeX → PDF..."
