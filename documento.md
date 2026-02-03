@@ -1857,7 +1857,7 @@ Assumindo 46 clubes × 400 membros activos médios = **18.400 utilizadores** (ce
 
 - **Prevalência adulta PT:** 8,2% × 8,6M adultos = ~706.000 utilizadores cannabis
 - **Captura clubes:** 18.400 / 706.000 = **2,6% utilizadores totais** (escala piloto/inicial)
-- **Captura realista (Anos 5-10):** Com autocultivo (3 plantas) + clubes, esperado **30-45% captura** mercado ilegal ([ver MÉDIA 5](#impacto-esperado-dos-clubes-sociais-no-mercado-ilegal))
+- **Captura realista (Anos 5-10):** Com autocultivo (3 plantas) + clubes, esperado **30-45% captura** mercado ilegal ([ver análise gap mercado](#gap-mercado))
 
 **Limitação reconhecida:** 46 clubes sozinhos capturam apenas **2,6% dos utilizadores** directamente. A projecção de captura de 30-45% do mercado ilegal em 5-10 anos requer análise honesta do gap e das premissas:
 
