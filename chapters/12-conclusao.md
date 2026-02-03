@@ -24,3 +24,4 @@ O caminho proposto organiza-se em três eixos de ação complementares. **No eix
 <!-- CI test Tue Feb  3 17:59:40 WET 2026 -->
 <!-- 1770141743 -->
 <!-- trigger 1770141947 -->
+<!-- toc fix 1770144092 -->
