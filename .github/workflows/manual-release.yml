@@ -78,7 +78,7 @@ jobs:
             - 📝 `documento.docx` - Versão Word editável
 
             ### 🔗 Links úteis:
-            - [Ver documento fonte](../../blob/main/documento.md)
+            - [Ver documento fonte](../../blob/main/build/documento.md)
             - [Ver referências bibliográficas](../../blob/main/references.bib)
             - [Ver todas as releases](../../releases)
 
