@@ -10,7 +10,7 @@ date: "Janeiro 2026"
 lang: pt-PT
 toc: true
 ---
-# SUMÁRIO EXECUTIVO {-}
+# SUMÁRIO EXECUTIVO
 
 \newpage
 
@@ -122,7 +122,7 @@ Este documento propõe que o LIVRE assuma uma posição clara e proactiva sobre 
 **Para defesa pública:** consultar Anexo E (guia argumentação)
 \newpage
 
-# PARTE I — CONTEXTO E DIAGNÓSTICO {-}
+# PARTE I — CONTEXTO E DIAGNÓSTICO
 
 \newpage
 
@@ -230,7 +230,7 @@ A experiência internacional confirma esta progressão: nos EUA, 24 estados evol
 A questão já não é "se" abandonar a proibição, mas "como" implementar regulação responsável.
 \newpage
 
-# CONTEXTO HISTÓRICO {-}
+# CONTEXTO HISTÓRICO
 
 ## Pré-Proibição: Cannabis antes dos Tratados Internacionais (até 1970)
 
@@ -841,7 +841,7 @@ Não podemos isolar o efeito causal da legalização vs. tendências nacionais. 
 **Conclusão:** Regulação não é panaceia. A evidência disponível — incluindo o estudo longitudinal de Coley et al. (2024, Boston College), que analisou dados 2011-2021 e encontrou **associações limitadas** entre legalização recreativa e consumo juvenil [@coley2024] — sugere que a regulação **não provocou os aumentos de consumo que opositores previam**. Contudo, os declínios observados são parcialmente atribuíveis a tendências nacionais pré-existentes (ver contexto crítico acima), pelo que afirmações de causalidade devem ser cautelosas. O que é claro: a regulação cria mecanismos protectores (verificação idade, educação, financiamento prevenção) inexistentes no mercado negro.
 \newpage
 
-# PARTE II — PROPOSTA {-}
+# PARTE II — PROPOSTA
 
 \newpage
 
@@ -2875,7 +2875,7 @@ O caminho proposto organiza-se em três eixos de ação complementares. **No eix
 <!-- toc v4 1770145007 -->
 \newpage
 
-# PARTE III — ANEXOS {-}
+# PARTE III — ANEXOS
 
 \newpage
 
@@ -3781,7 +3781,7 @@ Pilotos suíços aparentemente têm acesso banca (190 clubes operacionais), mas 
 \newpage
 \newpage
 
-# ANEXO D: Guia de Argumentação {-}
+# ANEXO D: Guia de Argumentação
 
 ## Como usar este guia
 
@@ -4410,4 +4410,4 @@ Aliás, se Portugal não agir, **perderemos a vantagem competitiva** que temos n
 * **Táctica:** Começar por cannabis medicinal (consensual) → preparar terreno para recreativa
 
 ---
-# Referências {-}
+# Referências
