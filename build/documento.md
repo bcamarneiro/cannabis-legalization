@@ -4414,3 +4414,4 @@ Aliás, se Portugal não agir, **perderemos a vantagem competitiva** que temos n
 ---
 # Referências
 <!-- ref fix 1770153775 -->
+<!-- final 1770156168 -->
