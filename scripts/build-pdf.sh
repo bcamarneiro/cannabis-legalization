@@ -30,7 +30,7 @@ echo "   Template: $TEMPLATE_TEX"
 echo "   Destino: $OUTPUT_PDF"
 echo ""
 
-# Preprocessar Markdown (remover emojis, limpar links, e remover {-} de headers para TOC funcionar)
+# Preprocessar Markdown (remover emojis, limpar links, normalizar espaços antes de citações)
 TEMP_MD="/tmp/doc-clean-temp.md"
 cat "${SOURCE_FILES[@]}" | \
 sed 's/#heading=/#/' | \
@@ -39,7 +39,8 @@ sed 's/✅//g' | \
 sed 's/❌//g' | \
 sed 's/CO₂/CO2/g' | \
 sed 's/ {-}$//' | \
-sed 's/ {-}$//' > "$TEMP_MD"
+sed 's/\[@/ \[@/g' | \
+sed 's/  \[@/ \[@/g' > "$TEMP_MD"
 
 # Passo 1: Markdown → LaTeX
 echo "📝 Passo 1/2: Convertendo Markdown → LaTeX..."

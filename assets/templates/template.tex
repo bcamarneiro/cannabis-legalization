@@ -2,8 +2,7 @@
 
 % Packages
 \usepackage[portuguese]{babel}
-\usepackage[utf8]{inputenc}
-\usepackage[T1]{fontenc}
+\usepackage{fontspec}  % XeLaTeX font support (replaces inputenc/fontenc)
 \usepackage{textcomp}
 \usepackage{calc}
 \usepackage{geometry}
@@ -17,9 +16,12 @@
 \usepackage{array}
 \usepackage{colortbl}
 \usepackage{footnote}
-\usepackage{helvet}  % Helvetica as Calibri substitute
+% Use TeX Gyre Heros (Helvetica clone with full Unicode support including ª º)
+\setmainfont{TeX Gyre Heros}
+\setsansfont{TeX Gyre Heros}
 \usepackage{hyperref}
 \usepackage{bookmark}  % Better TOC bookmarks with hyperref
+\usepackage{xurl}  % Better URL line breaking
 
 % Page geometry
 \geometry{
@@ -35,8 +37,7 @@
 \definecolor{azulClaro}{HTML}{d5e8f0}
 \definecolor{cinzaHeader}{HTML}{666666}
 
-% Use Helvetica as body font (closest to Calibri)
-\renewcommand{\familydefault}{\sfdefault}
+% Font is set via fontspec above (TeX Gyre Heros)
 
 % Hyperref setup (blue clickable links for navigation and references)
 \hypersetup{
@@ -52,12 +53,17 @@
     pdfkeywords={cannabis, regulação, Portugal, LIVRE}
 }
 
-% Configure URL line breaking
+% Configure URL line breaking (xurl package handles most of this)
+% Allow breaks at more characters for better URL wrapping
 \makeatletter
 \g@addto@macro{\UrlBreaks}{\UrlOrBreaks}
 \makeatother
-\def\UrlOrBreaks{\do\-\do\a\do\b\do\c\do\d\do\e\do\f\do\g\do\h\do\i\do\j%
-\do\k\do\l\do\m\do\n\do\o\do\p\do\q\do\r\do\s\do\t\do\u\do\v\do\w\do\x\do\y\do\z}
+\def\UrlOrBreaks{\do\/\do\-\do\_\do\.\do\:\do\%\do\&\do\=\do\?\do\#%
+\do\a\do\b\do\c\do\d\do\e\do\f\do\g\do\h\do\i\do\j\do\k\do\l\do\m%
+\do\n\do\o\do\p\do\q\do\r\do\s\do\t\do\u\do\v\do\w\do\x\do\y\do\z%
+\do\A\do\B\do\C\do\D\do\E\do\F\do\G\do\H\do\I\do\J\do\K\do\L\do\M%
+\do\N\do\O\do\P\do\Q\do\R\do\S\do\T\do\U\do\V\do\W\do\X\do\Y\do\Z%
+\do\0\do\1\do\2\do\3\do\4\do\5\do\6\do\7\do\8\do\9}
 
 % CSLReferences environment for bibliography (required by pandoc --citeproc)
 \newlength{\cslhangindent}
