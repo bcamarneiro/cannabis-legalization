@@ -4,7 +4,7 @@
 
 ## Cânhamo Industrial: Uma Oportunidade Económica e Ambiental
 
-O cânhamo industrial (*Cannabis sativa* L. com THC<0,3%) representa uma oportunidade estratégica para Portugal, combinando benefícios económicos, ambientais e sociais. O mercado europeu de cânhamo industrial foi avaliado em **USD 2,9 mil milhões** em 2024, com projeções de crescimento a uma taxa anual de 24% até atingir **USD 20,4 mil milhões em 2033** [@marketdataforecast2025]. A Europa representa cerca de **40% do mercado global** [@psmarketresearch2024].
+O cânhamo industrial (*Cannabis sativa* L. com THC<0,3%) representa uma oportunidade estratégica para Portugal, combinando benefícios económicos, ambientais e sociais. O mercado europeu de cânhamo industrial foi avaliado em **USD 2,9 mil milhões** em 2024, com projeções de crescimento a uma taxa anual de 24% até atingir **USD 20,4 mil milhões em 2033** [@marketdataforecast2025]. A Europa representa cerca de **31% do mercado global** [@psmarketresearch2024].
 
 ## Análise Económica
 
@@ -34,7 +34,7 @@ Portugal reúne condições excecionais para o cultivo de cânhamo:
 |---------|------------|-------------------|
 | Fibra | Têxteis, isolamento, compósitos automóveis | €600–1.200 |
 | Semente | Alimentação, suplementos, cosméticos | €800–1.500 |
-| *Shiv* (parte lenhosa) | *Hempcrete*, camas para animais, mulch | €200–400 |
+| *Shiv* (parte lenhosa) | *Hempcrete*, camas para animais, *mulch* | €200–400 |
 | CBD/extratos | Suplementos, cosmética | €2.000–5.000 |
 | Biomassa total | Energia, bioplásticos | €400–800 |
 

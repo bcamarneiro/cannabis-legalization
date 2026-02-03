@@ -878,13 +878,13 @@ A Lei n.º 33/2018, de 18 de julho, legalizou o uso de medicamentos, preparaçõ
 **Números que demonstram o fracasso:**
 
 * Entre 2021 e 2023, as prescrições de cannabis medicinal aumentaram de 460 para 1.157 por ano — um número irrisório para um país de 10 milhões de habitantes [@prohibition2025]
-* Em 2024, os dados mostram uma **desaceleração**: apenas 757 prescrições até ao 3.º trimestre (média de 252/trimestre) [@prohibition2025]
+* Em 2024, os dados mostram uma **queda acentuada**, invertendo a tendência de crescimento: apenas 757 prescrições até ao 3.º trimestre (média de 252/trimestre, abaixo das ~289/trimestre de 2023) [@prohibition2025]
 * No mesmo período, Portugal **exportou mais de 18 toneladas** de cannabis medicinal, um aumento de 54% face a 2023 [@eco2024]
 * Em 2023, apenas **17 kg** foram vendidos a doentes portugueses — 99,85% da produção nacional foi exportada [@cannabis2024_1]
 
 **As causas identificadas:**
 
-1. **Processo de prescrição complexo:** Embora qualquer médico licenciado possa prescrever, a cannabis é restrita a "tratamento de último recurso", apenas para indicações aprovadas, e requer uma receita médica especial com formulário próprio aprovado pelo Ministério da Saúde [@cmslaw2024; @prohibition2025]
+1. **Processo de prescrição complexo:** Embora qualquer médico licenciado possa prescrever, a cannabis é restrita a «tratamento de último recurso», apenas para indicações aprovadas, e requer uma receita médica especial com formulário próprio aprovado pelo Ministério da Saúde [@cmslaw2024; @prohibition2025]
 2. **Ausência de comparticipação pelo SNS:** Os doentes pagam a totalidade dos custos do próprio bolso. Uma caixa de 15g de flor de cannabis (Tilray THC 18%) custa **€150** — acima do preço do mercado negro [@euronews2024]. Outro medicamento (Sativex) está comparticipado a apenas 37%, ficando o doente com um encargo de **€300** [@cannareporter2021]
 3. **Poucos produtos disponíveis:** Apenas sete extratos e dois produtos de flor têm Autorização de Colocação no Mercado (ACM). O processo de ACM é burocrático, moroso e dispendioso [@prohibition2025]
 4. **Falta de formação médica:** Existe um desconhecimento generalizado sobre o sistema endocanabinóide nas faculdades de medicina. Poucos médicos se sentem confortáveis a prescrever [@rtp2019]
@@ -896,7 +896,7 @@ A Alemanha legalizou a cannabis medicinal em 2017, enfrentando inicialmente barr
 
 * Desde outubro de 2024, médicos de **16 especialidades** (incluindo medicina geral) podem prescrever cannabis para reembolso **sem autorização prévia** das seguradoras [@lancet2024germany]
 * As prescrições privadas (fora do seguro) passaram a representar 80% do total, enquanto as comparticipadas representam 20% — mas o acesso global aumentou enormemente [@cannabishealthnews2024]
-* A Alemanha tem cerca de **4,5 milhões de utilizadores** de cannabis, e o mercado médico movimenta centenas de milhões de euros [@globenewswire2024]
+* A Alemanha tem cerca de **4,5 milhões de utilizadores totais** de cannabis (incluindo recreativo), enquanto o mercado médico regista aproximadamente 370.000 prescrições/ano e movimenta centenas de milhões de euros [@globenewswire2024]
 
 ## Modelo de Comparticipação Proposto
 
@@ -906,7 +906,7 @@ O custo é a principal barreira ao acesso. Atualmente em Portugal:
 
 * Uma caixa de flor (Tilray THC 18%, 15g) custa **€150** sem qualquer comparticipação [@euronews2024]
 * Os extratos aprovados custam entre **€98 e €193,40** por unidade [@prohibition2025]
-* Um doente que necessite de tratamento contínuo pode gastar **€150–300/mês** — incomportável para a maioria, especialmente doentes crónicos com rendimentos reduzidos
+* Um doente que necessite de tratamento contínuo pode gastar **€150–300/mês** — insuportável para a maioria, especialmente doentes crónicos com rendimentos reduzidos
 
 Para contexto: €300/mês corresponde à totalidade do rendimento disponível de uma pessoa com pensão de invalidez, depois das despesas essenciais [@internationalcbc2021].
 
@@ -939,7 +939,7 @@ Propomos um modelo de comparticipação faseado:
 
 ### Barreiras Atuais
 
-* **Prescrição restrita a "último recurso":** Na prática, o doente tem de demonstrar que todas as outras opções falharam — criando um percurso burocrático e desumanizante [@prohibition2025]
+* **Prescrição restrita a «último recurso»:** Na prática, o doente tem de demonstrar que todas as outras opções falharam — criando um percurso burocrático e desumanizante [@prohibition2025]
 * **Poucos médicos prescritores:** Embora a lei permita que qualquer médico prescreva, a falta de formação e o estigma significam que apenas uma mão-cheia o faz [@rtp2019]
 * **Farmácias limitadas:** Nem todas as farmácias dispensam estes produtos, obrigando doentes a deslocações
 
@@ -960,7 +960,7 @@ Propomos um modelo de comparticipação faseado:
    * Todas as farmácias comunitárias devem poder dispensar produtos aprovados
    * Sistema de encomenda centralizada para farmácias sem *stock* permanente
 
-4. **Eliminação do requisito de "último recurso":**
+4. **Eliminação do requisito de «último recurso»:**
    * Substituir por critério de "benefício clínico comprovado" a par de outras opções terapêuticas
    * Alinhamento com a prática alemã, onde a cannabis pode ser prescrita quando existe "perspetiva fundamentada de benefício" (*begründete Aussicht auf einen Therapieerfolg*)
 
@@ -991,7 +991,7 @@ A revisão *umbrella* do BMJ (2023) analisou 101 meta-análises sobre benefício
 
 ### Proposta de Alargamento
 
-* **Fase 1 (imediata):** Manter as 7 indicações atuais, mas eliminar requisito de "último recurso"
+* **Fase 1 (imediata):** Manter as 7 indicações atuais, mas eliminar requisito de «último recurso»
 * **Fase 2 (6 meses):** Adicionar PTSD, fibromialgia, doença inflamatória intestinal e artrite reumatoide
 * **Fase 3 (12 meses):** Revisão baseada em evidência atualizada, com comissão técnica independente
 
@@ -1004,7 +1004,7 @@ Portugal é o **maior exportador europeu** de cannabis medicinal e o segundo mai
 * Em 2024, exportou mais de **18 toneladas** de cannabis medicinal [@prohibition2025]
 * Destinos: Alemanha (46%), Espanha (20%), Polónia (16%), Reino Unido (10%), Austrália (5%)
 * Existem **mais de 50 empresas** autorizadas a exportar
-* Mais de **61 licenças de cultivo** ativas em março de 2025
+* Mais de **61 licenças de cultivo** ativas em março de 2024
 
 Paradoxalmente, em 2023 apenas **17 kg** foram vendidos domesticamente. Os doentes portugueses não têm acesso ao que Portugal produz [@cannabis2024_1].
 
@@ -1047,7 +1047,7 @@ Paradoxalmente, em 2023 apenas **17 kg** foram vendidos domesticamente. Os doent
 2. **Médio prazo (6–18 meses):**
    * Alargamento das indicações terapêuticas
    * Quota de mercado interno para produtores
-   * Eliminação do requisito de "último recurso"
+   * Eliminação do requisito de «último recurso»
 
 3. **Longo prazo (18–36 meses):**
    * Comparticipação a 90% para doentes crónicos de baixos rendimentos
@@ -2090,7 +2090,7 @@ Assumindo 46 clubes × 400 membros activos médios = **18.400 utilizadores** (ce
 
 ## Cânhamo Industrial: Uma Oportunidade Económica e Ambiental
 
-O cânhamo industrial (*Cannabis sativa* L. com THC<0,3%) representa uma oportunidade estratégica para Portugal, combinando benefícios económicos, ambientais e sociais. O mercado europeu de cânhamo industrial foi avaliado em **USD 2,9 mil milhões** em 2024, com projeções de crescimento a uma taxa anual de 24% até atingir **USD 20,4 mil milhões em 2033** [@marketdataforecast2025]. A Europa representa cerca de **40% do mercado global** [@psmarketresearch2024].
+O cânhamo industrial (*Cannabis sativa* L. com THC<0,3%) representa uma oportunidade estratégica para Portugal, combinando benefícios económicos, ambientais e sociais. O mercado europeu de cânhamo industrial foi avaliado em **USD 2,9 mil milhões** em 2024, com projeções de crescimento a uma taxa anual de 24% até atingir **USD 20,4 mil milhões em 2033** [@marketdataforecast2025]. A Europa representa cerca de **31% do mercado global** [@psmarketresearch2024].
 
 ## Análise Económica
 
@@ -2120,7 +2120,7 @@ Portugal reúne condições excecionais para o cultivo de cânhamo:
 |---------|------------|-------------------|
 | Fibra | Têxteis, isolamento, compósitos automóveis | €600–1.200 |
 | Semente | Alimentação, suplementos, cosméticos | €800–1.500 |
-| *Shiv* (parte lenhosa) | *Hempcrete*, camas para animais, mulch | €200–400 |
+| *Shiv* (parte lenhosa) | *Hempcrete*, camas para animais, *mulch* | €200–400 |
 | CBD/extratos | Suplementos, cosmética | €2.000–5.000 |
 | Biomassa total | Energia, bioplásticos | €400–800 |
 
@@ -2504,8 +2504,6 @@ O caminho proposto organiza-se em três eixos de ação complementares. **No eix
 **No eixo do cânhamo industrial**, Portugal tem condições naturais e competitivas para se tornar um produtor de referência europeu. Com um programa piloto de 1.000 hectares em quatro regiões, parcerias universitárias sólidas e o enquadramento favorável da PAC, o cânhamo pode gerar milhares de empregos em regiões de baixa densidade, contribuir para as metas climáticas nacionais e diversificar a economia agrícola. É uma oportunidade que não implica qualquer controvérsia ideológica — apenas vontade política de simplificar a regulação.
 
 **No eixo recreativo**, a abordagem deve ser gradual e ancorada na experiência internacional. A legalização regulada do uso adulto, com limites claros de idade, potência, publicidade e segurança rodoviária, é o passo seguinte para completar o modelo português de política de drogas baseada na saúde pública. A descriminalização de 2001 foi visionária; a regulação responsável é a sua continuação lógica. Com os modelos do Uruguai, Canadá e Alemanha como referência — aprendendo tanto com os sucessos como com os erros — Portugal pode construir um quadro regulatório que proteja a saúde pública, reduza o mercado negro e gere receitas fiscais significativas para financiar prevenção e tratamento.
-
-\newpage
 \newpage
 
 # PARTE III — ANEXOS {-}
