@@ -2,6 +2,10 @@
 
 \newpage
 
+> **TL;DR (30 segundos):** Portugal exporta 32.500 kg de cannabis medicinal mas apenas emitiu 1.157 prescrições internas. 95% dos utilizadores compram no mercado negro (€52-151M/ano) sem controlo de qualidade. Propomos: (1) comparticipação SNS para doentes, (2) clubes sociais sem fins lucrativos + autocultivo para adultos (modelo alemão 2024), (3) programa piloto cânhamo industrial. Evidência internacional: legalização não aumentou consumo juvenil. ROI estimado: 120-753% via poupanças enforcement. **Não é modelo comercial** — é redução de danos para quem já consome.
+
+---
+
 ## O paradoxo português
 
 Portugal encontra-se numa posição paradoxal: é o segundo maior exportador mundial de cannabis medicinal (32.558 kg em 2024 [@infarmed2024], ultrapassados nos primeiros 8 meses de 2025 [@euronews2024]), mas apenas 1.157 prescrições foram emitidas internamente em 2023 [@eco2024], equivalendo a cerca de 17 kg [@cannareporter2024].
