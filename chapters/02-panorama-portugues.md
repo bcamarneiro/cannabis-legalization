@@ -1,6 +1,6 @@
 \newpage
 
-# PARTE I — CONTEXTO E DIAGNÓSTICO {-}
+# PARTE I — CONTEXTO E DIAGNÓSTICO
 
 \newpage
 

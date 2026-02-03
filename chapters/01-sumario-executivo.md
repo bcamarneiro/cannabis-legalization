@@ -1,4 +1,4 @@
-# SUMÁRIO EXECUTIVO {-}
+# SUMÁRIO EXECUTIVO
 
 \newpage
 

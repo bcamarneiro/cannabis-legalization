@@ -1,6 +1,6 @@
 \newpage
 
-# PARTE II — PROPOSTA {-}
+# PARTE II — PROPOSTA
 
 \newpage
 

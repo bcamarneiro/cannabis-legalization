@@ -1,6 +1,6 @@
 \newpage
 
-# ANEXO D: Guia de Argumentação {-}
+# ANEXO D: Guia de Argumentação
 
 ## Como usar este guia
 

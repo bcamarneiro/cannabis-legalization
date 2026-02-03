@@ -1,6 +1,6 @@
 \newpage
 
-# PARTE III — ANEXOS {-}
+# PARTE III — ANEXOS
 
 \newpage
 

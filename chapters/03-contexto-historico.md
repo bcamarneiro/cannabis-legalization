@@ -1,6 +1,6 @@
 \newpage
 
-# CONTEXTO HISTÓRICO {-}
+# CONTEXTO HISTÓRICO
 
 ## Pré-Proibição: Cannabis antes dos Tratados Internacionais (até 1970)
 
