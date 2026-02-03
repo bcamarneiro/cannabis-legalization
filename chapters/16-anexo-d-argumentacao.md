@@ -38,7 +38,7 @@ Quando atacado, usa esta estrutura:
 
 ---
 
-## 1. Argumentos sobre Saúde Pública
+## Argumentos sobre Saúde Pública
 
 ### Ataque 3: "Estão a ignorar os cientistas que se opõem"
 
@@ -245,7 +245,7 @@ A comparticipação selectiva, combinada com acesso regulado (autocultivo/clubes
 
 ---
 
-## 2. Argumentos sobre Segurança e Criminalidade
+## Argumentos sobre Segurança e Criminalidade
 
 ### "O autocultivo não pode ser controlado"
 
@@ -386,7 +386,7 @@ A Alemanha implementa fiscalização através de documentação obrigatória (§
 
 ---
 
-## 3. Argumentos Morais e Ideológicos
+## Argumentos Morais e Ideológicos
 
 ### Ataque 1: "O LIVRE quer drogar a juventude portuguesa"
 
@@ -469,7 +469,7 @@ A 'normalização' que preocupa não acontece. O que acontece é transferir o me
 
 ---
 
-## 4. Argumentos Legais e de Governança
+## Argumentos Legais e de Governança
 
 ### "Viola tratados internacionais"
 
@@ -593,7 +593,7 @@ Aliás, se Portugal não agir, **perderemos a vantagem competitiva** que temos n
 
 ---
 
-## 5. Ataques Específicos por Partido
+## Ataques Específicos por Partido
 
 ### Partido Socialista (PS)
 
