@@ -41,7 +41,7 @@ jobs:
       - name: Regenerate documento.md from chapters
         run: |
           bash scripts/merge-chapters.sh
-          git add documento.md
+          git add build/documento.md
           git diff --cached --quiet || git commit -m "chore: regenerate documento.md from chapters [skip ci]"
           git push || echo "Nothing to push"
 
@@ -78,7 +78,7 @@ jobs:
 
             ### 🔗 Links úteis:
             - [Ver alterações desde última release](../../compare/${{ github.event.before }}...${{ github.sha }})
-            - [Ver documento fonte](../../blob/main/documento.md)
+            - [Ver documento fonte](../../blob/main/build/documento.md)
             - [Ver referências bibliográficas](../../blob/main/references.bib)
 
             ---
