@@ -1247,7 +1247,7 @@ Cada clube deve ter um **Präventionsbeauftragter** (Oficial de Prevenção) —
 3. **Referenciação e encaminhamento SNS**
    - Encaminhamento para consulta psiquiatria/psicologia do SNS quando: uso diário persistente, sinais psicose (paranóia, desrealização), depressão/ansiedade severa
    - Manter lista actualizada de contactos SNS locais (hospitais, centros de saúde mental, linhas apoio)
-   - **Follow-up:** Contactar membro 2 semanas após referenciação (verificar se acedeu a cuidados)
+   - **Seguimento:** Contactar membro 2 semanas após referenciação (verificar se acedeu a cuidados)
 
 4. **Sessões educativas de grupo**
    - Mínimo trimestral (4x/ano) para todos os membros
@@ -1259,7 +1259,7 @@ Cada clube deve ter um **Präventionsbeauftragter** (Oficial de Prevenção) —
    - Negar acesso a menores (verificação ID) — **único poder de veto do Oficial**
    - Recusar admissão a candidatos com psicose activa não estabilizada
 
-6. **Relatórios e accountability**
+6. **Relatórios e responsabilização**
    - Relatório trimestral ao SICAD: número de referenciações, padrões identificados, taxa de follow-up bem-sucedido
    - Relatório anual ao clube (assembleia geral): estatísticas anonimizadas, recomendações melhorias
    - Disponibilidade para auditorias SICAD/Infarmed
@@ -2009,7 +2009,7 @@ Impactos positivos **não incluídos** no balanço fiscal acima:
 - **Reinserção social:** Menos condenações por tráfico = menos antecedentes criminais
 - **Saúde mental:** Acesso a produtos THC controlado (10% máx. 18-20 anos) vs. mercado negro potência desconhecida
 - **Qualidade de vida:** Cidadãos não criminalizados por autocultivo 3 plantas
-- **Transparência:** Relatórios públicos trimestrais SICAD (accountability)
+- **Transparência:** Relatórios públicos trimestrais SICAD (responsabilização)
 
 ##### Comparação com Modelos Comerciais (Colorado/Canadá)
 
@@ -2563,7 +2563,7 @@ Com 5.000 hectares em produção:
 
 
 
-# ESTRATÉGIAS PARA CONSTRUIR PONTES
+## ESTRATÉGIAS PARA CONSTRUIR PONTES
 
 ## Estratégia de Negociação em 3 Níveis {#5.5-estratégia-de-negociação-em-3-níveis}
 
@@ -2915,7 +2915,7 @@ O turismo cannabis cria problemas documentados em cidades europeias:
 
 * **Amsterdam:** 58% dos turistas internacionais visitam especificamente para consumir drogas; 3 milhões de turistas/ano frequentam coffee shops. A autarca descreveu o fenómeno como "a blight on the city, fostering crime and public disorder" [@natgeo2024amsterdam; @schengen2024amsterdam]. Apesar de propostas para implementar critério de residência (i-criterium), Amsterdam não conseguiu aplicar a medida por receio de expansão do mercado negro.
 
-* **Barcelona:** Em 2024, o município ordenou encerramento de 30 clubes por violações e turismo cannabis. Supremo Tribunal Espanhol (2021-2023) estabeleceu que clubes que operam como negócios, aceitam turistas ou fazem publicidade constituem **tráfico de drogas**. Inspections regulares resultaram em encerramentos e acusações criminais [@medium2024barcelona; @greendream2024spain].
+* **Barcelona:** Em 2024, o município ordenou encerramento de 30 clubes por violações e turismo cannabis. Supremo Tribunal Espanhol (2021-2023) estabeleceu que clubes que operam como negócios, aceitam turistas ou fazem publicidade constituem **tráfico de drogas**. Inspeções regulares resultaram em encerramentos e acusações criminais [@medium2024barcelona; @greendream2024spain].
 
 **Política portuguesa proposta:**
 
