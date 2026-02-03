@@ -1196,13 +1196,13 @@ Proposta baseada no modelo alemão [@bundesministerium2024; @wikipedia2025], ada
 
 **Nota importante:** Esta proposta NÃO contempla o modelo comercial de dispensários (tipo Canadá/EUA). Propõe-se exclusivamente: (1) clubes sociais sem fins lucrativos, onde os preços reflectem apenas custos de produção; e (2) autocultivo com sementes de fornecedores certificados. A menor conveniência face ao mercado negro é intencional — evita comercialização excessiva e turismo cannábico, mantendo foco na saúde pública.
 
-### Posse e consumo
+## Posse e consumo
 * Idade mínima: **21 anos** para compra livre
 * Menores de 21 (18-20): apenas via clubes sociais, THC máximo 10%
 * Posse em público: até 25g
 * Posse em casa: até 50g
 
-### Clubes sociais de cannabis
+## Clubes sociais de cannabis
 
 **Modelo base alemão:**
 
@@ -1614,7 +1614,7 @@ Cannabis de autocultivo (3 plantas) usando **sementes certificadas** de clubes t
 
 **Conclusão:** Regulação com testes obrigatórios transforma cannabis de **substância de pureza desconhecida e potencialmente perigosa** (mercado negro: 94% pesticidas, 73% fungos, 26% metais pesados) em **produto testado** comparável a padrões alimentares/farmacêuticos. Esta é uma das principais justificações de saúde pública para regulação — **não** é possível garantir segurança de produtos ilícitos.
 
-### Autocultivo regulado *(proposta de compromisso)*
+## Autocultivo regulado *(proposta de compromisso)*
 * Até 3 plantas por adulto
 * **Sementes apenas de fornecedores autorizados** (THC conhecido)
 * Plantas seguras e inacessíveis a menores
@@ -1719,7 +1719,7 @@ Fornecedores de sementes devem obter licença de Infarmed/DGAV com os seguintes 
 
 Para informação sobre o sistema de sementes certificadas proposto, ver Anexo B.
 
-### Protecção Laboral e Cannabis no Local de Trabalho {#proteccao-laboral}
+## Protecção Laboral e Cannabis no Local de Trabalho {#proteccao-laboral}
 
 A legalização do consumo recreativo levanta questões sobre os direitos laborais dos trabalhadores que consomem cannabis fora do horário de trabalho.
 
@@ -1745,7 +1745,7 @@ Com a regulação do consumo recreativo, propõe-se clarificação legislativa:
 
 **Nota:** Esta é uma área que necessita de desenvolvimento legislativo específico, idealmente em coordenação com parceiros sociais (sindicatos, associações patronais) e a Autoridade para as Condições do Trabalho (ACT). A experiência canadiana e alemã pode informar o processo, mas o enquadramento laboral português (mais protector que o anglo-saxónico) oferece base sólida.
 
-### Integração da Indústria Licenciada Existente
+## Integração da Indústria Licenciada Existente
 
 **Contexto:** Portugal tem **37 empresas licenciadas** para cultivo de cannabis medicinal [@cmslaw2024], exportando **32.558 kg em 2024** [@eco2024]. Estas empresas têm infraestrutura, conhecimento técnico, e capacidade produtiva já estabelecidos. **Ignorar este ecossistema existente seria economicamente irracional** e criaria oposição política desnecessária.
 
@@ -1810,13 +1810,13 @@ Estimativa conservadora para 100-200 clubes a nível nacional:
 
 **Conclusão:** Integrar a indústria licenciada existente no modelo de clubes sociais cria solução win-win: (1) produtores mantêm mercado doméstico, (2) clubes têm acesso a cannabis profissional de qualidade, (3) reduz resistência política, (4) mantém empregos qualificados. O requisito non-profit e governance rigorosa previnem que produtores lucrativos dominem o mercado.
 
-### Condução
+## Condução
 * Limite: 3,5 ng/ml THC no sangue
 * Tolerância zero: menores de 21 e novos condutores
 * Proibição absoluta: mistura cannabis + álcool
 * Investimento em tecnologia de testagem antes da implementação
 
-### Financiamento de prevenção e tratamento {#financiamento}
+## Financiamento de prevenção e tratamento {#financiamento}
 
 **Poupanças estimadas em custos de enforcement (estimativa conservadora):**
 
