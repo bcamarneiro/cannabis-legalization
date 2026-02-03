@@ -49,6 +49,8 @@ pandoc "$TEMP_MD" \
     --variable lang=pt-PT \
     --resource-path=".:assets/diagrams" \
     --number-sections \
+    --toc \
+    --toc-depth=3 \
     --standalone \
     --citeproc \
     --csl="$PROJECT_DIR/ieee.csl" \
