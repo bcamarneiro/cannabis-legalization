@@ -204,7 +204,7 @@ Comparar outcomes 2028-2030 informa expansão/refinement.
 
 **Suíça:** CHF 8-12/g (~€8,50-12,50) consegue >90% captura participantes registados porque **marginalmente abaixo mercado negro** CHF 10-15/g.
 
-**Portugal:** Mercado negro €10-15/g, proposta clubes €3-6/g (cost-recovery). **Vantagem competitiva enorme** — mas risk: se custos compliance aumentam (labs, pessoal, facilities), €6/g pode não ser suficiente break-even. **Lição:** Monitorizar custos reais pilotos, ajustar cap preço se necessário para sustainability (até €8-9/g ainda competitivo).
+**Portugal:** Mercado negro €10-15/g, proposta clubes €3-8/g (cost-recovery, sem tecto rígido). **Vantagem competitiva enorme** — mas risk: se custos compliance aumentam (labs, pessoal, facilities), preços devem poder ajustar-se. **Lição:** Monitorizar custos reais pilotos, garantir transparência de preços e custos de produção. Preço de referência indicativo (não vinculativo) publicado por SICAD permite acompanhamento sem rigidez que comprometa viabilidade. Até €8-9/g ainda competitivo face ao mercado negro.
 
 ### 4. Zero Leakage É Possível Mas Requer Enforcement Inteligente
 

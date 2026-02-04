@@ -73,21 +73,23 @@ O modelo de cultivo indoor dominante no mercado negro (e em alguns mercados lega
 * **Consumo energético:** Instalações indoor consomem tanta electricidade quanto data centers [@motherjones2021carbon]
 * **Impacto grid energético:** Estas emissões assumem **grid energético actual português** (mix fóssil + renováveis). Com 100% renováveis, redução de 50-70% [@nature2021cannabis]
 
-**Alternativa sustentável — outdoor e requisitos vinculativos:**
+**Alternativa sustentável — energias renováveis obrigatórias:**
 
 * **Cannabis outdoor:** Emite apenas **22,7 kg CO₂/kg** — redução de **99% vs. indoor** [@nature2021cannabis]
 * **Shift to outdoor:** Se 75% produção for outdoor, redução de 80% nas emissões do sector [@marijuanamoment2024outdoor]
 * **Cânhamo captura carbono:** **8-15 toneladas CO₂/hectare** por ciclo em condições UK/Irlanda [@cambridge2022hemp; @carboncredits2024hemp]. Clima mediterrânico português (temperaturas até 35°C toleradas) permite **8-12 t CO₂/ha** com uma colheita, potencialmente **15-20 t** com duas colheitas/ano em regiões sul [@lampoon2024hemp]
 * **Co-benefícios outdoor:** Regeneração de solos, biodiversidade, economia rural, sem electricidade intensiva
+* **Mas o problema real é o carbono, não o método:** A proibição de cultivo indoor excluiria clubes urbanos (Lisboa, Porto) e limitaria a viabilidade do modelo. A solução é atacar directamente a pegada carbónica através de energia 100% renovável
 
 **Requisitos vinculativos propostos para clubes sociais:**
 
-- **Cultivo outdoor/greenhouse obrigatório** (indoor apenas para clones/mães, máximo 10% produção)
-- **Renováveis:** 50% energia renovável até 2030, 100% até 2035 (clubes que cultivem indoor)
+- **Cultivo indoor permitido**, mas com **contrato de energia 100% renovável obrigatório** (e.g., Coopernico, Goldenergy verde, EDP verde) OU instalação de painéis solares com apoio de programa governamental dedicado
+- **Portugal seria o primeiro país do mundo** a exigir energia 100% renovável como condição de licenciamento de uma indústria regulada — posicionamento de liderança climática
+- **Incentivo ao outdoor/greenhouse:** Clubes com cultivo predominantemente outdoor (>50%) beneficiam de processo de licenciamento simplificado e redução de taxa regulatória
 - **Certificação sustentável:** Clubes devem demonstrar redução progressiva pegada carbono em auditoria anual
 - **Agroecologia:** Incentivo a métodos regenerativos (permacultura, compostagem, sem pesticidas sintéticos)
 
-**A proibição força o cultivo indoor clandestino.** A regulação permite exigir métodos sustentáveis como condição de licenciamento — outdoor prioritário, renováveis obrigatórias, monitorização de emissões.
+**A proibição força o cultivo indoor clandestino.** A regulação permite exigir métodos sustentáveis como condição de licenciamento — renováveis obrigatórias, incentivo ao outdoor, monitorização de emissões. Ao exigir energia 100% renovável em vez de proibir indoor, Portugal garante acessibilidade urbana sem comprometer objectivos ambientais.
 
 ## O que a regulação permite (redução de danos)
 

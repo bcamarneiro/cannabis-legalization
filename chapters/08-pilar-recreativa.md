@@ -1,6 +1,6 @@
 \newpage
 
-# PILAR 2: CANNABIS RECREATIVA (médio prazo)
+# PILAR 2: CANNABIS RECREATIVA (Fase 2 — após resultados cânhamo + medicinal)
 
 Proposta baseada no modelo alemão [@bundesministerium2024; @wikipedia2025], adaptada a Portugal:
 
@@ -28,7 +28,7 @@ Proposta baseada no modelo alemão [@bundesministerium2024; @wikipedia2025], ada
 
 **Safeguards adicionais PT (prevenir cenário Espanha):**
 
-* Price cap €6/g, excedentes doados automaticamente a SICAD
+* Transparência de preços obrigatória (custos produção publicados), excedentes doados automaticamente a SICAD
 * Auditoria anual independente obrigatória (relatório público online)
 * Inspecções mínimo 10% clubes/trimestre
 * Programa whistleblowing protegido (denúncias confidenciais a SICAD)
@@ -283,7 +283,7 @@ Os clubes devem implementar **rastreabilidade completa** da cannabis cultivada, 
 Para evitar repetir os problemas espanhóis (clubes que se tornaram operações comerciais ilícitas por falta de fiscalização rigorosa), Portugal deve adicionar mecanismos ausentes na Alemanha e Espanha:
 
 - **Auditoria externa independente anual:** Obrigatória para todos os clubes, conduzida por auditor certificado não-membro, relatório publicado online e submetido a SICAD — recusa de publicação resulta em suspensão imediata da licença
-- **Price cap:** Máximo €6/grama (baseado em custos operacionais médios alemães) — variedades especializadas podem solicitar isenção temporária com justificação documentada
+- **Transparência de preços:** Clubes definem preços com base nos custos reais de produção, qualidade do produto e situação financeira — sem tecto rígido. Obrigatória a publicação de custos de produção por grama e a afixação visível de preços. Preço de referência indicativo (não vinculativo) publicado anualmente por SICAD com base em custos médios dos clubes piloto. Objectivo: competitividade com mercado negro (~€5-8/g) sem impor rigidez que comprometa viabilidade
 - **Proibição absoluta retenção excedentes:** Qualquer surplus (receitas > custos + reserva operacional 10%) é automaticamente doado a SICAD trimestralmente para financiar prevenção/tratamento — distribuição de lucros a membros/direcção resulta em revogação permanente
 - **Dashboard mensal online público:** Divulgação a membros + SICAD de vendas totais (€), custos operacionais agregados, pagamentos direcção/funcionários, número membros activos
 
@@ -586,7 +586,7 @@ Para evitar concentração de mercado, permitir **máximo 1-2 clubes por produto
 
 - **Requisito non-profit mantém-se:** Clube opera a custo real (cost-recovery), sem distribuir lucros
 - **Separação contabilística:** Clube é entidade separada do produtor (auditoria independente)
-- **Price cap aplica-se:** Máximo €6/g, excedentes doados a SICAD (como todos os clubes)
+- **Transparência de preços aplica-se:** Publicação obrigatória de custos de produção e preços, excedentes doados a SICAD (como todos os clubes)
 - **Governance rigorosa:** Mesmas obrigações que clubes independentes (auditoria, transparência, whistleblowing)
 
 **Justificação:** Suíça permite produtores licenciados operarem pontos de venda em pilotos Zur Can [@springer2024zurican]. Limitar a 1-2 clubes/produtor previne oligopólio, mantendo diversidade de clubes independentes.

@@ -125,12 +125,16 @@ Cada clube deve:
 * **Conteúdo:** Receitas, despesas detalhadas, custos por grama, pagamentos a direcção/funcionários, doações de excedentes
 * **Consequência:** Recusa de publicação resulta em suspensão imediata da licença até compliance
 
-### 2. Price Cap (Tecto de Preço)
+### 2. Transparência de Preços (em vez de tecto rígido)
 
-* **Máximo:** €6/grama (baseado na média alemã de custos operacionais [@bundesgesundheit2024cannabis])
-* **Justificação:** Preço deve reflectir apenas custos reais (cultivo, salários, infraestrutura, testes, impostos), sem margem comercial
-* **Excepções:** Variedades especializadas (medicinais, baixo THC) podem solicitar isenção temporária com justificação documentada
-* **Fiscalização:** Auditoria trimestral de preços vs. custos declarados
+* **Princípio:** Cada clube define os seus preços com base nos custos reais de produção, qualidade do produto, e situação financeira — **sem tecto de preço rígido**
+* **Obrigações de transparência:**
+  - Publicação trimestral do custo de produção por grama (detalhando cultivo, salários, infraestrutura, testes, impostos)
+  - Afixação visível dos preços praticados nas instalações e plataforma digital do clube
+  - Justificação documentada de variações superiores a 20% face ao preço de referência
+* **Preço de referência indicativo:** SICAD publica anualmente um preço de referência (não vinculativo) baseado nos custos médios dos clubes piloto — serve como benchmark, não como limite legal
+* **Objectivo:** Manter competitividade com mercado negro (~€5-8/g) sem impor rigidez que comprometa viabilidade de clubes com custos operacionais mais elevados
+* **Fiscalização:** Auditoria trimestral de preços vs. custos declarados — desvios significativos sem justificação desencadeiam inspecção aprofundada
 
 ### 3. Transparência Financeira Mensal
 
@@ -192,8 +196,8 @@ O Cannabis Social Club Ganderkesee (Baixa Saxónia), primeiro a distribuir canna
 
 | Categoria | Custo Anual Estimado | Detalhes |
 | :---- | :---- | :---- |
-| **Infraestrutura** | €30.000 - €50.000 | Instalações cultivo indoor/greenhouse, sistemas irrigação, ventilação, iluminação LED, controlo climático |
-| **Energia** | €15.000 - €25.000 | Electricidade (cultivo indoor intensivo), água, climatização |
+| **Infraestrutura** | €30.000 - €50.000 | Instalações cultivo indoor/greenhouse/outdoor, sistemas irrigação, ventilação, iluminação LED, controlo climático |
+| **Energia** | €15.000 - €25.000 | Electricidade (contrato 100% renovável obrigatório para indoor), água, climatização |
 | **Insumos agrícolas** | €8.000 - €12.000 | Fertilizantes, substratos, nutrientes, controlo de pragas orgânico |
 | **Sementes certificadas** | €3.000 - €5.000 | Fornecedores licenciados, variedades testadas (6-10 strains) |
 | **Manutenção equipamento** | €4.000 - €6.000 | Reparações, substituição lâmpadas, calibração sistemas |
@@ -266,7 +270,7 @@ Nota: Rácio pessoal-membros conservador (1:66-111), garantindo atendimento pers
 
 #### Opção 2: Pagamento por Grama Consumido (cost-recovery puro)
 
-* **Preço/grama:** €3 - €6 (conforme custos reais clube)
+* **Preço/grama:** €3 - €8 (conforme custos reais clube, sem tecto rígido)
 * **Quota base:** €20 - €30/mês (administrativa, cobrir fixos)
 * **Cálculo:** Custos totais / produção anual estimada
 * **Exemplo:** €336.000 custos / 60.000g produção = €5,60/grama
@@ -279,7 +283,7 @@ Nota: Rácio pessoal-membros conservador (1:66-111), garantindo atendimento pers
 
 * **Quota administrativa:** €30/mês (cobrir salários, fixos, compliance)
 * **Preço cannabis:** €3 - €5/grama (conforme custos cultivo + testes)
-* **Price cap absoluto:** €6/grama (prevenir desvios comerciais)
+* **Transparência obrigatória:** Publicação de custos de produção e preços praticados (sem tecto rígido — preço de referência indicativo publicado por SICAD)
 * **Exemplo consumidor médio (20g/mês):**
   - Quota: €30
   - Cannabis: 20g × €4 = €80
@@ -290,7 +294,7 @@ Nota: Rácio pessoal-membros conservador (1:66-111), garantindo atendimento pers
 | Modelo | Preço/grama | Markup | Finalidade lucro |
 | :---- | :---- | :---- | :---- |
 | **Mercado negro PT** | €10 - €15 | 200-400% | Máximo lucro, sem custos compliance |
-| **Clube social (proposta PT)** | €3 - €6 | 0% | Cost-recovery only, sem fins lucrativos |
+| **Clube social (proposta PT)** | €3 - €8 | 0% | Cost-recovery only, sem fins lucrativos, preços transparentes |
 | **Dispensário comercial (Colorado)** | $8 - $15 (~€7,50 - €14) | ~37% impostos | Lucro + impostos estaduais |
 | **Farmácia (Alemanha)** | €15 - €25 | Farmacêutico | Medicinal, prescrição obrigatória |
 

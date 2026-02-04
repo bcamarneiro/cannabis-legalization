@@ -105,7 +105,7 @@
 | **Zero apoio financeiro estatal** | Clubes dependem exclusivamente de quotas de fundadores, dificultando arranque | DHV, Hanfverband 2025 |
 | **Regulação descentralizada** (16 Länder) | Interpretações divergentes, burocracia variável, processamento lento | RND Fev 2025 |
 | **Bloqueio político activo** (Baviera) | CSU impôs restrições severas; 0 clubes até Abr 2025, depois apenas 3 | Business of Cannabis 2025 |
-| **Custos indoor elevados** (clima continental) | Cultivo indoor obrigatório 12 meses/ano, electricidade €0,30-0,40/kWh | DHV 2025 |
+| **Custos indoor elevados** (clima continental) | Cultivo indoor 12 meses/ano, electricidade €0,30-0,40/kWh | DHV 2025 |
 | **Ausência de programa piloto** | 791 candidaturas lançadas simultaneamente sem fase experimental | Bundesgesundheitsministerium |
 | **Testes roadside desactualizados** | Calibrados para 1,0 ng/ml vs. limite legal 3,5 ng/ml; incerteza legal | Bessergrowen 2025 |
 
@@ -118,7 +118,7 @@ Portugal pode evitar as dificuldades alemãs através de medidas específicas:
 | **Zero subsídio estatal** | Programa piloto com **subsídio €50-100k por clube** (investimento saúde pública, não despesa) |
 | **Regulação descentralizada** | **SICAD centralizado** — regras uniformes nacionais, sem poder de veto municipal arbitrário |
 | **Bloqueio político regional** | Framework **nacional** que impede câmaras de bloquear arbitrariamente (prerrogativa central vs. autonomia local) |
-| **Custos indoor elevados** | Clima mediterrânico: **outdoor/greenhouse viável 8-10 meses/ano** no Sul; custos energéticos ~40-60% menores (€0,20-0,25/kWh) |
+| **Custos indoor elevados** | Clima mediterrânico: outdoor/greenhouse viável 8-10 meses/ano no Sul; indoor permitido com **contrato energia 100% renovável obrigatório**; custos energéticos ~40-60% menores (€0,20-0,25/kWh) |
 | **791 candidaturas de uma vez** | **Programa piloto 2-3 clubes** (2027-2028) → avaliar → expandir gradualmente baseado em dados |
 | **25 anos criminalização total** | Portugal: **25 anos de descriminalização** = comunidade cannabis mais madura, menos estigma, associações já existentes |
 
@@ -143,7 +143,7 @@ Mesmo assumindo dificuldades semelhantes às alemãs, o modelo continua viável:
 | Factor | Alemanha | Portugal |
 | :---- | :---- | :---- |
 | Apoio estatal arranque | ❌ Zero | ✅ €50-100k proposto |
-| Clima cultivo | Continental (indoor 12 meses) | Mediterrânico (outdoor 8-10 meses) |
+| Clima cultivo | Continental (indoor 12 meses) | Mediterrânico (outdoor 8-10 meses; indoor com renováveis 100%) |
 | Custos energia | €0,30-0,40/kWh | €0,20-0,25/kWh |
 | Regulação | 16 Länder, interpretações diversas | SICAD centralizado, regras uniformes |
 | Cultura cannabis | Criminalização total até 2024 | 25 anos descriminalização |
@@ -180,7 +180,7 @@ Espanha não legalizou cannabis, mas tolera ~800-1.000 clubes sociais numa "áre
 * Ligações a crime organizado e exportação ilegal para Europa [@transform2018]
 * Em 2024, Barcelona ordenou encerramento de 30 clubes [@hightimes2024]
 
-**Lição para Portugal:** A ausência de regulação nacional clara não elimina o mercado — apenas o empurra para zona cinzenta com menos controlo e mais riscos. O modelo alemão oferece alternativa superior: regras explícitas, limites definidos, proibição de turismo cannábico, e segurança jurídica. **Portugal aprende com os erros espanhóis**, implementando governance rigorosa ausente em Espanha: auditorias anuais obrigatórias, transparência financeira mensal, price caps (€6/g), proibição de retenção de excedentes (doados automaticamente a SICAD), programa de whistleblowing protegido, e inspecções surpresa trimestrais (10% dos clubes) — ver detalhes em Anexo A.
+**Lição para Portugal:** A ausência de regulação nacional clara não elimina o mercado — apenas o empurra para zona cinzenta com menos controlo e mais riscos. O modelo alemão oferece alternativa superior: regras explícitas, limites definidos, proibição de turismo cannábico, e segurança jurídica. **Portugal aprende com os erros espanhóis**, implementando governance rigorosa ausente em Espanha: auditorias anuais obrigatórias, transparência financeira mensal, transparência obrigatória de preços e custos de produção (com preço de referência indicativo publicado por SICAD), proibição de retenção de excedentes (doados automaticamente a SICAD), programa de whistleblowing protegido, e inspecções surpresa trimestrais (10% dos clubes) — ver detalhes em Anexo A.
 
 ## Impacto no consumo juvenil {#3.5-impacto-no-consumo-juvenil}
 

@@ -1,8 +1,10 @@
 \newpage
 
-# PILAR 3: CÂNHAMO INDUSTRIAL
+# PILAR 3: CÂNHAMO INDUSTRIAL (Fase 1 — avança imediatamente, em paralelo com medicinal)
 
 ## Cânhamo Industrial: Uma Oportunidade Económica e Ambiental
+
+> **Nota estratégica:** O cânhamo industrial **não depende de nenhum outro pilar** desta proposta. Pode e deve avançar imediatamente, em paralelo com a revisão da cannabis medicinal. Não gera controvérsia ideológica — é agricultura, já legal na UE, e reúne condições para consenso transversal no Parlamento.
 
 O cânhamo industrial (*Cannabis sativa* L. com THC<0,3%) representa uma oportunidade estratégica para Portugal, combinando benefícios económicos, ambientais e sociais. O mercado europeu de cânhamo industrial foi avaliado em **USD 2,9 mil milhões** em 2024, com projeções de crescimento a uma taxa anual de 24% até atingir **USD 20,4 mil milhões em 2033** [@marketdataforecast2025]. A Europa representa cerca de **31% do mercado global** [@psmarketresearch2024].
 
