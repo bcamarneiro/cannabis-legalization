@@ -59,6 +59,11 @@ jobs:
           echo "${COMMIT_MSG}" >> $GITHUB_OUTPUT
           echo "EOF" >> $GITHUB_OUTPUT
 
+      - name: Update 'latest' tag
+        run: |
+          git tag -f latest
+          git push -f origin latest
+
       - name: Create Release
         uses: softprops/action-gh-release@v1
         with:
