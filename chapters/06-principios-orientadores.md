@@ -33,7 +33,7 @@
 
 * **Anos 1-2 (2027-2028):** 10-15% utilizadores migram para clubes (early adopters, programa piloto limitado)
 * **Anos 3-5 (2029-2031):** 30-45% mercado legal (expansão clubes, confiança estabelecida — estimativa optimista, ver análise gap mercado)
-* **Anos 6-10:** Estabilização 50-60% mercado legal com modelo clubes, ou transição para modelo comercial regulado (70-95% legal, dados Canadá) — **CONDICIONAL a:** (1) dados piloto positivos 2028-2030, (2) resolução conflitos lei UE/Schengen (Comissão Europeia bloqueou venda comercial Alemanha 2024-2025, requer coordenação multilateral), (3) renovação aprovação parlamentar. **Fase comercial pode nunca acontecer** se obstáculos legais UE persistirem. Modelo clubes standalone (Fase 1) já atinge objetivos principais harm reduction
+* **Anos 6-10:** Estabilização 50-60% mercado legal com modelo clubes, ou transição para modelo comercial regulado (70-95% legal, dados Canadá) — **CONDICIONAL a:** (1) dados piloto positivos 2028-2030, (2) resolução conflitos lei UE/Schengen (Comissão Europeia bloqueou venda comercial Alemanha 2024-2025, requer coordenação multilateral), (3) renovação aprovação parlamentar. **Fase comercial pode nunca acontecer** se obstáculos legais UE persistirem. Modelo clubes standalone (Pilar 1) já atinge objectivos principais harm reduction
 
 **Portugal pode ultrapassar Uruguai porque:**
 
@@ -82,9 +82,9 @@ O modelo de cultivo indoor dominante no mercado negro (e em alguns mercados lega
 
 **Requisitos vinculativos propostos para clubes sociais:**
 
-- **Cultivo outdoor/greenhouse obrigatório** (indoor apenas para clones/mães, máximo 10% produção)
-- **Renováveis:** 50% energia renovável até 2030, 100% até 2035 (clubes que cultivem indoor)
-- **Certificação sustentável:** Clubes devem demonstrar redução progressiva pegada carbono em auditoria anual
+- **Energia 100% renovável obrigatória:** Clubes devem operar com contrato de electricidade 100% renovável ou instalar painéis solares (financiamento estatal disponível para transição)
+- **Outdoor/greenhouse prioritário:** Incentivos para cultivo ao ar livre ou em estufa (redução até 99% emissões CO₂ vs. indoor); indoor permitido mas sujeito a requisitos energéticos
+- **Certificação sustentável:** Clubes devem demonstrar redução progressiva da pegada carbono em auditoria anual
 - **Agroecologia:** Incentivo a métodos regenerativos (permacultura, compostagem, sem pesticidas sintéticos)
 
 **A proibição força o cultivo indoor clandestino.** A regulação permite exigir métodos sustentáveis como condição de licenciamento — outdoor prioritário, renováveis obrigatórias, monitorização de emissões.
@@ -142,13 +142,13 @@ O LIVRE defende **redução de danos** para substâncias psicoactivas. Cannabis 
 
 **Princípio central:** A proibição não elimina o consumo — apenas elimina o controlo e a segurança.
 
-### Proteção do Desenvolvimento Cognitivo em Jovens Adultos
+### Protecção do Desenvolvimento Cognitivo em Jovens Adultos
 
 O desenvolvimento do córtex pré-frontal continua até aos ~25 anos. Estudos longitudinais demonstram que **utilizadores persistentes com início na adolescência** apresentam declínio de QI de 8 pontos aos 38 anos [@Meier2012]. Contudo, meta-análises recentes confirmam que este risco está concentrado em **consumo pesado/dependente**, não em utilizadores ocasionais [@Jackson2016].
 
-**Medida de precaução adotada:**
+**Medida de precaução adoptada:**
 
-O modelo proposto segue a restrição alemã de **THC máximo 10%** para idades 18-20 anos, mantendo 15% para 21+. Esta limitação é **mais conservadora** que o programa piloto suíço (5-20% THC sem diferenciação etária) e equilibra liberdade individual com proteção neurodesenvolvimental.
+O modelo proposto segue a restrição alemã de **THC máximo 10%** para idades 18-20 anos, sem limite de potência para maiores de 21 anos. Esta limitação é **mais conservadora** que o programa piloto suíço (5-20% THC sem diferenciação etária) e equilibra liberdade individual com protecção neurodesenvolvimental.
 
 **Justificação:**
 

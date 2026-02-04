@@ -117,7 +117,7 @@ Espanha não legalizou cannabis, mas tolera ~800-1.000 clubes sociais numa "áre
 * Ligações a crime organizado e exportação ilegal para Europa [@transform2018]
 * Em 2024, Barcelona ordenou encerramento de 30 clubes [@hightimes2024]
 
-**Lição para Portugal:** A ausência de regulação nacional clara não elimina o mercado — apenas o empurra para zona cinzenta com menos controlo e mais riscos. O modelo alemão oferece alternativa superior: regras explícitas, limites definidos, proibição de turismo cannábico, e segurança jurídica. **Portugal aprende com os erros espanhóis**, implementando governance rigorosa ausente em Espanha: auditorias anuais obrigatórias, transparência financeira mensal, price caps (€6/g), proibição de retenção de excedentes (doados automaticamente a SICAD), programa de whistleblowing protegido, e inspecções surpresa trimestrais (10% dos clubes) — ver detalhes em Anexo A.
+**Lição para Portugal:** A ausência de regulação nacional clara não elimina o mercado — apenas o empurra para zona cinzenta com menos controlo e mais riscos. O modelo alemão oferece alternativa superior: regras explícitas, limites definidos, proibição de turismo cannábico, e segurança jurídica. **Portugal aprende com os erros espanhóis**, implementando governance rigorosa ausente em Espanha: auditorias anuais obrigatórias, transparência financeira mensal, preços cost-recovery com preço consultivo SICAD (€3-8/g), proibição de retenção de excedentes (doados automaticamente a SICAD), programa de whistleblowing protegido, e inspecções surpresa trimestrais (10% dos clubes) — ver detalhes em Anexo A.
 
 ## Impacto no consumo juvenil {#3.5-impacto-no-consumo-juvenil}
 

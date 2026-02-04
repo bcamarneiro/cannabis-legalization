@@ -125,12 +125,12 @@ Cada clube deve:
 * **Conteúdo:** Receitas, despesas detalhadas, custos por grama, pagamentos a direcção/funcionários, doações de excedentes
 * **Consequência:** Recusa de publicação resulta em suspensão imediata da licença até compliance
 
-### 2. Price Cap (Tecto de Preço)
+### 2. Transparência de Preços e Preço Consultivo SICAD
 
-* **Máximo:** €6/grama (baseado na média alemã de custos operacionais [@bundesgesundheit2024cannabis])
-* **Justificação:** Preço deve reflectir apenas custos reais (cultivo, salários, infraestrutura, testes, impostos), sem margem comercial
-* **Excepções:** Variedades especializadas (medicinais, baixo THC) podem solicitar isenção temporária com justificação documentada
-* **Fiscalização:** Auditoria trimestral de preços vs. custos declarados
+* **Modelo:** Clubes definem preços com base nos custos reais de produção (cost-recovery, €3-8/g), sem margem comercial
+* **Preço consultivo SICAD:** O SICAD publica trimestralmente um preço de referência baseado na média nacional de custos operacionais dos clubes, servindo como benchmark de razoabilidade
+* **Transparência obrigatória:** Publicação mensal da decomposição de custos por grama (cultivo, salários, testes, infraestrutura, impostos)
+* **Fiscalização:** Auditoria trimestral de preços vs. custos declarados; desvios significativos face ao preço consultivo SICAD exigem justificação documentada
 
 ### 3. Transparência Financeira Mensal
 
@@ -279,7 +279,7 @@ Nota: Rácio pessoal-membros conservador (1:66-111), garantindo atendimento pers
 
 * **Quota administrativa:** €30/mês (cobrir salários, fixos, compliance)
 * **Preço cannabis:** €3 - €5/grama (conforme custos cultivo + testes)
-* **Price cap absoluto:** €6/grama (prevenir desvios comerciais)
+* **Preço cost-recovery:** €3-8/grama (transparência obrigatória, preço consultivo SICAD como referência)
 * **Exemplo consumidor médio (20g/mês):**
   - Quota: €30
   - Cannabis: 20g × €4 = €80

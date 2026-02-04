@@ -16,16 +16,27 @@ Portugal encontra-se numa posição paradoxal: é o segundo maior exportador mun
 
 Este documento propõe que o LIVRE assuma uma posição clara e proactiva sobre a regulação da cannabis, com uma **estratégia faseada** que reconhece os diferentes graus de consenso político e social:
 
-### Fase 1: Cannabis Medicinal (prioridade imediata — Q2 2026)
+### Fase 1: Cannabis Medicinal + Cânhamo Industrial (prioridade imediata — 2026)
 
-**Consenso amplo esperado** (PS, PAN, BE, IL):
+**Consenso amplo esperado** — questões de saúde pública e economia verde sem controvérsia ideológica:
+
+#### Medicinal (Q2 2026)
 
 * **Objectivo:** Garantir acesso efectivo para doentes com prescrição médica
 * **Medidas:** Comparticipação SNS, simplificação da prescrição, alargamento de indicações
 * **Consenso:** Potencial de apoio transversal (PS, PAN, BE, IL) — questão de saúde pública e justiça social
 * **Urgência:** Portugal exporta 99,85% da produção enquanto doentes pagam €150/mês sem comparticipação [@cannabislaw2024export; @drug2024]
 
-### Fase 2: Cannabis Recreativa (proposta legislativa Q3-Q4 2026 → implementação 2027-2028)
+#### Cânhamo Industrial (Q4 2026 - Q1 2027)
+
+**Não controverso** (já legal UE, THC<0,3%):
+
+* **Solução climática:** Captura **8-15 toneladas CO₂/hectare** por ciclo em condições UK [@cambridge2022hemp; @carboncredits2024hemp] — Portugal (clima mediterrânico) pode atingir **8-12 t CO₂/ha**, ainda assim 2-4x mais que florestas
+* Oportunidade agrícola (fibra, sementes, construção) e economia rural
+* Programa piloto 3-5 regiões
+* Incentivos PAC
+
+### Fase 2: Cannabis Recreativa — Clubes Sociais + Autocultivo (proposta legislativa Q3-Q4 2026 → implementação 2027-2028)
 
 **Modelo:** Clubes sociais sem fins lucrativos + autocultivo (framework legal alemão 2024)
 
@@ -42,20 +53,21 @@ Este documento propõe que o LIVRE assuma uma posição clara e proactiva sobre 
 - Canadá (2018, 6 anos dados): consumo juvenil (15-17 anos) não aumentou pós-legalização [@statcan2019youth]; dados mais recentes (CCS, 16-19 anos) mostram ligeiro aumento de 36% para 41-43% entre 2018-2024 — interpretação disputada
 - Alemanha (2024, framework legislativo): 357 clubes aprovados (Nov 2025), dados eficácia insuficientes (<1 ano)
 
-### Fase 3: Cânhamo Industrial
+### Fase 3: Venda Comercial Regulada (horizonte condicional 2033+)
 
-**Não controverso** (já legal UE, THC<0,3%):
+**Condicional a três factores críticos — pode nunca acontecer:**
 
-* **Solução climática:** Captura **8-15 toneladas CO₂/hectare** por ciclo em condições UK [@cambridge2022hemp; @carboncredits2024hemp] — Portugal (clima mediterrânico) pode atingir **8-12 t CO₂/ha**, ainda assim 2-4x mais que florestas
-* Oportunidade agrícola (fibra, sementes, construção) e economia rural
-* Programa piloto 3-5 regiões
-* Incentivos PAC
+1. **Dados positivos do piloto:** Evidência 2028-2030 mostrando captura significativa do mercado ilegal, sem aumento do consumo juvenil, redução da criminalização
+2. **Coordenação europeia:** Resolução conflitos lei UE/Schengen (venda comercial cannabis actualmente bloqueada pela Comissão Europeia)
+3. **Renovação aprovação parlamentar:** Nova votação pós-avaliação, não automatismo
+
+**Honestidade com eleitores:** Fase 2 (clubes) já atinge objectivos principais de harm reduction — Fase 3 é ambição condicional, não promessa firme.
 
 ## Porquê esta abordagem?
 
 **1. Tática política:** Avançar rapidamente no medicinal (menos resistência) permite demonstrar resultados e construir confiança para debate posterior sobre uso adulto.
 
-**2. Evitar confusão de objectivos:** Separar claramente as duas fases responde antecipadamente à desinformação que mistura "comparticipação para doentes" com "legalização recreativa". São propostas distintas, com públicos distintos, mecanismos de financiamento distintos.
+**2. Evitar confusão de objectivos:** Separar claramente as três fases responde antecipadamente à desinformação que mistura "comparticipação para doentes" com "legalização recreativa". São propostas distintas, com públicos distintos, mecanismos de financiamento distintos.
 
 **3. Aproveitar momentum:** O framework legal alemão de clubes sociais (2024) oferece modelo recente de regulação sem comercialização [@bundesgesundheit2024cannabis]. Evidência de Colorado (10+ anos) e Canadá (6 anos) mostra que a legalização **não provocou o aumento de consumo juvenil que opositores previam** [@statcan2019youth; @mpp2024colorado; @coley2024]. Contudo, os declínios observados reflectem também tendências nacionais pré-existentes (ver Secção 3.5), pelo que não se pode atribuir causalidade exclusiva à regulação.
 
@@ -73,25 +85,25 @@ Este documento propõe que o LIVRE assuma uma posição clara e proactiva sobre 
 | **Q3-Q4 2026** | Proposta legislativa cannabis recreativa (coordenada BE/PAN/IL) |
 | **Q4 2026 - Q1 2027** | Simplificação regulatória cânhamo industrial (paralelo, menor resistência) |
 | **Q2-Q3 2027** | Aprovação parlamentar regime experimental (12-15 meses pós-proposta) |
-| **Q3-Q4 2027** | Programa piloto cannabis — 2-3 clubes sociais (Lisboa, Porto) |
+| **Q3-Q4 2027** | Início licenciamento nacional clubes sociais cannabis (modelo clube = fase de avaliação) |
 | **Q4 2027 - 2028** | Programa piloto cânhamo — 3-5 regiões (ISA/UTAD, incentivos PAC) |
 | **2028-2030** | Avaliação impactos + expansão gradual baseada em dados |
 
 ## Evolução futura condicional: Coordenação europeia e modelo two-pillar
 
-**A proposta portuguesa segue explicitamente o modelo alemão de duas fases:**
+**A proposta portuguesa segue explicitamente o modelo alemão de dois pilares:**
 
-* **Fase 1 (Pillar 1): Clubes sociais não-comerciais + autocultivo** — implementação 2027-2030, avaliação rigorosa dados
-* **Fase 2 (Pillar 2): Possível transição para venda comercial regulada** — **condicional a três factores críticos:**
+* **Pilar 1: Clubes sociais não-comerciais + autocultivo** — implementação 2027-2030, avaliação rigorosa dados
+* **Pilar 2: Possível transição para venda comercial regulada** — **condicional a três factores críticos:**
   1. **Dados positivos piloto:** Evidência 2028-2030 mostrando captura significativa do mercado ilegal, sem aumento do consumo juvenil, redução da criminalização
   2. **Coordenação europeia:** Resolução conflitos lei UE/Schengen (venda comercial cannabis actualmente bloqueada pela Comissão Europeia)
   3. **Renovação aprovação parlamentar:** Nova votação pós-avaliação, não automatismo
 
 **Honestidade com eleitores/decisores políticos:**
 
-* **Fase 1 (clubes) é viável agora** — modelo alemão Pillar 1 funciona, UE tolera
-* **Fase 2 (comercial) pode nunca acontecer** — depende de factores fora de controlo Portugal
-* **Benefício Fase 1 standalone:** Captura estimada 30-45% mercado ilegal (sujeita a validação — ver análise gap mercado), ROI positivo via poupanças enforcement, redução criminalização — **mesmo sem venda comercial**, objectivos principais atingidos
+* **Pilar 1 (clubes) é viável agora** — modelo alemão funciona, UE tolera
+* **Pilar 2 (comercial) pode nunca acontecer** — depende de factores fora de controlo Portugal
+* **Benefício Pilar 1 standalone:** Captura estimada 30-45% mercado ilegal (sujeita a validação — ver análise gap mercado), ROI positivo via poupanças enforcement, redução criminalização — **mesmo sem venda comercial**, objectivos principais atingidos
 
 **Esta abordagem maximiza viabilidade política:** Não compromete LIVRE com promessas dependentes de factores externos (mudanças lei UE), mas mantém ambição estratégica de longo prazo condicional a dados e coordenação europeia.
 

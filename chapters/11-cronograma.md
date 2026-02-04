@@ -12,7 +12,7 @@
 | **Q4 2026 - Q1 2027** | **Proposta simplificação regulatória cânhamo industrial** (THC<0,3%, menor resistência política) |
 | **Q2-Q3 2027** | **Aprovação parlamentar regime experimental cannabis recreativa** (12-15 meses pós-proposta, comparável a Portugal 2001 e Alemanha 2024) |
 | **Q2-Q3 2027** | **Aprovação programa piloto cânhamo** (3-5 regiões: Alentejo, Trás-os-Montes, Beira Interior) |
-| **Q3-Q4 2027** | **Programa piloto cannabis recreativa** — 2-3 clubes sociais (Lisboa, Porto) |
+| **Q3-Q4 2027** | **Início licenciamento nacional clubes sociais cannabis** (modelo clube = fase de avaliação contínua) |
 | **Q4 2027 - 2028** | **Início programa piloto cânhamo** — Parcerias ISA/UTAD, conversão culturas via PAC |
 | **2028-2030** | **Avaliação de impactos cannabis recreativa + expansão gradual baseada em dados** |
 | **2028-2030** | **Avaliação programa piloto cânhamo** — Análise viabilidade económica, benefícios ambientais (captura CO₂, melhoria solo) |

@@ -56,7 +56,7 @@ Atualmente, o cultivo de cânhamo em Portugal exige:
 
 * Autorização do Ministério da Agricultura (Portaria 83/2021)
 * Uso exclusivo de sementes certificadas de variedades aprovadas pela UE
-* Inspeções regulares ao longo do ciclo de cultivo
+* Inspecções regulares ao longo do ciclo de cultivo
 * Declaração de cultivo junto do IFAP (Instituto de Financiamento da Agricultura e Pescas)
 
 ### Alterações Regulatórias Propostas

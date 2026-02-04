@@ -352,7 +352,7 @@ A Alemanha enfrentou desafios iniciais com os testes rápidos disponíveis — o
 
 **Resposta curta (30s):**
 
-"Exactamente por isso aprendemos com os erros espanhóis. Espanha não tem regulação nacional — é zona cinzenta sem auditorias, sem price caps, sem fiscalização. Portugal propõe governance rigorosa: auditorias anuais obrigatórias publicadas online, tecto de €6/grama, excedentes doados automaticamente a SICAD, inspecções surpresa trimestrais (10% dos clubes), e whistleblowing protegido. Tudo o que falta em Espanha."
+"Exactamente por isso aprendemos com os erros espanhóis. Espanha não tem regulação nacional — é zona cinzenta sem auditorias, sem transparência, sem fiscalização. Portugal propõe governance rigorosa: auditorias anuais obrigatórias publicadas online, preços cost-recovery com transparência obrigatória e preço consultivo SICAD, excedentes doados automaticamente a SICAD, inspecções surpresa trimestrais (10% dos clubes), e whistleblowing protegido. Tudo o que falta em Espanha."
 
 **Resposta desenvolvida (2min):**
 
@@ -364,7 +364,7 @@ A Alemanha implementa fiscalização através de documentação obrigatória (§
 
 1. **Auditoria financeira anual obrigatória** — conduzida por auditor externo certificado não-membro, relatório completo publicado online e submetido a SICAD. Recusa de publicação = suspensão imediata da licença
 
-2. **Price cap rigoroso** — máximo €6/grama (baseado em custos operacionais médios alemães). Preço deve reflectir apenas custos reais (cultivo, salários, infraestrutura, testes), sem margem comercial
+2. **Transparência de preços rigorosa** — preços cost-recovery (€3-8/g) com publicação obrigatória da decomposição de custos; SICAD publica preço consultivo de referência. Preço deve reflectir apenas custos reais (cultivo, salários, infraestrutura, testes), sem margem comercial
 
 3. **Proibição absoluta de retenção de excedentes** — qualquer surplus (receitas > custos + reserva operacional 10%) é **automaticamente doado a SICAD** trimestralmente para financiar prevenção/tratamento. Distribuição de lucros a membros/direcção = revogação permanente da licença
 
@@ -381,7 +381,7 @@ A Alemanha implementa fiscalização através de documentação obrigatória (§
 * Espanha: ~800-1.000 clubes em zona cinzenta legal, sem regulação nacional [@tni2018; @transform2018]
 * Problemas documentados: exploração comercial, turismo cannábico, ligações crime organizado [@transform2018]
 * Barcelona 2024: encerramento de 30 clubes por desvios [@hightimes2024]
-* Proposta PT: 6 mecanismos de governance ausentes em Espanha (auditorias anuais, price caps €6/g, surplus a SICAD, whistleblowing, inspecções 10% trimestrais, transparência mensal)
+* Proposta PT: 6 mecanismos de governance ausentes em Espanha (auditorias anuais, transparência de preços + preço consultivo SICAD, surplus a SICAD, whistleblowing, inspecções 10% trimestrais, transparência mensal)
 * **Conclusão:** Regulação rigorosa com enforcement previne desvios que zona cinzenta espanhola permite
 
 ---
@@ -449,7 +449,7 @@ Nós não somos o partido da droga. Somos o partido que lê os dados e age em co
 * **Controlo de qualidade** — produto de potência conhecida, sem adulterações
 * **Verificação de idades** — vendedores licenciados perdem a licença se venderem a menores
 * **Informação sobre riscos** — rotulagem com avisos de saúde, como no tabaco
-* **Recursos para prevenção** — financiamento dedicado via poupanças de enforcement ([ver €52M/ano](#financiamento))
+* **Recursos para prevenção** — financiamento dedicado via poupanças de enforcement ([ver €20-40M/ano](#financiamento))
 
 A regulação não normaliza o consumo — **normaliza o controlo**. É a diferença entre dizer 'não faças isso' e fechar os olhos, versus dizer 'se vais fazer, aqui tens informação, produto seguro, e apoio se precisares'.
 

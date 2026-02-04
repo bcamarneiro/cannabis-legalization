@@ -14,7 +14,7 @@ A Lei n.º 33/2018, de 18 de julho, legalizou o uso de medicamentos, preparaçõ
 
 * Entre 2021 e 2023, as prescrições de cannabis medicinal aumentaram de 460 para 1.157 por ano — um número irrisório para um país de 10 milhões de habitantes [@prohibition2025]
 * Em 2024, os dados mostram uma **queda acentuada**, invertendo a tendência de crescimento: apenas 757 prescrições até ao 3.º trimestre (média de 252/trimestre, abaixo das ~289/trimestre de 2023) [@prohibition2025]
-* No mesmo período, Portugal **exportou mais de 18 toneladas** de cannabis medicinal, um aumento de 54% face a 2023 [@eco2024]
+* No ano completo de 2024, Portugal **exportou 32.558 kg (32,5 toneladas)** de cannabis medicinal, um aumento de 172% face a 2023 [@eco2024]
 * Em 2023, apenas **17 kg** foram vendidos a doentes portugueses — 99,85% da produção nacional foi exportada [@cannabis2024_1]
 
 **As causas identificadas:**
@@ -62,7 +62,7 @@ Propomos um modelo de comparticipação faseado:
 * **Canadá:** A cannabis medicinal **não é coberta** pelos planos de saúde provinciais, obrigando os doentes a pagar do próprio bolso (até $500 CAD/mês). Este é considerado um dos maiores fracassos do modelo canadiano [@pmc2024canadainsurance]
 * **Reino Unido:** Não há cobertura NHS. O acesso é quase exclusivamente privado (custo médio ~£151/mês). O Project Twenty21 tentou criar evidência para justificar inclusão no NHS, mas sem sucesso até à data [@levaclinic2024]
 
-**Lição:** Os modelos sem comparticipação (Canadá, Reino Unido, Portugal atual) resultam em baixa adesão e manutenção do mercado negro. O modelo alemão demonstra que a inclusão no sistema de saúde público é o fator decisivo para o acesso efetivo.
+**Lição:** Os modelos sem comparticipação (Canadá, Reino Unido, Portugal atual) resultam em baixa adesão e manutenção do mercado negro. O modelo alemão demonstra que a inclusão no sistema de saúde público é o factor decisivo para o acesso efetivo.
 
 ### Análise Custo-Benefício para o SNS
 
@@ -136,7 +136,7 @@ A revisão *umbrella* do BMJ (2023) analisou 101 meta-análises sobre benefício
 
 Portugal é o **maior exportador europeu** de cannabis medicinal e o segundo maior do mundo [@cannareporter2024]:
 
-* Em 2024, exportou mais de **18 toneladas** de cannabis medicinal [@prohibition2025]
+* Em 2024, exportou **32.558 kg (32,5 toneladas)** de cannabis medicinal [@eco2024]
 * Destinos: Alemanha (46%), Espanha (20%), Polónia (16%), Reino Unido (10%), Austrália (5%)
 * Existem **mais de 50 empresas** autorizadas a exportar
 * Mais de **61 licenças de cultivo** ativas em março de 2024
@@ -163,12 +163,12 @@ Paradoxalmente, em 2023 apenas **17 kg** foram vendidos domesticamente. Os doent
 | Critério | Portugal | Alemanha | Israel | Reino Unido | Canadá |
 |----------|----------|----------|--------|-------------|--------|
 | Ano de legalização | 2018 | 2017 | 1999 | 2018 | 2001 |
-| Pacientes ativos | ~1.000 (est.) | ~370.000 prescrições/ano | ~137.940 | ~40.000 (privados) | ~450.000 |
+| Pacientes activos | ~1.000 (est.) | ~370.000 prescrições/ano | ~137.940 | ~40.000 (privados) | ~450.000 |
 | Comparticipação | Nenhuma (37% apenas Sativex) | Seguro público (desde 2024 sem aprovação prévia) | Parcial | Nenhuma (NHS muito raro) | Nenhuma (provincial) |
 | Quem prescreve | Qualquer médico (na teoria) | Qualquer médico (16 especialidades sem aprovação prévia) | Especialistas + GPs (reforma 2024) | Especialistas privados | Qualquer médico |
 | Indicações | 7 indicações restritas | Sem lista fixa ("perspetiva de benefício") | Lista ampla + expansão em curso | Sem lista fixa | Sem lista fixa |
 | Custo para o doente | €150–300/mês | €5–10 copagamento | Subsidiado parcialmente | £150+/mês (privado) | $100–500 CAD/mês |
-| Produção nacional | 18+ toneladas (export) | Limitada (importa maioria) | Significativa | Limitada | Excesso de oferta |
+| Produção nacional | 32,5 toneladas (export 2024) | Limitada (importa maioria) | Significativa | Limitada | Excesso de oferta |
 
 *Nota: valores aproximados, dados de 2024. Dados a confirmar para alguns valores específicos.*
 

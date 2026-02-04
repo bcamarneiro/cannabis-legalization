@@ -140,7 +140,7 @@ A história mostra **quatro momentos decisivos** que revelam o absurdo da proibi
 * **Ironia histórica:** Planta que alimentou Descobrimentos (obrigatória até 1961) é criminalizada 9 anos depois por pressão externa
 * **Evidência científica:** Se cannabis tem valor medicinal reconhecido (2018), não pode estar na Schedule I da ONU (1961: "sem valor medicinal")
 * **Precedente de sucesso:** Se descriminalização (2000) foi eficaz reduzindo danos, regulação completa pode ser ainda mais eficaz
-* **Hipocrisia económica:** Se Portugal exporta 99,95% da produção (2024), proibir consumo interno é indefensável
+* **Hipocrisia económica:** Se Portugal exporta 99,85% da produção (2024), proibir consumo interno é indefensável
 * **Falha de saúde pública:** Se 95% dos utilizadores compram no mercado negro, estamos a falhar protecção de centenas de milhares de portugueses
 
 **Portugal já provou duas vezes (Descobrimentos, descriminalização 2000) que pragmatismo português supera dogmatismos externos.** A regulação proposta é o próximo passo dessa mesma lógica histórica — recuperar soberania nacional sobre uma planta que sempre foi parte da nossa história.

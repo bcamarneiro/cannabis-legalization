@@ -28,7 +28,7 @@ Proposta baseada no modelo alemão [@bundesministerium2024] [@wikipedia2025], ad
 
 **Safeguards adicionais PT (prevenir cenário Espanha):**
 
-* Price cap €6/g, excedentes doados automaticamente a SICAD
+* Preços definidos pelos clubes (€3-8/g, cost-recovery), transparência obrigatória e preço consultivo SICAD; excedentes doados automaticamente a SICAD
 * Auditoria anual independente obrigatória (relatório público online)
 * Inspecções mínimo 10% clubes/trimestre
 * Programa whistleblowing protegido (denúncias confidenciais a SICAD)
@@ -36,7 +36,7 @@ Proposta baseada no modelo alemão [@bundesministerium2024] [@wikipedia2025], ad
 
 #### Oficial de Prevenção e Monitorização de Saúde Mental
 
-**Modelo alemão** (adotado como base [@bundesgesundheit2024cannabis]):
+**Modelo alemão** (adoptado como base [@bundesgesundheit2024cannabis]):
 
 Cada clube deve ter um **Präventionsbeauftragter** (Oficial de Prevenção) — função obrigatória prevista no framework alemão §23 KCanG [@kcang2024].
 
@@ -114,7 +114,7 @@ O programa piloto Züri Can implementa **screening formal obrigatório** na admi
 
 **Esta opção pode ser considerada** se a implementação inicial revelar lacunas no modelo alemão, mas implica maior burocracia e custos (avaliação psicológica ~€50-80 por candidato).
 
-**Justificação:** Modelo alemão equilibra proteção com praticabilidade. Canadá, sem Oficial de Prevenção, registou aumento de consultas psicose em emergência após legalização [@wootten2023ontario].
+**Justificação:** Modelo alemão equilibra protecção com praticabilidade. Canadá, sem Oficial de Prevenção, registou aumento de consultas psicose em emergência após legalização [@wootten2023ontario].
 
 Para uma descrição detalhada do funcionamento deste modelo, ver Anexo A.
 
@@ -283,7 +283,7 @@ Os clubes devem implementar **rastreabilidade completa** da cannabis cultivada, 
 Para evitar repetir os problemas espanhóis (clubes que se tornaram operações comerciais ilícitas por falta de fiscalização rigorosa), Portugal deve adicionar mecanismos ausentes na Alemanha e Espanha:
 
 - **Auditoria externa independente anual:** Obrigatória para todos os clubes, conduzida por auditor certificado não-membro, relatório publicado online e submetido a SICAD — recusa de publicação resulta em suspensão imediata da licença
-- **Price cap:** Máximo €6/grama (baseado em custos operacionais médios alemães) — variedades especializadas podem solicitar isenção temporária com justificação documentada
+- **Transparência de preços:** Clubes definem preços com base em custos reais (€3-8/g, cost-recovery), publicação obrigatória da decomposição de custos; SICAD publica preço consultivo de referência baseado em médias nacionais
 - **Proibição absoluta retenção excedentes:** Qualquer surplus (receitas > custos + reserva operacional 10%) é automaticamente doado a SICAD trimestralmente para financiar prevenção/tratamento — distribuição de lucros a membros/direcção resulta em revogação permanente
 - **Dashboard mensal online público:** Divulgação a membros + SICAD de vendas totais (€), custos operacionais agregados, pagamentos direcção/funcionários, número membros activos
 
@@ -291,7 +291,7 @@ Para evitar repetir os problemas espanhóis (clubes que se tornaram operações 
 
 As autoridades regionais (Länder) conduzem [@cannabis420eu2024]:
 
-- **Inspeções aleatórias sem aviso prévio:** Verificação física de stocks, distribuições registadas, proteção menores, conformidade limites
+- **Inspecções aleatórias sem aviso prévio:** Verificação física de stocks, distribuições registadas, protecção menores, conformidade limites
 - **Análises laboratoriais:** Testes aleatórios de THC, contaminantes (pesticidas, metais pesados, fungos)
 - **Verificação documental:** Auditoria de registos de distribuição e conformidade com limites legais
 - **Acesso a registos:** Autoridades podem inspecionar documentação (§26 KCanG) [@kcang2024] a qualquer momento
@@ -312,7 +312,7 @@ O sistema de licenciamento prevê penalizações proporcionais:
 
 **Justificação:** Framework alemão estrutura fiscalização rigorosa + transparência total para modelo non-profit. A rastreabilidade individual é necessária (limites legais), mas dados permanecem privados salvo fiscalização. Evidência de impacto no mercado paralelo virá de dados long-term (Colorado -60%, Canadá -97% em 6 anos).
 
-#### Proteção Materno-Infantil
+#### Protecção Materno-Infantil
 
 **Avisos obrigatórios e rotulagem** [@acog2025cannabis]:
 
@@ -378,7 +378,7 @@ Estudos recentes 2024-2025 documentam níveis alarmantes de contaminação em ca
 
 ##### Solução: Testes Obrigatórios em Clubes Sociais
 
-Modelo alemão KCanG/CanG 2024 (adotado como base para PT) [@eurofins2024cannabis; @canndelta2024germany]:
+Modelo alemão KCanG/CanG 2024 (adoptado como base para PT) [@eurofins2024cannabis; @canndelta2024germany]:
 
 **Testes obrigatórios antes de distribuição aos membros:**
 
@@ -586,7 +586,7 @@ Para evitar concentração de mercado, permitir **máximo 1-2 clubes por produto
 
 - **Requisito non-profit mantém-se:** Clube opera a custo real (cost-recovery), sem distribuir lucros
 - **Separação contabilística:** Clube é entidade separada do produtor (auditoria independente)
-- **Price cap aplica-se:** Máximo €6/g, excedentes doados a SICAD (como todos os clubes)
+- **Transparência aplica-se:** Preços cost-recovery (€3-8/g), excedentes doados a SICAD (como todos os clubes)
 - **Governance rigorosa:** Mesmas obrigações que clubes independentes (auditoria, transparência, whistleblowing)
 
 **Justificação:** Suíça permite produtores licenciados operarem pontos de venda em pilotos Zur Can [@springer2024zurican]. Limitar a 1-2 clubes/produtor previne oligopólio, mantendo diversidade de clubes independentes.
@@ -679,7 +679,7 @@ O financiamento de prevenção **não depende** de clubes funcionarem perfeitame
 
 * **Anos 1-2 (2027-2028, programa piloto):**
   * Financiamento inicial **€10-15M/ano via Orçamento de Estado** (linha orçamental dedicada)
-  * Poupanças enforcement ainda mínimas (apenas 2-3 clubes piloto)
+  * Poupanças enforcement ainda mínimas (primeiros clubes em operação)
   * Análise custo-benefício em curso para validar estimativas
 
 * **Anos 3-5 (2029-2031, expansão gradual):**
@@ -690,7 +690,7 @@ O financiamento de prevenção **não depende** de clubes funcionarem perfeitame
 * **Anos 6-10 (2032-2036, regime permanente):**
   * Financiamento estabilizado em €20-40M/ano (dependente de avaliação 2028-2030)
   * Maioria vem de poupanças enforcement se clubes demonstrarem eficácia
-  * **Se clubes falharem:** Enforcement mantém-se, custos também — Estado não "perde" €52M, simplesmente continua a gastar em enforcement como actualmente. Programa piloto permite identificar falhas cedo e ajustar.
+  * **Se clubes falharem:** Enforcement mantém-se, custos também — Estado não "perde" dinheiro, simplesmente continua a gastar €45-90M/ano em enforcement como actualmente. Programa piloto permite identificar falhas cedo e ajustar.
 
 **Modelo de risco mitigado:**
 
@@ -698,7 +698,7 @@ O financiamento de prevenção **não depende** de clubes funcionarem perfeitame
 * Expansão só acontece se dados mostrarem eficácia (consumo juvenil, mercado ilegal, custos)
 * Não há "dependência de execução perfeita" — há **iteração baseada em evidência**
 
-**Disclaimer:** Valores conservadores assumem cenário pessimista. Análise rigorosa PT pode revelar poupanças maiores ou menores. Compromisso: publicar análise custo-benefício detalhada antes implementação Fase 2.
+**Disclaimer:** Valores conservadores assumem cenário pessimista. Análise rigorosa PT pode revelar poupanças maiores ou menores. Compromisso: publicar análise custo-benefício detalhada antes implementação Fase 3.
 
 #### Estratégia de Comunicação Pública {#estrategia-comunicacao}
 
@@ -759,7 +759,7 @@ Diferentemente de modelos comerciais (Colorado, Canadá), Portugal propõe clube
 | Análises laboratoriais obrigatórias | €2-3M | Laboratórios ISO 17025 (subcontratados) |
 | Formação Oficiais Prevenção | €2-3M | Cursos certificação, supervisão clínica |
 | Sistemas rastreabilidade/monitorização | €3-4M | Software seed-to-sale, base dados nacional |
-| **Poupanças enforcement** | -€5-10M | Parcial (apenas 2-3 clubes piloto) |
+| **Poupanças enforcement** | -€5-10M | Parcial (primeiros clubes em operação) |
 | **Investimento prevenção adicional** | +€10-15M | Linha orçamental OE dedicada |
 | **BALANÇO LÍQUIDO ANOS 1-2** | **+€15-30M/ano** | **Aumento gasto OE** (investimento experimental) |
 
@@ -843,7 +843,7 @@ Impactos positivos **não incluídos** no balanço fiscal acima:
 
 - **Impacto:** Estado continua a gastar €45-90M/ano em enforcement (status quo)
 - **Perda:** Investimento inicial €30-60M (programa piloto) + custos regulatórios 2 anos €20-30M = **€50-90M perdidos**
-- **Mitigação:** Programa piloto 2-3 clubes permite identificar falhas **antes** de escala nacional
+- **Mitigação:** O modelo de clubes funciona como avaliação contínua — dados recolhidos desde o primeiro dia permitem ajustes incrementais
 - **Decisão reversível:** Após avaliação 2028-2030, se dados mostrarem ineficácia, não expandir (minimiza perdas)
 
 **Cenário optimista: Clubes capturam >60% mercado**
@@ -854,11 +854,11 @@ Impactos positivos **não incluídos** no balanço fiscal acima:
 
 **Conclusão fiscal:** Modelo não-comercial PT tem **risco fiscal limitado** (investimento inicial €50-90M reversível após piloto) e **potencial ganho significativo** (ROI 120-753% se clubes demonstrarem eficácia). Decisão baseada em dados 2028-2030 minimiza risco downside.
 
-##### ROI Análise: Phase 1 (Clubes) vs Phase 2 (Comercial Potencial)
+##### ROI Análise: Pilar 1 (Clubes) vs Pilar 2 (Comercial Potencial)
 
 **IMPORTANTE:** Análise ROI distingue claramente modelo clubes standalone (viável agora) vs transição comercial futura (condicional a coordenação UE).
 
-**Phase 1: Clubes Sociais Não-Comerciais (2027-2037, standalone)**
+**Pilar 1: Clubes Sociais Não-Comerciais (2027-2037, standalone)**
 
 Todos os valores ROI apresentados acima (**120-753%**) baseiam-se **exclusivamente em modelo clubes** sem venda comercial:
 
@@ -870,9 +870,9 @@ Todos os valores ROI apresentados acima (**120-753%**) baseiam-se **exclusivamen
 | **ROI 10 anos** | +€36M (+120%) | +€226M (+753%) | Poupanças líquidas vs investimento inicial |
 | **Payback** | 4 anos | 3 anos | Tempo recuperar investimento inicial |
 
-**Viabilidade standalone:** Phase 1 sozinha **já atinge objectivos principais** harm reduction (proteger quem consome, reduzir mercado negro, acabar criminalização), **independentemente de transição comercial futura**.
+**Viabilidade standalone:** Pilar 1 sozinha **já atinge objectivos principais** harm reduction (proteger quem consome, reduzir mercado negro, acabar criminalização), **independentemente de transição comercial futura**.
 
-**Phase 2: Venda Comercial Regulada (hipotético, 2033+, condicional)**
+**Pilar 2: Venda Comercial Regulada (hipotético, 2033+, condicional)**
 
 **Premissa:** SE (1) dados piloto 2028-2030 positivos, (2) UE resolver bloqueio Schengen via coordenação multilateral, (3) aprovação parlamentar renovada, **ENTÃO** possível transição venda comercial.
 
@@ -886,14 +886,14 @@ Todos os valores ROI apresentados acima (**120-753%**) baseiam-se **exclusivamen
 | **Taxa fiscal** | 20-37% (Colorado 37%) | 25% (conservador) | Impostos específicos cannabis |
 | **RECEITAS FISCAIS** | €80M × 25% | **€20M/ano** | ADICIONAL a poupanças enforcement |
 
-**ROI combinado Phase 1 + Phase 2 (hipotético):**
+**ROI combinado Pilar 1 + Pilar 2 (hipotético):**
 
-- **Poupanças enforcement** (Phase 1): €30-65M/ano (mantém-se)
-- **Receitas fiscais** (Phase 2): €20M/ano (adicional)
+- **Poupanças enforcement** (Pilar 1): €30-65M/ano (mantém-se)
+- **Receitas fiscais** (Pilar 2): €20M/ano (adicional)
 - **TOTAL:** €50-85M/ano benefício fiscal
 - **ROI 10 anos:** +€200-500M (vs apenas clubes +€36-226M)
 
-**MAS CRÍTICO — Phase 2 pode nunca acontecer:**
+**MAS CRÍTICO — Pilar 2 pode nunca acontecer:**
 
 * **Obstáculo legal:** Comissão Europeia bloqueou venda comercial Alemanha 2024-2025 por violar Schengen
 * **Timeline incerto:** Mudança política UE requer 5-10+ anos coordenação multilateral
@@ -901,9 +901,9 @@ Todos os valores ROI apresentados acima (**120-753%**) baseiam-se **exclusivamen
 
 **Estratégia fiscal prudente:**
 
-1. **Planejar baseado em Phase 1 standalone** (clubes apenas) — ROI 120-753% conservador, viável agora
+1. **Planear baseado em Pilar 1 standalone** (clubes apenas) — ROI 120-753% conservador, viável agora
 2. **Não prometer receitas fiscais comerciais** — dependem de factores externos fora de controlo Portugal
-3. **Tratar Phase 2 como bonus condicional** — se acontecer, €20M/ano adicionais permitem expansão prevenção/tratamento SNS; se não acontecer, objectivos harm reduction já atingidos
+3. **Tratar Pilar 2 como bonus condicional** — se acontecer, €20M/ano adicionais permitem expansão prevenção/tratamento SNS; se não acontecer, objectivos harm reduction já atingidos
 
 **Mensagem política:**
 
@@ -961,7 +961,7 @@ Distribuição equilibrada considerando densidade populacional, acessibilidade g
 
 **Faseamento implementação (2027-2036):**
 
-- **Fase Piloto (2027-2028):** 2-3 clubes (Lisboa 1, Porto 1, Coimbra 1)
+- **Fase Inicial (2027-2028):** Licenciamento nacional aberto — primeiros clubes em Lisboa, Porto, Coimbra (o modelo clube é em si a fase de avaliação)
 - **Fase Expansão 1 (2029-2030):** +10-15 clubes (AML completa, AMP completa, Braga, Setúbal, Faro, Aveiro)
 - **Fase Expansão 2 (2031-2033):** +15-20 clubes (restantes distritos litoral + interior: Leiria, Santarém, Viseu, Castelo Branco, Évora, Beja, Viana, Vila Real, Guarda, Madeira, Açores)
 - **Fase Consolidação (2034-2036):** +8-13 clubes (saturação áreas urbanas, segundos clubes cidades médias)
