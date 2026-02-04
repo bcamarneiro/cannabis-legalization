@@ -56,7 +56,7 @@ Um estudo de 2024 publicado na ResearchGate estima o mercado ilegal português d
 Os dados do V Inquérito Nacional (SICAD, 2022) mostram que Portugal mantém taxas de consumo abaixo da média europeia:
 
 * **Prevalência ao longo da vida (15-64 anos):** 10,5% (PT) [@nugent2017]
-* **Consumo último ano (15-64 anos):** 2,8% (PT) vs. 8,4% (média UE) [@marconi2016; @di2019]
+* **Consumo último ano (15-64 anos, dados ~2012–2017):** 2,8% (PT) vs. 8,4% (média UE) [@marconi2016; @di2019]
 
 **Dado preocupante:** O consumo de risco elevado entre jovens 15-24 anos aumentou de 0,2% (2012) para 1,3% (2022), medido pelo Cannabis Abuse Screening Test (CAST) [@leung2020].
 
@@ -80,7 +80,7 @@ Os dados comprovam que tratar consumo como questão de saúde (e não criminal) 
 * Redução de 98% nos diagnósticos de HIV relacionado com drogas [@internationalcbc2025]
 * Mortes por overdose caíram significativamente [@businesscannabis2025b]
 * Portugal tem agora uma das taxas mais baixas de mortalidade por drogas na Europa (10 por milhão vs. 22 média UE) [@mmjdaily2025]
-* **Consumo não aumentou após descriminalização** — Portugal mantém taxas abaixo da média europeia (8,2% vs 8,3% UE, último ano) [@euda2024cannabis]. **Nota metodológica:** Impossível provar causalidade (múltiplos factores confundidos: tendências europeias, mudanças culturais, políticas prevenção). A conclusão defensável é que a descriminalização **não causou a epidemia temida** pelos opositores [@greenwald2009; @springer2021pt]
+* **Consumo não aumentou após descriminalização** — Portugal mantém taxas abaixo da média europeia (8,2% vs 8,3% UE, último ano, dados 2022) [@euda2024cannabis]. **Nota metodológica:** Impossível provar causalidade (múltiplos factores confundidos: tendências europeias, mudanças culturais, políticas prevenção). A conclusão defensável é que a descriminalização **não causou a epidemia temida** pelos opositores [@greenwald2009; @springer2021pt]
 
 **2\. O sistema judicial tornou-se mais eficaz e humano**
 

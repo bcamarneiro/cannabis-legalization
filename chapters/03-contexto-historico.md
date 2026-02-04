@@ -74,7 +74,7 @@ Em **2000-2001**, Portugal tornou-se pioneiro global ao **descriminalizar** (nã
 
 **Resistência política:**
 
-* **Oposição feroz da direita parlamentar:** CDS-PP liderou campanha contra "legalização das drogas" (termo deliberadamente enganoso — lei descriminalizava, não legalizava)
+* **Oposição feroz da direita parlamentar:** CDS-PP liderou campanha contra "legalização das drogas" (termo factualmente incorrecto — a lei descriminalizava o consumo pessoal, não legalizava qualquer substância)
 * **Basílio Horta (CDS):** Exigiu referendo, argumentando que a lei "vai alterar profundamente o modelo de sociedade"
 * **Aprovação garantida:** PS tinha apoio suficiente (115/230 deputados) para aprovar sem maioria absoluta, ultrapassando oposição
 

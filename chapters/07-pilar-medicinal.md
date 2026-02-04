@@ -97,7 +97,7 @@ Propomos um modelo de comparticipação faseado:
 
 4. **Eliminação do requisito de «último recurso»:**
    * Substituir por critério de "benefício clínico comprovado" a par de outras opções terapêuticas
-   * Alinhamento com a prática alemã, onde a cannabis pode ser prescrita quando existe "perspetiva fundamentada de benefício" (*begründete Aussicht auf einen Therapieerfolg*)
+   * Alinhamento com a prática alemã, onde a cannabis pode ser prescrita quando existe "perspectiva fundamentada de benefício" (*begründete Aussicht auf einen Therapieerfolg*)
 
 ## Indicações Terapêuticas
 
@@ -166,7 +166,7 @@ Paradoxalmente, em 2023 apenas **17 kg** foram vendidos domesticamente. Os doent
 | Pacientes ativos | ~1.000 (est.) | ~370.000 prescrições/ano | ~137.940 | ~40.000 (privados) | ~450.000 |
 | Comparticipação | Nenhuma (37% apenas Sativex) | Seguro público (desde 2024 sem aprovação prévia) | Parcial | Nenhuma (NHS muito raro) | Nenhuma (provincial) |
 | Quem prescreve | Qualquer médico (na teoria) | Qualquer médico (16 especialidades sem aprovação prévia) | Especialistas + GPs (reforma 2024) | Especialistas privados | Qualquer médico |
-| Indicações | 7 indicações restritas | Sem lista fixa ("perspetiva de benefício") | Lista ampla + expansão em curso | Sem lista fixa | Sem lista fixa |
+| Indicações | 7 indicações restritas | Sem lista fixa ("perspectiva de benefício") | Lista ampla + expansão em curso | Sem lista fixa | Sem lista fixa |
 | Custo para o doente | €150–300/mês | €5–10 copagamento | Subsidiado parcialmente | £150+/mês (privado) | $100–500 CAD/mês |
 | Produção nacional | 18+ toneladas (export) | Limitada (importa maioria) | Significativa | Limitada | Excesso de oferta |
 
