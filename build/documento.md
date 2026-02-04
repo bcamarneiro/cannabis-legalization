@@ -95,8 +95,8 @@ Este documento propõe que o LIVRE assuma uma posição clara e proactiva sobre 
 | **Q3-Q4 2026** | Aprovação cânhamo + medicinal (consenso amplo esperado: PS/PAN/BE/IL/PCP) | **Fase 1** |
 | **Q4 2026 - Q1 2027** | Programa piloto cânhamo — 3-5 regiões (ISA/UTAD, incentivos PAC) | **Fase 1** |
 | **Q1-Q2 2027** | Proposta legislativa cannabis recreativa (coordenada BE/PAN/IL) — após resultados Fase 1 | **Fase 2** |
-| **Q2-Q4 2028** | Aprovação parlamentar regime experimental recreativo (12-18 meses pós-proposta) | **Fase 2** |
-| **Q3-Q4 2029** | Programa piloto cannabis recreativa — 2-3 clubes sociais (Lisboa, Porto) | **Fase 2** |
+| **Q2-Q4 2028** | Aprovação parlamentar regime de clubes sociais (12-18 meses pós-proposta) | **Fase 2** |
+| **Q3-Q4 2029** | Licenciamento nacional de clubes sociais — abertura a qualquer município | **Fase 2** |
 | **2030-2032** | Avaliação impactos + expansão gradual baseada em dados | **Fase 2** |
 
 ## Evolução futura condicional: Coordenação europeia e modelo two-pillar
@@ -105,7 +105,7 @@ Este documento propõe que o LIVRE assuma uma posição clara e proactiva sobre 
 
 * **Pilar 1: Clubes sociais não-comerciais + autocultivo** — implementação 2029-2032, avaliação rigorosa dados
 * **Pilar 2: Possível transição para venda comercial regulada** — **condicional a três factores críticos:**
-  1. **Dados positivos piloto:** Evidência 2028-2030 mostrando captura significativa do mercado ilegal, sem aumento do consumo juvenil, redução da criminalização
+  1. **Dados positivos do modelo de clubes:** Evidência 2029-2032 mostrando captura significativa do mercado ilegal, sem aumento do consumo juvenil, redução da criminalização
   2. **Coordenação europeia:** Resolução conflitos lei UE/Schengen (venda comercial cannabis actualmente bloqueada pela Comissão Europeia)
   3. **Renovação aprovação parlamentar:** Nova votação pós-avaliação, não automatismo
 
@@ -504,7 +504,7 @@ A política proposta **não maximiza protecção cerebral** — maximiza *reduç
 - Referenciação a tratamento (vs. criminalização)
 - Educação sobre riscos (vs. desinformação)
 
-Se evidência futura demonstrar danos significativos em 21-25 com modelo proposto, **revisão será necessária**. Isto requer dados do programa piloto (2029-2032) e disposição para ajustar limites baseado em evidência, não ideologia.
+Se evidência futura demonstrar danos significativos em 21-25 com modelo proposto, **revisão será necessária**. Isto requer dados do modelo de clubes (2029-2032) e disposição para ajustar limites baseado em evidência, não ideologia.
 
 **Nota sobre frequência de consumo:** A frequência de consumo é um preditor de risco tão ou mais importante que a potência [@autor2024]. Contudo, tal como não se limita a frequência de consumo de álcool ou tabaco, a abordagem mais praticável é limitar a quantidade disponível. Esta proposta faz-lo através dos limites mensais (30g para 18-20, 50g para 21+ nos clubes) e de plantas (3 em autocultivo) — medidas mais restritivas do que as existentes para substâncias legais com maior score de dano.
 
@@ -516,7 +516,7 @@ Se evidência futura demonstrar danos significativos em 21-25 com modelo propost
 * Formação de profissionais de saúde
 * Fiscalização dos clubes e controlo de qualidade
 
-**Fonte de financiamento:** Transição gradual — **€10-15M/ano inicial via Orçamento de Estado** (Anos 1-2 programa piloto), evoluindo para **€20-40M/ano** (Anos 3-10) à medida que poupanças enforcement se concretizam ([ver faseamento detalhado](#financiamento)). Modelo **não depende de execução perfeita** — se clubes falharem, enforcement mantém-se e Estado continua a gastar como actualmente.
+**Fonte de financiamento:** Transição gradual — **€10-15M/ano inicial via Orçamento de Estado** (Anos 1-2 implementação), evoluindo para **€20-40M/ano** (Anos 3-10) à medida que poupanças enforcement se concretizam ([ver faseamento detalhado](#financiamento)). Modelo **não depende de execução perfeita** — se clubes falharem, enforcement mantém-se e Estado continua a gastar como actualmente.
 
 **Nota sobre dados fiscais internacionais:**
 
@@ -632,7 +632,7 @@ Todos os produtos cannabis (clubes sociais, autocultivo com sementes certificada
 #### Formação e Implementação
 
 * **Programa formação:** GNR/PSP — reconhecimento sinais incapacidade cannabis (olhos vermelhos, coordenação, tempo reacção)
-* **Aquisição testes:** Antes de programa piloto clubes (Q3 2027) — evitar enforcement gap alemão
+* **Aquisição testes:** Antes de abertura dos primeiros clubes licenciados (Q3 2027) — evitar enforcement gap alemão
 * **Campanha sensibilização:** "Cannabis não combina com condução" — lançamento simultâneo com abertura clubes
 * **Avaliação contínua:** Monitorização acidentes THC-positivos (ANSR) — ajustes baseados em dados 2028-2030
 \newpage
@@ -752,11 +752,11 @@ Portugal pode evitar as dificuldades alemãs através de medidas específicas:
 
 | Problema Alemanha | Solução proposta Portugal |
 | :---- | :---- |
-| **Zero subsídio estatal** | Programa piloto com **subsídio €50-100k por clube** (investimento saúde pública, não despesa) |
+| **Zero subsídio estatal** | **Subsídio €50-100k por clube** (investimento saúde pública, não despesa) |
 | **Regulação descentralizada** | **SICAD centralizado** — regras uniformes nacionais, sem poder de veto municipal arbitrário |
 | **Bloqueio político regional** | Framework **nacional** que impede câmaras de bloquear arbitrariamente (prerrogativa central vs. autonomia local) |
 | **Custos indoor elevados** | Clima mediterrânico: outdoor/greenhouse viável 8-10 meses/ano no Sul; indoor permitido com **contrato energia 100% renovável obrigatório**; custos energéticos ~40-60% menores (€0,20-0,25/kWh) |
-| **791 candidaturas de uma vez** | **Programa piloto 2-3 clubes** (2027-2028) → avaliar → expandir gradualmente baseado em dados |
+| **791 candidaturas de uma vez** | **Licenciamento nacional faseado** (2027+) com critérios rigorosos — modelo de clubes como fase de avaliação (2-3 anos) antes de decisão sobre venda comercial |
 | **25 anos criminalização total** | Portugal: **25 anos de descriminalização** = comunidade cannabis mais madura, menos estigma, associações já existentes |
 
 **Cenário realista para Portugal — Análise de sensibilidade:**
@@ -784,7 +784,7 @@ Mesmo assumindo dificuldades semelhantes às alemãs, o modelo continua viável:
 | Custos energia | €0,30-0,40/kWh | €0,20-0,25/kWh |
 | Regulação | 16 Länder, interpretações diversas | SICAD centralizado, regras uniformes |
 | Cultura cannabis | Criminalização total até 2024 | 25 anos descriminalização |
-| Abordagem | 791 candidaturas simultâneas | Piloto 2-3 clubes → expansão gradual |
+| Abordagem | 791 candidaturas simultâneas | Licenciamento nacional com critérios rigorosos desde dia 1 |
 | Indústria existente | Limitada | 37 empresas cannabis medicinal (infraestrutura, know-how) |
 
 **Conclusão:** A "taxa de 47% de falha" alemã reflecte dores de crescimento normais de um sistema com <12 meses de operação, sem apoio estatal, com obstrução política activa (Baviera), e sem programa piloto. Portugal propõe corrigir cada uma destas lacunas. A avaliação definitiva do modelo alemão só será possível após 2-3 anos de operação estabilizada.
@@ -878,9 +878,9 @@ Não podemos isolar o efeito causal da legalização vs. tendências nacionais. 
 
 **Expectativa realista para Portugal (modelo clubes sem registo biométrico):**
 
-* **Anos 1-2 (2027-2028):** 10-15% utilizadores migram para clubes (early adopters, programa piloto limitado)
+* **Anos 1-2 (2027-2028):** 10-15% utilizadores migram para clubes (early adopters, fase inicial licenciamento nacional)
 * **Anos 3-5 (2029-2031):** 30-45% mercado legal (expansão clubes, confiança estabelecida — estimativa optimista, ver análise gap mercado)
-* **Anos 6-10:** Estabilização 50-60% mercado legal com modelo clubes, ou transição para modelo comercial regulado (70-95% legal, dados Canadá) — **CONDICIONAL a:** (1) dados piloto positivos 2028-2030, (2) resolução conflitos lei UE/Schengen (Comissão Europeia bloqueou venda comercial Alemanha 2024-2025, requer coordenação multilateral), (3) renovação aprovação parlamentar. **Fase comercial pode nunca acontecer** se obstáculos legais UE persistirem. Modelo clubes standalone (Fase 1) já atinge objetivos principais harm reduction
+* **Anos 6-10:** Estabilização 50-60% mercado legal com modelo clubes, ou transição para modelo comercial regulado (70-95% legal, dados Canadá) — **CONDICIONAL a:** (1) dados positivos do modelo de clubes 2029-2032, (2) resolução conflitos lei UE/Schengen (Comissão Europeia bloqueou venda comercial Alemanha 2024-2025, requer coordenação multilateral), (3) renovação aprovação parlamentar. **Fase comercial pode nunca acontecer** se obstáculos legais UE persistirem. Modelo clubes standalone (Fase 1) já atinge objetivos principais harm reduction
 
 **Portugal pode ultrapassar Uruguai porque:**
 
@@ -1481,7 +1481,7 @@ Os clubes devem implementar **rastreabilidade completa** da cannabis cultivada, 
 Para evitar repetir os problemas espanhóis (clubes que se tornaram operações comerciais ilícitas por falta de fiscalização rigorosa), Portugal deve adicionar mecanismos ausentes na Alemanha e Espanha:
 
 - **Auditoria externa independente anual:** Obrigatória para todos os clubes, conduzida por auditor certificado não-membro, relatório publicado online e submetido a SICAD — recusa de publicação resulta em suspensão imediata da licença
-- **Transparência de preços:** Clubes definem preços com base nos custos reais de produção, qualidade do produto e situação financeira — sem tecto rígido. Obrigatória a publicação de custos de produção por grama e a afixação visível de preços. Preço de referência indicativo (não vinculativo) publicado anualmente por SICAD com base em custos médios dos clubes piloto. Objectivo: competitividade com mercado negro (~€5-8/g) sem impor rigidez que comprometa viabilidade
+- **Transparência de preços:** Clubes definem preços com base nos custos reais de produção, qualidade do produto e situação financeira — sem tecto rígido. Obrigatória a publicação de custos de produção por grama e a afixação visível de preços. Preço de referência indicativo (não vinculativo) publicado anualmente por SICAD com base em custos médios dos clubes licenciados. Objectivo: competitividade com mercado negro (~€5-8/g) sem impor rigidez que comprometa viabilidade
 - **Proibição absoluta retenção excedentes:** Qualquer surplus (receitas > custos + reserva operacional 10%) é automaticamente doado a SICAD trimestralmente para financiar prevenção/tratamento — distribuição de lucros a membros/direcção resulta em revogação permanente
 - **Dashboard mensal online público:** Divulgação a membros + SICAD de vendas totais (€), custos operacionais agregados, pagamentos direcção/funcionários, número membros activos
 
@@ -1590,7 +1590,7 @@ Modelo alemão KCanG/CanG 2024 (adotado como base para PT) [@eurofins2024cannabi
 
 **Implementação PT:**
 
-- **Laboratórios acreditados:** Apenas laboratórios certificados ISO 17025 podem realizar testes cannabis. **Nota sobre capacidade laboratorial em Portugal:** O IPAC (Instituto Português de Acreditação) acredita laboratórios de ensaio, mas não foi possível confirmar a existência de laboratórios em Portugal **actualmente acreditados especificamente para testes de cannabis recreativa** (potência THC/CBD, pesticidas, metais pesados, micotoxinas). Existem laboratórios com capacidade analítica relevante — nomeadamente os que servem a indústria de cannabis medicinal (37 empresas licenciadas pelo INFARMED exportam cannabis testada segundo padrões EU-GMP) [@cannareporter2022] e laboratórios de análise alimentar e ambiental acreditados ISO 17025 pelo IPAC. A transição para testes de cannabis recreativa requer: (1) extensão do âmbito de acreditação dos laboratórios existentes, (2) formação específica em matrizes cannabis, e (3) investimento em equipamento (HPLC, GC-MS). **Recomendação:** Mapear capacidade laboratorial existente e planear investimento necessário antes do lançamento do programa piloto. Considerar subcontratação internacional transitória (Eurofins, Fundación CANNA — Espanha) se necessário nos primeiros 12-18 meses
+- **Laboratórios acreditados:** Apenas laboratórios certificados ISO 17025 podem realizar testes cannabis. **Nota sobre capacidade laboratorial em Portugal:** O IPAC (Instituto Português de Acreditação) acredita laboratórios de ensaio, mas não foi possível confirmar a existência de laboratórios em Portugal **actualmente acreditados especificamente para testes de cannabis recreativa** (potência THC/CBD, pesticidas, metais pesados, micotoxinas). Existem laboratórios com capacidade analítica relevante — nomeadamente os que servem a indústria de cannabis medicinal (37 empresas licenciadas pelo INFARMED exportam cannabis testada segundo padrões EU-GMP) [@cannareporter2022] e laboratórios de análise alimentar e ambiental acreditados ISO 17025 pelo IPAC. A transição para testes de cannabis recreativa requer: (1) extensão do âmbito de acreditação dos laboratórios existentes, (2) formação específica em matrizes cannabis, e (3) investimento em equipamento (HPLC, GC-MS). **Recomendação:** Mapear capacidade laboratorial existente e planear investimento necessário antes da abertura dos clubes. Considerar subcontratação internacional transitória (Eurofins, Fundación CANNA — Espanha) se necessário nos primeiros 12-18 meses
 - **Frequência testes:** Cada lote de cannabis antes de distribuição (modelo Alemanha/Canadá)
 - **Rastreabilidade:** Certificado teste acompanha cada lote distribuído (código QR em embalagem)
 - **Rejeição lotes:** Cannabis que falhe qualquer teste **não pode** ser distribuída — deve ser destruída sob supervisão Infarmed
@@ -1875,9 +1875,9 @@ Regulação de clubes sociais implica custos novos:
 
 O financiamento de prevenção **não depende** de clubes funcionarem perfeitamente. Segue modelo faseado realista:
 
-* **Anos 1-2 (2027-2028, programa piloto):**
+* **Anos 1-2 (2027-2028, fase inicial licenciamento nacional):**
   * Financiamento inicial **€10-15M/ano via Orçamento de Estado** (linha orçamental dedicada)
-  * Poupanças enforcement ainda mínimas (apenas 2-3 clubes piloto)
+  * Poupanças enforcement crescentes à medida que clubes abrem a nível nacional (custos de licenciamento e supervisão proporcionais ao número de clubes)
   * Análise custo-benefício em curso para validar estimativas
 
 * **Anos 3-5 (2029-2031, expansão gradual):**
@@ -1888,7 +1888,7 @@ O financiamento de prevenção **não depende** de clubes funcionarem perfeitame
 * **Anos 6-10 (2032-2036, regime permanente):**
   * Financiamento estabilizado em €20-40M/ano (dependente de avaliação 2028-2030)
   * Maioria vem de poupanças enforcement se clubes demonstrarem eficácia
-  * **Se clubes falharem:** Enforcement mantém-se, custos também — Estado não "perde" €52M, simplesmente continua a gastar em enforcement como actualmente. Programa piloto permite identificar falhas cedo e ajustar.
+  * **Se clubes falharem:** Enforcement mantém-se, custos também — Estado não "perde" €52M, simplesmente continua a gastar em enforcement como actualmente. Período de avaliação (2-3 anos) permite identificar falhas cedo e ajustar.
 
 **Modelo de risco mitigado:**
 
@@ -1913,11 +1913,11 @@ A ausência de uma estratégia media pode comprometer a viabilidade política da
 2. **Separar claramente as fases:** Medicinal (doentes) ≠ recreativo (clubes). Confusão entre ambas é a principal arma de opositores.
 3. **Antecipar narrativas adversas:** Preparar respostas factuais para objecções previsíveis (ver Anexo D).
 4. **Comunicação segmentada:**
-   - **Decisores políticos:** Foco em poupanças fiscais, dados internacionais, reversibilidade do piloto
+   - **Decisores políticos:** Foco em poupanças fiscais, dados internacionais, reversibilidade do modelo
    - **Profissionais de saúde:** Foco em harm reduction, evidência clínica, protocolos de prevenção
    - **Público geral:** Foco em segurança, controlo de qualidade, protecção de menores
    - **Jovens:** Foco em riscos reais (não moralização), informação de redução de danos
-5. **Transparência radical:** Publicar todos os dados do programa piloto em tempo real (dashboard SICAD). Transparência desarma desconfiança.
+5. **Transparência radical:** Publicar todos os dados dos clubes em tempo real (dashboard SICAD). Transparência desarma desconfiança.
 6. **Porta-vozes credíveis:** Priorizar profissionais de saúde e investigadores, não apenas políticos. Credibilidade técnica > retórica partidária.
 
 ##### Riscos comunicacionais a gerir
@@ -1948,18 +1948,18 @@ Diferentemente de modelos comerciais (Colorado, Canadá), Portugal propõe clube
 
 ##### Situação Proposta (2030+) — Regulação Clubes Sociais
 
-**Anos 1-2 (Programa Piloto 2027-2028):**
+**Anos 1-2 (Licenciamento Nacional 2027-2028):**
 
 | Categoria | Valor Anual | Impacto OE |
 | :---- | :---- | :---- |
 | **Custos regulatórios novos** | +€10-15M | Novo gasto OE |
-| Licenciamento e fiscalização clubes | €3-5M | SICAD/Infarmed (pessoal, auditorias) |
+| Licenciamento e fiscalização clubes | €3-5M | SICAD/Infarmed (pessoal, auditorias) — custos proporcionais ao nº de clubes licenciados |
 | Análises laboratoriais obrigatórias | €2-3M | Laboratórios ISO 17025 (subcontratados) |
 | Formação Oficiais Prevenção | €2-3M | Cursos certificação, supervisão clínica |
 | Sistemas rastreabilidade/monitorização | €3-4M | Software seed-to-sale, base dados nacional |
-| **Poupanças enforcement** | -€5-10M | Parcial (apenas 2-3 clubes piloto) |
+| **Poupanças enforcement** | -€10-20M | Rollout nacional captura mercado negro mais rapidamente |
 | **Investimento prevenção adicional** | +€10-15M | Linha orçamental OE dedicada |
-| **BALANÇO LÍQUIDO ANOS 1-2** | **+€15-30M/ano** | **Aumento gasto OE** (investimento experimental) |
+| **BALANÇO LÍQUIDO ANOS 1-2** | **+€5-20M/ano** | **Aumento gasto OE** (investimento fase avaliação) |
 
 **Anos 3-5 (Expansão Gradual 2029-2031):**
 
@@ -1987,7 +1987,7 @@ Assumindo clubes consolidados, captura mercado 35-50% (cenário optimista):
 
 ##### Retorno sobre Investimento (ROI) — Análise 10 anos
 
-**Investimento inicial acumulado (Anos 1-2):** €30-60M (programa piloto + setup regulatório)
+**Investimento inicial acumulado (Anos 1-2):** €30-60M (implementação inicial + setup regulatório)
 
 **Poupanças acumuladas (Anos 3-10):**
 
@@ -2040,9 +2040,9 @@ Impactos positivos **não incluídos** no balanço fiscal acima:
 **Cenário pessimista: Clubes falham capturar mercado ilegal**
 
 - **Impacto:** Estado continua a gastar €45-90M/ano em enforcement (status quo)
-- **Perda:** Investimento inicial €30-60M (programa piloto) + custos regulatórios 2 anos €20-30M = **€50-90M perdidos**
-- **Mitigação:** Programa piloto 2-3 clubes permite identificar falhas **antes** de escala nacional
-- **Decisão reversível:** Após avaliação 2028-2030, se dados mostrarem ineficácia, não expandir (minimiza perdas)
+- **Perda:** Investimento inicial em licenciamento e supervisão + custos regulatórios 2 anos €20-30M
+- **Mitigação:** O próprio modelo de clubes funciona como fase de avaliação — monitorização rigorosa nos primeiros 2-3 anos permite identificar falhas e ajustar antes de considerar expansão comercial
+- **Decisão reversível:** Após avaliação 2028-2030, se dados mostrarem ineficácia, suspender novas licenças e não avançar para modelo comercial (minimiza perdas)
 
 **Cenário optimista: Clubes capturam >60% mercado**
 
@@ -2050,7 +2050,7 @@ Impactos positivos **não incluídos** no balanço fiscal acima:
 - **Ganho adicional:** ROI >750%, payback <3 anos
 - **Reinvestimento:** Excedente poupanças pode financiar expansão prevenção/tratamento SNS
 
-**Conclusão fiscal:** Modelo não-comercial PT tem **risco fiscal limitado** (investimento inicial €50-90M reversível após piloto) e **potencial ganho significativo** (ROI 120-753% se clubes demonstrarem eficácia). Decisão baseada em dados 2028-2030 minimiza risco downside.
+**Conclusão fiscal:** Modelo não-comercial PT tem **risco fiscal limitado** (investimento inicial reversível após período de avaliação) e **potencial ganho significativo** (ROI 120-753% se clubes demonstrarem eficácia). Decisão sobre expansão comercial baseada em dados 2028-2030 minimiza risco downside.
 
 ##### Análise de Sensibilidade: ROI por Cenário {#sensitivity-roi}
 
@@ -2147,7 +2147,7 @@ Impactos positivos **não incluídos** no balanço fiscal acima:
 1. **O modelo tem risco downside limitado:** Perda máxima é €50M investimento inicial (cenário pessimista)
 2. **Cenário realista já justifica investimento:** ROI 260% = €130M poupança líquida 10 anos
 3. **Intervalo 120-753% original reflecte incerteza genuína:** Não é "marketing" — é reconhecimento de variáveis desconhecidas
-4. **Decisão baseada em piloto:** 2-3 clubes piloto 2027-2028 geram dados para calibrar cenários antes de escala
+4. **Decisão baseada em avaliação:** Período de avaliação 2027-2029 (modelo de clubes a nível nacional) gera dados para calibrar cenários antes de decisão sobre expansão comercial
 
 **Comparação com investimentos públicos típicos:**
 
@@ -2156,7 +2156,7 @@ Impactos positivos **não incluídos** no balanço fiscal acima:
 | Infraestrutura rodoviária | 1,5-3× (150-300%) | Baixo |
 | Programas emprego | 1-2× (100-200%) | Médio |
 | Investigação científica | 2-5× (200-500%) | Alto |
-| **Programa piloto cannabis** | **2,6-7× (260-700%)** realista-optimista | Médio (reversível) |
+| **Modelo clubes cannabis** | **2,6-7× (260-700%)** realista-optimista | Médio (reversível) |
 
 **Nota final sobre honestidade:** Projecções económicas são inerentemente incertas. A análise de sensibilidade não "esconde" o melhor cenário — **mostra todos** para que decisores avaliem risco/recompensa informadamente. Se cenário pessimista for inaceitável (perda €50M), proposta deve ser rejeitada. Se ROI 260% (cenário realista) justifica risco de €50M, proposta merece consideração.
 
@@ -2180,7 +2180,7 @@ Todos os valores ROI apresentados acima (**120-753%**) baseiam-se **exclusivamen
 
 **Phase 2: Venda Comercial Regulada (hipotético, 2033+, condicional)**
 
-**Premissa:** SE (1) dados piloto 2028-2030 positivos, (2) UE resolver bloqueio Schengen via coordenação multilateral, (3) aprovação parlamentar renovada, **ENTÃO** possível transição venda comercial.
+**Premissa:** SE (1) dados de avaliação 2028-2030 positivos (modelo clubes nacional), (2) UE resolver bloqueio Schengen via coordenação multilateral, (3) aprovação parlamentar renovada, **ENTÃO** possível transição venda comercial.
 
 **Projecção receitas fiscais comercial (ESPECULATIVO):**
 
@@ -2265,12 +2265,14 @@ Distribuição equilibrada considerando densidade populacional, acessibilidade g
 4. **Regiões autónomas:** Madeira e Açores (isolamento geográfico) recebem 1 clube cada independentemente do rácio estrito
 5. **Equidade acesso:** Evitar "desertos" sem clubes num raio >50km
 
-**Faseamento implementação (2027-2036):**
+**Implementação — licenciamento nacional desde o dia 1 (2027+):**
 
-- **Fase Piloto (2027-2028):** 2-3 clubes (Lisboa 1, Porto 1, Coimbra 1)
-- **Fase Expansão 1 (2029-2030):** +10-15 clubes (AML completa, AMP completa, Braga, Setúbal, Faro, Aveiro)
-- **Fase Expansão 2 (2031-2033):** +15-20 clubes (restantes distritos litoral + interior: Leiria, Santarém, Viseu, Castelo Branco, Évora, Beja, Viana, Vila Real, Guarda, Madeira, Açores)
-- **Fase Consolidação (2034-2036):** +8-13 clubes (saturação áreas urbanas, segundos clubes cidades médias)
+O licenciamento de clubes sociais é aberto a nível nacional desde o início, em qualquer município. Não há restrição geográfica a Lisboa/Porto — o próprio modelo de clubes constitui a fase de avaliação (2-3 anos) antes de qualquer decisão sobre venda comercial. A equidade geográfica é um princípio fundador: o interior tem o mesmo direito de acesso que o litoral.
+
+- **Fase Licenciamento (2027-2028):** Abertura de candidaturas a nível nacional — clubes licenciados à medida que cumprem critérios (cobertura geográfica equilibrada conforme tabela de distribuição acima)
+- **Fase Consolidação (2029-2031):** Expansão orgânica até ~46 clubes, saturação progressiva de distritos com menor densidade — prioridade a regiões sem cobertura
+- **Fase Avaliação (2029-2030):** Avaliação rigorosa do modelo de clubes — dados de impacto no mercado negro, consumo juvenil, saúde pública
+- **Decisão Comercial (2031+):** Com base em dados positivos da avaliação, considerar transição para modelo comercial regulado (Pilar 2). Se dados negativos, ajustar modelo de clubes sem expandir para venda comercial
 
 **Escala controlada:** 46 clubes × 500 membros máx. = **23.000 utilizadores registados** (0,21% população total, ~2,5% prevalência adulta 8,2%)
 
@@ -2290,7 +2292,7 @@ Distribuição equilibrada considerando densidade populacional, acessibilidade g
 Assumindo 46 clubes × 400 membros activos médios = **18.400 utilizadores** (cenário conservador, nem todos 500 membros são activos):
 
 - **Prevalência adulta PT:** 8,2% × 8,6M adultos = ~706.000 utilizadores cannabis
-- **Captura clubes:** 18.400 / 706.000 = **2,6% utilizadores totais** (escala piloto/inicial)
+- **Captura clubes:** 18.400 / 706.000 = **2,6% utilizadores totais** (escala inicial do modelo nacional)
 - **Captura realista (Anos 5-10):** Com autocultivo (3 plantas) + clubes, esperado **30-45% captura** mercado ilegal ([ver análise gap mercado](#gap-mercado))
 
 **Limitação reconhecida:** 46 clubes sozinhos capturam apenas **2,6% dos utilizadores** directamente. A projecção de captura de 30-45% do mercado ilegal em 5-10 anos requer análise honesta do gap e das premissas:
@@ -2334,7 +2336,7 @@ Assumindo 46 clubes × 400 membros activos médios = **18.400 utilizadores** (ce
 - Capacidade produtiva: 46 clubes podem não ter escala suficiente
 - Qualidade: clubes novos podem não ter expertise de cultivo imediatamente
 
-**Conclusão:** A projecção de 30-45% de captura do mercado ilegal é plausível mas **incerta**. O programa piloto (2027-2028) é precisamente o mecanismo para testar esta premissa antes de escalar. Se os dados mostrarem captura inferior a 15%, a estratégia deve ser reavaliada.
+**Conclusão:** A projecção de 30-45% de captura do mercado ilegal é plausível mas **incerta**. O período de avaliação do modelo de clubes (2027-2029) é precisamente o mecanismo para testar esta premissa antes de decidir sobre expansão comercial. Se os dados mostrarem captura inferior a 15%, a estratégia deve ser reavaliada.
 \newpage
 
 # PILAR 3: CÂNHAMO INDUSTRIAL (Fase 1 — avança imediatamente, em paralelo com medicinal)
@@ -2678,7 +2680,7 @@ Alemanha desenhou o CanG 2024 como **sistema two-pillar**:
 **4. Timeline realista mudança política UE**
 
 **Cenário optimista (5-7 anos):**
-* 2026-2028: Portugal + 3-4 estados progressistas implementam pilotos clubes não-comerciais
+* 2026-2028: Portugal + 3-4 estados progressistas implementam modelos de clubes não-comerciais a nível nacional
 * 2028-2030: Dados robustos mostram modelos funcionam (sem aumento consumo juvenil, captura mercado negro)
 * 2029-2031: Pressão coordenada na Comissão + Parlamento Europeu para reinterpretar Schengen
 * 2032-2034: Approval venda comercial harmonizada (standards comuns UE)
@@ -2718,7 +2720,7 @@ Alemanha desenhou o CanG 2024 como **sistema two-pillar**:
 
 **Quando questionados sobre venda comercial futura:**
 
-*"Portugal segue modelo alemão two-pillar. **Fase 1 — clubes sociais não-comerciais** — é nossa prioridade e é viável agora. **Fase 2 — possível venda comercial regulada** — depende de três condições: (1) dados piloto 2028-2030 mostrarem eficácia, (2) coordenação europeia resolver conflitos lei UE/Schengen, (3) renovação aprovação parlamentar. **Fase comercial pode nunca acontecer** se obstáculos legais UE persistirem. Mas mesmo sem Fase 2, clubes standalone já atingem objectivos principais: proteger quem consome, reduzir mercado negro, acabar criminalização utilizadores ocasionais. Não prometemos o que não controlamos — prometemos trabalhar diplomaticamente para mudança europeia, mas viabilidade Fase 1 não depende disso."*
+*"Portugal segue modelo alemão two-pillar. **Fase 1 — clubes sociais não-comerciais** — é nossa prioridade e é viável agora. **Fase 2 — possível venda comercial regulada** — depende de três condições: (1) dados do modelo de clubes 2029-2032 mostrarem eficácia, (2) coordenação europeia resolver conflitos lei UE/Schengen, (3) renovação aprovação parlamentar. **Fase comercial pode nunca acontecer** se obstáculos legais UE persistirem. Mas mesmo sem Fase 2, clubes standalone já atingem objectivos principais: proteger quem consome, reduzir mercado negro, acabar criminalização utilizadores ocasionais. Não prometemos o que não controlamos — prometemos trabalhar diplomaticamente para mudança europeia, mas viabilidade Fase 1 não depende disso."*
 
 **Mensagem-chave:** **Honestidade > promessas inflacionadas.** Modelo clubes funciona standalone, venda comercial é bonus condicional.
 
@@ -2792,11 +2794,11 @@ A proposta segue uma lógica pragmática: **começar pelo que reúne consenso** 
 | Abr-Jun 2026 | Propostas cânhamo + revisão medicinal (consenso transversal) | **Fase 1** |
 | **Q3-Q4 2026** | **Aprovação cânhamo + medicinal** | **Fase 1** |
 | Q4 2026 - Q1 2027 | Programa piloto cânhamo (3-5 regiões); medicinal operacional | **Fase 1** |
-| **Q1-Q2 2027** | **Proposta legislativa regime experimental recreativo** | **Fase 2** |
+| **Q1-Q2 2027** | **Proposta legislativa regime de clubes sociais** | **Fase 2** |
 | Q2-Q4 2027 | Debate parlamentar, comissões, emendas | **Fase 2** |
 | **Q1-Q2 2028** | **Aprovação parlamentar recreativo** | **Fase 2** |
 | Q3-Q4 2028 | Regulamentação secundária (SICAD/INFARMED) | **Fase 2** |
-| **Q1-Q2 2029** | **Programa piloto 2-3 clubes** (Lisboa, Porto) | **Fase 2** |
+| **Q1-Q2 2029** | **Licenciamento nacional clubes sociais** — abertura a qualquer município | **Fase 2** |
 
 ### Cenário Realista (Fase 1: 9-12 meses; Fase 2: 24-36 meses) — Probabilidade: 40-50%
 
@@ -2807,10 +2809,10 @@ A proposta segue uma lógica pragmática: **começar pelo que reúne consenso** 
 | 2026 | Propostas cânhamo + revisão medicinal + debate inicial recreativo | **Fase 1** |
 | Q3-Q4 2026 | Aprovação cânhamo + medicinal; piloto cânhamo inicia | **Fase 1** |
 | 2027 | Proposta recreativa + negociações prolongadas, consultas públicas | **Fase 2** |
-| **2028** | **Aprovação parlamentar recreativo** (regime experimental) | **Fase 2** |
+| **2028** | **Aprovação parlamentar regime de clubes sociais** | **Fase 2** |
 | 2028-2029 | Regulamentação secundária (12-18 meses) | **Fase 2** |
-| **2029** | **Programa piloto recreativo operacional** | **Fase 2** |
-| 2030-2032 | Avaliação + expansão gradual | **Fase 2** |
+| **2029** | **Licenciamento nacional clubes recreativos operacional** | **Fase 2** |
+| 2030-2032 | Avaliação modelo clubes + decisão sobre expansão comercial baseada em dados | **Fase 2** |
 
 ### Cenário Conservador (48-60+ meses) — Probabilidade: 20-30%
 
@@ -2823,7 +2825,7 @@ A proposta segue uma lógica pragmática: **começar pelo que reúne consenso** 
 | 2028 | Eleições legislativas; nova configuração política | — |
 | 2029-2030 | Reformulação proposta recreativa; novo ciclo negocial | **Fase 2** |
 | **2030-2031** | **Eventual aprovação recreativa** (se contexto favorável) | **Fase 2** |
-| 2031-2032 | Regulamentação + piloto recreativo | **Fase 2** |
+| 2031-2032 | Regulamentação + licenciamento nacional clubes recreativos | **Fase 2** |
 
 **Nota importante:** Mesmo no cenário conservador, a **Fase 1 avança e produz resultados** (cânhamo em produção, doentes com acesso medicinal). O bloqueio do recreativo não invalida os ganhos da Fase 1.
 
@@ -2848,10 +2850,10 @@ A proposta segue uma lógica pragmática: **começar pelo que reúne consenso** 
 | :---- | :---- | :---- |
 | **Q1-Q2 2027** | **Proposta legislativa cannabis recreativa** (coordenada com BE/PAN/IL) — apresentada com resultados iniciais Fase 1 | Se sem apoio: consolidar ganhos Fase 1, reagendar |
 | **2027-2028** | **Negociações parlamentares, consultas públicas, emendas** | Preparar versões alternativas (mais/menos restritivas) |
-| **Q2-Q4 2028** | **Aprovação parlamentar regime experimental recreativo** | Se prolongado: solicitar comissão técnica independente |
+| **Q2-Q4 2028** | **Aprovação parlamentar regime de clubes sociais** | Se prolongado: solicitar comissão técnica independente |
 | **2028-2029** | **Regulamentação secundária** (SICAD, INFARMED, IVV) — 12-18 meses | Antecipar trabalho técnico durante debate parlamentar |
-| **Q3-Q4 2029** | **Programa piloto cannabis recreativa** — 2-3 clubes (Lisboa, Porto) | Se atrasos: iniciar apenas com autocultivo |
-| **2030-2032** | **Avaliação de impactos + expansão gradual baseada em dados** | Relatórios públicos anuais |
+| **Q3-Q4 2029** | **Licenciamento nacional clubes sociais cannabis recreativa** — abertura a qualquer município | Se atrasos: iniciar apenas com autocultivo |
+| **2030-2032** | **Avaliação do modelo de clubes + decisão sobre expansão comercial baseada em dados** | Relatórios públicos anuais |
 
 ## Bottlenecks Identificados e Contingências {#bottlenecks}
 
@@ -2900,7 +2902,7 @@ A proposta segue uma lógica pragmática: **começar pelo que reúne consenso** 
 
 **Lição da eutanásia:** A legislação sobre eutanásia demorou ~5 anos (2018-2023) devido a vetos presidenciais e do TC. Cannabis recreativa, embora menos divisiva moralmente, enfrenta resistência diferente (segurança pública, tratados internacionais).
 
-**Expectativa calibrada:** A Fase 1 pode ser aprovada já em **2026**. Para a Fase 2, o cenário mais provável é aprovação em **2028** com piloto em **2029** — uma timeline de 24-36 meses. Apresentar 12-18 meses para o recreativo como expectativa primária seria irrealista e prejudicaria credibilidade da proposta.
+**Expectativa calibrada:** A Fase 1 pode ser aprovada já em **2026**. Para a Fase 2, o cenário mais provável é aprovação em **2028** com clubes operacionais em **2029** — uma timeline de 24-36 meses. Apresentar 12-18 meses para o recreativo como expectativa primária seria irrealista e prejudicaria credibilidade da proposta.
 
 **Vantagem da abordagem faseada:** Mesmo que a Fase 2 sofra atrasos ou bloqueios, os ganhos da Fase 1 são permanentes — doentes com acesso medicinal, cânhamo em produção, credibilidade regulatória construída. A estratégia nunca resulta em "zero" — no pior cenário, Portugal avança em duas frentes de consenso.
 
@@ -3004,7 +3006,7 @@ Para evitar replicar os problemas de Amsterdam/Barcelona, Portugal implementaria
 
 * **Amsterdam:** Nunca implementou residency requirement devido a lobby turístico; resultado: 165 coffee shops ainda operacionais para turistas, pressão insustentável
 * **Barcelona:** Implementou requisito residência apenas 2023-2024 (tarde demais); centenas de clubes já operavam ilegalmente para turistas; encerramento em massa criou vazio regulatório
-* **Portugal:** Implementaria residency requirement desde o início (programa piloto 2027), prevenindo problemas antes de emergirem
+* **Portugal:** Implementaria residency requirement desde o início (licenciamento 2029), prevenindo problemas antes de emergirem
 
 **Nota sobre enforcement:**
 
@@ -3074,7 +3076,7 @@ Cada clube deve:
   - Publicação trimestral do custo de produção por grama (detalhando cultivo, salários, infraestrutura, testes, impostos)
   - Afixação visível dos preços praticados nas instalações e plataforma digital do clube
   - Justificação documentada de variações superiores a 20% face ao preço de referência
-* **Preço de referência indicativo:** SICAD publica anualmente um preço de referência (não vinculativo) baseado nos custos médios dos clubes piloto — serve como benchmark, não como limite legal
+* **Preço de referência indicativo:** SICAD publica anualmente um preço de referência (não vinculativo) baseado nos custos médios dos clubes licenciados — serve como benchmark, não como limite legal
 * **Objectivo:** Manter competitividade com mercado negro (~€5-8/g) sem impor rigidez que comprometa viabilidade de clubes com custos operacionais mais elevados
 * **Fiscalização:** Auditoria trimestral de preços vs. custos declarados — desvios significativos sem justificação desencadeiam inspecção aprofundada
 
@@ -3353,12 +3355,12 @@ Para mitigar o risco de "pagar antes de ver", propõe-se modelo em 3 fases:
 **Justificação política:**
 
 * **Investimento saúde pública, não "subsidiar drogas":** Clubes são mecanismo de harm reduction — produto testado, monitorização, referenciação tratamento
-* **Comparação:** Portugal gasta €45-90M/ano em enforcement cannabis. Subsídio piloto 3 clubes = €150-300k = **0,3-0,7% de um ano de enforcement**
+* **Comparação:** Portugal gasta €45-90M/ano em enforcement cannabis. Custos de licenciamento e supervisão são proporcionais ao número de clubes — subsídio de €50-100k por clube representa uma fracção mínima do gasto anual em enforcement
 * **Contrapartida:** Dados detalhados para avaliação (tracking anonimizado, relatórios SICAD, auditorias)
 
 **Mecanismo proposto:**
 
-* **Entidade gestora:** SICAD (via programa experimental aprovado por AR)
+* **Entidade gestora:** SICAD (via regime de clubes sociais aprovado por AR)
 * **Elegibilidade:** Clubes com licença aprovada + plano negócios validado
 * **Desembolso:** 50% na aprovação, 50% após 6 meses (condicionado a milestones)
 * **Reembolso:** Não obrigatório se clube cumprir objectivos saúde pública
@@ -3449,7 +3451,7 @@ Artigo XX — Acesso a Serviços Financeiros
 
 | Fonte | Valor | % Total | Condições |
 | :---- | :---- | :---- | :---- |
-| Subsídio estatal | €75.000 | 37% | Programa piloto aprovado |
+| Subsídio estatal | €75.000 | 37% | Regime de clubes aprovado por AR |
 | Quotas fundadores | €70.000 | 35% | 200 fundadores × €350 média |
 | Crédito cooperativo (CGD/CA) | €40.000 | 20% | Legislação safe harbor |
 | Crowdfunding (PPL) | €15.000 | 8% | Campanha comunidade |
@@ -3491,7 +3493,7 @@ Portugal não tem o conflito federal/estadual dos EUA, o que reduz o risco. Cont
 **Propostas de mitigação:**
 
 1. **Orientação regulatória explícita:** Banco de Portugal emitir circular clarificando que **clubes sociais de cannabis licenciados pelo Estado são clientes legítimos**, eliminando ambiguidade regulatória para bancos comerciais
-2. **Canal preferencial público:** CGD e Crédito Agrícola como parceiros institucionais do programa piloto (coordenação Ministério Finanças)
+2. **Canal preferencial público:** CGD e Crédito Agrícola como parceiros institucionais do programa de clubes (coordenação Ministério Finanças)
 3. **Cooperativas financeiras:** Explorar criação de cooperativa de crédito especializada (modelo norte-americano *credit unions* cannabis) se bancos comerciais recusarem serviço
 4. **Pagamentos digitais:** Clubes devem operar preferencialmente por transferência bancária/MBWay (não cash), garantindo transparência financeira e facilitando auditorias
 
@@ -3747,7 +3749,7 @@ Em **Agosto 2025**, governo suíço abriu **consulta pública sobre Lei de Produ
 | **Preço** | CHF 8-12/g (€8,50-12,50) | €3-6/g (cost-recovery clubes) |
 | **Tributação** | IVA 7,7% apenas (pilotos), imposto específico proposto Lei 2026 | Sem impostos específicos cannabis Fase 1; IVA 23% obrigatório sobre quotas (clubes cost-recovery) |
 | **Coordenação federal** | OFSP supervisão centralizada, uniformidade standards | SICAD supervisão, INFARMED licensing |
-| **Duração avaliação** | 3-5 anos por piloto | 2 anos piloto → 3 anos avaliação (2027-2030) |
+| **Duração avaliação** | 3-5 anos por piloto | Modelo clubes = fase avaliação (2-3 anos, 2027-2030) antes de decisão comercial |
 | **Leakage mercado ilegal** | Zero detectado (~90% captura participantes) | Expectativa 30-45% captura nacional (modelo clubes — ver análise gap mercado) |
 
 ## Lições Aprendidas: O Que Portugal Pode Importar do Modelo Suíço
@@ -3778,7 +3780,7 @@ Comparar outcomes 2028-2030 informa expansão/refinement.
 
 **Suíça:** CHF 8-12/g (~€8,50-12,50) consegue >90% captura participantes registados porque **marginalmente abaixo mercado negro** CHF 10-15/g.
 
-**Portugal:** Mercado negro €10-15/g, proposta clubes €3-8/g (cost-recovery, sem tecto rígido). **Vantagem competitiva enorme** — mas risk: se custos compliance aumentam (labs, pessoal, facilities), preços devem poder ajustar-se. **Lição:** Monitorizar custos reais pilotos, garantir transparência de preços e custos de produção. Preço de referência indicativo (não vinculativo) publicado por SICAD permite acompanhamento sem rigidez que comprometa viabilidade. Até €8-9/g ainda competitivo face ao mercado negro.
+**Portugal:** Mercado negro €10-15/g, proposta clubes €3-8/g (cost-recovery, sem tecto rígido). **Vantagem competitiva enorme** — mas risk: se custos compliance aumentam (labs, pessoal, facilities), preços devem poder ajustar-se. **Lição:** Monitorizar custos reais dos clubes licenciados, garantir transparência de preços e custos de produção. Preço de referência indicativo (não vinculativo) publicado por SICAD permite acompanhamento sem rigidez que comprometa viabilidade. Até €8-9/g ainda competitivo face ao mercado negro.
 
 ### 4. Zero Leakage É Possível Mas Requer Enforcement Inteligente
 
@@ -3807,7 +3809,7 @@ Comparar outcomes 2028-2030 informa expansão/refinement.
 
 **Suíça:** Pilotos iniciados 2023, Lei Federal proposta apenas 2025-2026 (2-3 anos após). **Mensagem política:** "Não legalizamos cegamente, testamos primeiro."
 
-**Portugal:** Proposta já prevê 2027-2030 avaliação antes decisão Fase 2 comercial. **Importante:** Comunicar claramente que **Fase 1 clubes NÃO é legalização definitiva**, é piloto rigoroso. Decisão final 2030+ baseada dados. Isto reduz ansiedade conservadores ("podemos reverter se falhar") e aumenta credibilidade científica.
+**Portugal:** Proposta já prevê 2027-2030 como período de avaliação antes de decisão sobre Fase 2 comercial. **Importante:** Comunicar claramente que o **modelo de clubes é a própria fase de avaliação** — licenciamento nacional desde o dia 1, mas com monitorização rigorosa durante 2-3 anos antes de qualquer decisão sobre venda comercial. Decisão final 2030+ baseada em dados. Isto reduz ansiedade conservadores ("podemos reverter se falhar") e aumenta credibilidade científica.
 
 ## Obstáculos Suíços vs Obstáculos Portugueses
 
@@ -4382,13 +4384,13 @@ Propomos incluir um mecanismo de avaliação independente, como a Alemanha fez. 
 
 **Resposta curta (30s):**
 
-"Concordo completamente. Por isso propomos **€20-40 milhões/ano** dedicados a prevenção e tratamento, via transição gradual ([ver faseamento](#financiamento)): inicial €10-15M via Orçamento de Estado (programa piloto), depois €20-40M via poupanças enforcement à medida que clubes demonstram eficácia. A pergunta é: de onde vem esse dinheiro? Com a proibição, vem do OE — sempre insuficiente. Com regulação bem-sucedida, vem das poupanças em enforcement."
+"Concordo completamente. Por isso propomos **€20-40 milhões/ano** dedicados a prevenção e tratamento, via transição gradual ([ver faseamento](#financiamento)): inicial €10-15M via Orçamento de Estado (fase inicial licenciamento), depois €20-40M via poupanças enforcement à medida que clubes demonstram eficácia a nível nacional. A pergunta é: de onde vem esse dinheiro? Com a proibição, vem do OE — sempre insuficiente. Com regulação bem-sucedida, vem das poupanças em enforcement."
 
 **Resposta desenvolvida (2min):**
 
 "Estamos de acordo na importância da prevenção. A questão é como financiá-la de forma sustentável. Actualmente, a prevenção e o tratamento competem com hospitais, escolas e pensões pelo Orçamento de Estado. E historicamente, os serviços de saúde mental e tratamento de dependências são sempre os primeiros a sofrer cortes.
 
-A nossa proposta oferece uma solução: **€20-40 milhões/ano** para prevenção, tratamento e investigação via modelo faseado ([ver detalhes](#financiamento)). Começa com €10-15M/ano via Orçamento de Estado (programa piloto Anos 1-2), transita para €20-40M/ano (Anos 3-10) à medida que poupanças enforcement se concretizam. **Crítico:** Se clubes falharem, enforcement mantém-se — Estado não "perde" dinheiro, continua a gastar como actualmente. Investimento inicial é experimental e reversível.
+A nossa proposta oferece uma solução: **€20-40 milhões/ano** para prevenção, tratamento e investigação via modelo faseado ([ver detalhes](#financiamento)). Começa com €10-15M/ano via Orçamento de Estado (fase inicial de licenciamento nacional, Anos 1-2), transita para €20-40M/ano (Anos 3-10) à medida que poupanças enforcement se concretizam com o rollout nacional de clubes. **Crítico:** Se clubes falharem, enforcement mantém-se — Estado não "perde" dinheiro, continua a gastar como actualmente. Investimento inicial é experimental e reversível.
 
 Propomos afetar estes fundos a:
 * Reforço do SICAD (tratamento de dependências)
