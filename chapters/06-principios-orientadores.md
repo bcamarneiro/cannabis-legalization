@@ -33,7 +33,7 @@
 
 * **Anos 1-2 (2027-2028):** 10-15% utilizadores migram para clubes (early adopters, fase inicial licenciamento nacional)
 * **Anos 3-5 (2029-2031):** 30-45% mercado legal (expansão clubes, confiança estabelecida — estimativa optimista, ver análise gap mercado)
-* **Anos 6-10:** Estabilização 50-60% mercado legal com modelo clubes, ou transição para modelo comercial regulado (70-95% legal, dados Canadá) — **CONDICIONAL a:** (1) dados positivos do modelo de clubes 2029-2032, (2) resolução conflitos lei UE/Schengen (Comissão Europeia bloqueou venda comercial Alemanha 2024-2025, requer coordenação multilateral), (3) renovação aprovação parlamentar. **Fase comercial pode nunca acontecer** se obstáculos legais UE persistirem. Modelo clubes standalone (Fase 1) já atinge objetivos principais harm reduction
+* **Anos 6-10:** Estabilização 50-60% mercado legal com modelo clubes (Fase 2), ou transição para modelo comercial regulado (Fase 3: 70-95% legal, dados Canadá) — **CONDICIONAL a:** (1) dados positivos do modelo de clubes 2029-2032, (2) resolução conflitos lei UE/Schengen (Comissão Europeia bloqueou venda comercial Alemanha 2024-2025, requer coordenação multilateral), (3) renovação aprovação parlamentar. **Fase 3 (comercial) pode nunca acontecer** se obstáculos legais UE persistirem. Modelo clubes standalone (Fase 2) já atinge objetivos principais harm reduction
 
 **Portugal pode ultrapassar Uruguai porque:**
 

@@ -78,7 +78,7 @@ Alemanha desenhou o CanG 2024 como **sistema two-pillar**:
 | **Viabilidade standalone** | Pillar 1 visto como "temporário" | **Pillar 1 atinge objectivos principais** (harm reduction, captura estimada 30-45% mercado — sujeita a validação) |
 | **Risco político** | Reversão CDU 2025 matou Pillar 2 | **Implementação completa Pillar 1 minimiza risco** reversão |
 
-**Vantagem estratégica Portugal:** Não comprometer credibilidade política com promessas dependentes de factores externos (mudança lei UE). Clubes standalone (Fase 1) já entregam ROI 120-753%, captura estimada 30-50% mercado (ver caveats Secção 6.2), sem evidência de aumento do consumo juvenil nas jurisdições comparáveis.
+**Vantagem estratégica Portugal:** Não comprometer credibilidade política com promessas dependentes de factores externos (mudança lei UE). Clubes standalone (Fase 2) já entregam ROI 120-753%, captura estimada 30-50% mercado (ver caveats Secção 6.2), sem evidência de aumento do consumo juvenil nas jurisdições comparáveis.
 
 ### Estratégia Multilateral: Trabalhar para Mudança Política Europeia
 
@@ -140,21 +140,21 @@ Alemanha desenhou o CanG 2024 como **sistema two-pillar**:
 
 **Portugal deve ser explícito com eleitores e decisores políticos:**
 
-* ✅ **Fase 1 (clubes não-comerciais) é viável AGORA** — modelo alemão Pillar 1 funciona, UE tolera, objectivos harm reduction atingidos
-* ⚠️ **Fase 2 (venda comercial) depende factores externos** — coordenação UE, mudança política europeia, timeline 5-10+ anos
-* ❌ **Fase 2 pode nunca acontecer** — se UE mantém bloqueio, Portugal aceita clubes standalone como solução permanente
+* ✅ **Fase 2 (clubes não-comerciais + autocultivo) é viável após Fase 1** — modelo alemão funciona, UE tolera, objectivos harm reduction atingidos
+* ⚠️ **Fase 3 (venda comercial regulada) depende factores externos** — coordenação UE, mudança política europeia, timeline 5-10+ anos
+* ❌ **Fase 3 pode nunca acontecer** — se UE mantém bloqueio, Portugal aceita clubes standalone como solução permanente
 
-**Benefícios Fase 1 standalone (sem venda comercial):**
+**Benefícios Fase 2 standalone (sem venda comercial):**
 * Captura estimada 30-45% mercado ilegal (Uruguai misto atingiu ~37% em 10 anos; PT com autocultivo adicional — ver análise gap mercado)
 * ROI 120-753% via poupanças enforcement (não receitas fiscais)
 * Sem evidência de aumento do consumo juvenil (Colorado -42%, mas tendência nacional similar -38%; Canadá — dados disputados, ver Secção 3.5)
 * Produtos testados vs. mercado negro contaminado (94% pesticidas)
 * Redução criminalização (75% processos CDT envolvem cannabis)
 
-**Fase 2 adiciona mas não essencial:**
+**Fase 3 adiciona mas não essencial:**
 * Captura 70-95% mercado ilegal (dados Canadá comercial)
 * Receitas fiscais ~€50-150M/ano (se impostos similares Colorado/Canadá)
-* **MAS objectivos harm reduction principais já atingidos Fase 1**
+* **MAS objectivos harm reduction principais já atingidos Fase 2**
 
 **Esta transparência maximiza credibilidade:** LIVRE não promete o que não pode garantir. Fase comercial é ambição condicional, não promessa firme.
 
@@ -162,7 +162,7 @@ Alemanha desenhou o CanG 2024 como **sistema two-pillar**:
 
 **Quando questionados sobre venda comercial futura:**
 
-*"Portugal segue modelo alemão two-pillar. **Fase 1 — clubes sociais não-comerciais** — é nossa prioridade e é viável agora. **Fase 2 — possível venda comercial regulada** — depende de três condições: (1) dados do modelo de clubes 2029-2032 mostrarem eficácia, (2) coordenação europeia resolver conflitos lei UE/Schengen, (3) renovação aprovação parlamentar. **Fase comercial pode nunca acontecer** se obstáculos legais UE persistirem. Mas mesmo sem Fase 2, clubes standalone já atingem objectivos principais: proteger quem consome, reduzir mercado negro, acabar criminalização utilizadores ocasionais. Não prometemos o que não controlamos — prometemos trabalhar diplomaticamente para mudança europeia, mas viabilidade Fase 1 não depende disso."*
+*"A proposta segue uma estratégia em três fases. **Fase 1 — cânhamo industrial + revisão cannabis medicinal** — é consensual e avança imediatamente. **Fase 2 — clubes sociais não-comerciais + autocultivo** — é nossa prioridade no recreativo e é viável após Fase 1 demonstrar resultados. **Fase 3 — possível venda comercial regulada** — é um horizonte condicional que depende de três condições: (1) dados do modelo de clubes 2029-2032 mostrarem eficácia, (2) coordenação europeia resolver conflitos lei UE/Schengen, (3) renovação aprovação parlamentar. **Fase 3 pode nunca acontecer** se obstáculos legais UE persistirem. Mas mesmo sem Fase 3, clubes standalone (Fase 2) já atingem objectivos principais: proteger quem consome, reduzir mercado negro, acabar criminalização utilizadores ocasionais. Cada fase valida a seguinte — e os ganhos de cada fase são permanentes, independentemente de a próxima avançar."*
 
 **Mensagem-chave:** **Honestidade > promessas inflacionadas.** Modelo clubes funciona standalone, venda comercial é bonus condicional.
 

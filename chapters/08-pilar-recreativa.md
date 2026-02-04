@@ -1,6 +1,6 @@
 \newpage
 
-# PILAR 2: CANNABIS RECREATIVA (Fase 2 — após resultados cânhamo + medicinal)
+# PILAR 2: CANNABIS RECREATIVA
 
 Proposta baseada no modelo alemão [@bundesministerium2024; @wikipedia2025], adaptada a Portugal:
 
@@ -698,7 +698,7 @@ O financiamento de prevenção **não depende** de clubes funcionarem perfeitame
 * Expansão só acontece se dados mostrarem eficácia (consumo juvenil, mercado ilegal, custos)
 * Não há "dependência de execução perfeita" — há **iteração baseada em evidência**
 
-**Disclaimer:** Valores conservadores assumem cenário pessimista. Análise rigorosa PT pode revelar poupanças maiores ou menores. Compromisso: publicar análise custo-benefício detalhada antes implementação Fase 2.
+**Disclaimer:** Valores conservadores assumem cenário pessimista. Análise rigorosa PT pode revelar poupanças maiores ou menores. Compromisso: publicar análise custo-benefício detalhada antes da implementação dos clubes sociais recreativos.
 
 #### Estratégia de Comunicação Pública {#estrategia-comunicacao}
 
@@ -712,7 +712,7 @@ A ausência de uma estratégia media pode comprometer a viabilidade política da
 ##### Princípios orientadores para Portugal
 
 1. **Liderar com dados, não com ideologia:** Toda a comunicação pública deve basear-se em evidência — incluindo os riscos. Admitir incerteza reforça credibilidade.
-2. **Separar claramente as fases:** Medicinal (doentes) ≠ recreativo (clubes). Confusão entre ambas é a principal arma de opositores.
+2. **Separar claramente os pilares:** Medicinal (doentes) ≠ recreativo (clubes) ≠ cânhamo (agricultura). Confusão entre pilares é a principal arma de opositores.
 3. **Antecipar narrativas adversas:** Preparar respostas factuais para objecções previsíveis (ver Anexo D).
 4. **Comunicação segmentada:**
    - **Decisores políticos:** Foco em poupanças fiscais, dados internacionais, reversibilidade do modelo
@@ -962,11 +962,11 @@ Impactos positivos **não incluídos** no balanço fiscal acima:
 
 **Nota final sobre honestidade:** Projecções económicas são inerentemente incertas. A análise de sensibilidade não "esconde" o melhor cenário — **mostra todos** para que decisores avaliem risco/recompensa informadamente. Se cenário pessimista for inaceitável (perda €50M), proposta deve ser rejeitada. Se ROI 260% (cenário realista) justifica risco de €50M, proposta merece consideração.
 
-##### ROI Análise: Phase 1 (Clubes) vs Phase 2 (Comercial Potencial)
+##### ROI Análise: Fase 2 (Clubes) vs Fase 3 (Comercial Potencial)
 
-**IMPORTANTE:** Análise ROI distingue claramente modelo clubes standalone (viável agora) vs transição comercial futura (condicional a coordenação UE).
+**IMPORTANTE:** Análise ROI distingue claramente modelo clubes standalone (Fase 2, viável após Fase 1) vs transição comercial futura (Fase 3, condicional a coordenação UE e dados positivos).
 
-**Phase 1: Clubes Sociais Não-Comerciais (2027-2037, standalone)**
+**Fase 2: Clubes Sociais Não-Comerciais (2027-2037, standalone)**
 
 Todos os valores ROI apresentados acima (**120-753%**) baseiam-se **exclusivamente em modelo clubes** sem venda comercial:
 
@@ -978,11 +978,11 @@ Todos os valores ROI apresentados acima (**120-753%**) baseiam-se **exclusivamen
 | **ROI 10 anos** | +€36M (+120%) | +€226M (+753%) | Poupanças líquidas vs investimento inicial |
 | **Payback** | 4 anos | 3 anos | Tempo recuperar investimento inicial |
 
-**Viabilidade standalone:** Phase 1 sozinha **já atinge objectivos principais** harm reduction (proteger quem consome, reduzir mercado negro, acabar criminalização), **independentemente de transição comercial futura**.
+**Viabilidade standalone:** A Fase 2 sozinha **já atinge objectivos principais** harm reduction (proteger quem consome, reduzir mercado negro, acabar criminalização), **independentemente de transição comercial futura (Fase 3)**.
 
-**Phase 2: Venda Comercial Regulada (hipotético, 2033+, condicional)**
+**Fase 3: Venda Comercial Regulada (horizonte condicional, 2033+)**
 
-**Premissa:** SE (1) dados de avaliação 2028-2030 positivos (modelo clubes nacional), (2) UE resolver bloqueio Schengen via coordenação multilateral, (3) aprovação parlamentar renovada, **ENTÃO** possível transição venda comercial.
+**Premissa:** SE (1) dados de avaliação 2029-2032 positivos (modelo clubes nacional), (2) UE resolver bloqueio Schengen via coordenação multilateral, (3) aprovação parlamentar renovada, **ENTÃO** possível transição venda comercial.
 
 **Projecção receitas fiscais comercial (ESPECULATIVO):**
 
@@ -994,14 +994,14 @@ Todos os valores ROI apresentados acima (**120-753%**) baseiam-se **exclusivamen
 | **Taxa fiscal** | 20-37% (Colorado 37%) | 25% (conservador) | Impostos específicos cannabis |
 | **RECEITAS FISCAIS** | €80M × 25% | **€20M/ano** | ADICIONAL a poupanças enforcement |
 
-**ROI combinado Phase 1 + Phase 2 (hipotético):**
+**ROI combinado Fase 2 + Fase 3 (hipotético):**
 
-- **Poupanças enforcement** (Phase 1): €30-65M/ano (mantém-se)
-- **Receitas fiscais** (Phase 2): €20M/ano (adicional)
+- **Poupanças enforcement** (Fase 2): €30-65M/ano (mantém-se)
+- **Receitas fiscais** (Fase 3): €20M/ano (adicional)
 - **TOTAL:** €50-85M/ano benefício fiscal
 - **ROI 10 anos:** +€200-500M (vs apenas clubes +€36-226M)
 
-**MAS CRÍTICO — Phase 2 pode nunca acontecer:**
+**MAS CRÍTICO — Fase 3 pode nunca acontecer:**
 
 * **Obstáculo legal:** Comissão Europeia bloqueou venda comercial Alemanha 2024-2025 por violar Schengen
 * **Timeline incerto:** Mudança política UE requer 5-10+ anos coordenação multilateral
@@ -1009,13 +1009,13 @@ Todos os valores ROI apresentados acima (**120-753%**) baseiam-se **exclusivamen
 
 **Estratégia fiscal prudente:**
 
-1. **Planejar baseado em Phase 1 standalone** (clubes apenas) — ROI 120-753% conservador, viável agora
+1. **Planejar baseado em Fase 2 standalone** (clubes apenas) — ROI 120-753% conservador, viável após Fase 1
 2. **Não prometer receitas fiscais comerciais** — dependem de factores externos fora de controlo Portugal
-3. **Tratar Phase 2 como bonus condicional** — se acontecer, €20M/ano adicionais permitem expansão prevenção/tratamento SNS; se não acontecer, objectivos harm reduction já atingidos
+3. **Tratar Fase 3 como bonus condicional** — se acontecer, €20M/ano adicionais permitem expansão prevenção/tratamento SNS; se não acontecer, objectivos harm reduction já atingidos
 
 **Mensagem política:**
 
-*"O nosso modelo clubes entrega ROI positivo (120-753%) **sem depender de venda comercial futura**. Poupanças enforcement (€30-65M/ano) financiam prevenção, reduzem criminalização, protegem consumidores. Venda comercial — se algum dia for possível via coordenação europeia — adiciona receitas fiscais (~€20M/ano), mas **não é necessária para sucesso harm reduction**. Não prometemos o que não controlamos."*
+*"O nosso modelo de clubes (Fase 2) entrega ROI positivo (120-753%) **sem depender de venda comercial futura (Fase 3)**. Poupanças enforcement (€30-65M/ano) financiam prevenção, reduzem criminalização, protegem consumidores. Venda comercial — se algum dia for possível via coordenação europeia — adiciona receitas fiscais (~€20M/ano), mas **não é necessária para sucesso harm reduction**. Não prometemos o que não controlamos."*
 
 #### Estimativa de Clubes Necessários: Distribuição Geográfica Nacional
 

@@ -358,7 +358,7 @@ Nota: Rácio pessoal-membros conservador (1:66-111), garantindo atendimento pers
 
 Para mitigar o risco de "pagar antes de ver", propõe-se modelo em 3 fases:
 
-#### Fase 1: Pré-Licenciamento (€0-20k necessário)
+#### Etapa 1: Pré-Licenciamento (€0-20k necessário)
 
 **Objectivo:** Obter licença sem investimento pesado dos fundadores.
 
@@ -372,7 +372,7 @@ Para mitigar o risco de "pagar antes de ver", propõe-se modelo em 3 fases:
 
 **Risco fundadores:** €300-650/pessoa — recuperável se licença aprovada; perda aceitável se rejeitada.
 
-#### Fase 2: Pós-Licenciamento, Pré-Operação (€100k-150k necessário)
+#### Etapa 2: Pós-Licenciamento, Pré-Operação (€100k-150k necessário)
 
 **Objectivo:** Setup físico após licença confirmada — fundadores pagam quando **vêem licença aprovada**.
 
@@ -387,7 +387,7 @@ Para mitigar o risco de "pagar antes de ver", propõe-se modelo em 3 fases:
 
 **Risco fundadores:** €200-250/pessoa **após** licença aprovada — investimento com visibilidade clara.
 
-#### Fase 3: Operação (financiamento contínuo via quotas)
+#### Etapa 3: Operação (financiamento contínuo via quotas)
 
 **Objectivo:** Sustentabilidade via quotas mensais dos membros operacionais.
 
@@ -400,9 +400,9 @@ Para mitigar o risco de "pagar antes de ver", propõe-se modelo em 3 fases:
 
 **Vantagem do modelo faseado:**
 
-* **Fase 1:** Risco baixo (€300-650/pessoa), permite testar viabilidade legal
-* **Fase 2:** Risco moderado (€200-250/pessoa), mas só após licença confirmada
-* **Fase 3:** Risco operacional normal, financiado por utilizadores reais (não promessas)
+* **Etapa 1:** Risco baixo (€300-650/pessoa), permite testar viabilidade legal
+* **Etapa 2:** Risco moderado (€200-250/pessoa), mas só após licença confirmada
+* **Etapa 3:** Risco operacional normal, financiado por utilizadores reais (não promessas)
 
 ### Fontes de Financiamento Detalhadas {#fontes-financiamento}
 

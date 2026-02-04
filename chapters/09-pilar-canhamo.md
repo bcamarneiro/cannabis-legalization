@@ -1,6 +1,6 @@
 \newpage
 
-# PILAR 3: CÂNHAMO INDUSTRIAL (Fase 1 — avança imediatamente, em paralelo com medicinal)
+# PILAR 3: CÂNHAMO INDUSTRIAL
 
 ## Cânhamo Industrial: Uma Oportunidade Económica e Ambiental
 

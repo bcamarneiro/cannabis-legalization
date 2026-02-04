@@ -168,10 +168,10 @@ Em **Agosto 2025**, governo suíço abriu **consulta pública sobre Lei de Produ
 | **Idade mínima** | 18+ (sem restrição THC) | 18+ (10% THC), 21+ (sem limite) |
 | **Modelos distribuição** | 3 modelos testados (farmácias, clubes, lojas) | Clubes sociais não-comerciais primário |
 | **Autocultivo** | Não permitido durante pilotos (proposto Lei 2026) | Permitido desde início (3 plantas, sementes certificadas) |
-| **Venda comercial** | Proposta Lei Federal 2025-2026 | Condicional Fase 2 (depende dados + coordenação EU) |
+| **Venda comercial** | Proposta Lei Federal 2025-2026 | Condicional Fase 3 (depende dados + coordenação EU) |
 | **Qualidade produto** | GMP obrigatório, cultivo orgânico | ISO 17025 labs, sementes certificadas, testes obrigatórios |
 | **Preço** | CHF 8-12/g (€8,50-12,50) | €3-6/g (cost-recovery clubes) |
-| **Tributação** | IVA 7,7% apenas (pilotos), imposto específico proposto Lei 2026 | Sem impostos específicos cannabis Fase 1; IVA 23% obrigatório sobre quotas (clubes cost-recovery) |
+| **Tributação** | IVA 7,7% apenas (pilotos), imposto específico proposto Lei 2026 | Sem impostos específicos cannabis Fase 2 (clubes); IVA 23% obrigatório sobre quotas (clubes cost-recovery) |
 | **Coordenação federal** | OFSP supervisão centralizada, uniformidade standards | SICAD supervisão, INFARMED licensing |
 | **Duração avaliação** | 3-5 anos por piloto | Modelo clubes = fase avaliação (2-3 anos, 2027-2030) antes de decisão comercial |
 | **Leakage mercado ilegal** | Zero detectado (~90% captura participantes) | Expectativa 30-45% captura nacional (modelo clubes — ver análise gap mercado) |
@@ -233,7 +233,7 @@ Comparar outcomes 2028-2030 informa expansão/refinement.
 
 **Suíça:** Pilotos iniciados 2023, Lei Federal proposta apenas 2025-2026 (2-3 anos após). **Mensagem política:** "Não legalizamos cegamente, testamos primeiro."
 
-**Portugal:** Proposta já prevê 2027-2030 como período de avaliação antes de decisão sobre Fase 2 comercial. **Importante:** Comunicar claramente que o **modelo de clubes é a própria fase de avaliação** — licenciamento nacional desde o dia 1, mas com monitorização rigorosa durante 2-3 anos antes de qualquer decisão sobre venda comercial. Decisão final 2030+ baseada em dados. Isto reduz ansiedade conservadores ("podemos reverter se falhar") e aumenta credibilidade científica.
+**Portugal:** Proposta já prevê 2027-2030 como período de avaliação (Fase 2: clubes) antes de decisão sobre Fase 3 (venda comercial). **Importante:** Comunicar claramente que o **modelo de clubes (Fase 2) é a própria fase de avaliação** — licenciamento nacional desde o dia 1, mas com monitorização rigorosa durante 2-3 anos antes de qualquer decisão sobre venda comercial. Decisão final 2030+ baseada em dados. Isto reduz ansiedade conservadores ("podemos reverter se falhar") e aumenta credibilidade científica.
 
 ## Obstáculos Suíços vs Obstáculos Portugueses
 
@@ -251,7 +251,7 @@ Comparar outcomes 2028-2030 informa expansão/refinement.
 ### Obstáculos Portugueses (Não Resolvidos por Modelo Suíço)
 
 **Obstáculo PT-1 — Comissão Europeia Bloqueou Alemanha Pillar 2:**
-Suíça pode avançar com Lei Federal 2025-2026 porque **Schengen mas não UE** (menor jurisdição Comissão). Portugal é membro pleno UE, venda comercial Fase 2 requer coordenação multilateral ou challenge Schengen interpretation. **Modelo suíço não resolve.**
+Suíça pode avançar com Lei Federal 2025-2026 porque **Schengen mas não UE** (menor jurisdição Comissão). Portugal é membro pleno UE, venda comercial (Fase 3) requer coordenação multilateral ou challenge Schengen interpretation. **Modelo suíço não resolve.**
 
 **Obstáculo PT-2 — Consensus Político Ausente:**
 Suíça teve apoio bipartisan para pilotos (consenso harm reduction). Portugal 2026: PS incerto, PSD oposto, Chega hostil. **Modelo suíço prova viabilidade técnica mas não cria consensus político magicamente.**
@@ -271,7 +271,7 @@ Pilotos suíços aparentemente têm acesso banca (190 clubes operacionais), mas 
 6. **Timeline 3-5 anos dados antes legalização nacional** é realista e politicamente defensável
 7. **Suíça avança venda comercial 2025-2026 APESAR Schengen** — possível porque não-UE, mas Portugal enfrenta obstáculo adicional Comissão Europeia
 
-**Recomendação estratégica:** Portugal deve emular **rigor científico e múltiplos modelos** suíços na Fase 1 clubes, mas **não prometer venda comercial Fase 2** sem resolver obstáculo UE (diferente de Suíça que pode avançar unilaterally).
+**Recomendação estratégica:** Portugal deve emular **rigor científico e múltiplos modelos** suíços na Fase 2 (clubes), mas **não prometer venda comercial (Fase 3)** sem resolver obstáculo UE (diferente de Suíça que pode avançar unilaterally).
 
 **Mensagem política:** "Portugal segue exemplo suíço — pilotos científicos rigorosos, avaliação independente, decisão baseada dados. Não legalizamos cegamente, testamos com padrões mais altos Europa."
 

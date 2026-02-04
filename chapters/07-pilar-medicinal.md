@@ -1,6 +1,6 @@
 \newpage
 
-# PILAR 1: CANNABIS MEDICINAL (prioridade imediata)
+# PILAR 1: CANNABIS MEDICINAL
 
 ## Cannabis Medicinal: Uma Promessa Por Cumprir
 
@@ -49,11 +49,11 @@ Para contexto: €300/mês corresponde à totalidade do rendimento disponível d
 
 Propomos um modelo de comparticipação faseado:
 
-| Fase | Prazo | Mecanismo |
-|------|-------|-----------|
-| Fase 1 | Imediata | Comparticipação a 69% (escalão B) para indicações aprovadas pelo Infarmed |
-| Fase 2 | 6 meses | Alargamento a 90% (escalão A) para doentes crónicos com baixos rendimentos |
-| Fase 3 | 12 meses | Inclusão no Formulário Nacional de Medicamentos com revisão anual |
+| Etapa | Prazo | Mecanismo |
+|-------|-------|-----------|
+| Etapa 1 | Imediata | Comparticipação a 69% (escalão B) para indicações aprovadas pelo Infarmed |
+| Etapa 2 | 6 meses | Alargamento a 90% (escalão A) para doentes crónicos com baixos rendimentos |
+| Etapa 3 | 12 meses | Inclusão no Formulário Nacional de Medicamentos com revisão anual |
 
 ### Comparação Internacional de Comparticipação
 
@@ -126,9 +126,9 @@ A revisão *umbrella* do BMJ (2023) analisou 101 meta-análises sobre benefício
 
 ### Proposta de Alargamento
 
-* **Fase 1 (imediata):** Manter as 7 indicações atuais, mas eliminar requisito de «último recurso»
-* **Fase 2 (6 meses):** Adicionar PTSD, fibromialgia, doença inflamatória intestinal e artrite reumatoide
-* **Fase 3 (12 meses):** Revisão baseada em evidência atualizada, com comissão técnica independente
+* **Etapa 1 (imediata):** Manter as 7 indicações atuais, mas eliminar requisito de «último recurso»
+* **Etapa 2 (6 meses):** Adicionar PTSD, fibromialgia, doença inflamatória intestinal e artrite reumatoide
+* **Etapa 3 (12 meses):** Revisão baseada em evidência atualizada, com comissão técnica independente
 
 ## Integração com a Indústria Existente
 
