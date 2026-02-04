@@ -15,6 +15,22 @@
 | CHEGA | FIRMEMENTE CONTRA | Qualquer liberalização | Nenhum — oposição ideológica total [@cannareporter2024b] |
 | JPP | DESCONHECIDO | — | Partido sem posição pública conhecida |
 
+### Notas detalhadas sobre posições partidárias
+
+#### Partido Socialista (PS)
+
+A posição do PS sobre a regulação da cannabis é internamente diversa, com diferentes correntes e momentos que merecem registo factual:
+
+- **Legado da Lei 30/2000:** O PS foi responsável pela aprovação da lei que descriminalizou o consumo de drogas em Portugal, considerada internacionalmente como caso de sucesso em política de drogas [@greenwald2009].
+
+- **Juventude Socialista (JS):** A JS tem defendido publicamente a legalização da cannabis desde pelo menos 2019 [@publico2021js]. Em janeiro de 2024, a JS reiterou a sua posição a favor da legalização [@rr2024js]. Miguel Costa Matos, enquanto líder da JS, apelou ao PS para que aproveitasse a maioria absoluta (2022-2024) para avançar com a regulação [@publico2023ps].
+
+- **Votações parlamentares:** Vários deputados do PS votaram favoravelmente propostas de legalização da cannabis em 2019, demonstrando que existe abertura interna sobre o tema.
+
+- **Grupo de trabalho 2023:** Em setembro de 2023, Eurico Brilhante Dias, então líder do grupo parlamentar do PS, anunciou a criação de um grupo de trabalho sobre cannabis. O grupo nunca concluiu os seus trabalhos devido à crise política que conduziu a eleições antecipadas em 2024 [@publico2023ps; @ps2023cannabis].
+
+- **Cannabis medicinal:** O PS votou conjuntamente com PSD e PCP a favor da regulação da cannabis medicinal em 2018 [@publico2018b], demonstrando que existe consenso transversal nesta matéria.
+
 
 
 # ESTRATÉGIAS PARA CONSTRUIR PONTES
