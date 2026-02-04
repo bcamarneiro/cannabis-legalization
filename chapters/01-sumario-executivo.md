@@ -1,6 +1,10 @@
-# SUMÁRIO EXECUTIVO {-}
+# SUMÁRIO EXECUTIVO
 
 \newpage
+
+> **TL;DR (30 segundos):** Portugal exporta 32.500 kg de cannabis medicinal mas apenas emitiu 1.157 prescrições internas. 95% dos utilizadores compram no mercado negro (€52-151M/ano) sem controlo de qualidade. Propomos: (1) comparticipação SNS para doentes, (2) clubes sociais sem fins lucrativos + autocultivo para adultos (modelo alemão 2024), (3) programa piloto cânhamo industrial. Evidência internacional: legalização não aumentou consumo juvenil. ROI estimado: 120-753% via poupanças enforcement. **Não é modelo comercial** — é redução de danos para quem já consome.
+
+---
 
 ## O paradoxo português
 
@@ -25,7 +29,7 @@ Este documento propõe que o LIVRE assuma uma posição clara e proactiva sobre 
 * **Consenso:** Potencial de apoio transversal (PS, PAN, BE, IL) — questão de saúde pública e justiça social
 * **Urgência:** Portugal exporta 99,85% da produção enquanto doentes pagam €150/mês sem comparticipação [@cannabislaw2024export; @drug2024]
 
-### Fase 2: Cannabis Recreativa (proposta legislativa Q3-Q4 2026 → implementação 2027-2028)
+### Fase 2: Cannabis Recreativa (Q3-Q4 2026)
 
 **Modelo:** Clubes sociais sem fins lucrativos + autocultivo (framework legal alemão 2024)
 

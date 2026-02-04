@@ -32,7 +32,7 @@ A evidência sobre riscos é robusta e deve orientar a nossa proposta:
   - **Contexto:** Estes riscos são particularmente relevantes para utilizadores com **patologia cardiovascular pré-existente**, **idade >50 anos**, ou **consumo combinado com tabaco**. Para utilizadores jovens saudáveis com consumo ocasional, o risco absoluto permanece baixo, mas não é nulo
 
 ### Como a nossa proposta mitiga estes riscos
-Reconhecemos os riscos e por isso propomos medidas específicas, baseadas em modelos internacionais comprovados [@hanway2022] [@cleirec2025]:
+Reconhecemos os riscos e por isso propomos medidas específicas, baseadas em modelos internacionais comprovados [@hanway2022; @cleirec2025]:
 
 | Risco | Medida de Mitigação |
 | :---- | :---- |
@@ -55,6 +55,74 @@ O estudo EU-GEI 2019 demonstra que o risco elevado de psicose (OR 4,8) requer a 
 4. **Educação obrigatória:** Sessão admissão sobre riscos psicose, dependência, impacto cognitivo jovens
 
 **Alternativa seria idade mínima absoluta 21 anos** (sem excepções), mas framework alemão estrutura 18-20 com restrições (THC 10%) + supervisão (Oficial de Prevenção) de forma pragmática, evitando criminalização desta faixa etária (que continuaria a usar via mercado negro sem qualquer protecção).
+
+### Idade 21 vs. Desenvolvimento Cerebral até 25 — Transparência sobre Trade-offs {#idade-21-vs-25}
+
+**A questão legítima:** A neurociência demonstra que o córtex pré-frontal continua a desenvolver-se até aproximadamente 25 anos [@casey2019]. Se o objectivo é proteger o cérebro em desenvolvimento, porque estabelecer limites aos 21 e não aos 25?
+
+**Evidência científica sobre desenvolvimento cerebral e cannabis:**
+
+1. **Maturação pré-frontal:** O córtex pré-frontal — responsável por julgamento, tomada de decisão, controlo de impulsos — é uma das últimas áreas cerebrais a maturar completamente, tipicamente entre 23-26 anos [@casey2019; @bbrfoundation2023]
+
+2. **Cannabis e córtex pré-frontal:** Estudos de neuroimagem encontram associações entre uso regular de cannabis na adolescência/juventude e:
+   - Volumes reduzidos no córtex pré-frontal [@frontiers2025cannabis]
+   - Atraso na maturação cortical em início precoce (<16 anos) [@utdallas2023]
+   - Alterações funcionais em tarefas de memória de trabalho [@pmc2013adolescent]
+
+3. **Janela crítica mais precoce:** A evidência mais robusta de dano associa-se a início **antes dos 18 anos** e uso pesado/diário. Estudos como Meier et al. (2012) encontraram declínio cognitivo persistente em utilizadores com início adolescente (<18), mas não em utilizadores com início adulto [@meier2012]
+
+**Porque a política propõe 21 e não 25 — Reconhecimento honesto de trade-offs:**
+
+| Argumento científico (pró 25) | Argumento pragmático (pró 21) | Nossa posição |
+| :---- | :---- | :---- |
+| Desenvolvimento cerebral continua até ~25 | Adultos 21-25 têm autonomia legal plena (votar, casar, conduzir, álcool sem limites) | **Reconhecemos a tensão** |
+| THC pode afectar maturação pré-frontal | Proibição até 25 empurra 21-25 para mercado negro (zero protecção) | **Priorizamos redução de danos** |
+| Risco psicose maior em jovens | Limite 10% THC até 21 já é mais restritivo que álcool (sem limite de teor) | **Protecção significativa já existe** |
+| Seria "mais seguro" cientificamente | Seria politicamente inviável e paternalista (infantilizar adultos) | **Pragmatismo sobre purismo** |
+
+**A honestidade exige reconhecer:**
+
+1. **A idade 21 é parcialmente arbitrária:** Não corresponde exactamente ao fim do desenvolvimento cerebral (~25), nem à maioridade legal (18). É um compromisso pragmático adoptado por várias jurisdições (álcool nos EUA, cannabis em alguns estados).
+
+2. **O risco 21-25 não desaparece:** Utilizadores de 21-25 anos com acesso a THC elevado têm algum risco adicional vs. utilizadores >25. Este risco é **aceite** em nome da autonomia adulta — tal como aceitamos que adultos >21 consumam álcool (substância mais nociva) sem limites de teor.
+
+3. **A alternativa seria pior:** Proibir cannabis até 25 empurraria utilizadores 21-25 para mercado negro com:
+   - Zero controlo de qualidade (contaminantes, potência desconhecida)
+   - Zero monitorização de padrões de uso
+   - Zero referenciação a tratamento
+   - Exposição a criminalidade
+
+**Medidas específicas para proteger 21-25 anos (sem proibir):**
+
+Reconhecendo que o desenvolvimento cerebral não termina aos 21, propomos medidas adicionais para esta faixa etária:
+
+| Medida | Objectivo |
+| :---- | :---- |
+| **Limite 30g/mês** (em vez de 50g) para 21-24 anos | Reduzir disponibilidade vs. utilizadores >25 |
+| **Sessões educativas semestrais** (não apenas trimestral) | Reforçar mensagens sobre neurodesenvolvimento |
+| **Screening PHQ-2/GAD-2** anual obrigatório | Identificação precoce de problemas saúde mental |
+| **Informação explícita na admissão:** "O seu cérebro ainda se desenvolve até ~25 anos. THC elevado pode afectar este processo" | Consentimento verdadeiramente informado |
+| **Rotulagem específica:** Aviso adicional em produtos THC >15% sobre riscos <25 anos | Harm reduction na escolha de produtos |
+
+**Opção alternativa considerada (não adoptada): Limite THC 15% até 25 anos**
+
+Poderíamos propor THC máximo 15% (em vez de ilimitado) para utilizadores 21-25. **Razões para não adoptar:**
+
+1. **Precedente inexistente:** Nenhuma jurisdição limita THC por faixa etária além de 18/21
+2. **Enforcement impraticável:** Verificar idade em cada transacção para limite diferente seria burocrático
+3. **Mercado negro permanece atractivo:** Se 21-25 não acedem a THC >15% legalmente, compram ilegalmente
+4. **Inconsistência com álcool:** Não limitamos teor alcoólico por idade (21-25 podem beber absinto 70%)
+
+**Conclusão transparente:**
+
+A política proposta **não maximiza protecção cerebral** — maximiza *redução de danos líquidos* considerando alternativas reais (mercado negro). Utilizadores 21-25 terão acesso a THC elevado, mas num sistema com:
+- Produto testado (vs. contaminado)
+- Potência conhecida (vs. desconhecida)
+- Monitorização de padrões (vs. nenhuma)
+- Referenciação a tratamento (vs. criminalização)
+- Educação sobre riscos (vs. desinformação)
+
+Se evidência futura demonstrar danos significativos em 21-25 com modelo proposto, **revisão será necessária**. Isto requer dados do programa piloto (2029-2032) e disposição para ajustar limites baseado em evidência, não ideologia.
 
 **Nota sobre frequência de consumo:** A frequência de consumo é um preditor de risco tão ou mais importante que a potência [@autor2024]. Contudo, tal como não se limita a frequência de consumo de álcool ou tabaco, a abordagem mais praticável é limitar a quantidade disponível. Esta proposta faz-lo através dos limites mensais (30g para 18-20, 50g para 21+ nos clubes) e de plantas (3 em autocultivo) — medidas mais restritivas do que as existentes para substâncias legais com maior score de dano.
 

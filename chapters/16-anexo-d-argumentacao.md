@@ -1,6 +1,6 @@
 \newpage
 
-# ANEXO D: Guia de Argumentação {-}
+# ANEXO D: Guia de Argumentação
 
 ## Como usar este guia
 
@@ -38,7 +38,7 @@ Quando atacado, usa esta estrutura:
 
 ---
 
-## 1. Argumentos sobre Saúde Pública
+## Argumentos sobre Saúde Pública
 
 ### Ataque 3: "Estão a ignorar os cientistas que se opõem"
 
@@ -68,7 +68,7 @@ Sabe o que o mercado negro oferece? Nenhuma destas protecções. Produto de pot�
 
 * Riscos reconhecidos: psicose [@marconi2016], dependência, impacto cognitivo [@di2019]
 * Salvaguardas propostas: idade 21, limites THC 10% (18-21), financiamento prevenção
-* Evidência: Colorado consumo juvenil -42%, Alemanha -9% [@cdphe2024] [@marijuanamoment2025]
+* Evidência: Colorado consumo juvenil -42%, Alemanha -9% [@cdphe2024; @marijuanamoment2025]
 * **Princípio:** Reconhecer riscos ≠ manter proibição ineficaz
 
 ### Ataque 2: "Uma ganza é o início de uma vida de toxicodependência"
@@ -223,7 +223,7 @@ A comparticipação selectiva, combinada com acesso regulado (autocultivo/clubes
 
 **O que a evidência mostra sobre consumo juvenil após regulação:**
 
-* **Canadá:** Consumo entre 15-17 anos **desceu de 19,8% para 10,4%** após legalização (2018-2019) [@statcan2019youth; @statcan2021cannabis] — mas dados mais recentes (CCS 2024, 16-19 anos) mostram ligeiro aumento (36%→41-43%), interpretação disputada
+* **Canadá:** Consumo juvenil **não aumentou** pós-legalização segundo Statistics Canada [@statcan2019youth]. Dados contraditórios: survey NCS 2019 (15-17 anos) mostrou queda inicial; survey CCS 2024 (16-19 anos) mostra aumento de 36%→41-43%. Health Canada conclui: "não há tendência clara" — evidência mais honesta que cherry-picking de um único ano
 * **Colorado:** Consumo em adolescentes **desceu de 22% (2011) para 12,8% (2023)** — redução de 42% [@mpp2024colorado; @cdc2023yrbs] — **nota:** tendência nacional EUA similar (-38%), pelo que a causalidade exclusiva da legalização não é demonstrável
 * **Meta-análise JAMA Pediatrics:** Leis de cannabis medicinal **não aumentaram consumo juvenil** nos EUA [@sarvet2018jama]
 * **Coley et al. (2024, Boston College):** Estudo longitudinal 2011-2021 encontrou **associações limitadas** entre legalização recreativa e consumo juvenil [@coley2024]
@@ -238,14 +238,14 @@ A comparticipação selectiva, combinada com acesso regulado (autocultivo/clubes
 * Doentes pagam €150/mês sem comparticipação [@drug2024]
 * Apenas 1.157 prescrições em 2023 vs. 32.558 kg exportados [@infarmed2024prescricoes; @eco2024cannabis]
 * Clubes sociais (modelo alemão): sem fins lucrativos, 200m escolas, oficial prevenção, THC limitado [@bundesgesundheit2024cannabis]
-* Canadá: dados iniciais (NCS, 15-17 anos) mostraram queda de 19,8% para 10,4%, mas dados mais recentes (CCS, 16-19 anos) mostram aumento de 36% para 41-43% (2018-2024) — interpretação disputada [@statcan2019youth]
+* Canadá: Statistics Canada conclui "consumo juvenil não aumentou" pós-legalização; dados variam por survey/metodologia — interpretação honesta evita cherry-picking [@statcan2019youth]
 * Colorado: consumo adolescente **↓ 42%** (22%→12,8%) pós-legalização [@mpp2024colorado; @cdphe2024monitoring]
 * Meta-análise: leis cannabis medicinal não aumentaram uso juvenil [@sarvet2018jama]
 * **Princípio:** Medicinal e recreativo são objectivos distintos com mecanismos diferentes — misturá-los é desinformação
 
 ---
 
-## 2. Argumentos sobre Segurança e Criminalidade
+## Argumentos sobre Segurança e Criminalidade
 
 ### "O autocultivo não pode ser controlado"
 
@@ -386,7 +386,7 @@ A Alemanha implementa fiscalização através de documentação obrigatória (§
 
 ---
 
-## 3. Argumentos Morais e Ideológicos
+## Argumentos Morais e Ideológicos
 
 ### Ataque 1: "O LIVRE quer drogar a juventude portuguesa"
 
@@ -431,7 +431,7 @@ Nós não somos o partido da droga. Somos o partido que lê os dados e age em co
 
 **Dados de suporte:**
 
-* Descriminalização 2001: mortes overdose 369→80, HIV -98% [@bessergrowen2025] [@manthey2024]
+* Descriminalização 2001: mortes overdose 369→80, HIV -98% [@bessergrowen2025; @manthey2024]
 * Cato Institute (conservador): "sucesso retumbante" [@greenwald2009]
 * Consumo PT estável pós-2001, abaixo média EU (8,2% vs 8,3% último ano) — correlação não prova causalidade, mas refuta previsões catastrofistas [@springer2021pt]
 * 25 anos de evidência vs. rótulos ideológicos
@@ -469,7 +469,7 @@ A 'normalização' que preocupa não acontece. O que acontece é transferir o me
 
 ---
 
-## 4. Argumentos Legais e de Governança
+## Argumentos Legais e de Governança
 
 ### "Viola tratados internacionais"
 
