@@ -122,7 +122,7 @@ Alemanha desenhou o CanG 2024 como **sistema two-pillar**:
 **4. Timeline realista mudança política UE**
 
 **Cenário optimista (5-7 anos):**
-* 2026-2028: Portugal + 3-4 estados progressistas implementam pilotos clubes não-comerciais
+* 2026-2028: Portugal + 3-4 estados progressistas implementam modelos de clubes não-comerciais a nível nacional
 * 2028-2030: Dados robustos mostram modelos funcionam (sem aumento consumo juvenil, captura mercado negro)
 * 2029-2031: Pressão coordenada na Comissão + Parlamento Europeu para reinterpretar Schengen
 * 2032-2034: Approval venda comercial harmonizada (standards comuns UE)
@@ -162,7 +162,7 @@ Alemanha desenhou o CanG 2024 como **sistema two-pillar**:
 
 **Quando questionados sobre venda comercial futura:**
 
-*"Portugal segue modelo alemão two-pillar. **Fase 1 — clubes sociais não-comerciais** — é nossa prioridade e é viável agora. **Fase 2 — possível venda comercial regulada** — depende de três condições: (1) dados piloto 2028-2030 mostrarem eficácia, (2) coordenação europeia resolver conflitos lei UE/Schengen, (3) renovação aprovação parlamentar. **Fase comercial pode nunca acontecer** se obstáculos legais UE persistirem. Mas mesmo sem Fase 2, clubes standalone já atingem objectivos principais: proteger quem consome, reduzir mercado negro, acabar criminalização utilizadores ocasionais. Não prometemos o que não controlamos — prometemos trabalhar diplomaticamente para mudança europeia, mas viabilidade Fase 1 não depende disso."*
+*"Portugal segue modelo alemão two-pillar. **Fase 1 — clubes sociais não-comerciais** — é nossa prioridade e é viável agora. **Fase 2 — possível venda comercial regulada** — depende de três condições: (1) dados do modelo de clubes 2029-2032 mostrarem eficácia, (2) coordenação europeia resolver conflitos lei UE/Schengen, (3) renovação aprovação parlamentar. **Fase comercial pode nunca acontecer** se obstáculos legais UE persistirem. Mas mesmo sem Fase 2, clubes standalone já atingem objectivos principais: proteger quem consome, reduzir mercado negro, acabar criminalização utilizadores ocasionais. Não prometemos o que não controlamos — prometemos trabalhar diplomaticamente para mudança europeia, mas viabilidade Fase 1 não depende disso."*
 
 **Mensagem-chave:** **Honestidade > promessas inflacionadas.** Modelo clubes funciona standalone, venda comercial é bonus condicional.
 

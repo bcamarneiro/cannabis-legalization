@@ -68,11 +68,11 @@ A proposta segue uma lógica pragmática: **começar pelo que reúne consenso** 
 | Abr-Jun 2026 | Propostas cânhamo + revisão medicinal (consenso transversal) | **Fase 1** |
 | **Q3-Q4 2026** | **Aprovação cânhamo + medicinal** | **Fase 1** |
 | Q4 2026 - Q1 2027 | Programa piloto cânhamo (3-5 regiões); medicinal operacional | **Fase 1** |
-| **Q1-Q2 2027** | **Proposta legislativa regime experimental recreativo** | **Fase 2** |
+| **Q1-Q2 2027** | **Proposta legislativa regime de clubes sociais** | **Fase 2** |
 | Q2-Q4 2027 | Debate parlamentar, comissões, emendas | **Fase 2** |
 | **Q1-Q2 2028** | **Aprovação parlamentar recreativo** | **Fase 2** |
 | Q3-Q4 2028 | Regulamentação secundária (SICAD/INFARMED) | **Fase 2** |
-| **Q1-Q2 2029** | **Programa piloto 2-3 clubes** (Lisboa, Porto) | **Fase 2** |
+| **Q1-Q2 2029** | **Licenciamento nacional clubes sociais** — abertura a qualquer município | **Fase 2** |
 
 ### Cenário Realista (Fase 1: 9-12 meses; Fase 2: 24-36 meses) — Probabilidade: 40-50%
 
@@ -83,10 +83,10 @@ A proposta segue uma lógica pragmática: **começar pelo que reúne consenso** 
 | 2026 | Propostas cânhamo + revisão medicinal + debate inicial recreativo | **Fase 1** |
 | Q3-Q4 2026 | Aprovação cânhamo + medicinal; piloto cânhamo inicia | **Fase 1** |
 | 2027 | Proposta recreativa + negociações prolongadas, consultas públicas | **Fase 2** |
-| **2028** | **Aprovação parlamentar recreativo** (regime experimental) | **Fase 2** |
+| **2028** | **Aprovação parlamentar regime de clubes sociais** | **Fase 2** |
 | 2028-2029 | Regulamentação secundária (12-18 meses) | **Fase 2** |
-| **2029** | **Programa piloto recreativo operacional** | **Fase 2** |
-| 2030-2032 | Avaliação + expansão gradual | **Fase 2** |
+| **2029** | **Licenciamento nacional clubes recreativos operacional** | **Fase 2** |
+| 2030-2032 | Avaliação modelo clubes + decisão sobre expansão comercial baseada em dados | **Fase 2** |
 
 ### Cenário Conservador (48-60+ meses) — Probabilidade: 20-30%
 
@@ -99,7 +99,7 @@ A proposta segue uma lógica pragmática: **começar pelo que reúne consenso** 
 | 2028 | Eleições legislativas; nova configuração política | — |
 | 2029-2030 | Reformulação proposta recreativa; novo ciclo negocial | **Fase 2** |
 | **2030-2031** | **Eventual aprovação recreativa** (se contexto favorável) | **Fase 2** |
-| 2031-2032 | Regulamentação + piloto recreativo | **Fase 2** |
+| 2031-2032 | Regulamentação + licenciamento nacional clubes recreativos | **Fase 2** |
 
 **Nota importante:** Mesmo no cenário conservador, a **Fase 1 avança e produz resultados** (cânhamo em produção, doentes com acesso medicinal). O bloqueio do recreativo não invalida os ganhos da Fase 1.
 
@@ -124,10 +124,10 @@ A proposta segue uma lógica pragmática: **começar pelo que reúne consenso** 
 | :---- | :---- | :---- |
 | **Q1-Q2 2027** | **Proposta legislativa cannabis recreativa** (coordenada com BE/PAN/IL) — apresentada com resultados iniciais Fase 1 | Se sem apoio: consolidar ganhos Fase 1, reagendar |
 | **2027-2028** | **Negociações parlamentares, consultas públicas, emendas** | Preparar versões alternativas (mais/menos restritivas) |
-| **Q2-Q4 2028** | **Aprovação parlamentar regime experimental recreativo** | Se prolongado: solicitar comissão técnica independente |
+| **Q2-Q4 2028** | **Aprovação parlamentar regime de clubes sociais** | Se prolongado: solicitar comissão técnica independente |
 | **2028-2029** | **Regulamentação secundária** (SICAD, INFARMED, IVV) — 12-18 meses | Antecipar trabalho técnico durante debate parlamentar |
-| **Q3-Q4 2029** | **Programa piloto cannabis recreativa** — 2-3 clubes (Lisboa, Porto) | Se atrasos: iniciar apenas com autocultivo |
-| **2030-2032** | **Avaliação de impactos + expansão gradual baseada em dados** | Relatórios públicos anuais |
+| **Q3-Q4 2029** | **Licenciamento nacional clubes sociais cannabis recreativa** — abertura a qualquer município | Se atrasos: iniciar apenas com autocultivo |
+| **2030-2032** | **Avaliação do modelo de clubes + decisão sobre expansão comercial baseada em dados** | Relatórios públicos anuais |
 
 ## Bottlenecks Identificados e Contingências {#bottlenecks}
 
@@ -176,7 +176,7 @@ A proposta segue uma lógica pragmática: **começar pelo que reúne consenso** 
 
 **Lição da eutanásia:** A legislação sobre eutanásia demorou ~5 anos (2018-2023) devido a vetos presidenciais e do TC. Cannabis recreativa, embora menos divisiva moralmente, enfrenta resistência diferente (segurança pública, tratados internacionais).
 
-**Expectativa calibrada:** A Fase 1 pode ser aprovada já em **2026**. Para a Fase 2, o cenário mais provável é aprovação em **2028** com piloto em **2029** — uma timeline de 24-36 meses. Apresentar 12-18 meses para o recreativo como expectativa primária seria irrealista e prejudicaria credibilidade da proposta.
+**Expectativa calibrada:** A Fase 1 pode ser aprovada já em **2026**. Para a Fase 2, o cenário mais provável é aprovação em **2028** com clubes operacionais em **2029** — uma timeline de 24-36 meses. Apresentar 12-18 meses para o recreativo como expectativa primária seria irrealista e prejudicaria credibilidade da proposta.
 
 **Vantagem da abordagem faseada:** Mesmo que a Fase 2 sofra atrasos ou bloqueios, os ganhos da Fase 1 são permanentes — doentes com acesso medicinal, cânhamo em produção, credibilidade regulatória construída. A estratégia nunca resulta em "zero" — no pior cenário, Portugal avança em duas frentes de consenso.
 

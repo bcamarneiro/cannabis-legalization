@@ -83,8 +83,8 @@ Este documento propõe que o LIVRE assuma uma posição clara e proactiva sobre 
 | **Q3-Q4 2026** | Aprovação cânhamo + medicinal (consenso amplo esperado: PS/PAN/BE/IL/PCP) | **Fase 1** |
 | **Q4 2026 - Q1 2027** | Programa piloto cânhamo — 3-5 regiões (ISA/UTAD, incentivos PAC) | **Fase 1** |
 | **Q1-Q2 2027** | Proposta legislativa cannabis recreativa (coordenada BE/PAN/IL) — após resultados Fase 1 | **Fase 2** |
-| **Q2-Q4 2028** | Aprovação parlamentar regime experimental recreativo (12-18 meses pós-proposta) | **Fase 2** |
-| **Q3-Q4 2029** | Programa piloto cannabis recreativa — 2-3 clubes sociais (Lisboa, Porto) | **Fase 2** |
+| **Q2-Q4 2028** | Aprovação parlamentar regime de clubes sociais (12-18 meses pós-proposta) | **Fase 2** |
+| **Q3-Q4 2029** | Licenciamento nacional de clubes sociais — abertura a qualquer município | **Fase 2** |
 | **2030-2032** | Avaliação impactos + expansão gradual baseada em dados | **Fase 2** |
 
 ## Evolução futura condicional: Coordenação europeia e modelo two-pillar
@@ -93,7 +93,7 @@ Este documento propõe que o LIVRE assuma uma posição clara e proactiva sobre 
 
 * **Pilar 1: Clubes sociais não-comerciais + autocultivo** — implementação 2029-2032, avaliação rigorosa dados
 * **Pilar 2: Possível transição para venda comercial regulada** — **condicional a três factores críticos:**
-  1. **Dados positivos piloto:** Evidência 2028-2030 mostrando captura significativa do mercado ilegal, sem aumento do consumo juvenil, redução da criminalização
+  1. **Dados positivos do modelo de clubes:** Evidência 2029-2032 mostrando captura significativa do mercado ilegal, sem aumento do consumo juvenil, redução da criminalização
   2. **Coordenação europeia:** Resolução conflitos lei UE/Schengen (venda comercial cannabis actualmente bloqueada pela Comissão Europeia)
   3. **Renovação aprovação parlamentar:** Nova votação pós-avaliação, não automatismo
 

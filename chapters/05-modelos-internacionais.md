@@ -115,11 +115,11 @@ Portugal pode evitar as dificuldades alemãs através de medidas específicas:
 
 | Problema Alemanha | Solução proposta Portugal |
 | :---- | :---- |
-| **Zero subsídio estatal** | Programa piloto com **subsídio €50-100k por clube** (investimento saúde pública, não despesa) |
+| **Zero subsídio estatal** | **Subsídio €50-100k por clube** (investimento saúde pública, não despesa) |
 | **Regulação descentralizada** | **SICAD centralizado** — regras uniformes nacionais, sem poder de veto municipal arbitrário |
 | **Bloqueio político regional** | Framework **nacional** que impede câmaras de bloquear arbitrariamente (prerrogativa central vs. autonomia local) |
 | **Custos indoor elevados** | Clima mediterrânico: outdoor/greenhouse viável 8-10 meses/ano no Sul; indoor permitido com **contrato energia 100% renovável obrigatório**; custos energéticos ~40-60% menores (€0,20-0,25/kWh) |
-| **791 candidaturas de uma vez** | **Programa piloto 2-3 clubes** (2027-2028) → avaliar → expandir gradualmente baseado em dados |
+| **791 candidaturas de uma vez** | **Licenciamento nacional faseado** (2027+) com critérios rigorosos — modelo de clubes como fase de avaliação (2-3 anos) antes de decisão sobre venda comercial |
 | **25 anos criminalização total** | Portugal: **25 anos de descriminalização** = comunidade cannabis mais madura, menos estigma, associações já existentes |
 
 **Cenário realista para Portugal — Análise de sensibilidade:**
@@ -147,7 +147,7 @@ Mesmo assumindo dificuldades semelhantes às alemãs, o modelo continua viável:
 | Custos energia | €0,30-0,40/kWh | €0,20-0,25/kWh |
 | Regulação | 16 Länder, interpretações diversas | SICAD centralizado, regras uniformes |
 | Cultura cannabis | Criminalização total até 2024 | 25 anos descriminalização |
-| Abordagem | 791 candidaturas simultâneas | Piloto 2-3 clubes → expansão gradual |
+| Abordagem | 791 candidaturas simultâneas | Licenciamento nacional com critérios rigorosos desde dia 1 |
 | Indústria existente | Limitada | 37 empresas cannabis medicinal (infraestrutura, know-how) |
 
 **Conclusão:** A "taxa de 47% de falha" alemã reflecte dores de crescimento normais de um sistema com <12 meses de operação, sem apoio estatal, com obstrução política activa (Baviera), e sem programa piloto. Portugal propõe corrigir cada uma destas lacunas. A avaliação definitiva do modelo alemão só será possível após 2-3 anos de operação estabilizada.

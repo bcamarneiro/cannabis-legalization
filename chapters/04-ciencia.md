@@ -122,7 +122,7 @@ A política proposta **não maximiza protecção cerebral** — maximiza *reduç
 - Referenciação a tratamento (vs. criminalização)
 - Educação sobre riscos (vs. desinformação)
 
-Se evidência futura demonstrar danos significativos em 21-25 com modelo proposto, **revisão será necessária**. Isto requer dados do programa piloto (2029-2032) e disposição para ajustar limites baseado em evidência, não ideologia.
+Se evidência futura demonstrar danos significativos em 21-25 com modelo proposto, **revisão será necessária**. Isto requer dados do modelo de clubes (2029-2032) e disposição para ajustar limites baseado em evidência, não ideologia.
 
 **Nota sobre frequência de consumo:** A frequência de consumo é um preditor de risco tão ou mais importante que a potência [@autor2024]. Contudo, tal como não se limita a frequência de consumo de álcool ou tabaco, a abordagem mais praticável é limitar a quantidade disponível. Esta proposta faz-lo através dos limites mensais (30g para 18-20, 50g para 21+ nos clubes) e de plantas (3 em autocultivo) — medidas mais restritivas do que as existentes para substâncias legais com maior score de dano.
 
@@ -134,7 +134,7 @@ Se evidência futura demonstrar danos significativos em 21-25 com modelo propost
 * Formação de profissionais de saúde
 * Fiscalização dos clubes e controlo de qualidade
 
-**Fonte de financiamento:** Transição gradual — **€10-15M/ano inicial via Orçamento de Estado** (Anos 1-2 programa piloto), evoluindo para **€20-40M/ano** (Anos 3-10) à medida que poupanças enforcement se concretizam ([ver faseamento detalhado](#financiamento)). Modelo **não depende de execução perfeita** — se clubes falharem, enforcement mantém-se e Estado continua a gastar como actualmente.
+**Fonte de financiamento:** Transição gradual — **€10-15M/ano inicial via Orçamento de Estado** (Anos 1-2 implementação), evoluindo para **€20-40M/ano** (Anos 3-10) à medida que poupanças enforcement se concretizam ([ver faseamento detalhado](#financiamento)). Modelo **não depende de execução perfeita** — se clubes falharem, enforcement mantém-se e Estado continua a gastar como actualmente.
 
 **Nota sobre dados fiscais internacionais:**
 
@@ -250,6 +250,6 @@ Todos os produtos cannabis (clubes sociais, autocultivo com sementes certificada
 #### Formação e Implementação
 
 * **Programa formação:** GNR/PSP — reconhecimento sinais incapacidade cannabis (olhos vermelhos, coordenação, tempo reacção)
-* **Aquisição testes:** Antes de programa piloto clubes (Q3 2027) — evitar enforcement gap alemão
+* **Aquisição testes:** Antes de abertura dos primeiros clubes licenciados (Q3 2027) — evitar enforcement gap alemão
 * **Campanha sensibilização:** "Cannabis não combina com condução" — lançamento simultâneo com abertura clubes
 * **Avaliação contínua:** Monitorização acidentes THC-positivos (ANSR) — ajustes baseados em dados 2028-2030

@@ -62,7 +62,7 @@ Para evitar replicar os problemas de Amsterdam/Barcelona, Portugal implementaria
 
 * **Amsterdam:** Nunca implementou residency requirement devido a lobby turístico; resultado: 165 coffee shops ainda operacionais para turistas, pressão insustentável
 * **Barcelona:** Implementou requisito residência apenas 2023-2024 (tarde demais); centenas de clubes já operavam ilegalmente para turistas; encerramento em massa criou vazio regulatório
-* **Portugal:** Implementaria residency requirement desde o início (programa piloto 2027), prevenindo problemas antes de emergirem
+* **Portugal:** Implementaria residency requirement desde o início (licenciamento 2029), prevenindo problemas antes de emergirem
 
 **Nota sobre enforcement:**
 
@@ -132,7 +132,7 @@ Cada clube deve:
   - Publicação trimestral do custo de produção por grama (detalhando cultivo, salários, infraestrutura, testes, impostos)
   - Afixação visível dos preços praticados nas instalações e plataforma digital do clube
   - Justificação documentada de variações superiores a 20% face ao preço de referência
-* **Preço de referência indicativo:** SICAD publica anualmente um preço de referência (não vinculativo) baseado nos custos médios dos clubes piloto — serve como benchmark, não como limite legal
+* **Preço de referência indicativo:** SICAD publica anualmente um preço de referência (não vinculativo) baseado nos custos médios dos clubes licenciados — serve como benchmark, não como limite legal
 * **Objectivo:** Manter competitividade com mercado negro (~€5-8/g) sem impor rigidez que comprometa viabilidade de clubes com custos operacionais mais elevados
 * **Fiscalização:** Auditoria trimestral de preços vs. custos declarados — desvios significativos sem justificação desencadeiam inspecção aprofundada
 
@@ -411,12 +411,12 @@ Para mitigar o risco de "pagar antes de ver", propõe-se modelo em 3 fases:
 **Justificação política:**
 
 * **Investimento saúde pública, não "subsidiar drogas":** Clubes são mecanismo de harm reduction — produto testado, monitorização, referenciação tratamento
-* **Comparação:** Portugal gasta €45-90M/ano em enforcement cannabis. Subsídio piloto 3 clubes = €150-300k = **0,3-0,7% de um ano de enforcement**
+* **Comparação:** Portugal gasta €45-90M/ano em enforcement cannabis. Custos de licenciamento e supervisão são proporcionais ao número de clubes — subsídio de €50-100k por clube representa uma fracção mínima do gasto anual em enforcement
 * **Contrapartida:** Dados detalhados para avaliação (tracking anonimizado, relatórios SICAD, auditorias)
 
 **Mecanismo proposto:**
 
-* **Entidade gestora:** SICAD (via programa experimental aprovado por AR)
+* **Entidade gestora:** SICAD (via regime de clubes sociais aprovado por AR)
 * **Elegibilidade:** Clubes com licença aprovada + plano negócios validado
 * **Desembolso:** 50% na aprovação, 50% após 6 meses (condicionado a milestones)
 * **Reembolso:** Não obrigatório se clube cumprir objectivos saúde pública
@@ -507,7 +507,7 @@ Artigo XX — Acesso a Serviços Financeiros
 
 | Fonte | Valor | % Total | Condições |
 | :---- | :---- | :---- | :---- |
-| Subsídio estatal | €75.000 | 37% | Programa piloto aprovado |
+| Subsídio estatal | €75.000 | 37% | Regime de clubes aprovado por AR |
 | Quotas fundadores | €70.000 | 35% | 200 fundadores × €350 média |
 | Crédito cooperativo (CGD/CA) | €40.000 | 20% | Legislação safe harbor |
 | Crowdfunding (PPL) | €15.000 | 8% | Campanha comunidade |
@@ -549,7 +549,7 @@ Portugal não tem o conflito federal/estadual dos EUA, o que reduz o risco. Cont
 **Propostas de mitigação:**
 
 1. **Orientação regulatória explícita:** Banco de Portugal emitir circular clarificando que **clubes sociais de cannabis licenciados pelo Estado são clientes legítimos**, eliminando ambiguidade regulatória para bancos comerciais
-2. **Canal preferencial público:** CGD e Crédito Agrícola como parceiros institucionais do programa piloto (coordenação Ministério Finanças)
+2. **Canal preferencial público:** CGD e Crédito Agrícola como parceiros institucionais do programa de clubes (coordenação Ministério Finanças)
 3. **Cooperativas financeiras:** Explorar criação de cooperativa de crédito especializada (modelo norte-americano *credit unions* cannabis) se bancos comerciais recusarem serviço
 4. **Pagamentos digitais:** Clubes devem operar preferencialmente por transferência bancária/MBWay (não cash), garantindo transparência financeira e facilitando auditorias
 

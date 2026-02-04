@@ -530,13 +530,13 @@ Propomos incluir um mecanismo de avaliação independente, como a Alemanha fez. 
 
 **Resposta curta (30s):**
 
-"Concordo completamente. Por isso propomos **€20-40 milhões/ano** dedicados a prevenção e tratamento, via transição gradual ([ver faseamento](#financiamento)): inicial €10-15M via Orçamento de Estado (programa piloto), depois €20-40M via poupanças enforcement à medida que clubes demonstram eficácia. A pergunta é: de onde vem esse dinheiro? Com a proibição, vem do OE — sempre insuficiente. Com regulação bem-sucedida, vem das poupanças em enforcement."
+"Concordo completamente. Por isso propomos **€20-40 milhões/ano** dedicados a prevenção e tratamento, via transição gradual ([ver faseamento](#financiamento)): inicial €10-15M via Orçamento de Estado (fase inicial licenciamento), depois €20-40M via poupanças enforcement à medida que clubes demonstram eficácia a nível nacional. A pergunta é: de onde vem esse dinheiro? Com a proibição, vem do OE — sempre insuficiente. Com regulação bem-sucedida, vem das poupanças em enforcement."
 
 **Resposta desenvolvida (2min):**
 
 "Estamos de acordo na importância da prevenção. A questão é como financiá-la de forma sustentável. Actualmente, a prevenção e o tratamento competem com hospitais, escolas e pensões pelo Orçamento de Estado. E historicamente, os serviços de saúde mental e tratamento de dependências são sempre os primeiros a sofrer cortes.
 
-A nossa proposta oferece uma solução: **€20-40 milhões/ano** para prevenção, tratamento e investigação via modelo faseado ([ver detalhes](#financiamento)). Começa com €10-15M/ano via Orçamento de Estado (programa piloto Anos 1-2), transita para €20-40M/ano (Anos 3-10) à medida que poupanças enforcement se concretizam. **Crítico:** Se clubes falharem, enforcement mantém-se — Estado não "perde" dinheiro, continua a gastar como actualmente. Investimento inicial é experimental e reversível.
+A nossa proposta oferece uma solução: **€20-40 milhões/ano** para prevenção, tratamento e investigação via modelo faseado ([ver detalhes](#financiamento)). Começa com €10-15M/ano via Orçamento de Estado (fase inicial de licenciamento nacional, Anos 1-2), transita para €20-40M/ano (Anos 3-10) à medida que poupanças enforcement se concretizam com o rollout nacional de clubes. **Crítico:** Se clubes falharem, enforcement mantém-se — Estado não "perde" dinheiro, continua a gastar como actualmente. Investimento inicial é experimental e reversível.
 
 Propomos afetar estes fundos a:
 * Reforço do SICAD (tratamento de dependências)

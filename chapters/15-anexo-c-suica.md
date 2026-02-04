@@ -173,7 +173,7 @@ Em **Agosto 2025**, governo suíço abriu **consulta pública sobre Lei de Produ
 | **Preço** | CHF 8-12/g (€8,50-12,50) | €3-6/g (cost-recovery clubes) |
 | **Tributação** | IVA 7,7% apenas (pilotos), imposto específico proposto Lei 2026 | Sem impostos específicos cannabis Fase 1; IVA 23% obrigatório sobre quotas (clubes cost-recovery) |
 | **Coordenação federal** | OFSP supervisão centralizada, uniformidade standards | SICAD supervisão, INFARMED licensing |
-| **Duração avaliação** | 3-5 anos por piloto | 2 anos piloto → 3 anos avaliação (2027-2030) |
+| **Duração avaliação** | 3-5 anos por piloto | Modelo clubes = fase avaliação (2-3 anos, 2027-2030) antes de decisão comercial |
 | **Leakage mercado ilegal** | Zero detectado (~90% captura participantes) | Expectativa 30-45% captura nacional (modelo clubes — ver análise gap mercado) |
 
 ## Lições Aprendidas: O Que Portugal Pode Importar do Modelo Suíço
@@ -204,7 +204,7 @@ Comparar outcomes 2028-2030 informa expansão/refinement.
 
 **Suíça:** CHF 8-12/g (~€8,50-12,50) consegue >90% captura participantes registados porque **marginalmente abaixo mercado negro** CHF 10-15/g.
 
-**Portugal:** Mercado negro €10-15/g, proposta clubes €3-8/g (cost-recovery, sem tecto rígido). **Vantagem competitiva enorme** — mas risk: se custos compliance aumentam (labs, pessoal, facilities), preços devem poder ajustar-se. **Lição:** Monitorizar custos reais pilotos, garantir transparência de preços e custos de produção. Preço de referência indicativo (não vinculativo) publicado por SICAD permite acompanhamento sem rigidez que comprometa viabilidade. Até €8-9/g ainda competitivo face ao mercado negro.
+**Portugal:** Mercado negro €10-15/g, proposta clubes €3-8/g (cost-recovery, sem tecto rígido). **Vantagem competitiva enorme** — mas risk: se custos compliance aumentam (labs, pessoal, facilities), preços devem poder ajustar-se. **Lição:** Monitorizar custos reais dos clubes licenciados, garantir transparência de preços e custos de produção. Preço de referência indicativo (não vinculativo) publicado por SICAD permite acompanhamento sem rigidez que comprometa viabilidade. Até €8-9/g ainda competitivo face ao mercado negro.
 
 ### 4. Zero Leakage É Possível Mas Requer Enforcement Inteligente
 
@@ -233,7 +233,7 @@ Comparar outcomes 2028-2030 informa expansão/refinement.
 
 **Suíça:** Pilotos iniciados 2023, Lei Federal proposta apenas 2025-2026 (2-3 anos após). **Mensagem política:** "Não legalizamos cegamente, testamos primeiro."
 
-**Portugal:** Proposta já prevê 2027-2030 avaliação antes decisão Fase 2 comercial. **Importante:** Comunicar claramente que **Fase 1 clubes NÃO é legalização definitiva**, é piloto rigoroso. Decisão final 2030+ baseada dados. Isto reduz ansiedade conservadores ("podemos reverter se falhar") e aumenta credibilidade científica.
+**Portugal:** Proposta já prevê 2027-2030 como período de avaliação antes de decisão sobre Fase 2 comercial. **Importante:** Comunicar claramente que o **modelo de clubes é a própria fase de avaliação** — licenciamento nacional desde o dia 1, mas com monitorização rigorosa durante 2-3 anos antes de qualquer decisão sobre venda comercial. Decisão final 2030+ baseada em dados. Isto reduz ansiedade conservadores ("podemos reverter se falhar") e aumenta credibilidade científica.
 
 ## Obstáculos Suíços vs Obstáculos Portugueses
 
