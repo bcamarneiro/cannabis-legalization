@@ -68,7 +68,7 @@ Os pilares descrevem a substância de cada proposta. As fases descrevem a sequê
 
 Evidência internacional sobre impacto:
 
-- Colorado (2014, 10+ anos dados): consumo juvenil -42% (nota: tendência nacional similar -38%, ver Secção 3.5)
+- Colorado (2014, 10+ anos dados): consumo juvenil -42% (nota: tendência nacional similar -38%, ver secção [*Impacto no consumo juvenil*](#3.5-impacto-no-consumo-juvenil))
 - Canadá (2018, 6 anos dados): consumo juvenil (15-17 anos) não aumentou pós-legalização [@statcan2019youth]; dados mais recentes (CCS, 16-19 anos) mostram ligeiro aumento de 36% para 41-43% entre 2018-2024 — interpretação disputada
 - Alemanha (2024, framework legislativo): 357 clubes aprovados (Nov 2025), dados eficácia insuficientes (<1 ano)
 
@@ -90,7 +90,7 @@ Evidência internacional sobre impacto:
 
 **4. Horizonte condicional, não promessa:** A Fase 3 (venda comercial) é deliberadamente apresentada como horizonte. Depende de factores externos (dados, coordenação UE) e pode nunca acontecer. Esta honestidade reforça credibilidade — não prometemos o que não controlamos.
 
-**5. Aproveitar momentum:** O framework legal alemão de clubes sociais (2024) oferece modelo recente de regulação sem comercialização [@bundesgesundheit2024cannabis]. Evidência de Colorado (10+ anos) e Canadá (6 anos) mostra que a legalização **não provocou o aumento de consumo juvenil que opositores previam** [@statcan2019youth; @mpp2024colorado; @coley2024]. Contudo, os declínios observados reflectem também tendências nacionais pré-existentes (ver Secção 3.5), pelo que não se pode atribuir causalidade exclusiva à regulação.
+**5. Aproveitar momentum:** O framework legal alemão de clubes sociais (2024) oferece modelo recente de regulação sem comercialização [@bundesgesundheit2024cannabis]. Evidência de Colorado (10+ anos) e Canadá (6 anos) mostra que a legalização **não provocou o aumento de consumo juvenil que opositores previam** [@statcan2019youth; @mpp2024colorado; @coley2024]. Contudo, os declínios observados reflectem também tendências nacionais pré-existentes (ver secção [*Impacto no consumo juvenil*](#3.5-impacto-no-consumo-juvenil)), pelo que não se pode atribuir causalidade exclusiva à regulação.
 
 **Os objectivos são complementares, não conflituantes** — mas a sequência estratégica (consenso primeiro, controverso depois, comercial só se dados positivos) maximiza probabilidade de sucesso político.
 

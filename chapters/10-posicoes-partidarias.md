@@ -78,7 +78,7 @@ Alemanha desenhou o CanG 2024 como **sistema two-pillar**:
 | **Viabilidade standalone** | Pillar 1 visto como "temporário" | **Pillar 1 atinge objectivos principais** (harm reduction, captura estimada 30-45% mercado — sujeita a validação) |
 | **Risco político** | Reversão CDU 2025 matou Pillar 2 | **Implementação completa Pillar 1 minimiza risco** reversão |
 
-**Vantagem estratégica Portugal:** Não comprometer credibilidade política com promessas dependentes de factores externos (mudança lei UE). Clubes standalone (Fase 2) já entregam ROI 120-753%, captura estimada 30-50% mercado (ver caveats Secção 6.2), sem evidência de aumento do consumo juvenil nas jurisdições comparáveis.
+**Vantagem estratégica Portugal:** Não comprometer credibilidade política com promessas dependentes de factores externos (mudança lei UE). Clubes standalone (Fase 2) já entregam ROI 120-753%, captura estimada 30-50% mercado (ver [análise *gap de mercado*](#gap-mercado)), sem evidência de aumento do consumo juvenil nas jurisdições comparáveis.
 
 ### Estratégia Multilateral: Trabalhar para Mudança Política Europeia
 
@@ -147,7 +147,7 @@ Alemanha desenhou o CanG 2024 como **sistema two-pillar**:
 **Benefícios Fase 2 standalone (sem venda comercial):**
 * Captura estimada 30-45% mercado ilegal (Uruguai misto atingiu ~37% em 10 anos; PT com autocultivo adicional — ver análise gap mercado)
 * ROI 120-753% via poupanças enforcement (não receitas fiscais)
-* Sem evidência de aumento do consumo juvenil (Colorado -42%, mas tendência nacional similar -38%; Canadá — dados disputados, ver Secção 3.5)
+* Sem evidência de aumento do consumo juvenil (Colorado -42%, mas tendência nacional similar -38%; Canadá — dados disputados, ver secção [*Impacto no consumo juvenil*](#3.5-impacto-no-consumo-juvenil))
 * Produtos testados vs. mercado negro contaminado (94% pesticidas)
 * Redução criminalização (75% processos CDT envolvem cannabis)
 
