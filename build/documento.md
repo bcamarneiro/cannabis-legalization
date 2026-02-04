@@ -80,7 +80,7 @@ Os pilares descrevem a substância de cada proposta. As fases descrevem a sequê
 
 Evidência internacional sobre impacto:
 
-- Colorado (2014, 10+ anos dados): consumo juvenil -42% (nota: tendência nacional similar -38%, ver Secção 3.5)
+- Colorado (2014, 10+ anos dados): consumo juvenil -42% (nota: tendência nacional similar -38%, ver secção [*Impacto no consumo juvenil*](#3.5-impacto-no-consumo-juvenil))
 - Canadá (2018, 6 anos dados): consumo juvenil (15-17 anos) não aumentou pós-legalização [@statcan2019youth]; dados mais recentes (CCS, 16-19 anos) mostram ligeiro aumento de 36% para 41-43% entre 2018-2024 — interpretação disputada
 - Alemanha (2024, framework legislativo): 357 clubes aprovados (Nov 2025), dados eficácia insuficientes (<1 ano)
 
@@ -102,7 +102,7 @@ Evidência internacional sobre impacto:
 
 **4. Horizonte condicional, não promessa:** A Fase 3 (venda comercial) é deliberadamente apresentada como horizonte. Depende de factores externos (dados, coordenação UE) e pode nunca acontecer. Esta honestidade reforça credibilidade — não prometemos o que não controlamos.
 
-**5. Aproveitar momentum:** O framework legal alemão de clubes sociais (2024) oferece modelo recente de regulação sem comercialização [@bundesgesundheit2024cannabis]. Evidência de Colorado (10+ anos) e Canadá (6 anos) mostra que a legalização **não provocou o aumento de consumo juvenil que opositores previam** [@statcan2019youth; @mpp2024colorado; @coley2024]. Contudo, os declínios observados reflectem também tendências nacionais pré-existentes (ver Secção 3.5), pelo que não se pode atribuir causalidade exclusiva à regulação.
+**5. Aproveitar momentum:** O framework legal alemão de clubes sociais (2024) oferece modelo recente de regulação sem comercialização [@bundesgesundheit2024cannabis]. Evidência de Colorado (10+ anos) e Canadá (6 anos) mostra que a legalização **não provocou o aumento de consumo juvenil que opositores previam** [@statcan2019youth; @mpp2024colorado; @coley2024]. Contudo, os declínios observados reflectem também tendências nacionais pré-existentes (ver secção [*Impacto no consumo juvenil*](#3.5-impacto-no-consumo-juvenil)), pelo que não se pode atribuir causalidade exclusiva à regulação.
 
 **Os objectivos são complementares, não conflituantes** — mas a sequência estratégica (consenso primeiro, controverso depois, comercial só se dados positivos) maximiza probabilidade de sucesso político.
 
@@ -904,7 +904,7 @@ Não podemos isolar o efeito causal da legalização vs. tendências nacionais. 
 
 * **Anos 1-2 (2027-2028):** 10-15% utilizadores migram para clubes (early adopters, fase inicial licenciamento nacional)
 * **Anos 3-5 (2029-2031):** 30-45% mercado legal (expansão clubes, confiança estabelecida — estimativa optimista, ver análise gap mercado)
-* **Anos 6-10:** Estabilização 50-60% mercado legal com modelo clubes (Fase 2), ou transição para modelo comercial regulado (Fase 3: 70-95% legal, dados Canadá) — **CONDICIONAL a:** (1) dados positivos do modelo de clubes 2029-2032, (2) resolução conflitos lei UE/Schengen (Comissão Europeia bloqueou venda comercial Alemanha 2024-2025, requer coordenação multilateral), (3) renovação aprovação parlamentar. **Fase 3 (comercial) pode nunca acontecer** se obstáculos legais UE persistirem. Modelo clubes standalone (Fase 2) já atinge objetivos principais harm reduction
+* **Anos 6-10:** Estabilização 50-60% mercado legal com modelo clubes (Fase 2), ou transição para modelo comercial regulado (Fase 3: 70-95% legal, dados Canadá) — **CONDICIONAL a:** (1) dados positivos do modelo de clubes 2029-2032, (2) resolução conflitos lei UE/Schengen (Comissão Europeia bloqueou venda comercial Alemanha 2024-2025, requer coordenação multilateral), (3) renovação aprovação parlamentar. **Fase 3 (comercial) pode nunca acontecer** se obstáculos legais UE persistirem. Modelo clubes standalone (Fase 2) já atinge objectivos principais harm reduction
 
 **Portugal pode ultrapassar Uruguai porque:**
 
@@ -1021,7 +1021,7 @@ O desenvolvimento do córtex pré-frontal continua até aos ~25 anos. Estudos lo
 
 **Medida de precaução adotada:**
 
-O modelo proposto segue a restrição alemã de **THC máximo 10%** para idades 18-20 anos, mantendo 15% para 21+. Esta limitação é **mais conservadora** que o programa piloto suíço (5-20% THC sem diferenciação etária) e equilibra liberdade individual com proteção neurodesenvolvimental.
+O modelo proposto segue a restrição alemã de **THC máximo 10%** para idades 18-20 anos, sem limite máximo de THC para 21+. Esta limitação é **mais conservadora** que o programa piloto suíço (5-20% THC sem diferenciação etária) e equilibra liberdade individual com proteção neurodesenvolvimental.
 
 **Justificação:**
 
@@ -2660,7 +2660,7 @@ Alemanha desenhou o CanG 2024 como **sistema two-pillar**:
 | **Viabilidade standalone** | Pillar 1 visto como "temporário" | **Pillar 1 atinge objectivos principais** (harm reduction, captura estimada 30-45% mercado — sujeita a validação) |
 | **Risco político** | Reversão CDU 2025 matou Pillar 2 | **Implementação completa Pillar 1 minimiza risco** reversão |
 
-**Vantagem estratégica Portugal:** Não comprometer credibilidade política com promessas dependentes de factores externos (mudança lei UE). Clubes standalone (Fase 2) já entregam ROI 120-753%, captura estimada 30-50% mercado (ver caveats Secção 6.2), sem evidência de aumento do consumo juvenil nas jurisdições comparáveis.
+**Vantagem estratégica Portugal:** Não comprometer credibilidade política com promessas dependentes de factores externos (mudança lei UE). Clubes standalone (Fase 2) já entregam ROI 120-753%, captura estimada 30-50% mercado (ver [análise *gap de mercado*](#gap-mercado)), sem evidência de aumento do consumo juvenil nas jurisdições comparáveis.
 
 ### Estratégia Multilateral: Trabalhar para Mudança Política Europeia
 
@@ -2729,7 +2729,7 @@ Alemanha desenhou o CanG 2024 como **sistema two-pillar**:
 **Benefícios Fase 2 standalone (sem venda comercial):**
 * Captura estimada 30-45% mercado ilegal (Uruguai misto atingiu ~37% em 10 anos; PT com autocultivo adicional — ver análise gap mercado)
 * ROI 120-753% via poupanças enforcement (não receitas fiscais)
-* Sem evidência de aumento do consumo juvenil (Colorado -42%, mas tendência nacional similar -38%; Canadá — dados disputados, ver Secção 3.5)
+* Sem evidência de aumento do consumo juvenil (Colorado -42%, mas tendência nacional similar -38%; Canadá — dados disputados, ver secção [*Impacto no consumo juvenil*](#3.5-impacto-no-consumo-juvenil))
 * Produtos testados vs. mercado negro contaminado (94% pesticidas)
 * Redução criminalização (75% processos CDT envolvem cannabis)
 
