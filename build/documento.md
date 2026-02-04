@@ -25,23 +25,35 @@ Portugal encontra-se numa posição paradoxal: é o segundo maior exportador mun
 **Uso recreativo:** 95% via mercado negro (€52-151M/ano) com:
 - **Sintéticos perigosos** (800x mais potentes que THC)
 - **Potência duplicada** sem rotulagem
-- **Catástrofe ambiental:** Cultivo indoor clandestino gera 2.300-5.200 kg CO₂/kg (outdoor reduz 99%)
+- **Catástrofe ambiental:** Cultivo indoor clandestino gera 2.300-5.200 kg CO₂/kg (outdoor: apenas 22,7 kg CO₂/kg; energia 100% renovável reduz 50-70%)
 - **75% dos processos (CDT)** por drogas são consumidores ocasionais de cannabis
 
-## O que propomos: abordagem estratégica em três fases
+## O que propomos: abordagem estratégica em duas fases
 
-Este documento propõe que o LIVRE assuma uma posição clara e proactiva sobre a regulação da cannabis, com uma **estratégia faseada** que reconhece os diferentes graus de consenso político e social:
+Este documento propõe que o LIVRE assuma uma posição clara e proactiva sobre a regulação da cannabis, com uma **estratégia faseada pragmática** que começa pelo que reúne mais consenso e constrói credibilidade antes de avançar para o mais controverso:
 
-### Fase 1: Cannabis Medicinal (prioridade imediata — Q2 2026)
+### Fase 1: Cânhamo Industrial + Revisão Cannabis Medicinal (imediata, em paralelo — 2026)
 
-**Consenso amplo esperado** (PS, PAN, BE, IL):
+**Máximo consenso político — avançar já:**
+
+#### A. Revisão da Cannabis Medicinal
 
 * **Objectivo:** Garantir acesso efectivo para doentes com prescrição médica
-* **Medidas:** Comparticipação SNS, simplificação da prescrição, alargamento de indicações
-* **Consenso:** Potencial de apoio transversal (PS, PAN, BE, IL) — questão de saúde pública e justiça social
+* **Medidas:** Comparticipação SNS, simplificação da prescrição, alargamento de indicações, formação médicos família
+* **Consenso:** Amplo apoio transversal esperado (PS, PAN, BE, IL, PCP) — em 2018, PS/PSD/PCP votaram juntos na Lei 33/2018. Questão de saúde pública e justiça social
 * **Urgência:** Portugal exporta 99,85% da produção enquanto doentes pagam €150/mês sem comparticipação [@cannabislaw2024export; @drug2024]
 
-### Fase 2: Cannabis Recreativa (Q3-Q4 2026)
+#### B. Cânhamo Industrial
+
+**Não controverso** (já legal UE, THC<0,3%) — **não depende de qualquer outro pilar:**
+
+* **Solução climática:** Captura **8-15 toneladas CO₂/hectare** por ciclo em condições UK [@cambridge2022hemp; @carboncredits2024hemp] — Portugal (clima mediterrânico) pode atingir **8-12 t CO₂/ha**, ainda assim 2-4x mais que florestas
+* Oportunidade agrícola (fibra, sementes, construção) e economia rural
+* Programa piloto 3-5 regiões
+* Incentivos PAC
+* **Pode e deve avançar imediatamente**, independentemente do debate recreativo
+
+### Fase 2: Cannabis Recreativa (após Fase 1 mostrar resultados — 2027+)
 
 **Modelo:** Clubes sociais sem fins lucrativos + autocultivo (framework legal alemão 2024)
 
@@ -58,56 +70,50 @@ Este documento propõe que o LIVRE assuma uma posição clara e proactiva sobre 
 - Canadá (2018, 6 anos dados): consumo juvenil (15-17 anos) não aumentou pós-legalização [@statcan2019youth]; dados mais recentes (CCS, 16-19 anos) mostram ligeiro aumento de 36% para 41-43% entre 2018-2024 — interpretação disputada
 - Alemanha (2024, framework legislativo): 357 clubes aprovados (Nov 2025), dados eficácia insuficientes (<1 ano)
 
-### Fase 3: Cânhamo Industrial
-
-**Não controverso** (já legal UE, THC<0,3%):
-
-* **Solução climática:** Captura **8-15 toneladas CO₂/hectare** por ciclo em condições UK [@cambridge2022hemp; @carboncredits2024hemp] — Portugal (clima mediterrânico) pode atingir **8-12 t CO₂/ha**, ainda assim 2-4x mais que florestas
-* Oportunidade agrícola (fibra, sementes, construção) e economia rural
-* Programa piloto 3-5 regiões
-* Incentivos PAC
-
 ## Porquê esta abordagem?
 
-**1. Tática política:** Avançar rapidamente no medicinal (menos resistência) permite demonstrar resultados e construir confiança para debate posterior sobre uso adulto.
+**1. Começar pelo consenso, construir credibilidade:** O cânhamo industrial não gera controvérsia ideológica — é agricultura. A revisão medicinal tem precedente de consenso (votação 2018). Começar por estas frentes demonstra resultados concretos e constrói a confiança institucional necessária para o debate recreativo.
 
-**2. Evitar confusão de objectivos:** Separar claramente as duas fases responde antecipadamente à desinformação que mistura "comparticipação para doentes" com "legalização recreativa". São propostas distintas, com públicos distintos, mecanismos de financiamento distintos.
+**2. Tática política pragmática:** Avançar com cânhamo + medicinal em paralelo (menor resistência) permite demonstrar capacidade regulatória e benefícios tangíveis (emprego rural, acesso a doentes) antes de enfrentar o debate mais difícil sobre uso adulto.
 
-**3. Aproveitar momentum:** O framework legal alemão de clubes sociais (2024) oferece modelo recente de regulação sem comercialização [@bundesgesundheit2024cannabis]. Evidência de Colorado (10+ anos) e Canadá (6 anos) mostra que a legalização **não provocou o aumento de consumo juvenil que opositores previam** [@statcan2019youth; @mpp2024colorado; @coley2024]. Contudo, os declínios observados reflectem também tendências nacionais pré-existentes (ver Secção 3.5), pelo que não se pode atribuir causalidade exclusiva à regulação.
+**3. Evitar confusão de objectivos:** Separar claramente as fases responde antecipadamente à desinformação que mistura "comparticipação para doentes" com "legalização recreativa". São propostas distintas, com públicos distintos, mecanismos de financiamento distintos.
 
-**Os dois objectivos são complementares, não conflituantes** — mas a sequência estratégica maximiza probabilidade de sucesso político.
+**4. Aproveitar momentum:** O framework legal alemão de clubes sociais (2024) oferece modelo recente de regulação sem comercialização [@bundesgesundheit2024cannabis]. Evidência de Colorado (10+ anos) e Canadá (6 anos) mostra que a legalização **não provocou o aumento de consumo juvenil que opositores previam** [@statcan2019youth; @mpp2024colorado; @coley2024]. Contudo, os declínios observados reflectem também tendências nacionais pré-existentes (ver Secção 3.5), pelo que não se pode atribuir causalidade exclusiva à regulação.
+
+**Os objectivos são complementares, não conflituantes** — mas a sequência estratégica (consenso primeiro, controverso depois) maximiza probabilidade de sucesso político.
 
 ## Cronograma proposto
 
 **Timeline realista baseada em processos legislativos comparáveis:** Portugal descriminalização 2001 (~18 meses) [@springer2021pt; @transform2016pt], Alemanha CanG 2024 (~18 meses de framework a implementação) [@lancet2024germany].
 
-| Data | Acção |
-|------|-------|
-| **Fev 2026** | Aprovação CTs Liberdade, Saúde, Ecologia |
-| **Mar 2026** | Apresentação à Coordenação |
-| **Abr 2026** | Perguntas parlamentares (Min. Saúde) |
-| **Q3-Q4 2026** | Proposta legislativa cannabis recreativa (coordenada BE/PAN/IL) |
-| **Q4 2026 - Q1 2027** | Simplificação regulatória cânhamo industrial (paralelo, menor resistência) |
-| **Q2-Q3 2027** | Aprovação parlamentar regime experimental (12-15 meses pós-proposta) |
-| **Q3-Q4 2027** | Programa piloto cannabis — 2-3 clubes sociais (Lisboa, Porto) |
-| **Q4 2027 - 2028** | Programa piloto cânhamo — 3-5 regiões (ISA/UTAD, incentivos PAC) |
-| **2028-2030** | Avaliação impactos + expansão gradual baseada em dados |
+| Data | Acção | Fase |
+|------|-------|------|
+| **Fev 2026** | Aprovação CTs Liberdade, Saúde, Ecologia | — |
+| **Mar 2026** | Apresentação à Coordenação | — |
+| **Abr 2026** | Perguntas parlamentares (Min. Saúde — acesso cannabis medicinal) | Fase 1 |
+| **Q2-Q3 2026** | Proposta revisão cannabis medicinal (comparticipação SNS) + simplificação regulatória cânhamo industrial | **Fase 1** |
+| **Q3-Q4 2026** | Aprovação cânhamo + medicinal (consenso amplo esperado: PS/PAN/BE/IL/PCP) | **Fase 1** |
+| **Q4 2026 - Q1 2027** | Programa piloto cânhamo — 3-5 regiões (ISA/UTAD, incentivos PAC) | **Fase 1** |
+| **Q1-Q2 2027** | Proposta legislativa cannabis recreativa (coordenada BE/PAN/IL) — após resultados Fase 1 | **Fase 2** |
+| **Q2-Q4 2028** | Aprovação parlamentar regime experimental recreativo (12-18 meses pós-proposta) | **Fase 2** |
+| **Q3-Q4 2029** | Programa piloto cannabis recreativa — 2-3 clubes sociais (Lisboa, Porto) | **Fase 2** |
+| **2030-2032** | Avaliação impactos + expansão gradual baseada em dados | **Fase 2** |
 
 ## Evolução futura condicional: Coordenação europeia e modelo two-pillar
 
-**A proposta portuguesa segue explicitamente o modelo alemão de duas fases:**
+**Após consolidação da Fase 1 (cânhamo + medicinal) e implementação da Fase 2 (clubes recreativos), a proposta portuguesa segue o modelo alemão de dois pilares:**
 
-* **Fase 1 (Pillar 1): Clubes sociais não-comerciais + autocultivo** — implementação 2027-2030, avaliação rigorosa dados
-* **Fase 2 (Pillar 2): Possível transição para venda comercial regulada** — **condicional a três factores críticos:**
+* **Pilar 1: Clubes sociais não-comerciais + autocultivo** — implementação 2029-2032, avaliação rigorosa dados
+* **Pilar 2: Possível transição para venda comercial regulada** — **condicional a três factores críticos:**
   1. **Dados positivos piloto:** Evidência 2028-2030 mostrando captura significativa do mercado ilegal, sem aumento do consumo juvenil, redução da criminalização
   2. **Coordenação europeia:** Resolução conflitos lei UE/Schengen (venda comercial cannabis actualmente bloqueada pela Comissão Europeia)
   3. **Renovação aprovação parlamentar:** Nova votação pós-avaliação, não automatismo
 
 **Honestidade com eleitores/decisores políticos:**
 
-* **Fase 1 (clubes) é viável agora** — modelo alemão Pillar 1 funciona, UE tolera
-* **Fase 2 (comercial) pode nunca acontecer** — depende de factores fora de controlo Portugal
-* **Benefício Fase 1 standalone:** Captura estimada 30-45% mercado ilegal (sujeita a validação — ver análise gap mercado), ROI positivo via poupanças enforcement, redução criminalização — **mesmo sem venda comercial**, objectivos principais atingidos
+* **Pilar 1 (clubes) é viável após Fase 1 construir credibilidade** — modelo alemão funciona, UE tolera
+* **Pilar 2 (comercial) pode nunca acontecer** — depende de factores fora de controlo Portugal
+* **Benefício Pilar 1 standalone:** Captura estimada 30-45% mercado ilegal (sujeita a validação — ver análise gap mercado), ROI positivo via poupanças enforcement, redução criminalização — **mesmo sem venda comercial**, objectivos principais atingidos
 
 **Esta abordagem maximiza viabilidade política:** Não compromete LIVRE com promessas dependentes de factores externos (mudanças lei UE), mas mantém ambição estratégica de longo prazo condicional a dados e coordenação europeia.
 
@@ -736,7 +742,7 @@ Todos os produtos cannabis (clubes sociais, autocultivo com sementes certificada
 | **Zero apoio financeiro estatal** | Clubes dependem exclusivamente de quotas de fundadores, dificultando arranque | DHV, Hanfverband 2025 |
 | **Regulação descentralizada** (16 Länder) | Interpretações divergentes, burocracia variável, processamento lento | RND Fev 2025 |
 | **Bloqueio político activo** (Baviera) | CSU impôs restrições severas; 0 clubes até Abr 2025, depois apenas 3 | Business of Cannabis 2025 |
-| **Custos indoor elevados** (clima continental) | Cultivo indoor obrigatório 12 meses/ano, electricidade €0,30-0,40/kWh | DHV 2025 |
+| **Custos indoor elevados** (clima continental) | Cultivo indoor 12 meses/ano, electricidade €0,30-0,40/kWh | DHV 2025 |
 | **Ausência de programa piloto** | 791 candidaturas lançadas simultaneamente sem fase experimental | Bundesgesundheitsministerium |
 | **Testes roadside desactualizados** | Calibrados para 1,0 ng/ml vs. limite legal 3,5 ng/ml; incerteza legal | Bessergrowen 2025 |
 
@@ -749,7 +755,7 @@ Portugal pode evitar as dificuldades alemãs através de medidas específicas:
 | **Zero subsídio estatal** | Programa piloto com **subsídio €50-100k por clube** (investimento saúde pública, não despesa) |
 | **Regulação descentralizada** | **SICAD centralizado** — regras uniformes nacionais, sem poder de veto municipal arbitrário |
 | **Bloqueio político regional** | Framework **nacional** que impede câmaras de bloquear arbitrariamente (prerrogativa central vs. autonomia local) |
-| **Custos indoor elevados** | Clima mediterrânico: **outdoor/greenhouse viável 8-10 meses/ano** no Sul; custos energéticos ~40-60% menores (€0,20-0,25/kWh) |
+| **Custos indoor elevados** | Clima mediterrânico: outdoor/greenhouse viável 8-10 meses/ano no Sul; indoor permitido com **contrato energia 100% renovável obrigatório**; custos energéticos ~40-60% menores (€0,20-0,25/kWh) |
 | **791 candidaturas de uma vez** | **Programa piloto 2-3 clubes** (2027-2028) → avaliar → expandir gradualmente baseado em dados |
 | **25 anos criminalização total** | Portugal: **25 anos de descriminalização** = comunidade cannabis mais madura, menos estigma, associações já existentes |
 
@@ -774,7 +780,7 @@ Mesmo assumindo dificuldades semelhantes às alemãs, o modelo continua viável:
 | Factor | Alemanha | Portugal |
 | :---- | :---- | :---- |
 | Apoio estatal arranque | ❌ Zero | ✅ €50-100k proposto |
-| Clima cultivo | Continental (indoor 12 meses) | Mediterrânico (outdoor 8-10 meses) |
+| Clima cultivo | Continental (indoor 12 meses) | Mediterrânico (outdoor 8-10 meses; indoor com renováveis 100%) |
 | Custos energia | €0,30-0,40/kWh | €0,20-0,25/kWh |
 | Regulação | 16 Länder, interpretações diversas | SICAD centralizado, regras uniformes |
 | Cultura cannabis | Criminalização total até 2024 | 25 anos descriminalização |
@@ -811,7 +817,7 @@ Espanha não legalizou cannabis, mas tolera ~800-1.000 clubes sociais numa "áre
 * Ligações a crime organizado e exportação ilegal para Europa [@transform2018]
 * Em 2024, Barcelona ordenou encerramento de 30 clubes [@hightimes2024]
 
-**Lição para Portugal:** A ausência de regulação nacional clara não elimina o mercado — apenas o empurra para zona cinzenta com menos controlo e mais riscos. O modelo alemão oferece alternativa superior: regras explícitas, limites definidos, proibição de turismo cannábico, e segurança jurídica. **Portugal aprende com os erros espanhóis**, implementando governance rigorosa ausente em Espanha: auditorias anuais obrigatórias, transparência financeira mensal, price caps (€6/g), proibição de retenção de excedentes (doados automaticamente a SICAD), programa de whistleblowing protegido, e inspecções surpresa trimestrais (10% dos clubes) — ver detalhes em Anexo A.
+**Lição para Portugal:** A ausência de regulação nacional clara não elimina o mercado — apenas o empurra para zona cinzenta com menos controlo e mais riscos. O modelo alemão oferece alternativa superior: regras explícitas, limites definidos, proibição de turismo cannábico, e segurança jurídica. **Portugal aprende com os erros espanhóis**, implementando governance rigorosa ausente em Espanha: auditorias anuais obrigatórias, transparência financeira mensal, transparência obrigatória de preços e custos de produção (com preço de referência indicativo publicado por SICAD), proibição de retenção de excedentes (doados automaticamente a SICAD), programa de whistleblowing protegido, e inspecções surpresa trimestrais (10% dos clubes) — ver detalhes em Anexo A.
 
 ## Impacto no consumo juvenil {#3.5-impacto-no-consumo-juvenil}
 
@@ -914,21 +920,23 @@ O modelo de cultivo indoor dominante no mercado negro (e em alguns mercados lega
 * **Consumo energético:** Instalações indoor consomem tanta electricidade quanto data centers [@motherjones2021carbon]
 * **Impacto grid energético:** Estas emissões assumem **grid energético actual português** (mix fóssil + renováveis). Com 100% renováveis, redução de 50-70% [@nature2021cannabis]
 
-**Alternativa sustentável — outdoor e requisitos vinculativos:**
+**Alternativa sustentável — energias renováveis obrigatórias:**
 
 * **Cannabis outdoor:** Emite apenas **22,7 kg CO₂/kg** — redução de **99% vs. indoor** [@nature2021cannabis]
 * **Shift to outdoor:** Se 75% produção for outdoor, redução de 80% nas emissões do sector [@marijuanamoment2024outdoor]
 * **Cânhamo captura carbono:** **8-15 toneladas CO₂/hectare** por ciclo em condições UK/Irlanda [@cambridge2022hemp; @carboncredits2024hemp]. Clima mediterrânico português (temperaturas até 35°C toleradas) permite **8-12 t CO₂/ha** com uma colheita, potencialmente **15-20 t** com duas colheitas/ano em regiões sul [@lampoon2024hemp]
 * **Co-benefícios outdoor:** Regeneração de solos, biodiversidade, economia rural, sem electricidade intensiva
+* **Mas o problema real é o carbono, não o método:** A proibição de cultivo indoor excluiria clubes urbanos (Lisboa, Porto) e limitaria a viabilidade do modelo. A solução é atacar directamente a pegada carbónica através de energia 100% renovável
 
 **Requisitos vinculativos propostos para clubes sociais:**
 
-- **Cultivo outdoor/greenhouse obrigatório** (indoor apenas para clones/mães, máximo 10% produção)
-- **Renováveis:** 50% energia renovável até 2030, 100% até 2035 (clubes que cultivem indoor)
+- **Cultivo indoor permitido**, mas com **contrato de energia 100% renovável obrigatório** (e.g., Coopernico, Goldenergy verde, EDP verde) OU instalação de painéis solares com apoio de programa governamental dedicado
+- **Portugal seria o primeiro país do mundo** a exigir energia 100% renovável como condição de licenciamento de uma indústria regulada — posicionamento de liderança climática
+- **Incentivo ao outdoor/greenhouse:** Clubes com cultivo predominantemente outdoor (>50%) beneficiam de processo de licenciamento simplificado e redução de taxa regulatória
 - **Certificação sustentável:** Clubes devem demonstrar redução progressiva pegada carbono em auditoria anual
 - **Agroecologia:** Incentivo a métodos regenerativos (permacultura, compostagem, sem pesticidas sintéticos)
 
-**A proibição força o cultivo indoor clandestino.** A regulação permite exigir métodos sustentáveis como condição de licenciamento — outdoor prioritário, renováveis obrigatórias, monitorização de emissões.
+**A proibição força o cultivo indoor clandestino.** A regulação permite exigir métodos sustentáveis como condição de licenciamento — renováveis obrigatórias, incentivo ao outdoor, monitorização de emissões. Ao exigir energia 100% renovável em vez de proibir indoor, Portugal garante acessibilidade urbana sem comprometer objectivos ambientais.
 
 ## O que a regulação permite (redução de danos)
 
@@ -1190,7 +1198,7 @@ Paradoxalmente, em 2023 apenas **17 kg** foram vendidos domesticamente. Os doent
    * Avaliação de impacto e publicação de relatório anual
 \newpage
 
-# PILAR 2: CANNABIS RECREATIVA (médio prazo)
+# PILAR 2: CANNABIS RECREATIVA (Fase 2 — após resultados cânhamo + medicinal)
 
 Proposta baseada no modelo alemão [@bundesministerium2024; @wikipedia2025], adaptada a Portugal:
 
@@ -1218,7 +1226,7 @@ Proposta baseada no modelo alemão [@bundesministerium2024; @wikipedia2025], ada
 
 **Safeguards adicionais PT (prevenir cenário Espanha):**
 
-* Price cap €6/g, excedentes doados automaticamente a SICAD
+* Transparência de preços obrigatória (custos produção publicados), excedentes doados automaticamente a SICAD
 * Auditoria anual independente obrigatória (relatório público online)
 * Inspecções mínimo 10% clubes/trimestre
 * Programa whistleblowing protegido (denúncias confidenciais a SICAD)
@@ -1473,7 +1481,7 @@ Os clubes devem implementar **rastreabilidade completa** da cannabis cultivada, 
 Para evitar repetir os problemas espanhóis (clubes que se tornaram operações comerciais ilícitas por falta de fiscalização rigorosa), Portugal deve adicionar mecanismos ausentes na Alemanha e Espanha:
 
 - **Auditoria externa independente anual:** Obrigatória para todos os clubes, conduzida por auditor certificado não-membro, relatório publicado online e submetido a SICAD — recusa de publicação resulta em suspensão imediata da licença
-- **Price cap:** Máximo €6/grama (baseado em custos operacionais médios alemães) — variedades especializadas podem solicitar isenção temporária com justificação documentada
+- **Transparência de preços:** Clubes definem preços com base nos custos reais de produção, qualidade do produto e situação financeira — sem tecto rígido. Obrigatória a publicação de custos de produção por grama e a afixação visível de preços. Preço de referência indicativo (não vinculativo) publicado anualmente por SICAD com base em custos médios dos clubes piloto. Objectivo: competitividade com mercado negro (~€5-8/g) sem impor rigidez que comprometa viabilidade
 - **Proibição absoluta retenção excedentes:** Qualquer surplus (receitas > custos + reserva operacional 10%) é automaticamente doado a SICAD trimestralmente para financiar prevenção/tratamento — distribuição de lucros a membros/direcção resulta em revogação permanente
 - **Dashboard mensal online público:** Divulgação a membros + SICAD de vendas totais (€), custos operacionais agregados, pagamentos direcção/funcionários, número membros activos
 
@@ -1776,7 +1784,7 @@ Para evitar concentração de mercado, permitir **máximo 1-2 clubes por produto
 
 - **Requisito non-profit mantém-se:** Clube opera a custo real (cost-recovery), sem distribuir lucros
 - **Separação contabilística:** Clube é entidade separada do produtor (auditoria independente)
-- **Price cap aplica-se:** Máximo €6/g, excedentes doados a SICAD (como todos os clubes)
+- **Transparência de preços aplica-se:** Publicação obrigatória de custos de produção e preços, excedentes doados a SICAD (como todos os clubes)
 - **Governance rigorosa:** Mesmas obrigações que clubes independentes (auditoria, transparência, whistleblowing)
 
 **Justificação:** Suíça permite produtores licenciados operarem pontos de venda em pilotos Zur Can [@springer2024zurican]. Limitar a 1-2 clubes/produtor previne oligopólio, mantendo diversidade de clubes independentes.
@@ -2329,9 +2337,11 @@ Assumindo 46 clubes × 400 membros activos médios = **18.400 utilizadores** (ce
 **Conclusão:** A projecção de 30-45% de captura do mercado ilegal é plausível mas **incerta**. O programa piloto (2027-2028) é precisamente o mecanismo para testar esta premissa antes de escalar. Se os dados mostrarem captura inferior a 15%, a estratégia deve ser reavaliada.
 \newpage
 
-# PILAR 3: CÂNHAMO INDUSTRIAL
+# PILAR 3: CÂNHAMO INDUSTRIAL (Fase 1 — avança imediatamente, em paralelo com medicinal)
 
 ## Cânhamo Industrial: Uma Oportunidade Económica e Ambiental
+
+> **Nota estratégica:** O cânhamo industrial **não depende de nenhum outro pilar** desta proposta. Pode e deve avançar imediatamente, em paralelo com a revisão da cannabis medicinal. Não gera controvérsia ideológica — é agricultura, já legal na UE, e reúne condições para consenso transversal no Parlamento.
 
 O cânhamo industrial (*Cannabis sativa* L. com THC<0,3%) representa uma oportunidade estratégica para Portugal, combinando benefícios económicos, ambientais e sociais. O mercado europeu de cânhamo industrial foi avaliado em **USD 2,9 mil milhões** em 2024, com projeções de crescimento a uma taxa anual de 24% até atingir **USD 20,4 mil milhões em 2033** [@marketdataforecast2025]. A Europa representa cerca de **31% do mercado global** [@psmarketresearch2024].
 
@@ -2561,6 +2571,22 @@ Com 5.000 hectares em produção:
 | CHEGA | FIRMEMENTE CONTRA | Qualquer liberalização | Nenhum — oposição ideológica total [@cannareporter2024b] |
 | JPP | DESCONHECIDO | — | Partido sem posição pública conhecida |
 
+### Notas detalhadas sobre posições partidárias
+
+#### Partido Socialista (PS)
+
+A posição do PS sobre a regulação da cannabis é internamente diversa, com diferentes correntes e momentos que merecem registo factual:
+
+- **Legado da Lei 30/2000:** O PS foi responsável pela aprovação da lei que descriminalizou o consumo de drogas em Portugal, considerada internacionalmente como caso de sucesso em política de drogas [@greenwald2009].
+
+- **Juventude Socialista (JS):** A JS tem defendido publicamente a legalização da cannabis desde pelo menos 2019 [@publico2021js]. Em janeiro de 2024, a JS reiterou a sua posição a favor da legalização [@rr2024js]. Miguel Costa Matos, enquanto líder da JS, apelou ao PS para que aproveitasse a maioria absoluta (2022-2024) para avançar com a regulação [@publico2023ps].
+
+- **Votações parlamentares:** Vários deputados do PS votaram favoravelmente propostas de legalização da cannabis em 2019, demonstrando que existe abertura interna sobre o tema.
+
+- **Grupo de trabalho 2023:** Em setembro de 2023, Eurico Brilhante Dias, então líder do grupo parlamentar do PS, anunciou a criação de um grupo de trabalho sobre cannabis. O grupo nunca concluiu os seus trabalhos devido à crise política que conduziu a eleições antecipadas em 2024 [@publico2023ps; @ps2023cannabis].
+
+- **Cannabis medicinal:** O PS votou conjuntamente com PSD e PCP a favor da regulação da cannabis medicinal em 2018 [@publico2018b], demonstrando que existe consenso transversal nesta matéria.
+
 
 
 ## ESTRATÉGIAS PARA CONSTRUIR PONTES
@@ -2736,48 +2762,74 @@ Para estabelecer expectativas realistas, é essencial analisar o tempo que legis
 | Urgência social percebida | ✅ Crise heroína, overdoses | ⚠️ Menor urgência (descriminalização já existe) |
 | Complexidade regulatória | Baixa (CDT, coimas) | Alta (clubes, licenças, testes, SICAD) |
 
+## Estratégia em Duas Fases {#estrategia-fases}
+
+A proposta segue uma lógica pragmática: **começar pelo que reúne consenso** (cânhamo + medicinal), construir credibilidade institucional, e só depois avançar para o recreativo.
+
+### Fase 1: Cânhamo Industrial + Revisão Cannabis Medicinal (imediata, paralela)
+
+**Porquê começar aqui:**
+- **Cânhamo industrial** não depende de nenhum outro pilar — é agricultura, não gera controvérsia ideológica, é legal na UE (THC<0,3%), e pode avançar imediatamente
+- **Revisão medicinal** tem precedente de consenso transversal — PS/PSD/PCP votaram juntos na Lei 33/2018. Nenhum partido pode argumentar que doentes devam continuar sem comparticipação SNS
+- Ambas as frentes podem tramitar **em paralelo** e ser aprovadas rapidamente (6-12 meses)
+
+### Fase 2: Cannabis Recreativa (após Fase 1 demonstrar resultados)
+
+**Porquê sequenciar:**
+- A Fase 1 demonstra capacidade regulatória e gera resultados tangíveis (emprego rural, acesso a doentes)
+- Constrói confiança institucional e pública para o debate mais difícil
+- Permite ao LIVRE e parceiros parlamentares apresentar a regulação recreativa com track record de competência
+
 ## Cronograma Proposto — Três Cenários {#cronograma-cenarios}
 
-### Cenário Optimista (12-18 meses) — Probabilidade: 20-30%
+### Cenário Optimista (Fase 1: 6-9 meses; Fase 2: 18-24 meses) — Probabilidade: 20-30%
 
 **Condições necessárias:** Apoio PS em 2026-2027; consenso técnico rápido; sem eleições intercalares.
 
-| Prazo | Acção |
-| :---- | :---- |
-| Fev-Mar 2026 | Aprovação interna LIVRE (CTs + Coordenação) |
-| Abr-Jun 2026 | Construção coligação parlamentar (BE/PAN/IL) |
-| **Q3-Q4 2026** | **Proposta legislativa regime experimental** |
-| Q1-Q2 2027 | Debate parlamentar, comissões, emendas |
-| **Q2-Q3 2027** | **Aprovação parlamentar** (12-15 meses pós-proposta) |
-| Q3-Q4 2027 | Regulamentação secundária (SICAD/INFARMED) |
-| **Q4 2027 - Q1 2028** | **Programa piloto 2-3 clubes** (Lisboa, Porto) |
+| Prazo | Acção | Fase |
+| :---- | :---- | :---- |
+| Fev-Mar 2026 | Aprovação interna LIVRE (CTs + Coordenação) | — |
+| Abr-Jun 2026 | Propostas cânhamo + revisão medicinal (consenso transversal) | **Fase 1** |
+| **Q3-Q4 2026** | **Aprovação cânhamo + medicinal** | **Fase 1** |
+| Q4 2026 - Q1 2027 | Programa piloto cânhamo (3-5 regiões); medicinal operacional | **Fase 1** |
+| **Q1-Q2 2027** | **Proposta legislativa regime experimental recreativo** | **Fase 2** |
+| Q2-Q4 2027 | Debate parlamentar, comissões, emendas | **Fase 2** |
+| **Q1-Q2 2028** | **Aprovação parlamentar recreativo** | **Fase 2** |
+| Q3-Q4 2028 | Regulamentação secundária (SICAD/INFARMED) | **Fase 2** |
+| **Q1-Q2 2029** | **Programa piloto 2-3 clubes** (Lisboa, Porto) | **Fase 2** |
 
-### Cenário Realista (24-36 meses) — Probabilidade: 40-50%
+### Cenário Realista (Fase 1: 9-12 meses; Fase 2: 24-36 meses) — Probabilidade: 40-50%
 
-**Condições:** Resistência parlamentar inicial; necessidade de reformulação; PS eventualmente apoia versão moderada.
+**Condições:** Fase 1 aprovada sem dificuldades; resistência parlamentar ao recreativo; PS eventualmente apoia versão moderada.
 
-| Prazo | Acção |
-| :---- | :---- |
-| 2026 | Proposta legislativa + debate inicial |
-| 2027 | Negociações prolongadas, consultas públicas, emendas |
-| **2028** | **Aprovação parlamentar** (regime experimental) |
-| 2028-2029 | Regulamentação secundária (12-18 meses) |
-| **2029** | **Programa piloto operacional** |
-| 2030-2032 | Avaliação + expansão gradual |
+| Prazo | Acção | Fase |
+| :---- | :---- | :---- |
+| 2026 | Propostas cânhamo + revisão medicinal + debate inicial recreativo | **Fase 1** |
+| Q3-Q4 2026 | Aprovação cânhamo + medicinal; piloto cânhamo inicia | **Fase 1** |
+| 2027 | Proposta recreativa + negociações prolongadas, consultas públicas | **Fase 2** |
+| **2028** | **Aprovação parlamentar recreativo** (regime experimental) | **Fase 2** |
+| 2028-2029 | Regulamentação secundária (12-18 meses) | **Fase 2** |
+| **2029** | **Programa piloto recreativo operacional** | **Fase 2** |
+| 2030-2032 | Avaliação + expansão gradual | **Fase 2** |
 
 ### Cenário Conservador (48-60+ meses) — Probabilidade: 20-30%
 
-**Condições:** Oposição forte PSD/CDS; mudança de governo; bloqueios institucionais.
+**Condições:** Fase 1 aprovada mas recreativo enfrenta oposição forte PSD/CDS; mudança de governo; bloqueios institucionais.
 
-| Prazo | Acção |
-| :---- | :---- |
-| 2026-2027 | Proposta rejeitada ou adiada |
-| 2028 | Eleições legislativas; nova configuração política |
-| 2029-2030 | Reformulação proposta; novo ciclo negocial |
-| **2030-2031** | **Eventual aprovação** (se contexto favorável) |
-| 2031-2032 | Regulamentação + piloto |
+| Prazo | Acção | Fase |
+| :---- | :---- | :---- |
+| 2026 | Fase 1 aprovada (cânhamo + medicinal) | **Fase 1** ✅ |
+| 2026-2027 | Proposta recreativa rejeitada ou adiada | **Fase 2** ❌ |
+| 2028 | Eleições legislativas; nova configuração política | — |
+| 2029-2030 | Reformulação proposta recreativa; novo ciclo negocial | **Fase 2** |
+| **2030-2031** | **Eventual aprovação recreativa** (se contexto favorável) | **Fase 2** |
+| 2031-2032 | Regulamentação + piloto recreativo | **Fase 2** |
+
+**Nota importante:** Mesmo no cenário conservador, a **Fase 1 avança e produz resultados** (cânhamo em produção, doentes com acesso medicinal). O bloqueio do recreativo não invalida os ganhos da Fase 1.
 
 ## Cronograma Base (Cenário Realista)
+
+### Fase 1: Cânhamo Industrial + Revisão Cannabis Medicinal
 
 | PRAZO | ACÇÃO | CONTINGÊNCIA |
 | :---- | :---- | :---- |
@@ -2786,10 +2838,17 @@ Para estabelecer expectativas realistas, é essencial analisar o tempo que legis
 | Abr 2026 | Perguntas parlamentares ao Min. Saúde (acesso cannabis medicinal) | — |
 | Mai 2026 | Participação na Marcha da Cannabis (Lisboa) | — |
 | Jun 2026 | Projecto de Resolução — grupo de trabalho parlamentar | Se rejeitado: reformular para proposta mais limitada |
-| **Q3-Q4 2026** | **Proposta legislativa cannabis recreativa** (coordenada com BE/PAN/IL) | Se sem apoio: focar em cânhamo primeiro |
-| **Q4 2026 - Q1 2027** | **Proposta simplificação regulatória cânhamo industrial** (THC<0,3%, menor resistência política) | — |
+| **Q2-Q3 2026** | **Proposta revisão cannabis medicinal** (comparticipação SNS, formação médicos, simplificação prescrição) — coordenada com PS/PAN/BE/IL/PCP | Consenso amplo esperado (precedente Lei 33/2018) |
+| **Q3-Q4 2026** | **Proposta simplificação regulatória cânhamo industrial** (THC<0,3%, regime notificação) | Menor resistência política — avança em paralelo com medicinal |
+| **Q4 2026 - Q1 2027** | **Aprovação cânhamo + medicinal; programa piloto cânhamo inicia** (3-5 regiões, ISA/UTAD, incentivos PAC) | Se atrasos no cânhamo: medicinal avança independentemente |
+
+### Fase 2: Cannabis Recreativa (após resultados Fase 1)
+
+| PRAZO | ACÇÃO | CONTINGÊNCIA |
+| :---- | :---- | :---- |
+| **Q1-Q2 2027** | **Proposta legislativa cannabis recreativa** (coordenada com BE/PAN/IL) — apresentada com resultados iniciais Fase 1 | Se sem apoio: consolidar ganhos Fase 1, reagendar |
 | **2027-2028** | **Negociações parlamentares, consultas públicas, emendas** | Preparar versões alternativas (mais/menos restritivas) |
-| **Q2-Q4 2028** | **Aprovação parlamentar regime experimental** | Se prolongado: solicitar comissão técnica independente |
+| **Q2-Q4 2028** | **Aprovação parlamentar regime experimental recreativo** | Se prolongado: solicitar comissão técnica independente |
 | **2028-2029** | **Regulamentação secundária** (SICAD, INFARMED, IVV) — 12-18 meses | Antecipar trabalho técnico durante debate parlamentar |
 | **Q3-Q4 2029** | **Programa piloto cannabis recreativa** — 2-3 clubes (Lisboa, Porto) | Se atrasos: iniciar apenas com autocultivo |
 | **2030-2032** | **Avaliação de impactos + expansão gradual baseada em dados** | Relatórios públicos anuais |
@@ -2835,13 +2894,17 @@ Para estabelecer expectativas realistas, é essencial analisar o tempo que legis
 
 ## Nota sobre Realismo do Cronograma
 
-**Honestidade intelectual:** A timeline de 12-18 meses (cenário optimista) assume condições favoráveis que podem não se verificar. A Lei 30/2000 — frequentemente citada como precedente — teve consenso cross-party pré-existente e contexto de urgência (crise heroína) que não existe actualmente.
+**Honestidade intelectual:** A estratégia em duas fases mitiga o principal risco político. A **Fase 1** (cânhamo + medicinal) tem precedentes de aprovação rápida em Portugal — a Lei 33/2018 (cannabis medicinal) foi aprovada em ~6 meses com consenso amplo. O cânhamo, sendo agricultura sem controvérsia ideológica, pode seguir timeline similar.
+
+**Já a Fase 2** (recreativo) enfrenta resistência diferente. A Lei 30/2000 — frequentemente citada como precedente — teve consenso cross-party pré-existente e contexto de urgência (crise heroína) que não existe actualmente.
 
 **Lição da eutanásia:** A legislação sobre eutanásia demorou ~5 anos (2018-2023) devido a vetos presidenciais e do TC. Cannabis recreativa, embora menos divisiva moralmente, enfrenta resistência diferente (segurança pública, tratados internacionais).
 
-**Expectativa calibrada:** O cenário mais provável é aprovação em **2028** com piloto em **2029** — uma timeline de 24-36 meses. Apresentar 12-18 meses como expectativa primária seria irrealista e prejudicaria credibilidade da proposta.
+**Expectativa calibrada:** A Fase 1 pode ser aprovada já em **2026**. Para a Fase 2, o cenário mais provável é aprovação em **2028** com piloto em **2029** — uma timeline de 24-36 meses. Apresentar 12-18 meses para o recreativo como expectativa primária seria irrealista e prejudicaria credibilidade da proposta.
 
-**O precedente alemão confirma:** Alemanha aprovou CanG em 18 meses com maioria parlamentar garantida (SPD/Grüne). Implementação técnica adicionou 6+ meses, e avaliação CDU Outono 2025 ainda pode reverter aspectos do modelo. Portugal, sem maioria, precisará de mais tempo para construir consenso.
+**Vantagem da abordagem faseada:** Mesmo que a Fase 2 sofra atrasos ou bloqueios, os ganhos da Fase 1 são permanentes — doentes com acesso medicinal, cânhamo em produção, credibilidade regulatória construída. A estratégia nunca resulta em "zero" — no pior cenário, Portugal avança em duas frentes de consenso.
+
+**O precedente alemão confirma:** Alemanha aprovou CanG em 18 meses com maioria parlamentar garantida (SPD/Grüne). Implementação técnica adicionou 6+ meses, e avaliação CDU Outono 2025 ainda pode reverter aspectos do modelo. Portugal, sem maioria, precisará de mais tempo para construir consenso — daí a lógica de começar pelo que não precisa de maioria difícil.
 
 \newpage
 
@@ -2852,7 +2915,7 @@ Este documento demonstra que existe uma base sólida de evidência para avançar
 * **Baseada em evidência, não em ideologia** — reconhecendo tanto os benefícios como os riscos
 * **Sensível aos riscos reais** (saúde mental juvenil, dependência, condução)
 * **Coerente com o legado português** da descriminalização
-* **Focada primeiro na vertente medicinal** (consenso mais fácil)
+* **Focada primeiro no cânhamo industrial e revisão medicinal** (consenso mais fácil, resultados imediatos)
 * **Aberta a construir pontes** com outros partidos
 * **Firme no autocultivo** — com regulação através de sementes certificadas
 
@@ -2860,11 +2923,13 @@ Este documento demonstra que existe uma base sólida de evidência para avançar
 
 ## Síntese das Ações Prioritárias
 
-O caminho proposto organiza-se em três eixos de ação complementares. **No eixo medicinal**, a prioridade imediata é garantir que os doentes portugueses acedam aos tratamentos que a Lei 33/2018 prometeu mas nunca entregou: comparticipação pelo SNS, formação de médicos de família, simplificação do processo de prescrição e eliminação do paradoxo de um país que exporta 18 toneladas mas vende apenas 17 kg aos seus próprios cidadãos. Este é o eixo de maior urgência e de maior consenso político — nenhum partido pode argumentar que os doentes devam continuar sem tratamento acessível.
+O caminho proposto organiza-se em **duas fases estratégicas** que reconhecem os diferentes graus de consenso político.
 
-**No eixo do cânhamo industrial**, Portugal tem condições naturais e competitivas para se tornar um produtor de referência europeu. Com um programa piloto de 1.000 hectares em quatro regiões, parcerias universitárias sólidas e o enquadramento favorável da PAC, o cânhamo pode gerar milhares de empregos em regiões de baixa densidade, contribuir para as metas climáticas nacionais e diversificar a economia agrícola. É uma oportunidade que não implica qualquer controvérsia ideológica — apenas vontade política de simplificar a regulação.
+**Fase 1 (imediata, em paralelo): Cânhamo industrial + revisão cannabis medicinal.** Estas duas frentes podem e devem avançar já — não dependem uma da outra nem do debate recreativo. **No eixo medicinal**, a prioridade é garantir que os doentes portugueses acedam aos tratamentos que a Lei 33/2018 prometeu mas nunca entregou: comparticipação pelo SNS, formação de médicos de família, simplificação do processo de prescrição e eliminação do paradoxo de um país que exporta 18 toneladas mas vende apenas 17 kg aos seus próprios cidadãos. O consenso político existe — PS/PSD/PCP votaram juntos em 2018. **No eixo do cânhamo industrial**, Portugal tem condições naturais e competitivas para se tornar um produtor de referência europeu. Com um programa piloto de 1.000 hectares em quatro regiões, parcerias universitárias sólidas e o enquadramento favorável da PAC, o cânhamo pode gerar milhares de empregos em regiões de baixa densidade, contribuir para as metas climáticas nacionais e diversificar a economia agrícola. É uma oportunidade que não implica qualquer controvérsia ideológica — apenas vontade política de simplificar a regulação. O cânhamo **não depende de nenhum outro pilar** e deve avançar primeiro.
 
-**No eixo recreativo**, a abordagem deve ser gradual e ancorada na experiência internacional. A legalização regulada do uso adulto, com limites claros de idade, potência, publicidade e segurança rodoviária, é o passo seguinte para completar o modelo português de política de drogas baseada na saúde pública. A descriminalização de 2001 foi visionária; a regulação responsável é a sua continuação lógica. Com os modelos do Uruguai, Canadá e Alemanha como referência — aprendendo tanto com os sucessos como com os erros — Portugal pode construir um quadro regulatório que proteja a saúde pública, reduza o mercado negro e gere receitas fiscais significativas para financiar prevenção e tratamento.
+**Fase 2 (após resultados da Fase 1): Cannabis recreativa.** Com a credibilidade construída pela Fase 1, a abordagem ao recreativo deve ser gradual e ancorada na experiência internacional. A legalização regulada do uso adulto, com limites claros de idade, potência, publicidade e segurança rodoviária, é o passo seguinte para completar o modelo português de política de drogas baseada na saúde pública. A descriminalização de 2001 foi visionária; a regulação responsável é a sua continuação lógica. Com os modelos do Uruguai, Canadá e Alemanha como referência — aprendendo tanto com os sucessos como com os erros — Portugal pode construir um quadro regulatório que proteja a saúde pública, reduza o mercado negro e gere receitas fiscais significativas para financiar prevenção e tratamento.
+
+**A vantagem desta sequência:** mesmo que a Fase 2 sofra atrasos ou bloqueios políticos, os ganhos da Fase 1 são permanentes — doentes com acesso medicinal, cânhamo em produção, empregos rurais criados, credibilidade regulatória construída.
 
 <!-- CI test Tue Feb  3 17:59:40 WET 2026 -->
 <!-- 1770141743 -->
@@ -3002,12 +3067,16 @@ Cada clube deve:
 * **Conteúdo:** Receitas, despesas detalhadas, custos por grama, pagamentos a direcção/funcionários, doações de excedentes
 * **Consequência:** Recusa de publicação resulta em suspensão imediata da licença até compliance
 
-### 2. Price Cap (Tecto de Preço)
+### 2. Transparência de Preços (em vez de tecto rígido)
 
-* **Máximo:** €6/grama (baseado na média alemã de custos operacionais [@bundesgesundheit2024cannabis])
-* **Justificação:** Preço deve reflectir apenas custos reais (cultivo, salários, infraestrutura, testes, impostos), sem margem comercial
-* **Excepções:** Variedades especializadas (medicinais, baixo THC) podem solicitar isenção temporária com justificação documentada
-* **Fiscalização:** Auditoria trimestral de preços vs. custos declarados
+* **Princípio:** Cada clube define os seus preços com base nos custos reais de produção, qualidade do produto, e situação financeira — **sem tecto de preço rígido**
+* **Obrigações de transparência:**
+  - Publicação trimestral do custo de produção por grama (detalhando cultivo, salários, infraestrutura, testes, impostos)
+  - Afixação visível dos preços praticados nas instalações e plataforma digital do clube
+  - Justificação documentada de variações superiores a 20% face ao preço de referência
+* **Preço de referência indicativo:** SICAD publica anualmente um preço de referência (não vinculativo) baseado nos custos médios dos clubes piloto — serve como benchmark, não como limite legal
+* **Objectivo:** Manter competitividade com mercado negro (~€5-8/g) sem impor rigidez que comprometa viabilidade de clubes com custos operacionais mais elevados
+* **Fiscalização:** Auditoria trimestral de preços vs. custos declarados — desvios significativos sem justificação desencadeiam inspecção aprofundada
 
 ### 3. Transparência Financeira Mensal
 
@@ -3069,8 +3138,8 @@ O Cannabis Social Club Ganderkesee (Baixa Saxónia), primeiro a distribuir canna
 
 | Categoria | Custo Anual Estimado | Detalhes |
 | :---- | :---- | :---- |
-| **Infraestrutura** | €30.000 - €50.000 | Instalações cultivo indoor/greenhouse, sistemas irrigação, ventilação, iluminação LED, controlo climático |
-| **Energia** | €15.000 - €25.000 | Electricidade (cultivo indoor intensivo), água, climatização |
+| **Infraestrutura** | €30.000 - €50.000 | Instalações cultivo indoor/greenhouse/outdoor, sistemas irrigação, ventilação, iluminação LED, controlo climático |
+| **Energia** | €15.000 - €25.000 | Electricidade (contrato 100% renovável obrigatório para indoor), água, climatização |
 | **Insumos agrícolas** | €8.000 - €12.000 | Fertilizantes, substratos, nutrientes, controlo de pragas orgânico |
 | **Sementes certificadas** | €3.000 - €5.000 | Fornecedores licenciados, variedades testadas (6-10 strains) |
 | **Manutenção equipamento** | €4.000 - €6.000 | Reparações, substituição lâmpadas, calibração sistemas |
@@ -3143,7 +3212,7 @@ Nota: Rácio pessoal-membros conservador (1:66-111), garantindo atendimento pers
 
 #### Opção 2: Pagamento por Grama Consumido (cost-recovery puro)
 
-* **Preço/grama:** €3 - €6 (conforme custos reais clube)
+* **Preço/grama:** €3 - €8 (conforme custos reais clube, sem tecto rígido)
 * **Quota base:** €20 - €30/mês (administrativa, cobrir fixos)
 * **Cálculo:** Custos totais / produção anual estimada
 * **Exemplo:** €336.000 custos / 60.000g produção = €5,60/grama
@@ -3156,7 +3225,7 @@ Nota: Rácio pessoal-membros conservador (1:66-111), garantindo atendimento pers
 
 * **Quota administrativa:** €30/mês (cobrir salários, fixos, compliance)
 * **Preço cannabis:** €3 - €5/grama (conforme custos cultivo + testes)
-* **Price cap absoluto:** €6/grama (prevenir desvios comerciais)
+* **Transparência obrigatória:** Publicação de custos de produção e preços praticados (sem tecto rígido — preço de referência indicativo publicado por SICAD)
 * **Exemplo consumidor médio (20g/mês):**
   - Quota: €30
   - Cannabis: 20g × €4 = €80
@@ -3167,7 +3236,7 @@ Nota: Rácio pessoal-membros conservador (1:66-111), garantindo atendimento pers
 | Modelo | Preço/grama | Markup | Finalidade lucro |
 | :---- | :---- | :---- | :---- |
 | **Mercado negro PT** | €10 - €15 | 200-400% | Máximo lucro, sem custos compliance |
-| **Clube social (proposta PT)** | €3 - €6 | 0% | Cost-recovery only, sem fins lucrativos |
+| **Clube social (proposta PT)** | €3 - €8 | 0% | Cost-recovery only, sem fins lucrativos, preços transparentes |
 | **Dispensário comercial (Colorado)** | $8 - $15 (~€7,50 - €14) | ~37% impostos | Lucro + impostos estaduais |
 | **Farmácia (Alemanha)** | €15 - €25 | Farmacêutico | Medicinal, prescrição obrigatória |
 
@@ -3709,7 +3778,7 @@ Comparar outcomes 2028-2030 informa expansão/refinement.
 
 **Suíça:** CHF 8-12/g (~€8,50-12,50) consegue >90% captura participantes registados porque **marginalmente abaixo mercado negro** CHF 10-15/g.
 
-**Portugal:** Mercado negro €10-15/g, proposta clubes €3-6/g (cost-recovery). **Vantagem competitiva enorme** — mas risk: se custos compliance aumentam (labs, pessoal, facilities), €6/g pode não ser suficiente break-even. **Lição:** Monitorizar custos reais pilotos, ajustar cap preço se necessário para sustainability (até €8-9/g ainda competitivo).
+**Portugal:** Mercado negro €10-15/g, proposta clubes €3-8/g (cost-recovery, sem tecto rígido). **Vantagem competitiva enorme** — mas risk: se custos compliance aumentam (labs, pessoal, facilities), preços devem poder ajustar-se. **Lição:** Monitorizar custos reais pilotos, garantir transparência de preços e custos de produção. Preço de referência indicativo (não vinculativo) publicado por SICAD permite acompanhamento sem rigidez que comprometa viabilidade. Até €8-9/g ainda competitivo face ao mercado negro.
 
 ### 4. Zero Leakage É Possível Mas Requer Enforcement Inteligente
 
@@ -4135,7 +4204,7 @@ A Alemanha enfrentou desafios iniciais com os testes rápidos disponíveis — o
 
 **Resposta curta (30s):**
 
-"Exactamente por isso aprendemos com os erros espanhóis. Espanha não tem regulação nacional — é zona cinzenta sem auditorias, sem price caps, sem fiscalização. Portugal propõe governance rigorosa: auditorias anuais obrigatórias publicadas online, tecto de €6/grama, excedentes doados automaticamente a SICAD, inspecções surpresa trimestrais (10% dos clubes), e whistleblowing protegido. Tudo o que falta em Espanha."
+"Exactamente por isso aprendemos com os erros espanhóis. Espanha não tem regulação nacional — é zona cinzenta sem auditorias, sem transparência financeira, sem fiscalização. Portugal propõe governance rigorosa: auditorias anuais obrigatórias publicadas online, transparência total de preços e custos de produção, excedentes doados automaticamente a SICAD, inspecções surpresa trimestrais (10% dos clubes), e whistleblowing protegido. Tudo o que falta em Espanha."
 
 **Resposta desenvolvida (2min):**
 
@@ -4147,7 +4216,7 @@ A Alemanha implementa fiscalização através de documentação obrigatória (§
 
 1. **Auditoria financeira anual obrigatória** — conduzida por auditor externo certificado não-membro, relatório completo publicado online e submetido a SICAD. Recusa de publicação = suspensão imediata da licença
 
-2. **Price cap rigoroso** — máximo €6/grama (baseado em custos operacionais médios alemães). Preço deve reflectir apenas custos reais (cultivo, salários, infraestrutura, testes), sem margem comercial
+2. **Transparência de preços obrigatória** — clubes definem preços com base nos custos reais (cultivo, salários, infraestrutura, testes), sem margem comercial. Publicação trimestral obrigatória de custos de produção por grama. Preço de referência indicativo (não vinculativo) publicado anualmente por SICAD
 
 3. **Proibição absoluta de retenção de excedentes** — qualquer surplus (receitas > custos + reserva operacional 10%) é **automaticamente doado a SICAD** trimestralmente para financiar prevenção/tratamento. Distribuição de lucros a membros/direcção = revogação permanente da licença
 
@@ -4164,7 +4233,7 @@ A Alemanha implementa fiscalização através de documentação obrigatória (§
 * Espanha: ~800-1.000 clubes em zona cinzenta legal, sem regulação nacional [@tni2018; @transform2018]
 * Problemas documentados: exploração comercial, turismo cannábico, ligações crime organizado [@transform2018]
 * Barcelona 2024: encerramento de 30 clubes por desvios [@hightimes2024]
-* Proposta PT: 6 mecanismos de governance ausentes em Espanha (auditorias anuais, price caps €6/g, surplus a SICAD, whistleblowing, inspecções 10% trimestrais, transparência mensal)
+* Proposta PT: 6 mecanismos de governance ausentes em Espanha (auditorias anuais, transparência obrigatória de preços/custos, surplus a SICAD, whistleblowing, inspecções 10% trimestrais, transparência financeira mensal)
 * **Conclusão:** Regulação rigorosa com enforcement previne desvios que zona cinzenta espanhola permite
 
 ---
@@ -4373,45 +4442,6 @@ Aliás, se Portugal não agir, **perderemos a vantagem competitiva** que temos n
 * Vantagem competitiva cannabis medicinal: 2º exportador mundial [@infarmed2024; @euronews2024]
 * Risco: perder posição se mercado europeu crescer sem PT participar
 * **Princípio:** Seguir evidência de múltiplos países com dados robustos ≠ ser cobaia
-
----
-
-## Ataques Específicos por Partido
-
-### Partido Socialista (PS)
-
-#### "Não queremos criar divisões na bancada"
-
-**Resposta curta (30s):**
-
-"Compreendo a preocupação. Mas a Juventude Socialista já se posicionou claramente a favor [@rr2024js]. Vários deputados do PS votaram favoravelmente em 2019. E o PS tem o legado da Lei 30/2000 — a descriminalização que o mundo inteiro elogia [@greenwald2009]. Seria estranho outro partido liderar o passo seguinte."
-
-**Resposta desenvolvida (2min):**
-
-"A preocupação com a unidade partidária é legítima. Mas deixe-me partilhar alguns factos:
-
-**A Juventude Socialista** é claramente a favor. Em janeiro de 2024, voltaram a insistir na legalização [@rr2024js]. Miguel Costa Matos, enquanto líder da JS, pediu ao PS que aproveitasse a maioria absoluta para avançar [@publico2023ps]. Esta não é uma posição marginal — vem sendo defendida há vários anos pela base jovem do partido.
-
-**Vários deputados do PS** votaram a favor de propostas de legalização em 2019. Há abertura interna, mesmo que não seja maioritária.
-
-**O legado histórico do PS**: Foi o PS que aprovou a Lei 30/2000, a descriminalização que revolucionou a política de drogas mundial [@greenwald2009]. O Cato Institute, um think tank conservador americano, elogiou-a como 'sucesso retumbante'. Portugal foi pioneiro há 25 anos. Não seria coerente que outro partido liderasse o próximo passo.
-
-**Em 2023, o Eurico Brilhante Dias** (então líder do grupo parlamentar) anunciou um grupo de trabalho que nunca concluiu devido à crise política [@publico2023ps; @ps2023cannabis]. Isso mostra que há abertura — falta o momento certo.
-
-**Proposta:** Começar pela cannabis medicinal — comparticipação e simplificação do acesso. Isso tem consenso alargado (PS, PSD, PCP, todos votaram a favor em 2018 [@publico2018b]) e prepara o terreno para discussões futuras sobre regulação."
-
-**Dados de suporte:**
-
-* Juventude Socialista a favor da legalização desde 2019 [@rr2024js; @publico2021js]
-* Miguel Costa Matos (JS) pediu ao PS que aproveitasse maioria absoluta (2022)
-* Deputados PS votaram favorável em propostas 2019
-* Legado Lei 30/2000: descriminalização elogiada internacionalmente [@greenwald2009]
-* Eurico Brilhante Dias anunciou grupo de trabalho set/2023 [@publico2023ps; @ps2023cannabis]
-* Grupo de trabalho nunca concluiu (crise política, eleições antecipadas 2024)
-* Cannabis medicinal: consenso PS/PSD/PCP em 2018 [@publico2018b]
-* **Táctica:** Começar por cannabis medicinal (consensual) → preparar terreno para recreativa
-
----
 # Referências
 <!-- ref fix 1770153775 -->
 <!-- final 1770156168 -->
