@@ -88,7 +88,7 @@ jobs:
             ---
             👤 **Release manual** criada por @${{ github.actor }}
           files: |
-            output/Documento_Cannabis.pdf
-            output/Documento_Cannabis.docx
+            output/Regulacao_Cannabis_Portugal.pdf
+            output/Regulacao_Cannabis_Portugal.docx
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -5,7 +5,7 @@ set -euo pipefail
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 PROJECT_DIR="$(dirname "$SCRIPT_DIR")"
 CHAPTERS_DIR="$PROJECT_DIR/chapters"
-OUTPUT_DOCX="$PROJECT_DIR/output/Documento_Cannabis.docx"
+OUTPUT_DOCX="$PROJECT_DIR/output/Regulacao_Cannabis_Portugal.docx"
 CSL_STYLE="$PROJECT_DIR/ieee.csl"
 
 # Criar pasta output

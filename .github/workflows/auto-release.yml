@@ -93,7 +93,7 @@ jobs:
             💡 **Nota:** Release automática gerada por alterações a `documento.md` ou `references.bib`.
             Para releases MINOR ou MAJOR, use o [workflow manual](../../actions/workflows/manual-release.yml).
           files: |
-            output/Documento_Cannabis.pdf
-            output/Documento_Cannabis.docx
+            output/Regulacao_Cannabis_Portugal.pdf
+            output/Regulacao_Cannabis_Portugal.docx
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
