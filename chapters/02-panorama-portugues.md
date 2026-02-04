@@ -80,7 +80,7 @@ Os dados comprovam que tratar consumo como questão de saúde (e não criminal) 
 * Redução de 98% nos diagnósticos de HIV relacionado com drogas [@internationalcbc2025]
 * Mortes por overdose caíram significativamente [@businesscannabis2025b]
 * Portugal tem agora uma das taxas mais baixas de mortalidade por drogas na Europa (10 por milhão vs. 22 média UE) [@mmjdaily2025]
-* **Consumo não aumentou após descriminalização** — Portugal mantém taxas abaixo da média europeia (8,2% vs 8,3% UE, último ano) [@euda2024cannabis]. **Nota metodológica:** Impossível provar causalidade (múltiplos factores confundidos: tendências europeias, mudanças culturais, políticas prevenção). A conclusão defensável é que a descriminalização **não causou a epidemia temida** pelos opositores [@greenwald2009; @springer2021pt]
+* **Consumo não aumentou após descriminalização** — Portugal mantém taxas abaixo da média europeia (8,2% vs 8,3% UE, último ano) [@euda2024cannabis] (nota: a diferença face aos 2,8% do período anterior reflecte alterações metodológicas nos inquéritos do SICAD/EMCDDA, incluindo maior abrangência amostral e revisão dos critérios de reporte, não necessariamente um aumento real proporcional do consumo). **Nota metodológica:** Impossível provar causalidade (múltiplos factores confundidos: tendências europeias, mudanças culturais, políticas prevenção). A conclusão defensável é que a descriminalização **não causou a epidemia temida** pelos opositores [@greenwald2009; @springer2021pt]
 
 **2\. O sistema judicial tornou-se mais eficaz e humano**
 

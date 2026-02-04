@@ -15,7 +15,7 @@ A NASEM (2017) — analisando mais de 10.000 resumos científicos — estabelece
 A evidência sobre riscos é robusta e deve orientar a nossa proposta:
 
 * **Psicose:** Meta-análise Marconi et al. (2016): OR 3,90 para psicose nos consumidores mais pesados vs. não-consumidores [@unnews2020]
-* **Alta potência + uso diário:** Estudo EU-GEI (2019): combinação de **uso diário** + cannabis de alta potência (THC ≥10%) associado a ~5x maior probabilidade de psicose (OR 4,8). **Nota crítica:** O risco elevado requer AMBOS fatores (uso diário + THC ≥10%), não apenas potência isolada [@dezeen2021]
+* **Alta potência + uso diário:** Estudo EU-GEI (2019): combinação de **uso diário** + cannabis de alta potência (THC ≥10%) associado a ~5x maior probabilidade de psicose (OR 4,8). **Nota crítica:** O risco elevado requer AMBOS factores (uso diário + THC ≥10%), não apenas potência isolada [@dezeen2021]
 * **Cannabis Use Disorder (CUD) — Gradiente de risco por frequência de uso:** Meta-análise Leung et al. (2020): **~22% dos utilizadores de cannabis** desenvolvem CUD ao longo da vida (baseline). **Risco aumenta substancialmente com frequência:**
   - **Uso ocasional/infrequente:** ~10-15% desenvolvem CUD (metade do risco baseline)
   - **Uso semanal/regular:** ~25-30% desenvolvem CUD
@@ -47,7 +47,7 @@ Reconhecemos os riscos e por isso propomos medidas específicas, baseadas em mod
 
 **Nota crítica sobre acesso 18-20 anos:**
 
-O estudo EU-GEI 2019 demonstra que o risco elevado de psicose (OR 4,8) requer a **combinação** de dois fatores: (1) uso diário + (2) THC ≥10%. O nosso modelo para 18-20 anos mitiga ambos:
+O estudo EU-GEI 2019 demonstra que o risco elevado de psicose (OR 4,8) requer a **combinação** de dois factores: (1) uso diário + (2) THC ≥10%. O nosso modelo para 18-20 anos mitiga ambos:
 
 1. **Previne uso diário:** Limite 30g/mês = máximo ~1g/dia. Uso "diário de alta potência" no estudo refere utilizadores pesados sem limites estruturais
 2. **Cap THC no threshold:** Limite 10% para 18-20 impede acesso a >10% (o threshold de "alta potência" no estudo)
