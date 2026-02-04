@@ -136,7 +136,7 @@ Os pilotos suíços testam deliberadamente **3 modelos distintos** para comparar
 
 Em **Agosto 2025**, governo suíço abriu **consulta pública sobre Lei de Produtos Cannabis** (Cannabis Products Act), permitindo comentários até Dezembro 2025 [@cannabisregulations2025switzerland].
 
-**Objetivo:** Expandir fornecimento cannabis adultos 18+ para além de trials científicos, permitindo **venda comercial regulada a nível nacional** (mantendo opt-out cantonal).
+**Objectivo:** Expandir fornecimento cannabis adultos 18+ para além de trials científicos, permitindo **venda comercial regulada a nível nacional** (mantendo opt-out cantonal).
 
 ### Proposta Legislativa Principal
 
