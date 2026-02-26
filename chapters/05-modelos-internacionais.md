@@ -182,6 +182,20 @@ Espanha não legalizou cannabis, mas tolera ~800-1.000 clubes sociais numa "áre
 
 **Lição para Portugal:** A ausência de regulação nacional clara não elimina o mercado — apenas o empurra para zona cinzenta com menos controlo e mais riscos. O modelo alemão oferece alternativa superior: regras explícitas, limites definidos, proibição de turismo cannábico, e segurança jurídica. **Portugal aprende com os erros espanhóis**, implementando governance rigorosa ausente em Espanha: auditorias anuais obrigatórias, transparência financeira mensal, transparência obrigatória de preços e custos de produção (com preço de referência indicativo publicado por SICAD), proibição de retenção de excedentes (doados automaticamente a SICAD), programa de whistleblowing protegido, e inspecções surpresa trimestrais (10% dos clubes) — ver detalhes em Anexo A.
 
+## Tailândia (2022–2026): o chicote político {#tailandia-chicote}
+
+A Tailândia oferece o exemplo mais dramático de como **não** fazer uma legalização. Em Junho de 2022, o Ministro da Saúde Pública Anutin Charnvirakul — líder do partido Bhumjai Thai, com base eleitoral nos agricultores do nordeste — removeu a cannabis da lista de narcóticos e distribuiu pessoalmente **1 milhão de mudas gratuitas** num comício em Buriram, prometendo benefícios económicos para "cultivadores individuais, agricultores comunitários e empreendedores". Mais de 350.000 famílias registaram-se como cultivadoras [@apnews2022thailand].
+
+**O problema:** Apesar de o governo insistir que "apenas a cannabis medicinal foi legalizada", não existiam planos de monitorização séria do cultivo e venda a pequena escala [@apnews2022thailand]. Este vácuo regulatório criou uma legalização recreativa *de facto*, sem qualquer enquadramento legal para a sustentar.
+
+**A bolha:** Em menos de dois anos, mais de 20.000 dispensários e lojas de cannabis proliferaram pelo país, muitos em zonas cinzentas com controlos mínimos [@lexology2026thailand]. O sector atraiu investimento massivo de pequenos empreendedores e agricultores.
+
+**O retrocesso:** O governo seguinte inverteu o rumo. Uma nova regulação ministerial restringiu a venda comercial exclusivamente a contextos médicos — hospitais, farmácias, clínicas de medicina tradicional — eliminando o modelo de dispensário recreativo [@bangkokpost2025cannabis; @lexology2026thailand]. Das 8.636 licenças expiradas em 2025, apenas 1.339 (15,5%) foram renovadas; **7.297 lojas encerraram**. O número total caiu de ~20.000 para ~11.000 — e continua em queda acentuada [@nationthailand2026].
+
+**Impacto humano:** "Convidaram-nos a plantar as sementes, investimos as nossas vidas, e agora estão a queimar o campo" — desabafo viral de um empreendedor tailandês [@lexology2026thailand]. Para milhares de pequenos agricultores e empresários que responderam ao incentivo estatal, o retrocesso regulatório representou ruína financeira.
+
+**Lição para Portugal:** A Tailândia ilustra o perigo simétrico ao da Espanha. Se Espanha mostra o custo da **ausência** de regulação, a Tailândia mostra o custo da **inconsistência** — liberalizar sem regulamentar, incentivar investimento privado sem enquadramento jurídico estável, e depois reverter sob pressão política. Qualquer modelo português deve garantir **estabilidade regulatória** e **previsibilidade** para todos os actores envolvidos — exactamente o que o modelo faseado proposto neste documento procura assegurar.
+
 ## Impacto no consumo juvenil {#3.5-impacto-no-consumo-juvenil}
 
 **Evidência internacional — declínios generalizados pós-legalização:**
