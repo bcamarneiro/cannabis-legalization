@@ -44,6 +44,7 @@ Reconhecemos os riscos e por isso propomos medidas específicas, baseadas em mod
 | **Consumo problemático** | Financiamento garantido para tratamento e prevenção via Orçamento do Estado ([ver estimativas](#financiamento)) |
 | **Uso frequente/diário** | Limites mensais (30g/mês para 18-20, 50g/mês para 21+); limite de plantas (3) em autocultivo; Oficial de Prevenção monitorizando frequência + encaminhamento proactivo |
 | **Riscos cardiovasculares** | Informação obrigatória sobre riscos cardíacos na sessão de admissão; screening cardiovascular no PHQ inicial; aviso em rotulagem; recomendação de vaporização vs combustão (redução exposição a produtos de combustão); encaminhamento médico para utilizadores >50 anos ou com patologia cardíaca conhecida |
+| **Vulnerabilidades específicas de género** | Programas de prevenção sensíveis ao género; formação de Oficiais de Prevenção em trauma-informed care; rastreio de trauma em admissão; referenciação prioritária para mulheres em situação vulnerável (dados ICAD 2024 mostram 100% alto-risco em raparigas institucionalizadas vs 49% rapazes) [@carapinha2024icad; @observador2026cannabis] |
 
 **Nota crítica sobre acesso 18-20 anos:**
 

@@ -60,6 +60,46 @@ Os dados do V Inquérito Nacional (SICAD, 2022) mostram que Portugal mantém tax
 
 **Dado preocupante:** O consumo de risco elevado entre jovens 15-24 anos aumentou de 0,2% (2012) para 1,3% (2022), medido pelo Cannabis Abuse Screening Test (CAST) [@leung2020].
 
+### Consumo problemático: novos dados ICAD 2024
+
+Um estudo recente do Instituto para os Comportamentos Aditivos e as Dependências (ICAD, 2024) fornece dados actualizados sobre padrões de consumo problemático em Portugal [@carapinha2024icad; @observador2026cannabis]:
+
+**População geral (15-74 anos):**
+
+* **~2% consumiram cannabis no último ano**
+* **25-35% dos utilizadores apresentam padrões de consumo problemático** (ligados a frequência ou dependência)
+* **Diferenças de género marcadas:**
+  - Homens: 1-1,2% mostram consumo frequente
+  - Mulheres: 0,1-0,2% (5-10 vezes menor)
+  - Entre consumidores: 32% dos homens vs. 19% das mulheres mostram uso problemático
+
+**População prisional — inversão do padrão de género:**
+
+* **Mulheres: 63% reportam consumo diário ou quase-diário**
+* Homens: 46% reportam consumo diário ou quase-diário
+* **A diferença de género observada na população geral inverte-se dramaticamente em contextos institucionais**
+
+**Centros educativos (jovens institucionalizados):**
+
+* Mais de 80% demonstram consumo de risco moderado-a-alto
+* 62% usam diariamente ou quase diariamente
+* **Disparidade crítica por género:**
+  - Raparigas: **100% mostram consumo de alto-risco**
+  - Rapazes: 49% mostram consumo de alto-risco
+
+**Explicação dos padrões — vulnerabilidade e trauma:**
+
+A coordenadora do estudo, Ludmila Carapinha, explica que "raparigas já em trajectórias desviantes ou situações vulneráveis carregam maior peso de factores de risco, nomeadamente experiências de trauma comparadas aos rapazes" [@observador2026cannabis].
+
+**Implicações para a regulação proposta:**
+
+Estes dados reforçam a necessidade de:
+
+1. **Abordagem de género nas intervenções:** Programas específicos para raparigas/mulheres em situação vulnerável, com atenção ao trauma
+2. **Foco em populações marginalizadas:** As taxas alarmantes em prisões e centros educativos demonstram que a proibição não protege os mais vulneráveis — pelo contrário, empurra-os para consumo de risco sem qualquer supervisão
+3. **Harm reduction direccionado:** Sistema de clubes com Oficial de Prevenção pode identificar padrões problemáticos precocemente e referenciar para tratamento — algo impossível no mercado negro actual
+4. **Protecção de jovens vulneráveis:** Idade mínima 21 anos (18-20 com restrições) e limites mensais previnem escalada de frequência — particularmente crítico para populações de risco
+
 **Contexto importante:** Este aumento de 6,5x no consumo de risco juvenil (0,2% → 1,3%) [@transform2020] ocorreu durante o período de **desinvestimento drástico nos serviços de prevenção e tratamento**: em 2012, o financiamento foi cortado de €76 milhões para €16 milhões (-79%) [@tax2024; @nutt2010], o IDT foi extinto e substituído pelo SICAD, e o tempo de espera para tratamento passou de 4 horas para 1 ano [@rogeberg2019]. Em 2025, o coordenador nacional João Goulão confirmou que o orçamento actual continua inferior ao de antes de 2012 [@bundesministerium2024]. **A proibição não impediu este aumento; regulação permitiria controlo de potência e programas de prevenção adequadamente financiados.**
 
 ## A descriminalização de 2001: resultados comprovados
