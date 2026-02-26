@@ -24,9 +24,15 @@
 \usepackage{array}
 \usepackage{colortbl}
 \usepackage{footnote}
-% Use TeX Gyre Heros (Helvetica clone with full Unicode support including ª º)
-\setmainfont{TeX Gyre Heros}
-\setsansfont{TeX Gyre Heros}
+% Helvetica Neue (macOS system font; fallback to TeX Gyre Heros for Linux/CI)
+% TeX Gyre Heros requires fontconfig registration; Helvetica Neue works out-of-the-box on macOS
+\IfFontExistsTF{Helvetica Neue}{%
+  \setmainfont{Helvetica Neue}%
+  \setsansfont{Helvetica Neue}%
+}{%
+  \setmainfont{TeX Gyre Heros}[Path=/usr/local/texlive/2025/texmf-dist/fonts/opentype/public/tex-gyre/,Extension=.otf,UprightFont=texgyreheros-regular,BoldFont=texgyreheros-bold,ItalicFont=texgyreheros-italic,BoldItalicFont=texgyreheros-bolditalic]%
+  \setsansfont{TeX Gyre Heros}[Path=/usr/local/texlive/2025/texmf-dist/fonts/opentype/public/tex-gyre/,Extension=.otf,UprightFont=texgyreheros-regular,BoldFont=texgyreheros-bold,ItalicFont=texgyreheros-italic,BoldItalicFont=texgyreheros-bolditalic]%
+}
 \usepackage{hyperref}
 \usepackage{bookmark}  % Better TOC bookmarks with hyperref
 \usepackage{xurl}  % Better URL line breaking
