@@ -15,11 +15,12 @@
   .controls { display:flex; flex-wrap:wrap; gap:.5rem; margin:1.5rem 0; justify-content:center; }
   .btn { border:2px solid transparent; padding:.5rem 1rem; border-radius:.5rem; cursor:pointer; font-weight:600; background:var(--card); color:var(--text); transition:.2s; }
   .btn:hover { transform:translateY(-1px); }
+  .btn:focus-visible { outline:3px solid #4dabf7; outline-offset:2px; }
   .btn.active { color:#fff; }
   table { width:100%; border-collapse:collapse; background:var(--card); border-radius:.5rem; overflow:hidden; box-shadow:0 1px 3px rgba(0,0,0,.08); margin-bottom:2rem; }
   th,td { padding:.75rem 1rem; border-bottom:1px solid var(--border); text-align:left; vertical-align:top; }
   th { background:#f1f3f5; font-size:.75rem; text-transform:uppercase; letter-spacing:.03em; color:var(--muted); }
-  td:first-child { font-weight:600; width:22%; }
+  tbody th:first-child { font-weight:600; width:22%; text-transform:none; font-size:inherit; background:transparent; }
   .cat-header { background:#e9ecef; font-weight:700; font-size:.85rem; color:#495057; }
   .cat-header td { padding:.5rem 1rem; }
   .badge { display:inline-block; font-size:.7rem; padding:.15rem .4rem; border-radius:.25rem; background:var(--bg); color:var(--muted); margin-left:.4rem; vertical-align:middle; }
@@ -31,7 +32,7 @@
   .country-sources ul { list-style:none; padding-left:0; font-size:.85rem; color:var(--muted); }
   .country-sources li { margin-bottom:.35rem; padding-left:1rem; text-indent:-1rem; }
   .country-sources li::before { content:"•"; margin-right:.5rem; color:var(--muted); }
-  @media (max-width:800px) { td:first-child { width:35%; } th,td { padding:.5rem; font-size:.85rem; } }
+  @media (max-width:800px) { tbody th:first-child { width:35%; } th,td { padding:.5rem; font-size:.85rem; } }
   @media (max-width:500px) { .controls { flex-direction:column; align-items:stretch; } }
 </style>
 </head>
@@ -41,10 +42,15 @@
   <p>Portugal (proposta) · Alemanha · Canadá · Uruguai — atualizado Janeiro 2026</p>
 </header>
 <div class="wrap">
-  <div class="controls" id="controls"></div>
-  <table id="compareTable"><thead></thead><tbody></tbody></table>
-  <div class="sources" id="sources"></div>
+  <div class="controls" id="controls" role="group" aria-label="Seleção de países para comparação"></div>
+  <table id="compareTable" aria-label="Tabela comparativa de modelos legislativos"><thead></thead><tbody></tbody></table>
+  <div class="sources" id="sources" aria-label="Fontes e referências por país"></div>
 </div>
+<noscript>
+  <div style="max-width:800px;margin:2rem auto;padding:1.5rem;background:#fff3cd;border:1px solid #ffc107;border-radius:.5rem;">
+    <p><strong>JavaScript necessário:</strong> Este explorador interativo requer JavaScript para funcionar. Por favor, ative o JavaScript no seu navegador ou consulte os dados diretamente em <code>explorer/data.js</code>.</p>
+  </div>
+</noscript>
 <script src="data.js"></script>
 <script src="app.js"></script>
 </body>

@@ -13,14 +13,18 @@
   function renderControls() {
     controls.innerHTML = "";
     data.countries.forEach(c => {
+      const isActive = active.has(c.id);
       const btn = document.createElement("button");
-      btn.className = "btn" + (active.has(c.id) ? " active" : "");
-      btn.style.borderColor = active.has(c.id) ? c.color : "#dee2e6";
-      if (active.has(c.id)) btn.style.background = c.color;
+      btn.className = "btn" + (isActive ? " active" : "");
+      btn.style.borderColor = isActive ? c.color : "#dee2e6";
+      if (isActive) btn.style.background = c.color;
       btn.textContent = c.name;
+      btn.setAttribute("aria-pressed", isActive ? "true" : "false");
+      btn.setAttribute("aria-label", c.name + " (" + c.status + ")");
       const badge = document.createElement("span");
       badge.className = "badge";
       badge.textContent = c.status;
+      badge.setAttribute("aria-hidden", "true");
       btn.appendChild(badge);
       btn.onclick = () => {
         if (active.has(c.id)) {
@@ -38,7 +42,7 @@
 
   function renderTable() {
     const cols = data.countries.filter(c => active.has(c.id));
-    thead.innerHTML = `<tr><th>Característica</th>${cols.map(c => `<th style="color:${c.color}">${c.name}</th>`).join("")}</tr>`;
+    thead.innerHTML = `<tr><th scope="col">Característica</th>${cols.map(c => `<th scope="col" style="color:${c.color}">${c.name}</th>`).join("")}</tr>`;
     tbody.innerHTML = "";
     data.categories.forEach(cat => {
       const tr = document.createElement("tr");
@@ -47,7 +51,7 @@
       tbody.appendChild(tr);
       cat.features.forEach(f => {
         const row = document.createElement("tr");
-        let html = `<td>${f.label}</td>`;
+        let html = `<th scope="row">${f.label}</th>`;
         cols.forEach(c => {
           const val = f[c.id] || "—";
           html += `<td>${val}</td>`;
