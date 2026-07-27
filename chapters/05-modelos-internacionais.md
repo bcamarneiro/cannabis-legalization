@@ -222,3 +222,7 @@ Não podemos isolar o efeito causal da legalização vs. tendências nacionais. 
 4. **Portugal actual (proibição):** Consumo de risco juvenil **aumentou 6,5x** entre 2012-2022 (0,2%→1,3%) — proibição claramente não protege [@espad2023]
 
 **Conclusão:** Regulação não é panaceia. A evidência disponível — incluindo o estudo longitudinal de Coley et al. (2024, Boston College), que analisou dados 2011-2021 e encontrou **associações limitadas** entre legalização recreativa e consumo juvenil [@coley2024] — sugere que a regulação **não provocou os aumentos de consumo que opositores previam**. Contudo, os declínios observados são parcialmente atribuíveis a tendências nacionais pré-existentes (ver contexto crítico acima), pelo que afirmações de causalidade devem ser cautelosas. O que é claro: a regulação cria mecanismos protectores (verificação idade, educação, financiamento prevenção) inexistentes no mercado negro.
+
+---
+
+> **Explorador comparativo interativo:** Para consultar uma comparação lado-a-lado das características regulatórias de Portugal (proposta), Alemanha, Canadá e Uruguai — incluindo limites de posse, estrutura de clubes, modelos de preço e fontes — abrir [`explorer/index.html`](../../explorer/index.html) no repositório.
