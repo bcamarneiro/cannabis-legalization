@@ -505,7 +505,8 @@
       <div id="citation-fields" style="display:none;">
         <div class="form-group">
           <label for="citation-type">Tipo de fonte</label>
-          <select id="citation-type" name="citation-type">
+          <select id="citation-type" name="citation-type"
+                  aria-describedby="citation-type-error">
             <option value="article">Artigo científico (peer-reviewed)</option>
             <option value="online">Artigo web / Blog</option>
             <option value="report">Relatório oficial (SICAD, EUDA, OMS, etc.)</option>
@@ -513,11 +514,14 @@
             <option value="book">Livro</option>
             <option value="other">Outro</option>
           </select>
+          <div class="error-msg" id="citation-type-error" role="alert">Seleciona o tipo de fonte.</div>
         </div>
         <div class="form-group">
           <label for="citation-author">Autor(es) / Fonte</label>
           <input type="text" id="citation-author" name="citation-author"
-                 placeholder="Ex.: Organização Mundial de Saúde">
+                 placeholder="Ex.: Organização Mundial de Saúde"
+                 aria-describedby="citation-author-error">
+          <div class="error-msg" id="citation-author-error" role="alert">Indica o autor ou fonte da citação.</div>
         </div>
         <div class="form-group">
           <label for="citation-year">Ano</label>
@@ -663,8 +667,10 @@
       if (!$('#proposed-text').value.trim()) { setError('proposed', true); valid = false; }
       // Validate citation fields if relevant
       if (document.querySelector('input[name="contribution-type"]:checked')?.value === 'citation') {
+        if (!$('#citation-author').value.trim()) { setError('citation-author', true); valid = false; }
         const year = $('#citation-year').value.trim();
-        if (year && !/^\d{4}$/.test(year)) { setError('citation-year', true); valid = false; }
+        if (!year) { setError('citation-year', true); valid = false; }
+        else if (!/^\d{4}$/.test(year)) { setError('citation-year', true); valid = false; }
         const url = $('#citation-url').value.trim();
         if (url && !/^https?:\/\/.+/.test(url)) { setError('citation-url', true); valid = false; }
       }
@@ -688,7 +694,7 @@
   document.querySelectorAll('input[name="contribution-type"]').forEach(r => {
     r.addEventListener('change', function() {
       $('#citation-fields').style.display = this.value === 'citation' ? '' : 'none';
-      const fields = ['citation-type', 'citation-author', 'citation-year', 'citation-url'];
+      const fields = ['citation-type', 'citation-author', 'citation-year'];
       fields.forEach(f => {
         const el = $(`#${f}`);
         if (el) {
@@ -696,6 +702,9 @@
           else el.removeAttribute('required');
         }
       });
+      // citation-url is optional — never set required
+      const urlEl = $('#citation-url');
+      if (urlEl) urlEl.removeAttribute('required');
     });
   });
 
@@ -828,9 +837,14 @@ ${justification}
   });
 
   // ─── Live preview update on step 4 ──────────────
-  ['name', 'email', 'expertise', 'title', 'current-text', 'proposed-text', 'sources', 'justification'].forEach(id => {
+  ['name', 'email', 'expertise', 'expertise-other', 'title', 'current-text', 'proposed-text', 'sources', 'justification',
+   'citation-author', 'citation-year', 'citation-url'].forEach(id => {
     const el = $('#' + id);
     if (el) el.addEventListener('input', () => { if (STATE.step === 4) updatePreview(); });
+  });
+  ['citation-type'].forEach(id => {
+    const el = $('#' + id);
+    if (el) el.addEventListener('change', () => { if (STATE.step === 4) updatePreview(); });
   });
   document.querySelectorAll('input[name="contribution-type"]').forEach(r => {
     r.addEventListener('change', () => { if (STATE.step === 4) updatePreview(); });
