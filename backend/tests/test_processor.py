@@ -275,8 +275,8 @@ class TestIntegration(unittest.TestCase):
         self.assertIn("- [@hall2019]", md)
 
     def test_empty_sections_list(self) -> None:
-        """Content is empty and sections list is empty — should validate fine
-        but markdown won't have much body."""
+        """Sections list is empty and content is non-empty — should validate fine
+        and generate markdown with the content."""
         result = process_submission(
             {
                 "chapter_number": 7,
