@@ -1,0 +1,845 @@
+<!DOCTYPE html>
+<html lang="pt" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Assistente de Contribuição — Cannabis: Documento de Posição</title>
+<style>
+  :root {
+    --bg: #fafaf9;
+    --card-bg: #ffffff;
+    --text: #1a1a1a;
+    --text-secondary: #555;
+    --border: #d4d4d4;
+    --border-focus: #2c5f2d;
+    --primary: #2c5f2d;
+    --primary-hover: #1f4f20;
+    --accent: #e8f5e9;
+    --error: #b71c1c;
+    --error-bg: #fce4ec;
+    --success: #1b5e20;
+    --success-bg: #e8f5e9;
+    --shadow: 0 1px 3px rgba(0,0,0,.08);
+    --radius: 8px;
+  }
+
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.6;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .skip-link {
+    position: absolute;
+    top: -100px;
+    left: 8px;
+    background: var(--primary);
+    color: #fff;
+    padding: 8px 16px;
+    z-index: 100;
+    border-radius: 0 0 4px 4px;
+    font-weight: 600;
+    text-decoration: none;
+  }
+  .skip-link:focus { top: 0; }
+
+  header {
+    background: var(--card-bg);
+    border-bottom: 3px solid var(--primary);
+    padding: 24px 0;
+    box-shadow: var(--shadow);
+  }
+  .header-inner {
+    max-width: 840px;
+    margin: 0 auto;
+    padding: 0 24px;
+  }
+  header h1 {
+    font-size: 1.5rem;
+    color: var(--primary);
+    font-weight: 700;
+    letter-spacing: -0.01em;
+  }
+  header p {
+    color: var(--text-secondary);
+    font-size: .95rem;
+    margin-top: 4px;
+  }
+
+  main {
+    max-width: 840px;
+    margin: 32px auto 48px;
+    padding: 0 24px;
+    flex: 1;
+    width: 100%;
+  }
+
+  .progress-steps {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 28px;
+    flex-wrap: wrap;
+  }
+  .progress-steps .step {
+    flex: 1;
+    min-width: 100px;
+    padding: 10px 12px;
+    text-align: center;
+    background: #e0e0e0;
+    color: #666;
+    border-radius: var(--radius);
+    font-size: .82rem;
+    font-weight: 600;
+    transition: background .2s, color .2s;
+    cursor: pointer;
+    border: 2px solid transparent;
+  }
+  .progress-steps .step.active {
+    background: var(--primary);
+    color: #fff;
+    border-color: var(--primary);
+  }
+  .progress-steps .step.done {
+    background: var(--success-bg);
+    color: var(--success);
+    border-color: var(--success);
+  }
+
+  .wizard-step {
+    display: none;
+    animation: fadeIn .25s ease;
+  }
+  .wizard-step.active { display: block; }
+
+  @keyframes fadeIn { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: translateY(0); } }
+
+  fieldset {
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 28px;
+    background: var(--card-bg);
+    box-shadow: var(--shadow);
+    margin-bottom: 20px;
+  }
+  legend {
+    font-weight: 700;
+    font-size: 1.2rem;
+    color: var(--primary);
+    padding: 0 8px;
+  }
+
+  .form-group {
+    margin-bottom: 20px;
+  }
+  .form-group:last-child { margin-bottom: 0; }
+
+  label {
+    display: block;
+    font-weight: 600;
+    margin-bottom: 6px;
+    font-size: .92rem;
+    color: var(--text);
+  }
+  label .optional {
+    color: var(--text-secondary);
+    font-weight: 400;
+    font-size: .82rem;
+  }
+
+  input[type="text"],
+  input[type="email"],
+  textarea,
+  select {
+    width: 100%;
+    padding: 10px 12px;
+    border: 1.5px solid var(--border);
+    border-radius: 6px;
+    font-size: .95rem;
+    font-family: inherit;
+    transition: border-color .15s, box-shadow .15s;
+    background: #fff;
+  }
+  input:focus,
+  textarea:focus,
+  select:focus {
+    outline: none;
+    border-color: var(--border-focus);
+    box-shadow: 0 0 0 3px rgba(44,95,45,.15);
+  }
+  input[aria-invalid="true"],
+  textarea[aria-invalid="true"],
+  select[aria-invalid="true"] {
+    border-color: var(--error);
+    box-shadow: 0 0 0 3px rgba(183,28,28,.12);
+  }
+  textarea {
+    resize: vertical;
+    min-height: 100px;
+    line-height: 1.5;
+  }
+
+  .error-msg {
+    display: none;
+    color: var(--error);
+    font-size: .82rem;
+    font-weight: 500;
+    margin-top: 4px;
+  }
+  .error-msg.visible { display: block; }
+
+  .hint {
+    font-size: .82rem;
+    color: var(--text-secondary);
+    margin-top: 4px;
+    line-height: 1.35;
+  }
+
+  .radio-group {
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+  }
+  .radio-card {
+    flex: 1 1 180px;
+    border: 2px solid var(--border);
+    border-radius: var(--radius);
+    padding: 14px;
+    cursor: pointer;
+    transition: border-color .15s, background .15s;
+  }
+  .radio-card:hover { border-color: var(--primary); background: var(--accent); }
+  .radio-card input { position: absolute; opacity: 0; width: 0; height: 0; }
+  .radio-card:has(input:checked) { border-color: var(--primary); background: var(--accent); }
+  .radio-card .rc-title {
+    font-weight: 700;
+    font-size: .92rem;
+    color: var(--primary);
+    display: block;
+  }
+  .radio-card .rc-desc {
+    font-size: .8rem;
+    color: var(--text-secondary);
+    margin-top: 4px;
+  }
+
+  .btn-row {
+    display: flex;
+    justify-content: space-between;
+    gap: 12px;
+    margin-top: 8px;
+    flex-wrap: wrap;
+  }
+
+  button, .btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+    padding: 11px 24px;
+    border: none;
+    border-radius: 6px;
+    font-size: .95rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background .15s, opacity .15s;
+    font-family: inherit;
+  }
+  button:focus-visible, .btn:focus-visible {
+    outline: 3px solid var(--primary);
+    outline-offset: 2px;
+  }
+  .btn-primary { background: var(--primary); color: #fff; }
+  .btn-primary:hover { background: var(--primary-hover); }
+  .btn-secondary { background: #eee; color: var(--text); }
+  .btn-secondary:hover { background: #ddd; }
+  .btn-outline { background: transparent; border: 2px solid var(--primary); color: var(--primary); }
+  .btn-outline:hover { background: var(--accent); }
+  button:disabled { opacity: .5; cursor: not-allowed; }
+
+  .output-panel {
+    background: var(--card-bg);
+    border: 2px solid var(--success);
+    border-radius: var(--radius);
+    padding: 28px;
+    margin-top: 8px;
+    box-shadow: var(--shadow);
+  }
+  .output-panel h2 {
+    color: var(--success);
+    font-size: 1.2rem;
+    margin-bottom: 8px;
+  }
+  .output-panel .output-text {
+    background: #f5f5f5;
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 16px;
+    white-space: pre-wrap;
+    font-family: "SF Mono", "Fira Code", "Consolas", monospace;
+    font-size: .85rem;
+    max-height: 300px;
+    overflow-y: auto;
+    line-height: 1.45;
+    margin: 12px 0;
+  }
+  .toast {
+    position: fixed;
+    bottom: 24px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: #333;
+    color: #fff;
+    padding: 10px 24px;
+    border-radius: 20px;
+    font-size: .88rem;
+    font-weight: 600;
+    animation: toastIn .3s ease, toastOut .3s ease 2s forwards;
+    z-index: 200;
+    pointer-events: none;
+  }
+  @keyframes toastIn { from { opacity: 0; transform: translateX(-50%) translateY(12px); } to { opacity: 1; transform: translateX(-50%) translateY(0); } }
+  @keyframes toastOut { from { opacity: 1; } to { opacity: 0; } }
+
+  @media (max-width: 600px) {
+    header h1 { font-size: 1.25rem; }
+    fieldset { padding: 18px; }
+    .radio-group { flex-direction: column; }
+    .progress-steps .step { font-size: .72rem; padding: 8px 6px; }
+  }
+</style>
+</head>
+<body>
+
+<a href="#wizard-start" class="skip-link">Saltar para o formulário</a>
+
+<!-- ============ HEADER ============ -->
+<header>
+  <div class="header-inner">
+    <h1>🌿 Assistente de Contribuição</h1>
+    <p>Cannabis: Regulação em Portugal — Documento de Posição (LIVRE)</p>
+  </div>
+</header>
+
+<!-- ============ MAIN ============ -->
+<main id="wizard-start">
+
+  <!-- Step indicators -->
+  <nav class="progress-steps" aria-label="Progresso do assistente">
+    <button type="button" class="step active" data-step="1" aria-current="step">1. Sobre ti</button>
+    <button type="button" class="step" data-step="2">2. O que queres contribuir?</button>
+    <button type="button" class="step" data-step="3">3. A tua alteração</button>
+    <button type="button" class="step" data-step="4">4. Revisão e envio</button>
+  </nav>
+
+  <!-- =============================================== STEP 1: User info =============================================== -->
+  <form id="wizard-form" novalidate>
+  <section class="wizard-step active" id="step-1" aria-labelledby="step1-legend">
+    <fieldset>
+      <legend id="step1-legend">👤 Sobre Ti</legend>
+
+      <div class="form-group">
+        <label for="name">Nome <span class="optional">(obrigatório)</span></label>
+        <input type="text" id="name" name="name" required autocomplete="name"
+               aria-required="true" aria-describedby="name-hint name-error"
+               placeholder="O teu nome ou pseudónimo">
+        <div class="hint" id="name-hint">Nome real ou pseudónimo — serás creditado/a no commit.</div>
+        <div class="error-msg" id="name-error" role="alert">Por favor, indica o teu nome.</div>
+      </div>
+
+      <div class="form-group">
+        <label for="email">Email <span class="optional">(opcional)</span></label>
+        <input type="email" id="email" name="email" autocomplete="email"
+               aria-describedby="email-hint email-error"
+               placeholder="exemplo@dominio.pt">
+        <div class="hint" id="email-hint">Para te contactarmos se houver dúvidas. Não será publicado.</div>
+        <div class="error-msg" id="email-error" role="alert">Formato de email inválido.</div>
+      </div>
+
+      <div class="form-group">
+        <label for="expertise">Área de expertise</label>
+        <select id="expertise" name="expertise" required aria-required="true"
+                aria-describedby="expertise-hint expertise-error">
+          <option value="" disabled selected>— Seleciona a tua área —</option>
+          <option value="Direito">Direito</option>
+          <option value="Medicina / Saúde Pública">Medicina / Saúde Pública</option>
+          <option value="Economia">Economia</option>
+          <option value="Análise Política / Ciência Política">Análise Política / Ciência Política</option>
+          <option value="Jornalismo / Comunicação">Jornalismo / Comunicação</option>
+          <option value="Análise de Dados / Data Science">Análise de Dados / Data Science</option>
+          <option value="Ambiente / Sustentabilidade">Ambiente / Sustentabilidade</option>
+          <option value="Educação / Serviço Social">Educação / Serviço Social</option>
+          <option value="Ativismo / Redução de Danos">Ativismo / Redução de Danos</option>
+          <option value="Cidadão / Interesse pessoal">Cidadão / Interesse pessoal</option>
+          <option value="Outra">Outra</option>
+        </select>
+        <div class="hint" id="expertise-hint">Ajuda-nos a contextualizar a tua contribuição.</div>
+        <div class="error-msg" id="expertise-error" role="alert">Seleciona a tua área de expertise.</div>
+      </div>
+
+      <div class="form-group" id="expertise-other-group" style="display:none;">
+        <label for="expertise-other">Especifica a tua área</label>
+        <input type="text" id="expertise-other" name="expertise-other"
+               placeholder="Ex.: Farmacologia, Sociologia..."
+               aria-describedby="expertise-other-error">
+        <div class="error-msg" id="expertise-other-error" role="alert">Indica a tua área de expertise.</div>
+      </div>
+    </fieldset>
+
+    <div class="btn-row">
+      <div></div>
+      <button type="button" class="btn-primary" id="next-to-2">Próximo →</button>
+    </div>
+  </section>
+
+  <!-- =============================================== STEP 2: What to contribute =============================================== -->
+  <section class="wizard-step" id="step-2" aria-labelledby="step2-legend">
+    <fieldset>
+      <legend id="step2-legend">🎯 Tipo de Contribuição</legend>
+
+      <div class="form-group">
+        <label>Tipo de contribuição</label>
+        <div class="radio-group" role="radiogroup" aria-label="Tipo de contribuição" aria-required="true">
+          <label class="radio-card">
+            <input type="radio" name="contribution-type" value="improvement" required>
+            <span class="rc-title">📝 Melhoria / Correção</span>
+            <span class="rc-desc">Alterar texto existente, corrigir dados, melhorar clareza</span>
+          </label>
+          <label class="radio-card">
+            <input type="radio" name="contribution-type" value="citation">
+            <span class="rc-title">📚 Nova Citação / Fonte</span>
+            <span class="rc-desc">Adicionar referência académica, estudo ou artigo</span>
+          </label>
+          <label class="radio-card">
+            <input type="radio" name="contribution-type" value="vulnerability">
+            <span class="rc-title">🔴 Vulnerabilidade / Gap</span>
+            <span class="rc-desc">Identificar ponto fraco, contradição ou omissão</span>
+          </label>
+          <label class="radio-card">
+            <input type="radio" name="contribution-type" value="general">
+            <span class="rc-title">💡 Sugestão Geral</span>
+            <span class="rc-desc">Ideia nova, abordagem alternativa, feedback</span>
+          </label>
+        </div>
+        <div class="error-msg" id="type-error" role="alert">Seleciona o tipo de contribuição.</div>
+      </div>
+
+      <div class="form-group">
+        <label for="task-ref">Vulnerabilidade ou tarefa de referência <span class="optional">(opcional)</span></label>
+        <select id="task-ref" name="task-ref" aria-describedby="task-hint">
+          <option value="">— Nenhuma em específico / Não sei —</option>
+          <optgroup label="TIER 1 — Críticas">
+            <option value="DEVIL 1">DEVIL 1 — The 2.6% Problem (mercado)</option>
+            <option value="DEVIL 2">DEVIL 2 — Alemanha 47% failure rate</option>
+            <option value="DEVIL 3">DEVIL 3 — Timeline (3-4 anos, não 18 meses)</option>
+            <option value="DEVIL 4">DEVIL 4 — Colorado -42% juventude</option>
+          </optgroup>
+          <optgroup label="Questões Legais">
+            <option value="LEGAL 1">LEGAL 1 — Tratados ONU</option>
+            <option value="LEGAL 2">LEGAL 2 — Schengen / UE</option>
+            <option value="LEGAL 3">LEGAL 3 — Workplace drug testing</option>
+            <option value="LEGAL 5">LEGAL 5 — IVA / Tributação</option>
+            <option value="LEGAL 8">LEGAL 8 — Zoning / Câmaras Municipais</option>
+          </optgroup>
+          <optgroup label="Economia">
+            <option value="ECON 1">ECON 1 — Sensibilidade ROI</option>
+            <option value="ECON 3">ECON 3 — Salário Oficial Prevenção</option>
+          </optgroup>
+          <optgroup label="Saúde Pública">
+            <option value="HEALTH 1">HEALTH 1 — THC 10% limite 18-20 vs 21+</option>
+            <option value="HEALTH 3">HEALTH 3 — Clubes não são tratamento</option>
+            <option value="HEALTH 4">HEALTH 4 — Acesso juvenil (social supply)</option>
+          </optgroup>
+          <optgroup label="Estratégia Política">
+            <option value="POLITIC 1">POLITIC 1 — PS 2024 ≠ PS 2000</option>
+            <option value="POLITIC 3">POLITIC 3 — Estratégia media</option>
+            <option value="POLITIC 4">POLITIC 4 — Igreja Católica</option>
+          </optgroup>
+        </select>
+        <div class="hint" id="task-hint">Se a tua contribuição responde a uma vulnerabilidade identificada em <a href="https://github.com/bcamarneiro/cannabis-legalization/blob/main/docs/TASKS.md" target="_blank" rel="noopener">TASKS.md</a>, seleciona-a aqui.</div>
+      </div>
+
+      <div class="form-group">
+        <label for="title">Título da contribuição</label>
+        <input type="text" id="title" name="title" required aria-required="true"
+               aria-describedby="title-hint title-error"
+               placeholder="Ex.: Corrigir dados de prevalência juvenil no Colorado">
+        <div class="hint" id="title-hint">Um resumo curto e claro do que propões.</div>
+        <div class="error-msg" id="title-error" role="alert">Dá um título à tua contribuição.</div>
+      </div>
+    </fieldset>
+
+    <div class="btn-row">
+      <button type="button" class="btn-secondary" id="back-to-1">← Anterior</button>
+      <button type="button" class="btn-primary" id="next-to-3">Próximo →</button>
+    </div>
+  </section>
+
+  <!-- =============================================== STEP 3: The change =============================================== -->
+  <section class="wizard-step" id="step-3" aria-labelledby="step3-legend">
+    <fieldset>
+      <legend id="step3-legend">📝 A Tua Contribuição</legend>
+
+      <div class="form-group">
+        <label for="current-text">Texto atual <span class="optional">(se aplicável)</span></label>
+        <textarea id="current-text" name="current-text" rows="3"
+                  aria-describedby="current-hint"
+                  placeholder="Cola aqui o texto atual que queres alterar..."></textarea>
+        <div class="hint" id="current-hint">Copia e cola a passagem relevante do documento. Deixa em branco se for uma adição nova.</div>
+      </div>
+
+      <div class="form-group">
+        <label for="proposed-text">Texto proposto <span class="optional">(obrigatório)</span></label>
+        <textarea id="proposed-text" name="proposed-text" rows="6" required
+                  aria-required="true" aria-describedby="proposed-hint proposed-error"
+                  placeholder="Escreve a tua sugestão de texto aqui. Sê específico/a — inclui dados, fontes e justificação se possível."></textarea>
+        <div class="hint" id="proposed-hint">O texto que sugeres adicionar ou com que sugeres substituir. Podes usar formatação Markdown simples (**, *, listas).</div>
+        <div class="error-msg" id="proposed-error" role="alert">Escreve o texto que propões.</div>
+      </div>
+
+      <div id="citation-fields" style="display:none;">
+        <div class="form-group">
+          <label for="citation-type">Tipo de fonte</label>
+          <select id="citation-type" name="citation-type">
+            <option value="article">Artigo científico (peer-reviewed)</option>
+            <option value="online">Artigo web / Blog</option>
+            <option value="report">Relatório oficial (SICAD, EUDA, OMS, etc.)</option>
+            <option value="legislation">Legislação / Decreto-Lei</option>
+            <option value="book">Livro</option>
+            <option value="other">Outro</option>
+          </select>
+        </div>
+        <div class="form-group">
+          <label for="citation-author">Autor(es) / Fonte</label>
+          <input type="text" id="citation-author" name="citation-author"
+                 placeholder="Ex.: Organização Mundial de Saúde">
+        </div>
+        <div class="form-group">
+          <label for="citation-year">Ano</label>
+          <input type="text" id="citation-year" name="citation-year"
+                 placeholder="Ex.: 2024" pattern="\d{4}" maxlength="4"
+                 aria-describedby="citation-year-error">
+          <div class="error-msg" id="citation-year-error" role="alert">Ano deve ter 4 dígitos (ex.: 2024).</div>
+        </div>
+        <div class="form-group">
+          <label for="citation-url">URL <span class="optional">(se disponível)</span></label>
+          <input type="text" id="citation-url" name="citation-url"
+                 placeholder="https://..."
+                 aria-describedby="citation-url-error">
+          <div class="error-msg" id="citation-url-error" role="alert">URL deve começar com http:// ou https://.</div>
+        </div>
+      </div>
+
+      <div class="form-group">
+        <label for="sources">Fontes / Referências adicionais <span class="optional">(opcional)</span></label>
+        <textarea id="sources" name="sources" rows="4"
+                  aria-describedby="sources-hint"
+                  placeholder="Ex.:&#10;- Casey et al. (2019) — Brain development until ~25&#10;- SICAD (2024) — Relatório anual&#10;- https://exemplo.com/artigo"></textarea>
+        <div class="hint" id="sources-hint">Lista estudos, artigos, relatórios ou links que suportam a tua sugestão. Um por linha.</div>
+      </div>
+    </fieldset>
+
+    <div class="btn-row">
+      <button type="button" class="btn-secondary" id="back-to-2">← Anterior</button>
+      <button type="button" class="btn-primary" id="next-to-4">Próximo →</button>
+    </div>
+  </section>
+
+  <!-- =============================================== STEP 4: Review & submit =============================================== -->
+  <section class="wizard-step" id="step-4" aria-labelledby="step4-legend">
+    <fieldset>
+      <legend id="step4-legend">✅ Revisão Final</legend>
+
+      <div class="form-group">
+        <label for="justification">Justificação <span class="optional">(obrigatório)</span></label>
+        <textarea id="justification" name="justification" rows="4" required
+                  aria-required="true" aria-describedby="justification-hint justification-error"
+                  placeholder="Explica porque esta alteração é importante. Qual o impacto? Que problema resolve?"></textarea>
+        <div class="hint" id="justification-hint">Ajuda os revisores a perceber o valor da tua contribuição. 2-5 frases chegam.</div>
+        <div class="error-msg" id="justification-error" role="alert">Explica porque a tua contribuição é importante.</div>
+      </div>
+    </fieldset>
+
+    <!-- Preview output -->
+    <div class="output-panel">
+      <h2>📋 Pré-visualização</h2>
+      <p style="font-size:.88rem;color:var(--text-secondary);">Este é o texto que será submetido. Revê antes de prosseguir.</p>
+      <pre class="output-text" id="preview-output" aria-live="polite"></pre>
+      <div class="btn-row" style="justify-content:flex-end;flex-wrap:wrap;gap:8px;">
+        <button type="button" class="btn-outline" id="copy-btn">📋 Copiar</button>
+        <button type="button" class="btn-primary" id="submit-issue-btn">🚀 Abrir Issue no GitHub</button>
+      </div>
+    </div>
+
+    <div class="btn-row" style="margin-top:16px;">
+      <button type="button" class="btn-secondary" id="back-to-3">← Anterior</button>
+      <div></div>
+    </div>
+  </section>
+  </form>
+
+</main>
+
+<!-- Toast -->
+<div id="toast" class="toast" style="display:none;" role="status" aria-live="polite"></div>
+
+<script>
+  // ─── State ──────────────────────────────────────
+  const STATE = { step: 1, maxStep: 4 };
+
+  // ─── DOM refs ───────────────────────────────────
+  const $ = (sel) => document.querySelector(sel);
+  const $$ = (sel) => document.querySelectorAll(sel);
+
+  const form = $('#wizard-form');
+  const steps = $$('.wizard-step');
+  const stepBtns = $$('.progress-steps .step');
+
+  // ─── Step navigation ────────────────────────────
+  function showStep(n) {
+    STATE.step = n;
+    steps.forEach(s => s.classList.remove('active'));
+    const current = $(`#step-${n}`);
+    if (current) current.classList.add('active');
+
+    stepBtns.forEach(b => {
+      b.classList.remove('active', 'done');
+      const s = parseInt(b.dataset.step);
+      if (s === n) b.classList.add('active');
+      else if (s < n) b.classList.add('done');
+      b.setAttribute('aria-current', s === n ? 'step' : 'false');
+    });
+
+    // Scroll to top of form
+    current?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    // Focus the first focusable element in the step
+    const firstFocusable = current?.querySelector('input, textarea, select, button');
+    if (firstFocusable) setTimeout(() => firstFocusable.focus(), 150);
+
+    // Update preview on step 4
+    if (n === 4) updatePreview();
+  }
+
+  function nextStep() { if (validateStep(STATE.step)) showStep(Math.min(STATE.step + 1, STATE.maxStep)); }
+  function prevStep() { showStep(Math.max(STATE.step - 1, 1)); }
+
+  // ─── Validation ─────────────────────────────────
+  function setError(fieldId, show) {
+    const field = $(`#${fieldId}`);
+    const error = $(`#${fieldId}-error`);
+    if (field) field.setAttribute('aria-invalid', show ? 'true' : 'false');
+    if (error) error.classList.toggle('visible', show);
+  }
+
+  function clearErrors() {
+    $$('.error-msg').forEach(e => e.classList.remove('visible'));
+    $$('[aria-invalid]').forEach(f => f.setAttribute('aria-invalid', 'false'));
+  }
+
+  function validateStep(n) {
+    clearErrors();
+    let valid = true;
+
+    if (n === 1) {
+      if (!$('#name').value.trim()) { setError('name', true); valid = false; }
+      const email = $('#email').value.trim();
+      if (email && !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) { setError('email', true); valid = false; }
+      if (!$('#expertise').value) { setError('expertise', true); valid = false; }
+      if ($('#expertise').value === 'Outra' && !$('#expertise-other').value.trim()) { setError('expertise-other', true); valid = false; }
+    }
+
+    if (n === 2) {
+      const typeSelected = document.querySelector('input[name="contribution-type"]:checked');
+      if (!typeSelected) { setError('type', true); valid = false; }
+      if (!$('#title').value.trim()) { setError('title', true); valid = false; }
+    }
+
+    if (n === 3) {
+      if (!$('#proposed-text').value.trim()) { setError('proposed', true); valid = false; }
+      // Validate citation fields if relevant
+      if (document.querySelector('input[name="contribution-type"]:checked')?.value === 'citation') {
+        const year = $('#citation-year').value.trim();
+        if (year && !/^\d{4}$/.test(year)) { setError('citation-year', true); valid = false; }
+        const url = $('#citation-url').value.trim();
+        if (url && !/^https?:\/\/.+/.test(url)) { setError('citation-url', true); valid = false; }
+      }
+    }
+
+    if (n === 4) {
+      if (!$('#justification').value.trim()) { setError('justification', true); valid = false; }
+    }
+
+    return valid;
+  }
+
+  // ─── Dynamic field visibility ───────────────────
+  $('#expertise').addEventListener('change', function() {
+    $('#expertise-other-group').style.display = this.value === 'Outra' ? '' : 'none';
+    if (this.value === 'Outra') $('#expertise-other').setAttribute('required', '');
+    else $('#expertise-other').removeAttribute('required');
+  });
+
+  // Show/hide citation fields based on type
+  document.querySelectorAll('input[name="contribution-type"]').forEach(r => {
+    r.addEventListener('change', function() {
+      $('#citation-fields').style.display = this.value === 'citation' ? '' : 'none';
+      const fields = ['citation-type', 'citation-author', 'citation-year', 'citation-url'];
+      fields.forEach(f => {
+        const el = $(`#${f}`);
+        if (el) {
+          if (this.value === 'citation') el.setAttribute('required', '');
+          else el.removeAttribute('required');
+        }
+      });
+    });
+  });
+
+  // ─── Output generation ──────────────────────────
+  function getFormData() {
+    const name = $('#name').value.trim();
+    const email = $('#email').value.trim();
+    const expertise = $('#expertise').value === 'Outra'
+      ? $('#expertise-other').value.trim()
+      : $('#expertise').value;
+    const typeMap = { improvement: 'Melhoria / Correção', citation: 'Nova Citação / Fonte', vulnerability: 'Vulnerabilidade / Gap', general: 'Sugestão Geral' };
+    const type = typeMap[document.querySelector('input[name="contribution-type"]:checked')?.value] || '';
+    const taskRef = $('#task-ref').value || '';
+    const title = $('#title').value.trim();
+    const currentText = $('#current-text').value.trim();
+    const proposedText = $('#proposed-text').value.trim();
+    const sources = $('#sources').value.trim();
+    const justification = $('#justification').value.trim();
+
+    let citationBlock = '';
+    if (document.querySelector('input[name="contribution-type"]:checked')?.value === 'citation') {
+      const cType = $('#citation-type').value;
+      const cAuthor = $('#citation-author').value.trim();
+      const cYear = $('#citation-year').value.trim();
+      const cUrl = $('#citation-url').value.trim();
+      citationBlock = '\n### 📚 Detalhes da Citação\n';
+      citationBlock += `- **Tipo:** ${cType}\n`;
+      if (cAuthor) citationBlock += `- **Autor/Fonte:** ${cAuthor}\n`;
+      if (cYear) citationBlock += `- **Ano:** ${cYear}\n`;
+      if (cUrl) citationBlock += `- **URL:** ${cUrl}\n`;
+    }
+
+    return `## 👤 Sobre o/a Contribuidor/a
+- **Nome:** ${name}${email ? `\n- **Email:** ${email}` : ''}
+- **Expertise:** ${expertise}
+
+## 🎯 Contribuição
+- **Tipo:** ${type}${taskRef ? `\n- **Referência TASKS.md:** ${taskRef}` : ''}
+- **Título:** ${title}
+
+## 📝 Proposta de Alteração
+${currentText ? `### Texto Atual
+\`\`\`
+${currentText}
+\`\`\`
+
+` : ''}### Texto Proposto
+\`\`\`
+${proposedText}
+\`\`\`
+${citationBlock}
+${sources ? `## 📚 Fontes / Referências
+${sources}
+` : ''}
+## 💡 Justificação
+${justification}
+
+---
+*Submetido via [Assistente de Contribuição](https://github.com/bcamarneiro/cannabis-legalization/blob/main/docs/contribution-wizard.html)*
+`;
+  }
+
+  function updatePreview() {
+    $('#preview-output').textContent = getFormData();
+  }
+
+  // ─── Copy to clipboard ──────────────────────────
+  $('#copy-btn').addEventListener('click', async () => {
+    try {
+      await navigator.clipboard.writeText(getFormData());
+      showToast('✅ Copiado! Agora cola numa Discussion ou Issue do GitHub.');
+    } catch {
+      showToast('⚠️ Não foi possível copiar. Seleciona o texto manualmente.');
+    }
+  });
+
+  // ─── Open GitHub issue ──────────────────────────
+  $('#submit-issue-btn').addEventListener('click', () => {
+    if (!validateStep(4)) { showStep(4); return; }
+    const body = encodeURIComponent(getFormData());
+    const issueTitle = encodeURIComponent($('#title').value.trim() || 'Contribuição');
+    const url = `https://github.com/bcamarneiro/cannabis-legalization/issues/new?title=${issueTitle}&body=${body}&labels=contribution,needs-review`;
+    window.open(url, '_blank', 'noopener');
+    showToast('🚀 Issue do GitHub aberta noutra janela. Revê e clica "Submit".');
+  });
+
+  // ─── Toast ──────────────────────────────────────
+  function showToast(msg) {
+    const t = $('#toast');
+    t.textContent = msg;
+    t.style.display = '';
+    // Re-trigger animation
+    t.style.animation = 'none';
+    t.offsetHeight;
+    t.style.animation = '';
+    setTimeout(() => { t.style.display = 'none'; }, 2400);
+  }
+
+  // ─── Step button clicks on indicator ────────────
+  stepBtns.forEach(b => {
+    b.addEventListener('click', () => {
+      const target = parseInt(b.dataset.step);
+      // Only allow navigating to steps already reached
+      if (target <= Math.max(STATE.step, 2)) {
+        // Validate current step before jumping
+        if (target > STATE.step) {
+          // Can't jump forward via indicator without validating
+          return;
+        }
+        showStep(target);
+      }
+    });
+  });
+
+  // ─── Navigation button bindings ─────────────────
+  $('#next-to-2').addEventListener('click', nextStep);
+  $('#back-to-1').addEventListener('click', prevStep);
+  $('#next-to-3').addEventListener('click', nextStep);
+  $('#back-to-2').addEventListener('click', prevStep);
+  $('#next-to-4').addEventListener('click', nextStep);
+  $('#back-to-3').addEventListener('click', prevStep);
+  $('#back-to-4')?.addEventListener('click', prevStep);
+
+  // ─── Keyboard: Enter in text fields shouldn't submit ───
+  form.addEventListener('keydown', (e) => {
+    if (e.key === 'Enter' && e.target.tagName !== 'TEXTAREA') {
+      e.preventDefault();
+      if (validateStep(STATE.step) && STATE.step < STATE.maxStep) nextStep();
+    }
+  });
+
+  // ─── Live preview update on step 4 ──────────────
+  ['name', 'email', 'expertise', 'title', 'current-text', 'proposed-text', 'sources', 'justification'].forEach(id => {
+    const el = $('#' + id);
+    if (el) el.addEventListener('input', () => { if (STATE.step === 4) updatePreview(); });
+  });
+  document.querySelectorAll('input[name="contribution-type"]').forEach(r => {
+    r.addEventListener('change', () => { if (STATE.step === 4) updatePreview(); });
+  });
+  $('#task-ref')?.addEventListener('change', () => { if (STATE.step === 4) updatePreview(); });
+
+  // ─── Init ────────────────────────────────────────
+  showStep(1);
+</script>
+
+</body>
+</html>
