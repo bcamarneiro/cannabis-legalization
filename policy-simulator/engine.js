@@ -75,8 +75,8 @@ const PolicyEngine = (() => {
    * Tax revenue model (if commercial sales exist; PT model is cost-recovery only).
    * Included for scenario comparison.
    */
-  function taxRevenue(taxRate, marketCaptureRate, clubCount) {
-    const clubUsers = clubCount * MEMBERS_PER_CLUB * clubUtilization(taxRate, 25);
+  function taxRevenue(taxRate, possessionLimit, marketCaptureRate, clubCount) {
+    const clubUsers = clubCount * MEMBERS_PER_CLUB * clubUtilization(taxRate, possessionLimit);
     const commercialUsers = TOTAL_USERS * marketCaptureRate - clubUsers;
     if (commercialUsers < 0) return 0;
     // Average spend: ~€500/year per user (based on 25g/month at €6/g = €150/month → €1800/yr
@@ -124,51 +124,51 @@ const PolicyEngine = (() => {
 
     // Club metrics
     const clubMembers = Math.round(clubCount * MEMBERS_PER_CLUB * utilization);
-    const clubCoverage = (clubMembers / TOTAL_USERS * 100).toFixed(1);
+    const clubCoverage = Number((clubMembers / TOTAL_USERS * 100).toFixed(1));
 
     // Market metrics
     const legalMarketUsers = Math.round(TOTAL_USERS * capture);
     const blackMarketUsers = TOTAL_USERS - legalMarketUsers;
-    const blackMarketSize = (BLACK_MARKET_AVG * (1 - displacement)).toFixed(1);
+    const blackMarketSize = Number((BLACK_MARKET_AVG * (1 - displacement)).toFixed(1));
 
     // Revenue metrics
-    const revenue = taxRevenue(taxRate, capture, clubCount);
-    const enforcementSaved = (ENFORCEMENT_SAVINGS_AVG * displacement).toFixed(1);
+    const revenue = taxRevenue(taxRate, possessionLimit, capture, clubCount);
+    const enforcementSaved = Number((ENFORCEMENT_SAVINGS_AVG * displacement).toFixed(1));
 
     // Health
     const health = healthIndex(taxRate, possessionLimit, clubCount);
 
     // Club economics
-    const costPerGramClub = (3 + (50 / clubCount)).toFixed(2); // €/g, economies of scale
-    const avgMemberCostMonth = (costPerGramClub * 25).toFixed(0); // ~25g/month
+    const costPerGramClub = Number((3 + (50 / clubCount)).toFixed(2)); // €/g, economies of scale
+    const avgMemberCostMonth = Math.round(costPerGramClub * 25); // ~25g/month
 
     return {
       inputs: { taxRate, possessionLimit, clubCount },
       market: {
-        captureRate: (capture * 100).toFixed(1),
+        captureRate: Number((capture * 100).toFixed(1)),
         legalMarketUsers,
         blackMarketUsers,
         blackMarketSize,
-        displacementRate: (displacement * 100).toFixed(1),
+        displacementRate: Number((displacement * 100).toFixed(1)),
       },
       clubs: {
         totalClubs: clubCount,
-        utilizationRate: (utilization * 100).toFixed(1),
+        utilizationRate: Number((utilization * 100).toFixed(1)),
         totalMembers: clubMembers,
         coveragePercent: clubCoverage,
         costPerGram: costPerGramClub,
         avgMonthlyCost: avgMemberCostMonth,
       },
       fiscal: {
-        taxRevenue: revenue.toFixed(1),
+        taxRevenue: Number(revenue.toFixed(1)),
         enforcementSavings: enforcementSaved,
-        netFiscalImpact: (parseFloat(enforcementSaved) - revenue).toFixed(1),
+        netFiscalImpact: Number((enforcementSaved - revenue).toFixed(1)),
       },
       health: {
         index: health,
         grade: health >= 75 ? 'A' : health >= 55 ? 'B' : health >= 35 ? 'C' : 'D',
-        qualityControl: (capture * 35).toFixed(0),
-        harmReduction: (displacement * 25).toFixed(0),
+        qualityControl: Number((capture * 35).toFixed(0)),
+        harmReduction: Number((displacement * 25).toFixed(0)),
       },
     };
   }
