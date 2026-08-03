@@ -74,6 +74,46 @@ com avaliação obrigatória após 3 anos antes de decidir sobre Pillar 2.
 Comparação entre modelo comercial (Canadá) e modelo de clubes (Portugal),
 clarificando que receitas são modestas.
 
+---
+
+### 5. Distribuição Geográfica - Grid Regional (Mindmap)
+**Ficheiro:** `portugal-grid-distribution.mmd` / `portugal-grid-distribution.png`
+
+Mindmap mostrando os 46 clubes distribuídos pelos 20 distritos/regiões de Portugal.
+
+**Como usar no documento:**
+```markdown
+# CAPÍTULO 8: PILAR RECREATIVA
+
+## 8.1 Distribuição Geográfica dos Clubes
+
+A nível nacional, são propostos 46 clubes sociais de cannabis,
+distribuídos proporcionalmente pela população de cada distrito:
+
+![Distribuição Geográfica - Mindmap](assets/diagrams/portugal-grid-distribution.png)
+```
+
+---
+
+### 6. Distribuição Geográfica - Mapa Regional (Flowchart)
+**Ficheiro:** `portugal-grid-regional.mmd` / `portugal-grid-regional.png`
+
+Flowchart regional agrupando os 46 clubes por regiões (Norte, Centro, Lisboa,
+Alentejo, Algarve, Ilhas) com cores por região.
+
+**Como usar no documento:**
+```markdown
+## 8.1 Distribuição Geográfica dos Clubes
+
+A nível nacional, são propostos 46 clubes sociais de cannabis,
+distribuídos proporcionalmente pela população de cada distrito:
+
+![Distribuição Geográfica - Mapa Regional](assets/diagrams/portugal-grid-regional.png)
+
+**Rácio:** 1 clube por 235.294 habitantes (alinhado com modelo alemão)
+**Captura estimada:** 18.400 utilizadores (46 clubes × 400 membros)
+```
+
 **Como usar no documento:**
 ```markdown
 ## 2.4 Análise Custo-Benefício
