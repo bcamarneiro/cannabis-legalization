@@ -1,5 +1,5 @@
 {
-  "buildCommand": "mkdir -p output && echo '<!DOCTYPE html><html><head><title>Cannabis Legalization Project</title></head><body><h1>Cannabis Legalization Proposal</h1><p>This repository contains research and documentation about cannabis legalization in Brazil.</p></body></html>' > output/index.html",
+  "buildCommand": "bash build.sh",
   "outputDirectory": "output",
   "installCommand": "echo 'No dependencies needed'"
 }
