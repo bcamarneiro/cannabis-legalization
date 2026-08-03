@@ -1,0 +1,306 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2026-02-26",
+  "metadata": {
+    "description": "Initial ICAD statistics migration from cannabis legalization policy document",
+    "sources": [
+      "sicad2022 - V Inqu\u00e9rito Nacional (2022)",
+      "icad2024consumo - ICAD December 2024 report (Carapinha study)",
+      "carapinha2024icad - Institutional populations study",
+      "euda2024cannabis - EMCDDA European averages"
+    ],
+    "document_branch": "main",
+    "migration_script": "scripts/migrate_icad_stats.py"
+  },
+  "patterns": [
+    {
+      "demographic": {
+        "age_min": 15,
+        "age_max": 64,
+        "gender": "all",
+        "population_type": "general"
+      },
+      "metrics": [
+        {
+          "metric_type": "lifetime_prevalence",
+          "value": 10.5,
+          "sample_size": null,
+          "confidence_interval": null,
+          "year": 2022,
+          "notes": null
+        },
+        {
+          "metric_type": "last_year",
+          "value": 2.8,
+          "sample_size": null,
+          "confidence_interval": null,
+          "year": 2022,
+          "notes": "EU average: 8.4%"
+        }
+      ],
+      "risk_assessments": [],
+      "notes": "Portugal below European average",
+      "source": "sicad2022"
+    },
+    {
+      "demographic": {
+        "age_min": 15,
+        "age_max": 24,
+        "gender": "all",
+        "population_type": "general"
+      },
+      "metrics": [
+        {
+          "metric_type": "high_risk_prevalence",
+          "value": 0.2,
+          "sample_size": null,
+          "confidence_interval": null,
+          "year": 2012,
+          "notes": "Baseline CAST high-risk"
+        },
+        {
+          "metric_type": "high_risk_prevalence",
+          "value": 1.3,
+          "sample_size": null,
+          "confidence_interval": null,
+          "year": 2022,
+          "notes": "6.5x increase over decade"
+        }
+      ],
+      "risk_assessments": [],
+      "notes": "Concerning increase in high-risk consumption",
+      "source": "sicad2022"
+    },
+    {
+      "demographic": {
+        "age_min": 15,
+        "age_max": 74,
+        "gender": "all",
+        "population_type": "general"
+      },
+      "metrics": [
+        {
+          "metric_type": "last_year",
+          "value": 2.0,
+          "sample_size": null,
+          "confidence_interval": null,
+          "year": 2024,
+          "notes": null
+        },
+        {
+          "metric_type": "problematic_consumption",
+          "value": 30.0,
+          "sample_size": null,
+          "confidence_interval": null,
+          "year": 2024,
+          "notes": "Range: 25-35% of users"
+        }
+      ],
+      "risk_assessments": [],
+      "notes": "~2% last year use, 25-35% show problematic patterns",
+      "source": "icad2024consumo"
+    },
+    {
+      "demographic": {
+        "age_min": 15,
+        "age_max": 74,
+        "gender": "male",
+        "population_type": "general"
+      },
+      "metrics": [
+        {
+          "metric_type": "frequent_use",
+          "value": 1.1,
+          "sample_size": null,
+          "confidence_interval": null,
+          "year": 2024,
+          "notes": "Range: 1-1.2%"
+        },
+        {
+          "metric_type": "problematic_consumption",
+          "value": 32.0,
+          "sample_size": null,
+          "confidence_interval": null,
+          "year": 2024,
+          "notes": "Among male users"
+        }
+      ],
+      "risk_assessments": [],
+      "notes": "Men show 5-10x higher frequent use than women",
+      "source": "icad2024consumo"
+    },
+    {
+      "demographic": {
+        "age_min": 15,
+        "age_max": 74,
+        "gender": "female",
+        "population_type": "general"
+      },
+      "metrics": [
+        {
+          "metric_type": "frequent_use",
+          "value": 0.15,
+          "sample_size": null,
+          "confidence_interval": null,
+          "year": 2024,
+          "notes": "Range: 0.1-0.2%, 5-10x lower than men"
+        },
+        {
+          "metric_type": "problematic_consumption",
+          "value": 19.0,
+          "sample_size": null,
+          "confidence_interval": null,
+          "year": 2024,
+          "notes": "Among female users"
+        }
+      ],
+      "risk_assessments": [],
+      "notes": "Women show much lower frequent use but significant problematic patterns",
+      "source": "icad2024consumo"
+    },
+    {
+      "demographic": {
+        "age_min": 18,
+        "age_max": null,
+        "gender": "female",
+        "population_type": "prison"
+      },
+      "metrics": [
+        {
+          "metric_type": "daily_use",
+          "value": 63.0,
+          "sample_size": null,
+          "confidence_interval": null,
+          "year": 2024,
+          "notes": "vs 46% for men - dramatic inversion"
+        }
+      ],
+      "risk_assessments": [],
+      "notes": "CRITICAL: Gender pattern inverts in prison - 63% daily use",
+      "source": "carapinha2024icad"
+    },
+    {
+      "demographic": {
+        "age_min": 18,
+        "age_max": null,
+        "gender": "male",
+        "population_type": "prison"
+      },
+      "metrics": [
+        {
+          "metric_type": "daily_use",
+          "value": 46.0,
+          "sample_size": null,
+          "confidence_interval": null,
+          "year": 2024,
+          "notes": null
+        }
+      ],
+      "risk_assessments": [],
+      "notes": "Men in prison: 46% daily use",
+      "source": "carapinha2024icad"
+    },
+    {
+      "demographic": {
+        "age_min": 12,
+        "age_max": 18,
+        "gender": "female",
+        "population_type": "youth_center"
+      },
+      "metrics": [
+        {
+          "metric_type": "high_risk_prevalence",
+          "value": 100.0,
+          "sample_size": null,
+          "confidence_interval": null,
+          "year": 2024,
+          "notes": "All girls in institutional care"
+        },
+        {
+          "metric_type": "daily_use",
+          "value": 62.0,
+          "sample_size": null,
+          "confidence_interval": null,
+          "year": 2024,
+          "notes": "Daily or near-daily use"
+        }
+      ],
+      "risk_assessments": [
+        {
+          "tool_name": "CAST",
+          "risk_level": "very_high",
+          "percentage": 100.0,
+          "description": "All girls show moderate-to-high risk consumption"
+        }
+      ],
+      "notes": "CRITICAL: 100% of girls in youth centers show high-risk consumption",
+      "source": "carapinha2024icad"
+    },
+    {
+      "demographic": {
+        "age_min": 12,
+        "age_max": 18,
+        "gender": "male",
+        "population_type": "youth_center"
+      },
+      "metrics": [
+        {
+          "metric_type": "high_risk_prevalence",
+          "value": 49.0,
+          "sample_size": null,
+          "confidence_interval": null,
+          "year": 2024,
+          "notes": null
+        },
+        {
+          "metric_type": "daily_use",
+          "value": 62.0,
+          "sample_size": null,
+          "confidence_interval": null,
+          "year": 2024,
+          "notes": "Daily or near-daily use (same as girls)"
+        }
+      ],
+      "risk_assessments": [],
+      "notes": "Boys in youth centers: 49% high-risk",
+      "source": "carapinha2024icad"
+    },
+    {
+      "demographic": {
+        "age_min": 13,
+        "age_max": 18,
+        "gender": "all",
+        "population_type": "student"
+      },
+      "metrics": [
+        {
+          "metric_type": "lifetime_prevalence",
+          "value": 6.6,
+          "sample_size": null,
+          "confidence_interval": null,
+          "year": 2024,
+          "notes": "Experimentation rate"
+        },
+        {
+          "metric_type": "recent_use",
+          "value": 2.0,
+          "sample_size": null,
+          "confidence_interval": null,
+          "year": 2024,
+          "notes": "Last 30 days"
+        },
+        {
+          "metric_type": "daily_use",
+          "value": 1.0,
+          "sample_size": null,
+          "confidence_interval": null,
+          "year": 2024,
+          "notes": "Under 1% daily in this age group"
+        }
+      ],
+      "risk_assessments": [],
+      "notes": "11,083 students, 329 schools - cannabis most consumed illicit substance",
+      "source": "icad2024consumo"
+    }
+  ]
+}
