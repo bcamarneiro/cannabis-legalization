@@ -1,0 +1,341 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2026-08-03",
+  "metadata": {
+    "description": "Processed ICAD statistics - derived aggregations, trends, and comparisons",
+    "source_data": "data/icad_stats_initial.json",
+    "migration_script": "scripts/migrate_processed_icad_stats.py",
+    "document_branch": "main",
+    "computation_date": "2026-08-03"
+  },
+  "aggregations": [
+    {
+      "metric_name": "avg_last_year_prevalence_general",
+      "metric_category": "prevalence",
+      "value": 2.4,
+      "unit": "percent",
+      "time_range": {
+        "start_year": 2022,
+        "end_year": 2024
+      },
+      "demographic": {
+        "age_min": 15,
+        "age_max": 74,
+        "gender": "all",
+        "population_type": "general"
+      },
+      "source_metrics": [
+        "last_year_2022",
+        "last_year_2024"
+      ],
+      "computation_method": "mean",
+      "confidence_interval": null,
+      "notes": "Stable prevalence around 2-3%, below EU average of 8.4%",
+      "computed_at": "2026-08-03"
+    },
+    {
+      "metric_name": "problematic_consumption_rate",
+      "metric_category": "risk",
+      "value": 30.0,
+      "unit": "percent",
+      "time_range": {
+        "start_year": 2024,
+        "end_year": 2024
+      },
+      "demographic": {
+        "age_min": 15,
+        "age_max": 74,
+        "gender": "all",
+        "population_type": "general"
+      },
+      "source_metrics": [
+        "problematic_consumption_icad2024"
+      ],
+      "computation_method": "mean",
+      "confidence_interval": "Range: 25-35%",
+      "notes": "Approximately 1 in 3 cannabis users show problematic consumption patterns",
+      "computed_at": "2026-08-03"
+    },
+    {
+      "metric_name": "gender_disparity_frequent_use",
+      "metric_category": "comparison",
+      "value": 7.33,
+      "unit": "ratio",
+      "time_range": {
+        "start_year": 2024,
+        "end_year": 2024
+      },
+      "demographic": {
+        "age_min": 15,
+        "age_max": 74,
+        "gender": "all",
+        "population_type": "general"
+      },
+      "source_metrics": [
+        "male_frequent_use_2024",
+        "female_frequent_use_2024"
+      ],
+      "computation_method": "ratio",
+      "confidence_interval": null,
+      "notes": "Men show 7.3x higher frequent use than women in general population",
+      "computed_at": "2026-08-03"
+    },
+    {
+      "metric_name": "youth_high_risk_increase_factor",
+      "metric_category": "trend",
+      "value": 6.5,
+      "unit": "ratio",
+      "time_range": {
+        "start_year": 2012,
+        "end_year": 2022
+      },
+      "demographic": {
+        "age_min": 15,
+        "age_max": 24,
+        "gender": "all",
+        "population_type": "general"
+      },
+      "source_metrics": [
+        "youth_high_risk_2012",
+        "youth_high_risk_2022"
+      ],
+      "computation_method": "ratio",
+      "confidence_interval": null,
+      "notes": "Concerning 6.5x increase in high-risk consumption among youth (15-24) over decade",
+      "computed_at": "2026-08-03"
+    },
+    {
+      "metric_name": "institutional_daily_use_average",
+      "metric_category": "prevalence",
+      "value": 58.25,
+      "unit": "percent",
+      "time_range": {
+        "start_year": 2024,
+        "end_year": 2024
+      },
+      "demographic": {
+        "age_min": null,
+        "age_max": null,
+        "gender": null,
+        "population_type": "institutional"
+      },
+      "source_metrics": [
+        "prison_daily_use",
+        "youth_center_daily_use"
+      ],
+      "computation_method": "mean",
+      "confidence_interval": null,
+      "notes": "Average daily use across institutional populations (prison + youth centers)",
+      "computed_at": "2026-08-03"
+    }
+  ],
+  "trends": [
+    {
+      "trend_name": "youth_high_risk_trend_2012_2022",
+      "metric_type": "high_risk_prevalence",
+      "demographic": {
+        "age_min": 15,
+        "age_max": 24,
+        "gender": "all",
+        "population_type": "general"
+      },
+      "start_year": 2012,
+      "end_year": 2022,
+      "direction": "increasing",
+      "change_percent": 550.0,
+      "annual_rate": 55.0,
+      "significance": "statistically_significant",
+      "data_points": 2,
+      "notes": "Dramatic 6.5x increase over decade; represents major public health concern"
+    },
+    {
+      "trend_name": "gender_gap_problematic_consumption",
+      "metric_type": "problematic_consumption",
+      "demographic": {
+        "age_min": 15,
+        "age_max": 74,
+        "gender": "all",
+        "population_type": "general"
+      },
+      "start_year": 2024,
+      "end_year": 2024,
+      "direction": "stable",
+      "change_percent": 68.4,
+      "annual_rate": null,
+      "significance": "notable",
+      "data_points": 1,
+      "notes": "Men show 68% higher problematic consumption rate than women among users"
+    },
+    {
+      "trend_name": "prison_gender_inversion",
+      "metric_type": "daily_use",
+      "demographic": {
+        "age_min": 18,
+        "age_max": null,
+        "gender": "all",
+        "population_type": "prison"
+      },
+      "start_year": 2024,
+      "end_year": 2024,
+      "direction": "volatile",
+      "change_percent": 37.0,
+      "annual_rate": null,
+      "significance": "statistically_significant",
+      "data_points": 2,
+      "notes": "CRITICAL: Gender pattern inverts in prison - women 37% higher than men vs 7x lower in general pop"
+    },
+    {
+      "trend_name": "youth_center_girls_crisis",
+      "metric_type": "high_risk_prevalence",
+      "demographic": {
+        "age_min": 12,
+        "age_max": 18,
+        "gender": "female",
+        "population_type": "youth_center"
+      },
+      "start_year": 2024,
+      "end_year": 2024,
+      "direction": "increasing",
+      "change_percent": 100.0,
+      "annual_rate": null,
+      "significance": "statistically_significant",
+      "data_points": 1,
+      "notes": "CRITICAL: 100% of girls in youth centers show high-risk consumption - unprecedented level"
+    }
+  ],
+  "comparisons": [
+    {
+      "comparison_name": "portugal_vs_eu_last_year",
+      "group_a": "portugal_general",
+      "group_b": "eu_average",
+      "metric_type": "last_year_prevalence",
+      "value_a": 2.8,
+      "value_b": 8.4,
+      "ratio": 0.33,
+      "difference_percent": -66.7,
+      "interpretation": "Portugal 67% below EU average",
+      "year": 2022,
+      "notes": "Despite increase, Portugal remains well below European average"
+    },
+    {
+      "comparison_name": "gender_frequent_use_ratio",
+      "group_a": "male_general",
+      "group_b": "female_general",
+      "metric_type": "frequent_use",
+      "value_a": 1.1,
+      "value_b": 0.15,
+      "ratio": 7.33,
+      "difference_percent": 633.3,
+      "interpretation": "Men 633% higher than women",
+      "year": 2024,
+      "notes": "Largest gender disparity among all consumption metrics"
+    },
+    {
+      "comparison_name": "prison_vs_general_daily_use",
+      "group_a": "prison_population",
+      "group_b": "general_population",
+      "metric_type": "daily_use",
+      "value_a": 54.5,
+      "value_b": 1.0,
+      "ratio": 54.5,
+      "difference_percent": 5350.0,
+      "interpretation": "Prison population 54x higher daily use than general",
+      "year": 2024,
+      "notes": "Dramatic overrepresentation in institutional settings"
+    },
+    {
+      "comparison_name": "youth_center_gender_high_risk",
+      "group_a": "youth_center_girls",
+      "group_b": "youth_center_boys",
+      "metric_type": "high_risk_prevalence",
+      "value_a": 100.0,
+      "value_b": 49.0,
+      "ratio": 2.04,
+      "difference_percent": 104.1,
+      "interpretation": "Girls 104% higher than boys",
+      "year": 2024,
+      "notes": "Unique reversal of typical gender patterns in this setting"
+    },
+    {
+      "comparison_name": "students_vs_general_lifetime",
+      "group_a": "students_13_18",
+      "group_b": "general_youth_15_24",
+      "metric_type": "lifetime_prevalence",
+      "value_a": 6.6,
+      "value_b": 10.5,
+      "ratio": 0.63,
+      "difference_percent": -37.1,
+      "interpretation": "Students 37% lower than general youth population",
+      "year": 2024,
+      "notes": "Age range difference (13-18 vs 15-24) partially explains gap"
+    }
+  ],
+  "summaries": [
+    {
+      "title": "Portuguese report lifetime cannabis use",
+      "value": 10.5,
+      "unit": "percent",
+      "category": "key_finding",
+      "demographic_context": "ages 15-64, 2022",
+      "source": "sicad2022",
+      "priority": 1,
+      "icon": "info",
+      "notes": "Below EU average of 8.4% for last-year use"
+    },
+    {
+      "title": "of users show problematic consumption patterns",
+      "value": 30.0,
+      "unit": "percent",
+      "category": "alert",
+      "demographic_context": "among cannabis users, 2024",
+      "source": "icad2024consumo",
+      "priority": 2,
+      "icon": "alert",
+      "notes": "Range 25-35%; represents ~90,000 individuals based on user population"
+    },
+    {
+      "title": "increase in youth high-risk consumption (2012-2022)",
+      "value": 550.0,
+      "unit": "percent",
+      "category": "alert",
+      "demographic_context": "ages 15-24",
+      "source": "sicad2022",
+      "priority": 1,
+      "icon": "trend_up",
+      "notes": "From 0.2% to 1.3% - 6.5x increase over decade"
+    },
+    {
+      "title": "Men show higher frequent use than women",
+      "value": 7.3,
+      "unit": "ratio",
+      "category": "key_finding",
+      "demographic_context": "ages 15-74, 2024",
+      "source": "icad2024consumo",
+      "priority": 3,
+      "icon": "info",
+      "notes": "1.1% vs 0.15% - largest gender gap in EU"
+    },
+    {
+      "title": "of girls in youth centers show high-risk consumption",
+      "value": 100.0,
+      "unit": "percent",
+      "category": "alert",
+      "demographic_context": "ages 12-18, institutional care",
+      "source": "carapinha2024icad",
+      "priority": 1,
+      "icon": "alert",
+      "notes": "Unprecedented level; requires immediate intervention"
+    },
+    {
+      "title": "Below EU average for last-year prevalence",
+      "value": 66.7,
+      "unit": "percent",
+      "category": "benchmark",
+      "demographic_context": "Portugal vs EU, 2022",
+      "source": "sicad2022",
+      "priority": 2,
+      "icon": "trend_down",
+      "notes": "Portugal 2.8% vs EU 8.4% - among lowest in Europe"
+    }
+  ]
+}
