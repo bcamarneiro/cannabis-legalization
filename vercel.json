@@ -1,0 +1,8 @@
+{
+  "buildCommand": "echo 'No build required - static site'",
+  "outputDirectory": "assets/diagrams",
+  "installCommand": "echo 'No dependencies required'",
+  "rewrites": [
+    { "source": "/", "destination": "/portugal-clubes-grid.html" }
+  ]
+}
