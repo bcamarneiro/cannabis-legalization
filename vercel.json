@@ -1,5 +1,1 @@
-{
-  "$schema": "https://openapi.vercel.sh/vercel.json",
-  "buildCommand": "mkdir -p output && echo '<h1>Cannabis Legalization Proposal</h1><p>See <a href=\"references.bib\">references.bib</a> and <a href=\"chapters/\">chapters/</a> for content.</p>' > output/index.html",
-  "outputDirectory": "output"
-}
+{}
