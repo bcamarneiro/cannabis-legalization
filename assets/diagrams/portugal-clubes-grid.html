@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Portugal Clubes Grid Overlay</title>
+  <style>
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #1a1a2e; color: #eee; margin: 0; padding: 20px; }
+    .container { max-width: 1200px; margin: 0 auto; }
+    h1 { text-align: center; color: #4dabf7; margin-bottom: 10px; }
+    .subtitle { text-align: center; color: #888; margin-bottom: 30px; font-size: 14px; }
+    .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 12px; padding: 20px; }
+    .region { background: linear-gradient(135deg, #16213e 0%, #1a1a2e 100%); border: 1px solid #333; border-radius: 8px; padding: 15px; }
+    .region-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px; }
+    .region-name { font-weight: 600; color: #fff; font-size: 14px; }
+    .region-count { background: #4dabf7; color: #000; font-weight: bold; padding: 4px 10px; border-radius: 12px; font-size: 13px; }
+    .region-count.major { background: #ff6b6b; }
+    .region-count.medium { background: #ffd43b; color: #000; }
+    .region-count.small { background: #51cf66; }
+    .subregions { font-size: 12px; color: #888; margin-top: 8px; }
+    .subregions span { display: inline-block; margin: 2px 4px; padding: 2px 6px; background: #0f3460; border-radius: 4px; }
+    .total { text-align: center; margin-top: 30px; padding: 20px; background: #16213e; border-radius: 8px; }
+    .total-number { font-size: 48px; font-weight: bold; color: #4dabf7; }
+    .total-label { color: #888; font-size: 14px; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Distribuição Geográfica de Clubes - Portugal</h1>
+    <p class="subtitle">46 clubes totais (rácio 1:235.294 hab) • 20 regiões/distritos</p>
+    
+    <div class="grid">
+      <div class="region">
+        <div class="region-header">
+          <span class="region-name">Lisboa (AML)</span>
+          <span class="region-count major">9</span>
+        </div>
+        <div class="subregions">
+          <span>Lisboa 4</span><span>Amadora 1</span><span>Oeiras 1</span><span>Cascais 1</span><span>Sintra 1</span><span>Loures 1</span>
+        </div>
+      </div>
+      
+      <div class="region">
+        <div class="region-header">
+          <span class="region-name">Porto (AMP)</span>
+          <span class="region-count major">8</span>
+        </div>
+        <div class="subregions">
+          <span>Porto 3</span><span>V.N. Gaia 2</span><span>Matosinhos 1</span><span>Gondomar 1</span><span>Maia 1</span>
+        </div>
+      </div>
+      
+      <div class="region">
+        <div class="region-header">
+          <span class="region-name">Setúbal</span>
+          <span class="region-count medium">4</span>
+        </div>
+      </div>
+      
+      <div class="region">
+        <div class="region-header">
+          <span class="region-name">Braga</span>
+          <span class="region-count medium">4</span>
+        </div>
+      </div>
+      
+      <div class="region">
+        <div class="region-header">
+          <span class="region-name">Aveiro</span>
+          <span class="region-count medium">3</span>
+        </div>
+      </div>
+      
+      <div class="region">
+        <div class="region-header">
+          <span class="region-name">Coimbra</span>
+          <span class="region-count small">2</span>
+        </div>
+      </div>
+      
+      <div class="region">
+        <div class="region-header">
+          <span class="region-name">Faro (Algarve)</span>
+          <span class="region-count small">2</span>
+        </div>
+      </div>
+      
+      <div class="region">
+        <div class="region-header">
+          <span class="region-name">Leiria</span>
+          <span class="region-count small">2</span>
+        </div>
+      </div>
+      
+      <div class="region">
+        <div class="region-header">
+          <span class="region-name">Santarém</span>
+          <span class="region-count small">2</span>
+        </div>
+      </div>
+      
+      <div class="region">
+        <div class="region-header">
+          <span class="region-name">Viseu</span>
+          <span class="region-count small">1</span>
+        </div>
+      </div>
+      
+      <div class="region">
+        <div class="region-header">
+          <span class="region-name">Viana do Castelo</span>
+          <span class="region-count small">1</span>
+        </div>
+      </div>
+      
+      <div class="region">
+        <div class="region-header">
+          <span class="region-name">Vila Real</span>
+          <span class="region-count small">1</span>
+        </div>
+      </div>
+      
+      <div class="region">
+        <div class="region-header">
+          <span class="region-name">Évora</span>
+          <span class="region-count small">1</span>
+        </div>
+      </div>
+      
+      <div class="region">
+        <div class="region-header">
+          <span class="region-name">Beja</span>
+          <span class="region-count small">1</span>
+        </div>
+      </div>
+      
+      <div class="region">
+        <div class="region-header">
+          <span class="region-name">Castelo Branco</span>
+          <span class="region-count small">1</span>
+        </div>
+      </div>
+      
+      <div class="region">
+        <div class="region-header">
+          <span class="region-name">Bragança</span>
+          <span class="region-count small">1</span>
+        </div>
+      </div>
+      
+      <div class="region">
+        <div class="region-header">
+          <span class="region-name">Guarda</span>
+          <span class="region-count small">1</span>
+        </div>
+      </div>
+      
+      <div class="region">
+        <div class="region-header">
+          <span class="region-name">Madeira</span>
+          <span class="region-count small">1</span>
+        </div>
+        <div class="subregions"><span>Funchal</span></div>
+      </div>
+      
+      <div class="region">
+        <div class="region-header">
+          <span class="region-name">Açores</span>
+          <span class="region-count small">1</span>
+        </div>
+        <div class="subregions"><span>Ponta Delgada</span></div>
+      </div>
+    </div>
+    
+    <div class="total">
+      <div class="total-number">46</div>
+      <div class="total-label">clubes totais • 18.400 utilizadores estimados (2,6% mercado)</div>
+    </div>
+  </div>
+</body>
+</html>
