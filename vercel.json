@@ -1,5 +1,5 @@
 {
-  "buildCommand": "apt-get update && apt-get install -y pandoc texlive-xetex texlive-fonts-recommended texlive-latex-extra && bash scripts/build.sh",
+  "buildCommand": "chmod +x vercel-build.sh && ./vercel-build.sh",
   "outputDirectory": "output",
   "framework": null
 }
