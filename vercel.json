@@ -2,6 +2,9 @@
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "framework": null,
   "installCommand": "echo skip",
-  "buildCommand": "mkdir -p public && printf '%s' '<!DOCTYPE html><html lang=\"pt\"><head><meta charset=\"UTF-8\"><title>Regulacao da Cannabis em Portugal - LIVRE</title></head><body><h1>Proposta de Regulacao da Cannabis em Portugal</h1><p>Documento de posicao do LIVRE.</p></body></html>' > public/index.html",
-  "outputDirectory": "public"
+  "buildCommand": "bash vercel-build.sh",
+  "outputDirectory": "public",
+  "github": {
+    "silent": false
+  }
 }
