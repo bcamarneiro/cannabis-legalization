@@ -1,6 +1,6 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
-  "buildCommand": "chmod +x vercel-build.sh && ./vercel-build.sh",
+  "buildCommand": "mkdir -p public && echo '<h1>Test</h1>' > public/index.html",
   "outputDirectory": "public",
   "github": {
     "silent": false
