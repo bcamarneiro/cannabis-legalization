@@ -2,6 +2,7 @@
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "buildCommand": "sudo apt-get update && sudo apt-get install -y pandoc texlive-xetex texlive-fonts-recommended texlive-latex-extra && bash scripts/build.sh",
   "outputDirectory": "output",
+  "installCommand": "echo 'No npm dependencies'",
   "github": {
     "silent": false
   }
