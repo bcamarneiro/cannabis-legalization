@@ -1,5 +1,5 @@
 {
-  "buildCommand": "bash build.sh",
-  "outputDirectory": "output",
-  "installCommand": "echo 'No dependencies needed'"
+  "buildCommand": "bash scripts/deploy-map-demo.sh",
+  "outputDirectory": "public",
+  "installCommand": "echo 'No dependencies required'"
 }
