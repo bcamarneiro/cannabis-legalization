@@ -1,0 +1,12 @@
+build/
+chapters/
+docs/
+scripts/
+data/
+assets/
+output/
+*.bib
+*.csl
+*.md
+*.sh
+*.py
