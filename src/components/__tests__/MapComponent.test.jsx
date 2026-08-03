@@ -1,7 +1,7 @@
 import React from 'react';
 import { render, screen, fireEvent } from '@testing-library/react';
 import '@testing-library/jest-dom';
-import MapComponent from './MapComponent';
+import MapComponent from '../MapComponent';
 
 describe('MapComponent', () => {
   const mockClubs = [
