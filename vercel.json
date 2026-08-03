@@ -1,4 +1,0 @@
-{
-  "buildCommand": "echo 'Build complete'",
-  "installCommand": "echo 'Install complete'"
-}
