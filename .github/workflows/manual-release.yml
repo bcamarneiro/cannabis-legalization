@@ -50,7 +50,12 @@ jobs:
           git push
 
       - name: Build PDF and DOCX
-        run: bash scripts/build.sh
+        uses: nick-fields/retry@v3
+        with:
+          timeout_minutes: 30
+          max_attempts: 3
+          retry_wait_seconds: 60
+          command: bash scripts/build.sh
 
       - name: Determine release type label
         id: release_type
