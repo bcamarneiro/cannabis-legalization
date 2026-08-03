@@ -10,7 +10,7 @@
       "euda2024cannabis - EMCDDA European averages"
     ],
     "document_branch": "main",
-    "migration_script": "scripts/migrate_icad_stats.py"
+    "migration_script": "data/migrations/001_create_icad_stats.py"
   },
   "patterns": [
     {

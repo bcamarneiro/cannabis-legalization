@@ -29,6 +29,9 @@ __pycache__/
 *.pyo
 *.pyd
 
+# Migration runner state (regenerated on each run)
+data/.migration_state.json
+
 # Build outputs
 output/
 build/

@@ -10,7 +10,7 @@
       "euda2024cannabis - EMCDDA European averages"
     ],
     "document_branch": "main",
-    "migration_script": "scripts/migrate_raw_icad_stats.py",
+    "migration_script": "data/migrations/002_create_raw_icad_stats.py",
     "note": "Raw inbound records - unprocessed, direct from sources"
   },
   "records": [
@@ -45,7 +45,7 @@
         "notes": null
       },
       "raw_notes": "Portugal below European average (8.4%)",
-      "ingestion_timestamp": "2026-08-03T01:59:34.366435",
+      "ingestion_timestamp": "2026-08-03T02:42:20.657551",
       "ingested_by": "migration_script"
     },
     {
@@ -79,7 +79,7 @@
         "notes": null
       },
       "raw_notes": "EU average: 8.4%",
-      "ingestion_timestamp": "2026-08-03T01:59:34.366449",
+      "ingestion_timestamp": "2026-08-03T02:42:20.657556",
       "ingested_by": "migration_script"
     },
     {
@@ -113,7 +113,7 @@
         "notes": null
       },
       "raw_notes": "Baseline CAST high-risk 2012",
-      "ingestion_timestamp": "2026-08-03T01:59:34.366452",
+      "ingestion_timestamp": "2026-08-03T02:42:20.657559",
       "ingested_by": "migration_script"
     },
     {
@@ -147,7 +147,7 @@
         "notes": null
       },
       "raw_notes": "6.5x increase over decade (2012-2022)",
-      "ingestion_timestamp": "2026-08-03T01:59:34.366455",
+      "ingestion_timestamp": "2026-08-03T02:42:20.657562",
       "ingested_by": "migration_script"
     },
     {
@@ -181,7 +181,7 @@
         "notes": null
       },
       "raw_notes": "~2% last year use",
-      "ingestion_timestamp": "2026-08-03T01:59:34.366457",
+      "ingestion_timestamp": "2026-08-03T02:42:20.657564",
       "ingested_by": "migration_script"
     },
     {
@@ -215,7 +215,7 @@
         "notes": null
       },
       "raw_notes": "25-35% of users show problematic patterns",
-      "ingestion_timestamp": "2026-08-03T01:59:34.366459",
+      "ingestion_timestamp": "2026-08-03T02:42:20.657567",
       "ingested_by": "migration_script"
     },
     {
@@ -249,7 +249,7 @@
         "notes": null
       },
       "raw_notes": "Men show 5-10x higher frequent use than women",
-      "ingestion_timestamp": "2026-08-03T01:59:34.366461",
+      "ingestion_timestamp": "2026-08-03T02:42:20.657569",
       "ingested_by": "migration_script"
     },
     {
@@ -283,7 +283,7 @@
         "notes": null
       },
       "raw_notes": "Among male users",
-      "ingestion_timestamp": "2026-08-03T01:59:34.366463",
+      "ingestion_timestamp": "2026-08-03T02:42:20.657571",
       "ingested_by": "migration_script"
     },
     {
@@ -317,7 +317,7 @@
         "notes": null
       },
       "raw_notes": "Women show 5-10x lower frequent use than men",
-      "ingestion_timestamp": "2026-08-03T01:59:34.366464",
+      "ingestion_timestamp": "2026-08-03T02:42:20.657573",
       "ingested_by": "migration_script"
     },
     {
@@ -351,7 +351,7 @@
         "notes": null
       },
       "raw_notes": "Among female users",
-      "ingestion_timestamp": "2026-08-03T01:59:34.366466",
+      "ingestion_timestamp": "2026-08-03T02:42:20.657575",
       "ingested_by": "migration_script"
     },
     {
@@ -387,7 +387,7 @@
         "notes": null
       },
       "raw_notes": "CRITICAL: Gender pattern inverts in prison - 63% daily use vs 46% for men",
-      "ingestion_timestamp": "2026-08-03T01:59:34.366468",
+      "ingestion_timestamp": "2026-08-03T02:42:20.657577",
       "ingested_by": "migration_script"
     },
     {
@@ -423,7 +423,7 @@
         "notes": null
       },
       "raw_notes": "Men in prison: 46% daily use",
-      "ingestion_timestamp": "2026-08-03T01:59:34.366470",
+      "ingestion_timestamp": "2026-08-03T02:42:20.657579",
       "ingested_by": "migration_script"
     },
     {
@@ -460,7 +460,7 @@
         "notes": null
       },
       "raw_notes": "CRITICAL: 100% of girls in youth centers show high-risk consumption (CAST)",
-      "ingestion_timestamp": "2026-08-03T01:59:34.366472",
+      "ingestion_timestamp": "2026-08-03T02:42:20.657581",
       "ingested_by": "migration_script"
     },
     {
@@ -497,7 +497,7 @@
         "notes": null
       },
       "raw_notes": "Daily or near-daily use",
-      "ingestion_timestamp": "2026-08-03T01:59:34.366473",
+      "ingestion_timestamp": "2026-08-03T02:42:20.657583",
       "ingested_by": "migration_script"
     },
     {
@@ -534,7 +534,7 @@
         "notes": null
       },
       "raw_notes": "Boys in youth centers: 49% high-risk",
-      "ingestion_timestamp": "2026-08-03T01:59:34.366475",
+      "ingestion_timestamp": "2026-08-03T02:42:20.657585",
       "ingested_by": "migration_script"
     },
     {
@@ -571,7 +571,7 @@
         "notes": null
       },
       "raw_notes": "Daily or near-daily use (same as girls)",
-      "ingestion_timestamp": "2026-08-03T01:59:34.366476",
+      "ingestion_timestamp": "2026-08-03T02:42:20.657587",
       "ingested_by": "migration_script"
     },
     {
@@ -605,7 +605,7 @@
         "notes": null
       },
       "raw_notes": "11,083 students, 329 schools - cannabis most consumed illicit substance",
-      "ingestion_timestamp": "2026-08-03T01:59:34.366478",
+      "ingestion_timestamp": "2026-08-03T02:42:20.657589",
       "ingested_by": "migration_script"
     },
     {
@@ -639,7 +639,7 @@
         "notes": null
       },
       "raw_notes": "Last 30 days",
-      "ingestion_timestamp": "2026-08-03T01:59:34.366480",
+      "ingestion_timestamp": "2026-08-03T02:42:20.657591",
       "ingested_by": "migration_script"
     },
     {
@@ -673,7 +673,7 @@
         "notes": null
       },
       "raw_notes": "Under 1% daily in this age group",
-      "ingestion_timestamp": "2026-08-03T01:59:34.366482",
+      "ingestion_timestamp": "2026-08-03T02:42:20.657593",
       "ingested_by": "migration_script"
     }
   ]
