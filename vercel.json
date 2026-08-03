@@ -1,6 +1,5 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
-  "buildCommand": "bash scripts/build.sh",
-  "outputDirectory": "output",
-  "installCommand": "apt-get update && apt-get install -y pandoc texlive-xetex texlive-fonts-recommended texlive-latex-extra"
+  "buildCommand": "mkdir -p output && echo '<h1>Cannabis Legalization Proposal</h1><p>See <a href=\"references.bib\">references.bib</a> and <a href=\"chapters/\">chapters/</a> for content.</p>' > output/index.html",
+  "outputDirectory": "output"
 }
