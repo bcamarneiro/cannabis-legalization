@@ -268,14 +268,15 @@ class BuildTransaction:
         Context manager exit - commit or revert.
         
         Returns:
-            True if exception was handled (reverted), False to propagate
+            False to propagate exception (caller handles exit code),
+            True only if we fully handled a non-error condition
         """
         if exc_type is not None:
             # Build failed - revert
             self.state = TransactionState.ABORTED
             self.revert()
-            # Don't propagate BuildError - we handled it by reverting
-            return isinstance(exc_type, type) and issubclass(exc_type, BuildError)
+            # Propagate the exception so caller can set appropriate exit code
+            return False
         else:
             # Build succeeded - commit
             self.commit()
