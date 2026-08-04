@@ -78,15 +78,24 @@ else
 fi
 
 echo "   Usando: $LATEX_CMD"
-$LATEX_CMD -interaction=nonstopmode Regulacao_Cannabis_Portugal.tex 2>&1 | tail -20 || true
+
+# Run LaTeX compilation (3 passes required for TOC/references)
+# With pipefail, pipeline fails if LaTeX fails (not just tail)
+echo "   Compilação 1/3..."
+$LATEX_CMD -interaction=nonstopmode Regulacao_Cannabis_Portugal.tex 2>&1 | tail -20
 echo "   Compilação 1/3 completa"
+
 echo "📋 DEBUG - Ficheiros após 1ª compilação:"
 ls -la *.toc *.aux 2>/dev/null || echo "   (nenhum .toc/.aux)"
 echo "📋 DEBUG - Conteúdo do .toc (se existir):"
 head -20 Regulacao_Cannabis_Portugal.toc 2>/dev/null || echo "   (sem .toc)"
-$LATEX_CMD -interaction=nonstopmode Regulacao_Cannabis_Portugal.tex 2>&1 | tail -20 || true
+
+echo "   Compilação 2/3..."
+$LATEX_CMD -interaction=nonstopmode Regulacao_Cannabis_Portugal.tex 2>&1 | tail -20
 echo "   Compilação 2/3 completa"
-$LATEX_CMD -interaction=nonstopmode Regulacao_Cannabis_Portugal.tex 2>&1 | tail -20 || true
+
+echo "   Compilação 3/3..."
+$LATEX_CMD -interaction=nonstopmode Regulacao_Cannabis_Portugal.tex 2>&1 | tail -20
 echo "   Compilação 3/3 completa"
 
 # Verificar se PDF foi gerado
