@@ -1,9 +1,9 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
+  "installCommand": "export DEBIAN_FRONTEND=noninteractive && apt-get update && apt-get install -y --no-install-recommends pandoc texlive-xetex texlive-fonts-recommended texlive-latex-extra fontconfig && apt-get clean && rm -rf /var/lib/apt/lists/*",
   "buildCommand": "bash scripts/build.sh",
   "outputDirectory": "output",
   "github": {
     "silent": false
-  },
-  "installCommand": "apt-get update && apt-get install -y pandoc texlive-xetex texlive-fonts-recommended texlive-latex-extra"
+  }
 }
