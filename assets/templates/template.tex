@@ -25,13 +25,13 @@
 \usepackage{colortbl}
 \usepackage{footnote}
 % Helvetica Neue (macOS system font; fallback to TeX Gyre Heros for Linux/CI)
-% TeX Gyre Heros requires fontconfig registration; Helvetica Neue works out-of-the-box on macOS
+% TeX Gyre Heros is available via fontconfig on standard TeX Live installations
 \IfFontExistsTF{Helvetica Neue}{%
   \setmainfont{Helvetica Neue}%
   \setsansfont{Helvetica Neue}%
 }{%
-  \setmainfont{TeX Gyre Heros}[Path=/usr/local/texlive/2025/texmf-dist/fonts/opentype/public/tex-gyre/,Extension=.otf,UprightFont=texgyreheros-regular,BoldFont=texgyreheros-bold,ItalicFont=texgyreheros-italic,BoldItalicFont=texgyreheros-bolditalic]%
-  \setsansfont{TeX Gyre Heros}[Path=/usr/local/texlive/2025/texmf-dist/fonts/opentype/public/tex-gyre/,Extension=.otf,UprightFont=texgyreheros-regular,BoldFont=texgyreheros-bold,ItalicFont=texgyreheros-italic,BoldItalicFont=texgyreheros-bolditalic]%
+  \setmainfont{TeX Gyre Heros}%
+  \setsansfont{TeX Gyre Heros}%
 }
 \usepackage{hyperref}
 \usepackage{bookmark}  % Better TOC bookmarks with hyperref
