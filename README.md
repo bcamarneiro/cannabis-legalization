@@ -10,7 +10,8 @@
 
 **Ficheiro fonte:** [`documento.md`](documento.md) - Proposta completa em Markdown
 **Referências:** [`references.bib`](references.bib) - Bibliografia académica (150+ fontes)
-**Outputs gerados:** Disponíveis em [Releases](../../releases) - PDF e DOCX atualizados automaticamente
+**Outputs gerados:** Disponíveis em [Releases](../../releases) - PDF e DOCX atualizados automaticamente  
+**Explorador comparativo:** [`explorer/index.html`](explorer/index.html) - Comparação interativa lado-a-lado dos modelos de Portugal, Alemanha, Canadá e Uruguai
 
 ### Como funcionam as citações
 
