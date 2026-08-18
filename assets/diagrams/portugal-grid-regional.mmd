@@ -1,0 +1,61 @@
+flowchart TB
+  subgraph Norte["Norte - 15 clubes"]
+    direction TB
+    Viana["Viana do Castelo\n1 clube"]
+    Braga["Braga\n4 clubes"]
+    VilaReal["Vila Real\n1 clube"]
+    Porto["Porto (AMP)\n8 clubes"]
+    Aveiro["Aveiro\n3 clubes"]
+  end
+
+  subgraph Centro["Centro - 8-9 clubes"]
+    direction TB
+    Guarda["Guarda\n1 clube"]
+    Viseu["Viseu\n1-2 clubes"]
+    Coimbra["Coimbra\n2 clubes"]
+    Leiria["Leiria\n2 clubes"]
+    CasteloBranco["Castelo Branco\n1 clube"]
+    Santarém["Santarém\n2 clubes"]
+  end
+
+  subgraph Lisboa["Área Metropolitana Lisboa - 9 clubes"]
+    direction TB
+    Lisboa["Lisboa\n4 clubes"]
+    Oeiras["Oeiras\n1 clube"]
+    Cascais["Cascais\n1 clube"]
+    Sintra["Sintra\n1 clube"]
+    Loures["Loures\n1 clube"]
+    Amadora["Amadora\n1 clube"]
+  end
+
+  subgraph Alentejo["Alentejo - 3-4 clubes"]
+    direction TB
+    Portalegre["Portalegre\n0-1 clube"]
+    Évora["Évora\n1 clube"]
+    Beja["Beja\n1 clube"]
+    Setúbal["Setúbal\n4 clubes"]
+  end
+
+  subgraph Algarve["Algarve - 2 clubes"]
+    direction TB
+    Faro["Faro\n2 clubes"]
+  end
+
+  subgraph Ilhas["Regiões Autónomas - 2 clubes"]
+    direction TB
+    Madeira["Madeira\n1 clube"]
+    Açores["Açores\n1 clube"]
+  end
+
+  Norte --> Centro
+  Centro --> Lisboa
+  Lisboa --> Alentejo
+  Alentejo --> Algarve
+  Ilhas -.-> Lisboa
+
+  style Norte fill:#e3f2fd
+  style Centro fill:#fff3e0
+  style Lisboa fill:#ffebee
+  style Alentejo fill:#f3e5f5
+  style Algarve fill:#e8f5e9
+  style Ilhas fill:#fff8e1
