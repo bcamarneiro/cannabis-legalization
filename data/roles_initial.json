@@ -1,0 +1,416 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2026-02-26",
+  "metadata": {
+    "description": "Initial roles and permissions migration from cannabis legalization policy document",
+    "sources": [
+      "KCanG \u00a723 - Oficial de Preven\u00e7\u00e3o requirements",
+      "Policy document chapters on club governance",
+      "SICAD regulatory framework"
+    ],
+    "document_branch": "main",
+    "migration_script": "scripts/migrate_roles.py"
+  },
+  "roles": [
+    {
+      "role_id": "ASSEMBLEIA",
+      "name": "Assembleia de Membros",
+      "description": "General assembly of all club members - supreme decision-making body",
+      "permissions": [
+        "MEMBERSHIP_LIST",
+        "FINANCE_VIEW",
+        "MEMBERSHIP_FEE"
+      ],
+      "scope": "club",
+      "max_holders_per_club": null,
+      "required_qualifications": [
+        "Active club member in good standing"
+      ],
+      "reports_to": null,
+      "salary_range_min": null,
+      "salary_range_max": null
+    },
+    {
+      "role_id": "DIRECAO",
+      "name": "Dire\u00e7\u00e3o do Clube",
+      "description": "Club board responsible for overall management and operations",
+      "permissions": [
+        "MEMBER_ADD",
+        "MEMBER_REMOVE",
+        "MEMBER_VERIFY",
+        "MEMBERSHIP_LIST",
+        "CULTIVATION_PLAN",
+        "HARVEST_APPROVE",
+        "SEED_CERTIFY",
+        "INVENTORY_MANAGE",
+        "DISTRIBUTE_PRODUCT",
+        "SET_PRICE",
+        "LIMIT_ENFORCE",
+        "FINANCE_VIEW",
+        "FINANCE_APPROVE",
+        "MEMBERSHIP_FEE",
+        "COMPLIANCE_CHECK",
+        "THC_TEST",
+        "AGE_VERIFY",
+        "REPORT_SICAD",
+        "REPORT_CONSUMPTION",
+        "ADMIN_CLUB_CONFIG",
+        "ADMIN_SCHEDULE",
+        "ADMIN_ACCESS"
+      ],
+      "scope": "club",
+      "max_holders_per_club": 3,
+      "required_qualifications": [
+        "Club member",
+        "Good standing",
+        "No criminal record"
+      ],
+      "reports_to": null,
+      "salary_range_min": null,
+      "salary_range_max": null
+    },
+    {
+      "role_id": "OFICIAL_PREVENCAO",
+      "name": "Oficial de Preven\u00e7\u00e3o",
+      "description": "Prevention officer responsible for member education, monitoring, and SNS referrals",
+      "permissions": [
+        "MEMBER_VERIFY",
+        "MEMBERSHIP_LIST",
+        "COMPLIANCE_CHECK",
+        "AGE_VERIFY",
+        "REPORT_CONSUMPTION",
+        "REPORT_INCIDENT"
+      ],
+      "scope": "club",
+      "max_holders_per_club": 2,
+      "required_qualifications": [
+        "Licenciatura (Bachelor's degree)",
+        "40h specialization in addiction studies",
+        "1 year experience in addiction/clinical work"
+      ],
+      "reports_to": "DIRECAO",
+      "salary_range_min": 35000,
+      "salary_range_max": 45000
+    },
+    {
+      "role_id": "TESOUREIRO",
+      "name": "Tesoureiro",
+      "description": "Treasurer responsible for financial management",
+      "permissions": [
+        "FINANCE_VIEW",
+        "FINANCE_APPROVE",
+        "MEMBERSHIP_FEE"
+      ],
+      "scope": "club",
+      "max_holders_per_club": 1,
+      "required_qualifications": [
+        "Club member",
+        "Financial literacy"
+      ],
+      "reports_to": "DIRECAO",
+      "salary_range_min": null,
+      "salary_range_max": null
+    },
+    {
+      "role_id": "CULTURA_RESPONSAVEL",
+      "name": "Respons\u00e1vel de Cultura",
+      "description": "Cultivation manager responsible for growing operations",
+      "permissions": [
+        "CULTIVATION_PLAN",
+        "HARVEST_APPROVE",
+        "SEED_CERTIFY",
+        "INVENTORY_MANAGE",
+        "THC_TEST"
+      ],
+      "scope": "club",
+      "max_holders_per_club": 2,
+      "required_qualifications": [
+        "Agricultural training or experience",
+        "Knowledge of cannabis cultivation"
+      ],
+      "reports_to": "DIRECAO",
+      "salary_range_min": null,
+      "salary_range_max": null
+    },
+    {
+      "role_id": "SICAD_AUDITOR_REGIONAL",
+      "name": "SICAD Auditor (Regional)",
+      "description": "SICAD regional auditor with oversight over multiple clubs",
+      "permissions": [
+        "AUDIT_CLUB",
+        "AUDIT_FINANCIAL",
+        "MEMBERSHIP_LIST",
+        "FINANCE_VIEW",
+        "COMPLIANCE_CHECK",
+        "REPORT_INCIDENT"
+      ],
+      "scope": "regional",
+      "max_holders_per_club": null,
+      "required_qualifications": [
+        "Government auditor certification",
+        "Knowledge of cannabis regulations"
+      ],
+      "reports_to": null,
+      "salary_range_min": null,
+      "salary_range_max": null
+    },
+    {
+      "role_id": "SICAD_DIRETOR",
+      "name": "SICAD Director (National)",
+      "description": "SICAD national director with authority to suspend licenses",
+      "permissions": [
+        "AUDIT_CLUB",
+        "AUDIT_FINANCIAL",
+        "AUDIT_SUSPEND",
+        "MEMBERSHIP_LIST",
+        "FINANCE_VIEW",
+        "REPORT_INCIDENT"
+      ],
+      "scope": "national",
+      "max_holders_per_club": null,
+      "required_qualifications": [
+        "Senior government official",
+        "Legal/regulatory expertise"
+      ],
+      "reports_to": null,
+      "salary_range_min": null,
+      "salary_range_max": null
+    }
+  ],
+  "permissions": [
+    {
+      "permission_id": "MEMBER_ADD",
+      "name": "Add Club Member",
+      "description": "Register new members to the club",
+      "category": "membership",
+      "scope": "club",
+      "requires_dual_authorization": false,
+      "audit_logged": true
+    },
+    {
+      "permission_id": "MEMBER_REMOVE",
+      "name": "Remove Club Member",
+      "description": "Remove members from the club (with cause)",
+      "category": "membership",
+      "scope": "club",
+      "requires_dual_authorization": true,
+      "audit_logged": true
+    },
+    {
+      "permission_id": "MEMBER_VERIFY",
+      "name": "Verify Member Eligibility",
+      "description": "Verify member meets eligibility requirements (age, residency, etc.)",
+      "category": "membership",
+      "scope": "club",
+      "requires_dual_authorization": false,
+      "audit_logged": true
+    },
+    {
+      "permission_id": "MEMBERSHIP_LIST",
+      "name": "View Membership List",
+      "description": "Access full membership roster",
+      "category": "membership",
+      "scope": "club",
+      "requires_dual_authorization": false,
+      "audit_logged": true
+    },
+    {
+      "permission_id": "CULTIVATION_PLAN",
+      "name": "Create Cultivation Plan",
+      "description": "Plan growing cycles, strains, quantities",
+      "category": "cultivation",
+      "scope": "club",
+      "requires_dual_authorization": false,
+      "audit_logged": true
+    },
+    {
+      "permission_id": "HARVEST_APPROVE",
+      "name": "Approve Harvest",
+      "description": "Authorize harvest operations",
+      "category": "cultivation",
+      "scope": "club",
+      "requires_dual_authorization": true,
+      "audit_logged": true
+    },
+    {
+      "permission_id": "SEED_CERTIFY",
+      "name": "Certify Seeds",
+      "description": "Certify seeds meet regulatory requirements",
+      "category": "cultivation",
+      "scope": "club",
+      "requires_dual_authorization": false,
+      "audit_logged": true
+    },
+    {
+      "permission_id": "INVENTORY_MANAGE",
+      "name": "Manage Inventory",
+      "description": "Track cannabis inventory from seed to distribution",
+      "category": "cultivation",
+      "scope": "club",
+      "requires_dual_authorization": false,
+      "audit_logged": true
+    },
+    {
+      "permission_id": "DISTRIBUTE_PRODUCT",
+      "name": "Distribute Product",
+      "description": "Distribute cannabis products to members",
+      "category": "distribution",
+      "scope": "club",
+      "requires_dual_authorization": false,
+      "audit_logged": true
+    },
+    {
+      "permission_id": "SET_PRICE",
+      "name": "Set Product Pricing",
+      "description": "Set cost-recovery pricing for products",
+      "category": "distribution",
+      "scope": "club",
+      "requires_dual_authorization": true,
+      "audit_logged": true
+    },
+    {
+      "permission_id": "LIMIT_ENFORCE",
+      "name": "Enforce Purchase Limits",
+      "description": "Enforce monthly/weekly purchase limits per member",
+      "category": "distribution",
+      "scope": "club",
+      "requires_dual_authorization": false,
+      "audit_logged": true
+    },
+    {
+      "permission_id": "FINANCE_VIEW",
+      "name": "View Financial Records",
+      "description": "Access club financial statements and records",
+      "category": "financial",
+      "scope": "club",
+      "requires_dual_authorization": false,
+      "audit_logged": true
+    },
+    {
+      "permission_id": "FINANCE_APPROVE",
+      "name": "Approve Expenses",
+      "description": "Approve club expenses and payments",
+      "category": "financial",
+      "scope": "club",
+      "requires_dual_authorization": true,
+      "audit_logged": true
+    },
+    {
+      "permission_id": "MEMBERSHIP_FEE",
+      "name": "Set Membership Fees",
+      "description": "Set monthly/annual membership fees",
+      "category": "financial",
+      "scope": "club",
+      "requires_dual_authorization": false,
+      "audit_logged": true
+    },
+    {
+      "permission_id": "COMPLIANCE_CHECK",
+      "name": "Run Compliance Check",
+      "description": "Verify club operations comply with regulations",
+      "category": "compliance",
+      "scope": "club",
+      "requires_dual_authorization": false,
+      "audit_logged": true
+    },
+    {
+      "permission_id": "THC_TEST",
+      "name": "Request THC Testing",
+      "description": "Request laboratory THC potency testing",
+      "category": "compliance",
+      "scope": "club",
+      "requires_dual_authorization": false,
+      "audit_logged": true
+    },
+    {
+      "permission_id": "AGE_VERIFY",
+      "name": "Verify Age Compliance",
+      "description": "Verify members meet minimum age requirements",
+      "category": "compliance",
+      "scope": "club",
+      "requires_dual_authorization": false,
+      "audit_logged": true
+    },
+    {
+      "permission_id": "REPORT_SICAD",
+      "name": "Submit SICAD Report",
+      "description": "Submit quarterly reports to SICAD",
+      "category": "reporting",
+      "scope": "club",
+      "requires_dual_authorization": false,
+      "audit_logged": true
+    },
+    {
+      "permission_id": "REPORT_CONSUMPTION",
+      "name": "Report Consumption Data",
+      "description": "Report member consumption patterns to national database",
+      "category": "reporting",
+      "scope": "club",
+      "requires_dual_authorization": false,
+      "audit_logged": true
+    },
+    {
+      "permission_id": "REPORT_INCIDENT",
+      "name": "File Incident Report",
+      "description": "File incident reports (adverse events, violations)",
+      "category": "reporting",
+      "scope": "club",
+      "requires_dual_authorization": false,
+      "audit_logged": true
+    },
+    {
+      "permission_id": "ADMIN_CLUB_CONFIG",
+      "name": "Configure Club Settings",
+      "description": "Configure club operational parameters",
+      "category": "administration",
+      "scope": "club",
+      "requires_dual_authorization": false,
+      "audit_logged": true
+    },
+    {
+      "permission_id": "ADMIN_SCHEDULE",
+      "name": "Manage Schedules",
+      "description": "Manage staff and facility schedules",
+      "category": "administration",
+      "scope": "club",
+      "requires_dual_authorization": false,
+      "audit_logged": true
+    },
+    {
+      "permission_id": "ADMIN_ACCESS",
+      "name": "Manage Access Control",
+      "description": "Manage physical and system access permissions",
+      "category": "administration",
+      "scope": "club",
+      "requires_dual_authorization": false,
+      "audit_logged": true
+    },
+    {
+      "permission_id": "AUDIT_CLUB",
+      "name": "Audit Club Operations",
+      "description": "Conduct compliance audits of club operations",
+      "category": "audit",
+      "scope": "regional",
+      "requires_dual_authorization": false,
+      "audit_logged": true
+    },
+    {
+      "permission_id": "AUDIT_FINANCIAL",
+      "name": "Audit Financial Records",
+      "description": "Audit club financial records and transactions",
+      "category": "audit",
+      "scope": "regional",
+      "requires_dual_authorization": false,
+      "audit_logged": true
+    },
+    {
+      "permission_id": "AUDIT_SUSPEND",
+      "name": "Suspend Club License",
+      "description": "Suspend club license pending investigation",
+      "category": "audit",
+      "scope": "national",
+      "requires_dual_authorization": true,
+      "audit_logged": true
+    }
+  ]
+}
