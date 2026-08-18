@@ -49,6 +49,9 @@ build/
 # VSCode (local settings, extensions break - use manual search instead)
 .vscode/
 
+# State snapshotting service output (captured pre-operation state)
+.snapshots/
+
 # Social media drafts (internal use)
 SOCIAL_MEDIA.md
 REFACTORING_PROPOSAL.md
