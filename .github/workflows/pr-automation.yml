@@ -1,0 +1,62 @@
+name: PR Automation
+
+on:
+  push:
+    branches-ignore: [main]
+    paths:
+      - 'chapters/**'
+      - 'references.bib'
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  pr-automation:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Regenerate build/documento.md from chapters
+        run: bash scripts/merge-chapters.sh
+
+      - name: Commit generated build artifact
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -f build/documento.md
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: regenerate build/documento.md [skip ci]"
+            git push
+          else
+            echo "No changes to build/documento.md -- skipping commit"
+          fi
+
+      - name: Get changed files metadata
+        id: changes
+        run: |
+          CHANGED=$(git diff --name-only origin/main...HEAD -- chapters/ references.bib 2>/dev/null || echo "unknown")
+          echo "changed_files=$(echo "$CHANGED" | tr '\n' ',' | sed 's/,$//')" >> "$GITHUB_OUTPUT"
+
+      - name: Create or update draft PR
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          BRANCH="${{ github.ref_name }}"
+          PR_EXISTS=$(gh pr list --head "$BRANCH" --json number --jq 'length')
+          if [ "$PR_EXISTS" -ne 0 ]; then
+            echo "PR already exists for branch $BRANCH -- no action taken"
+            exit 0
+          fi
+          COMMITS=$(git log origin/main..HEAD --oneline --no-decorate 2>/dev/null | head -5)
+          FIRST_LINE=$(git log origin/main..HEAD --format=%s 2>/dev/null | head -1)
+          TITLE="${FIRST_LINE:-chore: update cannabis-legalization document}"
+          CHANGED_FILES="${{ steps.changes.outputs.changed_files }}"
+          # Build PR body
+          BODY="## Automated Draft PR"$'\n'"Branch: \`${BRANCH}\`"$'\n'"### Submission Metadata"$'\n'"**Type:** Content update"$'\n'"**Changed files:** ${CHANGED_FILES}"$'\n'"### Automated Steps"$'\n'"- Source chapters merged into build/documento.md"$'\n'"- Build artifact committed"$'\n'"- Draft PR created with submission metadata"
+          gh pr create --base main --head "$BRANCH" --title "$TITLE" --body "$BODY" --draft
+          echo "Draft PR created for branch $BRANCH"
