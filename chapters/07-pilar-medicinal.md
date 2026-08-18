@@ -49,11 +49,11 @@ Para contexto: €300/mês corresponde à totalidade do rendimento disponível d
 
 Propomos um modelo de comparticipação faseado:
 
-| Etapa | Prazo | Mecanismo |
+| Passo | Prazo | Mecanismo |
 |-------|-------|-----------|
-| Etapa 1 | Imediata | Comparticipação a 69% (escalão B) para indicações aprovadas pelo Infarmed |
-| Etapa 2 | 6 meses | Alargamento a 90% (escalão A) para doentes crónicos com baixos rendimentos |
-| Etapa 3 | 12 meses | Inclusão no Formulário Nacional de Medicamentos com revisão anual |
+| Passo 1 | Imediata | Comparticipação a 69% (escalão B) para indicações aprovadas pelo Infarmed |
+| Passo 2 | 6 meses | Alargamento a 90% (escalão A) para doentes crónicos com baixos rendimentos |
+| Passo 3 | 12 meses | Inclusão no Formulário Nacional de Medicamentos com revisão anual |
 
 ### Comparação Internacional de Comparticipação
 
@@ -62,7 +62,7 @@ Propomos um modelo de comparticipação faseado:
 * **Canadá:** A cannabis medicinal **não é coberta** pelos planos de saúde provinciais, obrigando os doentes a pagar do próprio bolso (até $500 CAD/mês). Este é considerado um dos maiores fracassos do modelo canadiano [@pmc2024canadainsurance]
 * **Reino Unido:** Não há cobertura NHS. O acesso é quase exclusivamente privado (custo médio ~£151/mês). O Project Twenty21 tentou criar evidência para justificar inclusão no NHS, mas sem sucesso até à data [@levaclinic2024]
 
-**Lição:** Os modelos sem comparticipação (Canadá, Reino Unido, Portugal atual) resultam em baixa adesão e manutenção do mercado negro. O modelo alemão demonstra que a inclusão no sistema de saúde público é o fator decisivo para o acesso efetivo.
+**Lição:** Os modelos sem comparticipação (Canadá, Reino Unido, Portugal atual) resultam em baixa adesão e manutenção do mercado negro. O modelo alemão demonstra que a inclusão no sistema de saúde público é o factor decisivo para o acesso efetivo.
 
 ### Análise Custo-Benefício para o SNS
 
@@ -97,7 +97,7 @@ Propomos um modelo de comparticipação faseado:
 
 4. **Eliminação do requisito de «último recurso»:**
    * Substituir por critério de "benefício clínico comprovado" a par de outras opções terapêuticas
-   * Alinhamento com a prática alemã, onde a cannabis pode ser prescrita quando existe "perspetiva fundamentada de benefício" (*begründete Aussicht auf einen Therapieerfolg*)
+   * Alinhamento com a prática alemã, onde a cannabis pode ser prescrita quando existe "perspectiva fundamentada de benefício" (*begründete Aussicht auf einen Therapieerfolg*)
 
 ## Indicações Terapêuticas
 
@@ -126,9 +126,9 @@ A revisão *umbrella* do BMJ (2023) analisou 101 meta-análises sobre benefício
 
 ### Proposta de Alargamento
 
-* **Etapa 1 (imediata):** Manter as 7 indicações atuais, mas eliminar requisito de «último recurso»
-* **Etapa 2 (6 meses):** Adicionar PTSD, fibromialgia, doença inflamatória intestinal e artrite reumatoide
-* **Etapa 3 (12 meses):** Revisão baseada em evidência atualizada, com comissão técnica independente
+* **Passo 1 (imediato):** Manter as 7 indicações atuais, mas eliminar requisito de «último recurso»
+* **Passo 2 (6 meses):** Adicionar PTSD, fibromialgia, doença inflamatória intestinal e artrite reumatoide
+* **Passo 3 (12 meses):** Revisão baseada em evidência atualizada, com comissão técnica independente
 
 ## Integração com a Indústria Existente
 
@@ -166,7 +166,7 @@ Paradoxalmente, em 2023 apenas **17 kg** foram vendidos domesticamente. Os doent
 | Pacientes ativos | ~1.000 (est.) | ~370.000 prescrições/ano | ~137.940 | ~40.000 (privados) | ~450.000 |
 | Comparticipação | Nenhuma (37% apenas Sativex) | Seguro público (desde 2024 sem aprovação prévia) | Parcial | Nenhuma (NHS muito raro) | Nenhuma (provincial) |
 | Quem prescreve | Qualquer médico (na teoria) | Qualquer médico (16 especialidades sem aprovação prévia) | Especialistas + GPs (reforma 2024) | Especialistas privados | Qualquer médico |
-| Indicações | 7 indicações restritas | Sem lista fixa ("perspetiva de benefício") | Lista ampla + expansão em curso | Sem lista fixa | Sem lista fixa |
+| Indicações | 7 indicações restritas | Sem lista fixa ("perspectiva de benefício") | Lista ampla + expansão em curso | Sem lista fixa | Sem lista fixa |
 | Custo para o doente | €150–300/mês | €5–10 copagamento | Subsidiado parcialmente | £150+/mês (privado) | $100–500 CAD/mês |
 | Produção nacional | 18+ toneladas (export) | Limitada (importa maioria) | Significativa | Limitada | Excesso de oferta |
 

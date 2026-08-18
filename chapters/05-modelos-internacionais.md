@@ -206,7 +206,7 @@ A Tailândia oferece o exemplo mais dramático de como **não** fazer uma legali
 
 **Contexto crítico — tendência nacional, não apenas estados legalizados:**
 
-É intelectualmente desonesto atribuir estes declínios exclusivamente à legalização. **Consumo juvenil de cannabis declinou nos EUA como um todo** entre 2011-2023, incluindo estados sem legalização:
+É uma simplificação que não reflecte a evidência disponível atribuir estes declínios exclusivamente à legalização. **Consumo juvenil de cannabis declinou nos EUA como um todo** entre 2011-2023, incluindo estados sem legalização:
 
 * **Monitoring the Future (Univ. Michigan):** Declínio nacional de **38% nos 8º e 10º anos, 13% no 12º ano** entre 2013-2023 [@monitoringthefuture2023] — padrão semelhante ao Colorado
 * **Confounds não mencionados:** Mudanças geracionais nas atitudes face a drogas, campanhas anti-tabagismo/vaping (que também afectam cannabis), aumento do financiamento de prevenção a nível nacional, mudanças metodológicas nos surveys pós-COVID-19
