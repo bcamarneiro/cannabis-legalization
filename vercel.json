@@ -1,0 +1,5 @@
+{
+  "buildCommand": "apt-get update && apt-get install -y pandoc texlive-latex-base texlive-latex-extra texlive-fonts-recommended texlive-science && bash scripts/build.sh pdf",
+  "outputDirectory": "output",
+  "installCommand": "echo 'No Node.js dependencies required'"
+}
