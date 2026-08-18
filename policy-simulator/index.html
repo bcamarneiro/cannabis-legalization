@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Policy Impact Simulator — Cannabis Legalization Portugal</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
+</head>
+<body>
+
+<header class="sim-header">
+  <h1>Policy Impact Simulator</h1>
+  <p class="subtitle">Model projected social and economic outcomes of cannabis regulation in Portugal</p>
+</header>
+
+<div class="sim-container">
+  <!-- Controls -->
+  <aside class="controls-panel">
+    <h2>Policy Levers</h2>
+
+    <div class="presets">
+      <h3>Presets</h3>
+      <div class="preset-btns">
+        <button class="preset-btn active" data-preset="german">German Model</button>
+        <button class="preset-btn" data-preset="portuguese">Portuguese Proposal</button>
+        <button class="preset-btn" data-preset="commercial">Commercial (CO/CA)</button>
+        <button class="preset-btn" data-preset="restrictive">Restrictive</button>
+      </div>
+    </div>
+
+    <div class="control-group">
+      <label>Tax Rate <span class="value" id="val-tax">15%</span></label>
+      <input type="range" id="slider-tax" min="0" max="50" value="15" step="1">
+      <span class="control-description">Effective tax on commercial sales. Higher rates boost revenue but drive users to black market.</span>
+    </div>
+
+    <div class="control-group">
+      <label>Possession Limit <span class="value" id="val-possession">25g</span></label>
+      <input type="range" id="slider-possession" min="5" max="100" value="25" step="5">
+      <span class="control-description">Maximum grams allowed for personal possession in public.</span>
+    </div>
+
+    <div class="control-group">
+      <label>Social Clubs <span class="value" id="val-clubs">46</span></label>
+      <input type="range" id="slider-clubs" min="5" max="150" value="46" step="1">
+      <span class="control-description">Number of licensed non-profit cannabis social clubs nationwide.</span>
+    </div>
+  </aside>
+
+  <!-- Results -->
+  <main class="results-panel">
+    <!-- Key metrics -->
+    <div class="metrics-grid" id="metrics">
+      <div class="metric-card">
+        <div class="metric-label">Market Capture</div>
+        <div class="metric-value green" id="metric-capture">--</div>
+        <div class="metric-sub" id="metric-capture-users"></div>
+      </div>
+      <div class="metric-card">
+        <div class="metric-label">Tax Revenue</div>
+        <div class="metric-value blue" id="metric-revenue">--</div>
+        <div class="metric-sub">per year</div>
+      </div>
+      <div class="metric-card">
+        <div class="metric-label">Enforcement Savings</div>
+        <div class="metric-value orange" id="metric-savings">--</div>
+        <div class="metric-sub">per year</div>
+      </div>
+      <div class="metric-card">
+        <div class="metric-label">Black Market Size</div>
+        <div class="metric-value red" id="metric-blackmarket">--</div>
+        <div class="metric-sub" id="metric-blackmarket-pct"></div>
+      </div>
+      <div class="metric-card">
+        <div class="metric-label">Club Members</div>
+        <div class="metric-value purple" id="metric-members">--</div>
+        <div class="metric-sub" id="metric-coverage"></div>
+      </div>
+      <div class="metric-card">
+        <div class="metric-label">Health Index</div>
+        <div class="metric-value green" id="metric-health">--</div>
+        <div class="metric-sub" id="metric-health-grade"></div>
+      </div>
+    </div>
+
+    <!-- Charts row 1: Market distribution + Capture gauge -->
+    <div class="chart-row">
+      <div class="chart-card">
+        <h3>Legal vs Black Market Users</h3>
+        <div class="chart-wrapper small">
+          <canvas id="chart-market"></canvas>
+        </div>
+      </div>
+      <div class="chart-card">
+        <h3>Market Capture</h3>
+        <div class="chart-wrapper small">
+          <canvas id="chart-capture"></canvas>
+        </div>
+      </div>
+    </div>
+
+    <!-- Charts row 2: Sweep analyses -->
+    <div class="chart-row">
+      <div class="chart-card">
+        <h3>Tax Rate → Market Capture &amp; Revenue</h3>
+        <div class="chart-wrapper">
+          <canvas id="chart-tax-sweep"></canvas>
+        </div>
+      </div>
+      <div class="chart-card">
+        <h3>Possession Limit → Displacement &amp; Health</h3>
+        <div class="chart-wrapper">
+          <canvas id="chart-possession-sweep"></canvas>
+        </div>
+      </div>
+    </div>
+
+    <!-- Charts row 3: Health radar -->
+    <div class="chart-row">
+      <div class="chart-card" style="max-width: 450px; margin: 0 auto;">
+        <h3>Health Outcome Breakdown</h3>
+        <div class="chart-wrapper small">
+          <canvas id="chart-health"></canvas>
+        </div>
+      </div>
+    </div>
+  </main>
+</div>
+
+<footer class="sim-footer">
+  Data sourced from <a href="https://github.com/bcamarneiro/cannabis-legalization" target="_blank" rel="noopener">cannabis-legalization</a> position document.
+  Model parameters derived from international evidence (Colorado, Canada, Uruguay, Germany).
+</footer>
+
+<script src="engine.js"></script>
+<script src="charts.js"></script>
+<script>
+(function () {
+  'use strict';
+
+  // --- DOM refs ---
+  const sliderTax = document.getElementById('slider-tax');
+  const sliderPossession = document.getElementById('slider-possession');
+  const sliderClubs = document.getElementById('slider-clubs');
+
+  const valTax = document.getElementById('val-tax');
+  const valPossession = document.getElementById('val-possession');
+  const valClubs = document.getElementById('val-clubs');
+
+  const presetBtns = document.querySelectorAll('.preset-btn');
+
+  // Preset configurations
+  const PRESETS = {
+    german:       { taxRate: 0,  possessionLimit: 25, clubCount: 46 },
+    portuguese:   { taxRate: 0,  possessionLimit: 50, clubCount: 46 },
+    commercial:   { taxRate: 18, possessionLimit: 30, clubCount: 80 },
+    restrictive:  { taxRate: 30, possessionLimit: 10, clubCount: 10 },
+  };
+
+  // --- State ---
+  function getParams() {
+    return {
+      taxRate: parseInt(sliderTax.value),
+      possessionLimit: parseInt(sliderPossession.value),
+      clubCount: parseInt(sliderClubs.value),
+    };
+  }
+
+  function setParams(params) {
+    sliderTax.value = params.taxRate;
+    sliderPossession.value = params.possessionLimit;
+    sliderClubs.value = params.clubCount;
+    updateLabels();
+    simulate();
+  }
+
+  // --- Update ---
+  function updateLabels() {
+    valTax.textContent = sliderTax.value + '%';
+    valPossession.textContent = sliderPossession.value + 'g';
+    valClubs.textContent = sliderClubs.value;
+  }
+
+  function updateMetrics(result) {
+    document.getElementById('metric-capture').textContent = result.market.captureRate + '%';
+    document.getElementById('metric-capture-users').textContent =
+      result.market.legalMarketUsers.toLocaleString() + ' users in legal market';
+
+    document.getElementById('metric-revenue').textContent =
+      '€' + result.fiscal.taxRevenue + 'M';
+
+    document.getElementById('metric-savings').textContent =
+      '€' + result.fiscal.enforcementSavings + 'M';
+
+    document.getElementById('metric-blackmarket').textContent =
+      '€' + result.market.blackMarketSize + 'M';
+    document.getElementById('metric-blackmarket-pct').textContent =
+      result.market.blackMarketUsers.toLocaleString() + ' users in black market';
+
+    document.getElementById('metric-members').textContent =
+      result.clubs.totalMembers.toLocaleString();
+    document.getElementById('metric-coverage').textContent =
+      result.clubs.coveragePercent + '% of users — €' + result.clubs.costPerGram + '/g avg';
+
+    const healthEl = document.getElementById('metric-health');
+    healthEl.textContent = result.health.index + '/100';
+    const gradeEl = document.getElementById('metric-health-grade');
+    gradeEl.innerHTML = 'Grade <span class="grade-badge ' + result.health.grade + '">' +
+      result.health.grade + '</span>';
+  }
+
+  function simulate() {
+    const params = getParams();
+    const result = PolicyEngine.simulate(params.taxRate, params.possessionLimit, params.clubCount);
+    updateMetrics(result);
+    PolicyCharts.renderAll(result);
+  }
+
+  // --- Events ---
+  sliderTax.addEventListener('input', () => { updateLabels(); simulate(); });
+  sliderPossession.addEventListener('input', () => { updateLabels(); simulate(); });
+  sliderClubs.addEventListener('input', () => { updateLabels(); simulate(); });
+
+  presetBtns.forEach(btn => {
+    btn.addEventListener('click', () => {
+      presetBtns.forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      setParams(PRESETS[btn.dataset.preset]);
+    });
+  });
+
+  // --- Init ---
+  updateLabels();
+  simulate();
+})();
+</script>
+</body>
+</html>

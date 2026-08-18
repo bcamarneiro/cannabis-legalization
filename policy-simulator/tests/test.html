@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PolicyEngine Tests — Browser Runner</title>
+  <style>
+    body { font-family: monospace; background: #0d1117; color: #e6edf3; padding: 2rem; }
+    h1 { font-size: 1.2rem; margin-bottom: 1rem; }
+    .pass { color: #3fb950; }
+    .fail { color: #f85149; }
+    pre { margin: 0; }
+    .section { margin-bottom: 0.5rem; color: #8b949e; }
+  </style>
+</head>
+<body>
+<h1>PolicyEngine — Browser Test Suite</h1>
+<div id="results"></div>
+<script src="../engine.js"></script>
+<script>
+(function () {
+  'use strict';
+  const out = document.getElementById('results');
+  let passed = 0, failed = 0;
+
+  function log(msg, cls) {
+    const el = document.createElement('pre');
+    el.textContent = msg;
+    if (cls) el.className = cls;
+    out.appendChild(el);
+  }
+
+  function assert(condition, description) {
+    if (condition) {
+      passed++;
+      log('  ✓ ' + description, 'pass');
+    } else {
+      failed++;
+      log('  ✗ ' + description, 'fail');
+    }
+  }
+
+  function section(title) {
+    log('\n' + title, 'section');
+  }
+
+  section('1. Engine loads');
+  assert(typeof PolicyEngine === 'object', 'PolicyEngine exists');
+  assert(typeof PolicyEngine.simulate === 'function', 'PolicyEngine.simulate is a function');
+
+  section('2. Simulate returns valid structure');
+  const r = PolicyEngine.simulate(15, 25, 46);
+  assert(r.inputs !== undefined, 'result.inputs exists');
+  assert(r.market !== undefined, 'result.market exists');
+  assert(r.clubs !== undefined, 'result.clubs exists');
+  assert(r.fiscal !== undefined, 'result.fiscal exists');
+  assert(r.health !== undefined, 'result.health exists');
+
+  section('3. Boundary clamping');
+  assert(PolicyEngine.simulate(-5, 0, -10).inputs.taxRate === 0, 'negative clamped to 0');
+  assert(PolicyEngine.simulate(100, 500, 999).inputs.taxRate === 50, 'over-max clamped to 50');
+
+  section('4. Monotonicity');
+  const lowTax = PolicyEngine.simulate(5, 25, 46);
+  const highTax = PolicyEngine.simulate(35, 25, 46);
+  assert(parseFloat(highTax.market.captureRate) < parseFloat(lowTax.market.captureRate),
+    'higher tax → lower capture');
+
+  section('5. Preset scenarios');
+  const german = PolicyEngine.simulate(0, 25, 46);
+  assert(Math.abs(parseFloat(german.fiscal.taxRevenue)) < 0.01, 'German: zero tax revenue');
+  assert(german.health.grade === 'A' || german.health.grade === 'B', 'German: health grade A/B');
+
+  const commercial = PolicyEngine.simulate(18, 30, 80);
+  assert(parseFloat(commercial.fiscal.taxRevenue) > 0, 'Commercial: positive revenue');
+
+  // Summary
+  log('\n' + '='.repeat(40));
+  log(`\nResults: ${passed} passed, ${failed} failed, ${passed + failed} total\n`);
+  if (failed > 0) {
+    log('SOME TESTS FAILED', 'fail');
+  } else {
+    log('All tests passed.', 'pass');
+  }
+})();
+</script>
+</body>
+</html>
