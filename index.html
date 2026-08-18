@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Proposta de Regulação da Cannabis - LIVRE</title>
+  <style>
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 40px 20px; line-height: 1.6; }
+    h1 { color: #d32f2f; }
+    .links { margin: 30px 0; }
+    .links a { display: inline-block; margin: 10px 10px 10px 0; padding: 12px 24px; background: #d32f2f; color: white; text-decoration: none; border-radius: 4px; }
+    .links a:hover { background: #b71c1c; }
+    .info { background: #f5f5f5; padding: 20px; border-radius: 8px; margin-top: 30px; }
+    code { background: #e0e0e0; padding: 2px 6px; border-radius: 3px; }
+  </style>
+</head>
+<body>
+  <h1>Proposta de Regulação da Cannabis</h1>
+  <p>Documento de posição do LIVRE sobre a regulação da cannabis em Portugal.</p>
+  
+  <div class="links">
+    <a href="build/documento.pdf">📄 Ver PDF Completo</a>
+    <a href="https://github.com/bcamarneiro/cannabis-legalization">🔗 Ver no GitHub</a>
+  </div>
+  
+  <div class="info">
+    <h2>Sobre este documento</h2>
+    <p>Esta proposta estabelece um modelo para a regulação da cannabis em Portugal, incluindo:</p>
+    <ul>
+      <li>Clubes sociais de cannabis</li>
+      <li>Autocultivo pessoal</li>
+      <li>Redução de danos e prevenção</li>
+      <li>Enquadramento legal e regulamentar</li>
+    </ul>
+    <p><strong>Versão atual:</strong> <code id="version">carregando...</code></p>
+  </div>
+  
+  <script>
+    fetch('VERSION')
+      .then(r => r.text())
+      .then(v => document.getElementById('version').textContent = v.trim())
+      .catch(() => document.getElementById('version').textContent = 'não disponível');
+  </script>
+</body>
+</html>

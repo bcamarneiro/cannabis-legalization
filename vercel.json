@@ -1,0 +1,7 @@
+{
+  "github": {
+    "silent": false
+  },
+  "outputDirectory": ".",
+  "installCommand": "echo 'No install needed - static site'"
+}
