@@ -266,7 +266,7 @@ Nenhum modelo elimina 100% o risco de peer influence. Clubes sempre terão dimen
 Os clubes devem implementar **rastreabilidade completa** da cannabis cultivada, assegurando:
 
 - **Registo individual de distribuições:** Cada entrega a um membro é documentada com data, quantidade e tipo de produto
-- **Objetivo:** Garantir cumprimento de limites mensais (50g/mês por membro) e prevenir revenda
+- **Objectivo:** Garantir cumprimento de limites mensais (50g/mês por membro) e prevenir revenda
 - **Rastreio "da semente à distribuição":** Documentação de todas as fases (sementeira, cultivo, colheita, armazenamento, entrega)
 - **Privacidade:** Dados de membros apenas acessíveis a autoridades em fiscalização oficial, não são públicos
 
