@@ -208,7 +208,7 @@ Um estudo de 2024 publicado na ResearchGate estima o mercado ilegal português d
 Os dados do V Inquérito Nacional (SICAD, 2022) mostram que Portugal mantém taxas de consumo abaixo da média europeia:
 
 * **Prevalência ao longo da vida (15-64 anos):** 10,5% (PT) [@nugent2017]
-* **Consumo último ano (15-64 anos):** 2,8% (PT) vs. 8,4% (média UE) [@marconi2016; @di2019]
+* **Consumo último ano (15-64 anos, dados ~2012–2017):** 2,8% (PT) vs. 8,4% (média UE) [@marconi2016; @di2019]
 
 **Dado preocupante:** O consumo de risco elevado entre jovens 15-24 anos aumentou de 0,2% (2012) para 1,3% (2022), medido pelo Cannabis Abuse Screening Test (CAST) [@leung2020].
 
@@ -272,7 +272,7 @@ Os dados comprovam que tratar consumo como questão de saúde (e não criminal) 
 * Redução de 98% nos diagnósticos de HIV relacionado com drogas [@internationalcbc2025]
 * Mortes por overdose caíram significativamente [@businesscannabis2025b]
 * Portugal tem agora uma das taxas mais baixas de mortalidade por drogas na Europa (10 por milhão vs. 22 média UE) [@mmjdaily2025]
-* **Consumo não aumentou após descriminalização** — Portugal mantém taxas abaixo da média europeia (8,2% vs 8,3% UE, último ano) [@euda2024cannabis]. **Nota metodológica:** Impossível provar causalidade (múltiplos factores confundidos: tendências europeias, mudanças culturais, políticas prevenção). A conclusão defensável é que a descriminalização **não causou a epidemia temida** pelos opositores [@greenwald2009; @springer2021pt]
+* **Consumo não aumentou após descriminalização** — Portugal mantém taxas abaixo da média europeia (8,2% vs 8,3% UE, último ano, dados 2022) [@euda2024cannabis] (nota: a diferença face aos 2,8% do período anterior reflecte alterações metodológicas nos inquéritos do SICAD/EMCDDA, incluindo maior abrangência amostral e revisão dos critérios de reporte, não necessariamente um aumento real proporcional do consumo). **Nota metodológica:** Impossível provar causalidade (múltiplos factores confundidos: tendências europeias, mudanças culturais, políticas prevenção). A conclusão defensável é que a descriminalização **não causou a epidemia temida** pelos opositores [@greenwald2009; @springer2021pt]
 
 **2\. O sistema judicial tornou-se mais eficaz e humano**
 
@@ -374,7 +374,7 @@ Em **2000-2001**, Portugal tornou-se pioneiro global ao **descriminalizar** (nã
 
 **Resistência política:**
 
-* **Oposição feroz da direita parlamentar:** CDS-PP liderou campanha contra "legalização das drogas" (termo deliberadamente enganoso — lei descriminalizava, não legalizava)
+* **Oposição feroz da direita parlamentar:** CDS-PP liderou campanha contra "legalização das drogas" (termo factualmente incorrecto — a lei descriminalizava o consumo pessoal, não legalizava qualquer substância)
 * **Basílio Horta (CDS):** Exigiu referendo, argumentando que a lei "vai alterar profundamente o modelo de sociedade"
 * **Aprovação garantida:** PS tinha apoio suficiente (115/230 deputados) para aprovar sem maioria absoluta, ultrapassando oposição
 
@@ -461,7 +461,7 @@ A NASEM (2017) — analisando mais de 10.000 resumos científicos — estabelece
 A evidência sobre riscos é robusta e deve orientar a nossa proposta:
 
 * **Psicose:** Meta-análise Marconi et al. (2016): OR 3,90 para psicose nos consumidores mais pesados vs. não-consumidores [@unnews2020]
-* **Alta potência + uso diário:** Estudo EU-GEI (2019): combinação de **uso diário** + cannabis de alta potência (THC ≥10%) associado a ~5x maior probabilidade de psicose (OR 4,8). **Nota crítica:** O risco elevado requer AMBOS fatores (uso diário + THC ≥10%), não apenas potência isolada [@dezeen2021]
+* **Alta potência + uso diário:** Estudo EU-GEI (2019): combinação de **uso diário** + cannabis de alta potência (THC ≥10%) associado a ~5x maior probabilidade de psicose (OR 4,8). **Nota crítica:** O risco elevado requer AMBOS factores (uso diário + THC ≥10%), não apenas potência isolada [@dezeen2021]
 * **Cannabis Use Disorder (CUD) — Gradiente de risco por frequência de uso:** Meta-análise Leung et al. (2020): **~22% dos utilizadores de cannabis** desenvolvem CUD ao longo da vida (baseline). **Risco aumenta substancialmente com frequência:**
   - **Uso ocasional/infrequente:** ~10-15% desenvolvem CUD (metade do risco baseline)
   - **Uso semanal/regular:** ~25-30% desenvolvem CUD
@@ -494,7 +494,7 @@ Reconhecemos os riscos e por isso propomos medidas específicas, baseadas em mod
 
 **Nota crítica sobre acesso 18-20 anos:**
 
-O estudo EU-GEI 2019 demonstra que o risco elevado de psicose (OR 4,8) requer a **combinação** de dois fatores: (1) uso diário + (2) THC ≥10%. O nosso modelo para 18-20 anos mitiga ambos:
+O estudo EU-GEI 2019 demonstra que o risco elevado de psicose (OR 4,8) requer a **combinação** de dois factores: (1) uso diário + (2) THC ≥10%. O nosso modelo para 18-20 anos mitiga ambos:
 
 1. **Previne uso diário:** Limite 30g/mês = máximo ~1g/dia. Uso "diário de alta potência" no estudo refere utilizadores pesados sem limites estruturais
 2. **Cap THC no threshold:** Limite 10% para 18-20 impede acesso a >10% (o threshold de "alta potência" no estudo)
@@ -908,7 +908,7 @@ A Tailândia oferece o exemplo mais dramático de como **não** fazer uma legali
 
 **Contexto crítico — tendência nacional, não apenas estados legalizados:**
 
-É intelectualmente desonesto atribuir estes declínios exclusivamente à legalização. **Consumo juvenil de cannabis declinou nos EUA como um todo** entre 2011-2023, incluindo estados sem legalização:
+É uma simplificação que não reflecte a evidência disponível atribuir estes declínios exclusivamente à legalização. **Consumo juvenil de cannabis declinou nos EUA como um todo** entre 2011-2023, incluindo estados sem legalização:
 
 * **Monitoring the Future (Univ. Michigan):** Declínio nacional de **38% nos 8º e 10º anos, 13% no 12º ano** entre 2013-2023 [@monitoringthefuture2023] — padrão semelhante ao Colorado
 * **Confounds não mencionados:** Mudanças geracionais nas atitudes face a drogas, campanhas anti-tabagismo/vaping (que também afectam cannabis), aumento do financiamento de prevenção a nível nacional, mudanças metodológicas nos surveys pós-COVID-19
@@ -1136,11 +1136,11 @@ Para contexto: €300/mês corresponde à totalidade do rendimento disponível d
 
 Propomos um modelo de comparticipação faseado:
 
-| Etapa | Prazo | Mecanismo |
+| Passo | Prazo | Mecanismo |
 |-------|-------|-----------|
-| Etapa 1 | Imediata | Comparticipação a 69% (escalão B) para indicações aprovadas pelo Infarmed |
-| Etapa 2 | 6 meses | Alargamento a 90% (escalão A) para doentes crónicos com baixos rendimentos |
-| Etapa 3 | 12 meses | Inclusão no Formulário Nacional de Medicamentos com revisão anual |
+| Passo 1 | Imediata | Comparticipação a 69% (escalão B) para indicações aprovadas pelo Infarmed |
+| Passo 2 | 6 meses | Alargamento a 90% (escalão A) para doentes crónicos com baixos rendimentos |
+| Passo 3 | 12 meses | Inclusão no Formulário Nacional de Medicamentos com revisão anual |
 
 ### Comparação Internacional de Comparticipação
 
@@ -1149,7 +1149,7 @@ Propomos um modelo de comparticipação faseado:
 * **Canadá:** A cannabis medicinal **não é coberta** pelos planos de saúde provinciais, obrigando os doentes a pagar do próprio bolso (até $500 CAD/mês). Este é considerado um dos maiores fracassos do modelo canadiano [@pmc2024canadainsurance]
 * **Reino Unido:** Não há cobertura NHS. O acesso é quase exclusivamente privado (custo médio ~£151/mês). O Project Twenty21 tentou criar evidência para justificar inclusão no NHS, mas sem sucesso até à data [@levaclinic2024]
 
-**Lição:** Os modelos sem comparticipação (Canadá, Reino Unido, Portugal atual) resultam em baixa adesão e manutenção do mercado negro. O modelo alemão demonstra que a inclusão no sistema de saúde público é o fator decisivo para o acesso efetivo.
+**Lição:** Os modelos sem comparticipação (Canadá, Reino Unido, Portugal atual) resultam em baixa adesão e manutenção do mercado negro. O modelo alemão demonstra que a inclusão no sistema de saúde público é o factor decisivo para o acesso efetivo.
 
 ### Análise Custo-Benefício para o SNS
 
@@ -1184,7 +1184,7 @@ Propomos um modelo de comparticipação faseado:
 
 4. **Eliminação do requisito de «último recurso»:**
    * Substituir por critério de "benefício clínico comprovado" a par de outras opções terapêuticas
-   * Alinhamento com a prática alemã, onde a cannabis pode ser prescrita quando existe "perspetiva fundamentada de benefício" (*begründete Aussicht auf einen Therapieerfolg*)
+   * Alinhamento com a prática alemã, onde a cannabis pode ser prescrita quando existe "perspectiva fundamentada de benefício" (*begründete Aussicht auf einen Therapieerfolg*)
 
 ## Indicações Terapêuticas
 
@@ -1213,9 +1213,9 @@ A revisão *umbrella* do BMJ (2023) analisou 101 meta-análises sobre benefício
 
 ### Proposta de Alargamento
 
-* **Etapa 1 (imediata):** Manter as 7 indicações atuais, mas eliminar requisito de «último recurso»
-* **Etapa 2 (6 meses):** Adicionar PTSD, fibromialgia, doença inflamatória intestinal e artrite reumatoide
-* **Etapa 3 (12 meses):** Revisão baseada em evidência atualizada, com comissão técnica independente
+* **Passo 1 (imediato):** Manter as 7 indicações atuais, mas eliminar requisito de «último recurso»
+* **Passo 2 (6 meses):** Adicionar PTSD, fibromialgia, doença inflamatória intestinal e artrite reumatoide
+* **Passo 3 (12 meses):** Revisão baseada em evidência atualizada, com comissão técnica independente
 
 ## Integração com a Indústria Existente
 
@@ -1253,7 +1253,7 @@ Paradoxalmente, em 2023 apenas **17 kg** foram vendidos domesticamente. Os doent
 | Pacientes ativos | ~1.000 (est.) | ~370.000 prescrições/ano | ~137.940 | ~40.000 (privados) | ~450.000 |
 | Comparticipação | Nenhuma (37% apenas Sativex) | Seguro público (desde 2024 sem aprovação prévia) | Parcial | Nenhuma (NHS muito raro) | Nenhuma (provincial) |
 | Quem prescreve | Qualquer médico (na teoria) | Qualquer médico (16 especialidades sem aprovação prévia) | Especialistas + GPs (reforma 2024) | Especialistas privados | Qualquer médico |
-| Indicações | 7 indicações restritas | Sem lista fixa ("perspetiva de benefício") | Lista ampla + expansão em curso | Sem lista fixa | Sem lista fixa |
+| Indicações | 7 indicações restritas | Sem lista fixa ("perspectiva de benefício") | Lista ampla + expansão em curso | Sem lista fixa | Sem lista fixa |
 | Custo para o doente | €150–300/mês | €5–10 copagamento | Subsidiado parcialmente | £150+/mês (privado) | $100–500 CAD/mês |
 | Produção nacional | 18+ toneladas (export) | Limitada (importa maioria) | Significativa | Limitada | Excesso de oferta |
 
@@ -1543,7 +1543,7 @@ Nenhum modelo elimina 100% o risco de peer influence. Clubes sempre terão dimen
 Os clubes devem implementar **rastreabilidade completa** da cannabis cultivada, assegurando:
 
 - **Registo individual de distribuições:** Cada entrega a um membro é documentada com data, quantidade e tipo de produto
-- **Objetivo:** Garantir cumprimento de limites mensais (50g/mês por membro) e prevenir revenda
+- **Objectivo:** Garantir cumprimento de limites mensais (50g/mês por membro) e prevenir revenda
 - **Rastreio "da semente à distribuição":** Documentação de todas as fases (sementeira, cultivo, colheita, armazenamento, entrega)
 - **Privacidade:** Dados de membros apenas acessíveis a autoridades em fiscalização oficial, não são públicos
 
@@ -3019,7 +3019,7 @@ A proposta segue uma lógica pragmática: **cada fase valida a seguinte**, come�
 
 **Expectativa calibrada:** A Fase 1 pode ser aprovada já em **2026**. Para a Fase 2, o cenário mais provável é aprovação em **2028** com clubes operacionais em **2029** — uma timeline de 24-36 meses. A Fase 3 depende de dados 2029-2032 e contexto europeu — timeline mais provável: **2033+**, se alguma vez acontecer. Apresentar 12-18 meses para o recreativo como expectativa primária seria irrealista e prejudicaria credibilidade da proposta.
 
-**Vantagem da abordagem faseada em três etapas:** Cada fase valida a seguinte. Mesmo que a Fase 2 sofra atrasos ou bloqueios, os ganhos da Fase 1 são permanentes — doentes com acesso medicinal, cânhamo em produção, credibilidade regulatória construída. Mesmo que a Fase 3 nunca aconteça, os objectivos de harm reduction são atingidos na Fase 2. A estratégia nunca resulta em "zero" — no pior cenário, Portugal avança em duas frentes de consenso.
+**Vantagem da abordagem faseada em três passos:** Cada fase valida a seguinte. Mesmo que a Fase 2 sofra atrasos ou bloqueios, os ganhos da Fase 1 são permanentes — doentes com acesso medicinal, cânhamo em produção, credibilidade regulatória construída. Mesmo que a Fase 3 nunca aconteça, os objectivos de harm reduction são atingidos na Fase 2. A estratégia nunca resulta em "zero" — no pior cenário, Portugal avança em duas frentes de consenso.
 
 **O precedente alemão confirma:** Alemanha aprovou CanG em 18 meses com maioria parlamentar garantida (SPD/Grüne). Implementação técnica adicionou 6+ meses, e avaliação CDU Outono 2025 ainda pode reverter aspectos do modelo. A Alemanha também separou o modelo em Pillar 1 (clubes, implementado) e Pillar 2 (comercial, condicional a coordenação UE) — a mesma lógica da nossa Fase 2 e Fase 3. Portugal, sem maioria, precisará de mais tempo para construir consenso — daí a lógica de começar pelo que não precisa de maioria difícil.
 
@@ -3419,7 +3419,7 @@ Nota: Rácio pessoal-membros conservador (1:66-111), garantindo atendimento pers
 
 Para mitigar o risco de "pagar antes de ver", propõe-se modelo em 3 fases:
 
-#### Etapa 1: Pré-Licenciamento (€0-20k necessário)
+#### Passo 1: Pré-Licenciamento (€0-20k necessário)
 
 **Objectivo:** Obter licença sem investimento pesado dos fundadores.
 
@@ -3433,7 +3433,7 @@ Para mitigar o risco de "pagar antes de ver", propõe-se modelo em 3 fases:
 
 **Risco fundadores:** €300-650/pessoa — recuperável se licença aprovada; perda aceitável se rejeitada.
 
-#### Etapa 2: Pós-Licenciamento, Pré-Operação (€100k-150k necessário)
+#### Passo 2: Pós-Licenciamento, Pré-Operação (€100k-150k necessário)
 
 **Objectivo:** Setup físico após licença confirmada — fundadores pagam quando **vêem licença aprovada**.
 
@@ -3448,7 +3448,7 @@ Para mitigar o risco de "pagar antes de ver", propõe-se modelo em 3 fases:
 
 **Risco fundadores:** €200-250/pessoa **após** licença aprovada — investimento com visibilidade clara.
 
-#### Etapa 3: Operação (financiamento contínuo via quotas)
+#### Passo 3: Operação (financiamento contínuo via quotas)
 
 **Objectivo:** Sustentabilidade via quotas mensais dos membros operacionais.
 
@@ -3461,9 +3461,9 @@ Para mitigar o risco de "pagar antes de ver", propõe-se modelo em 3 fases:
 
 **Vantagem do modelo faseado:**
 
-* **Etapa 1:** Risco baixo (€300-650/pessoa), permite testar viabilidade legal
-* **Etapa 2:** Risco moderado (€200-250/pessoa), mas só após licença confirmada
-* **Etapa 3:** Risco operacional normal, financiado por utilizadores reais (não promessas)
+* **Passo 1:** Risco baixo (€300-650/pessoa), permite testar viabilidade legal
+* **Passo 2:** Risco moderado (€200-250/pessoa), mas só após licença confirmada
+* **Passo 3:** Risco operacional normal, financiado por utilizadores reais (não promessas)
 
 ### Fontes de Financiamento Detalhadas {#fontes-financiamento}
 
