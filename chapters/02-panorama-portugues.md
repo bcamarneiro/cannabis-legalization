@@ -141,7 +141,7 @@ Retirar utilizadores do sistema penal libertou recursos e reduziu pressão sobre
 
 **Implicação política para o debate sobre cannabis:**
 
-O próprio João Goulão, arquitecto da descriminalização portuguesa, defende a regulação do mercado de cannabis: "O mercado livre é o que temos agora" — referindo-se ao mercado negro não regulado [@observador2024]. Argumenta que a regulação permitiria obter "evidências sólidas" sobre impactos na saúde pública e seria "mais seguro para os utilizadores" [@eco2021].
+João Goulão, que coordenou a política portuguesa de drogas e presidia ao SICAD em 2020, defendeu nesse ano a regulação do mercado de cannabis para uso recreativo: "o mercado livre é o que temos agora". Argumentou que regular permitiria ter "evidência sólida" sobre urgências hospitalares, pedidos de ajuda e acidentes [@cannareporter2020]. Não é um apoio sem reservas: no mesmo debate opôs-se ao autocultivo, por impedir o controlo da concentração e dos contaminantes e a cobrança de impostos, e disse que a situação de então não era tão dramática como a de 2000 [@cannareporter2020].
 
 A experiência internacional confirma esta progressão: nos EUA, 24 estados evoluíram da descriminalização para a legalização regulada, com apoio público a subir de 32% (2006) para 88% (2022) [@pan2021]. Organizações como a Drug Policy Alliance argumentam que "a descriminalização não é suficiente" — não elimina o mercado negro, não gera receitas fiscais, nem permite controlo de qualidade [@publico2023].
 
