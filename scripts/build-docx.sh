@@ -20,7 +20,7 @@ echo "   Destino: $OUTPUT_DOCX"
 echo ""
 
 make_temp_md
-cat "${SOURCE_FILES[@]}" | sed 's/#heading=/#/' > "$TEMP_MD"
+concat_chapters | sed 's/#heading=/#/' > "$TEMP_MD"
 
 pandoc "$TEMP_MD" \
     --from="$PANDOC_FROM" \

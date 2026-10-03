@@ -37,3 +37,13 @@ make_temp_md() {
     TEMP_MD="$(mktemp "${TMPDIR:-/tmp}/cannabis-doc.XXXXXX")"
     trap 'rm -f "$TEMP_MD"' EXIT
 }
+
+# Imprime cada capítulo seguido de uma linha em branco, para que o primeiro
+# cabeçalho do capítulo seguinte nunca fique colado ao último parágrafo.
+concat_chapters() {
+    local f
+    for f in "${SOURCE_FILES[@]}"; do
+        cat "$f"
+        printf '\n'
+    done
+}

@@ -21,7 +21,7 @@ echo ""
 
 # Remove emojis e CO₂ (a fonte do PDF não os tem), normaliza espaço antes de citações
 make_temp_md
-cat "${SOURCE_FILES[@]}" | \
+concat_chapters | \
 sed 's/#heading=/#/' | \
 sed 's/⚠️//g' | \
 sed 's/✅//g' | \
