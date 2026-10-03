@@ -21,6 +21,22 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Require Signed-off-by (nome real) em cada commit
+        env:
+          BASE_REF: ${{ github.base_ref }}
+          HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+        run: |
+          missing=0
+          for c in $(git rev-list --no-merges "origin/$BASE_REF..$HEAD_SHA"); do
+            if ! git log -1 --format=%B "$c" | grep -qE '^Signed-off-by: .+ <.+>'; then
+              echo "::error::Commit $(git log -1 --format='%h %s' "$c") sem Signed-off-by. Usa 'git commit -s' (nome real); ver CONTRIBUTING.md."
+              missing=1
+            fi
+          done
+          exit $missing
 
       - name: Install Pandoc and LaTeX
         run: |

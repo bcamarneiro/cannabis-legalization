@@ -60,10 +60,10 @@ chapters/*.md + references.bib + assets/diagrams
 
 ## Perguntas em aberto (decisão do Bruno, não de código)
 
-- Quem decide as fusões além do Bruno (co-maintainers, critérios)?
+- ~~Quem decide as fusões?~~ Decidido: Bruno único maintainer, 2.ª revisão obrigatória; co-maintainers a recrutar (direito, economia).
 - ~~Contribuições anónimas?~~ Decidido: ver notas de implementação.
-- Licença do conteúdo: CC BY-SA, CC BY ou outra?
-- `build_state.py` e o seu teste ficam?
+- ~~Licença~~ Decidido: manter CC BY-SA 4.0.
+- `build_state.py` e o seu teste ficam? (por agora ficam)
 - ~~Redesenhar os diagramas~~ Feito: ver notas de implementação.
 
 ## Fora de âmbito

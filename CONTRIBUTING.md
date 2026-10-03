@@ -2,7 +2,7 @@
 
 Este é um projecto aberto a todos, independentemente de filiação partidária, ideologia ou background. Nasceu no contexto do LIVRE, mas pretende ser abrangente e colaborativo: partidos, associações, profissionais e cidadãos. Concordar com os princípios de política baseada em evidência, redução de danos e direitos humanos é o que importa; as contribuições são avaliadas pelo mérito.
 
-Questões ainda por decidir (governação, licença): ver as perguntas em aberto no [ADR 0001](docs/adr/0001-fonte-unica-pdf-e-site.md). Até serem decididas, não há regras formais sobre elas. A identidade está decidida: ver abaixo.
+Questões ainda por decidir (co-maintainers): ver as perguntas em aberto no [ADR 0001](docs/adr/0001-fonte-unica-pdf-e-site.md). Até serem decididas, não há regras formais sobre elas. A identidade está decidida: ver abaixo.
 
 ## Estrutura
 
@@ -30,7 +30,10 @@ Há três formulários de Issue: corrigir erro ou fonte, propor alteração, con
 
 - Toda a alteração factual traz fonte, acrescentada a `references.bib` e citada como `[@chave]`.
 - Não mudes IDs de secção já publicados (o CI falha).
-- **Identidade:** quem altera o texto (Pull Request) assina com o nome real, no autor do commit e com `Signed-off-by` (`git commit -s`), e aparece na lista de contribuidores. O histórico do git é público e permanente: só contribuis com nome se estiveres de acordo com isso.
+- **Quem integra:** por agora, o Bruno Camarneiro é o único maintainer. Cada PR precisa de uma segunda pessoa a rever. Alterações factuais sem fonte não são integradas. Quando houver contribuidores recorrentes, convidam-se co-maintainers, com prioridade para direito e economia.
+- **Licença:** o conteúdo é CC BY-SA 4.0 (ver `LICENSE`).
+- **Identidade:** o CI recusa PRs com commits sem `Signed-off-by`.
+- **Identidade (regra):** quem altera o texto (Pull Request) assina com o nome real, no autor do commit e com `Signed-off-by` (`git commit -s`), e aparece na lista de contribuidores. O histórico do git é público e permanente: só contribuis com nome se estiveres de acordo com isso.
 - **Questões e sugestões (Issues):** ficam públicas e podem ser feitas com a conta GitHub, incluindo sob pseudónimo. Não contam como apoio ao documento.
 - **Apoio público ao documento:** só conta com nome e cara.
 - O nome real não é verificado; é uma regra de honestidade, não um controlo técnico.
