@@ -56,3 +56,6 @@ REFACTORING_PROPOSAL.md
 # Internal planning docs (não precisam estar versionados)
 docs/EXAMPLE-ISSUES.md
 docs/GITHUB-ISSUES-READY.md
+
+# Definições locais do Claude Code
+.claude/settings.local.json
