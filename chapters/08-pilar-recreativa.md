@@ -110,11 +110,11 @@ Alemanha (§23 KCanG) exige **2 oficiais por clube** (máximo 500 membros) = rá
 
 **Alternativa mais rigorosa (modelo suíço):**
 
-O programa piloto Züri Can implementa **screening formal obrigatório** na admissão com PHQ-9 (depressão), GAD-7 (ansiedade) e ERIraos (risco psicose) [@springer2024zurican]. Casos alto risco são referenciados para serviços clínicos antes do acesso.
+No estudo piloto Züri Can, a elegibilidade dos participantes foi rastreada com PHQ-9 (depressão), GAD-7 (ansiedade) e ERIraos (risco de psicose); quem tinha itens positivos de risco de psicose era encaminhado para o médico do estudo para excluir sintomas psicóticos [@springer2024zurican]. Trata-se de rastreio de elegibilidade num ensaio de investigação, não de um modelo clínico obrigatório de admissão; a sua adopção em Portugal seria uma proposta própria.
 
 **Esta opção pode ser considerada** se a implementação inicial revelar lacunas no modelo alemão, mas implica maior burocracia e custos (avaliação psicológica ~€50-80 por candidato).
 
-**Justificação:** Modelo alemão equilibra proteção com praticabilidade. Canadá, sem Oficial de Prevenção, registou aumento de consultas psicose em emergência após legalização [@wootten2023ontario].
+**Justificação:** Modelo alemão equilibra proteção com praticabilidade. No Ontário (Canadá), um estudo não encontrou evidência de aumento do uso de serviços de saúde nem de casos incidentes de perturbações psicóticas nos 17 meses seguintes à legalização, embora já existisse uma tendência crescente de psicoses induzidas por substâncias desde 2014 e seja necessária observação mais longa [@wootten2023ontario]. Não há, portanto, evidência directa de que a ausência de um Oficial de Prevenção tenha tido esse efeito.
 
 Para uma descrição detalhada do funcionamento deste modelo, ver Anexo A.
 
@@ -270,11 +270,11 @@ Os clubes devem implementar **rastreabilidade completa** da cannabis cultivada, 
 - **Rastreio "da semente à distribuição":** Documentação de todas as fases (sementeira, cultivo, colheita, armazenamento, entrega)
 - **Privacidade:** Dados de membros apenas acessíveis a autoridades em fiscalização oficial, não são públicos
 
-**Transparência financeira — Modelo base alemão (§§24-26 KCanG) [@kcang2024]:**
+**Transparência financeira — Modelo base alemão (§1 Nr. 13, §§24 e 26 KCanG) [@kcang2024]:**
 
-- **Princípio cost-recovery (§§24-25 KCanG) [@kcang2024]:** Clubes só podem distribuir cannabis ao custo real — sem lucro, quotas cobrem apenas custos operacionais [@cannabusinessplans2024cscs]
-- **Documentação contínua obrigatória (§26 KCanG) [@kcang2024]:** Registos de quantidades cultivadas, distribuídas a cada membro, strains, THC/CBD médio, armazenamento — preservados 5 anos, inspecionáveis pelas autoridades a qualquer momento
-- **Submissão anual a autoridades (§26 KCanG) [@kcang2024]:** Dados anonimizados até 31 Janeiro (quantidades, strains, THC/CBD)
+- **Princípio sem fins lucrativos (§1 Nr. 13 KCanG) [@kcang2024]:** Os clubes são associações sem fins lucrativos e as quotas destinam-se a cobrir custos; o §24 apenas exige que as contribuições sejam fixadas nos estatutos e o §25 limita-se ao reembolso de custos do material de propagação. A natureza não lucrativa, transparente e democrática dos clubes é descrita em [@cannabusinessplans2024cscs]; o detalhe da regra de preço ao custo ("selbstkostendeckend") consta do FAQ do Ministério da Saúde [@cang2024]
+- **Documentação contínua obrigatória (§26 KCanG) [@kcang2024]:** Registos de quantidades cultivadas e distribuídas, THC médio e armazenamento (variedades apenas nos transportes) — preservados 5 anos, inspecionáveis pelas autoridades (CBD médio e registo de strains por membro são acrescentos propostos para Portugal)
+- **Submissão anual a autoridades (§26 KCanG) [@kcang2024]:** Dados anonimizados até 31 Janeiro (quantidades cultivadas e distribuídas, THC médio; a lista exacta segue a lei, ver acima)
 - **Assembleia Geral:** Aprovação anual do relatório financeiro por todos os membros
 - **Transparência interna:** Membros verificam que quotas cobrem apenas custos reais, sem lucro
 
@@ -291,8 +291,8 @@ Para evitar repetir os problemas espanhóis (clubes que se tornaram operações 
 
 As autoridades regionais (Länder) conduzem [@cannabis420eu2024]:
 
-- **Inspeções aleatórias sem aviso prévio:** Verificação física de stocks, distribuições registadas, proteção menores, conformidade limites
-- **Análises laboratoriais:** Testes aleatórios de THC, contaminantes (pesticidas, metais pesados, fungos)
+- **Inspeções e controlos aleatórios:** Verificação física de stocks, distribuições registadas, proteção menores, conformidade limites
+- **Análises laboratoriais (proposta para Portugal):** Testes aleatórios de THC e contaminantes (pesticidas, metais pesados, fungos); a fonte citada não os refere
 - **Verificação documental:** Auditoria de registos de distribuição e conformidade com limites legais
 - **Acesso a registos:** Autoridades podem inspecionar documentação (§26 KCanG) [@kcang2024] a qualquer momento
 
@@ -303,7 +303,7 @@ As autoridades regionais (Länder) conduzem [@cannabis420eu2024]:
 
 **Consequências por incumprimento** [@cang2024]:
 
-O sistema de licenciamento prevê penalizações proporcionais:
+O regime alemão prevê a revogação da licença após violações repetidas dos limites de cultivo e distribuição [@cang2024]. O regime sancionatório gradual abaixo é **proposta específica para Portugal** (sem correspondência directa na fonte alemã):
 
 - **Clube sem Oficial de Prevenção qualificado:** Licença suspensa até regularização (máximo 30 dias) + coima €500-2.000
 - **Violação de limites de distribuição:** Primeira infração: advertência escrita + auditoria forçada. Reincidência: licença revogada
@@ -314,7 +314,7 @@ O sistema de licenciamento prevê penalizações proporcionais:
 
 #### Proteção Materno-Infantil
 
-**Avisos obrigatórios e rotulagem** [@acog2025cannabis]:
+**Avisos obrigatórios e rotulagem (proposta para Portugal; a ACOG não trata de rotulagem de produtos):**
 
 Todos os produtos de cannabis (flores, edibles, extratos) devem conter **avisos de saúde visíveis** no rótulo:
 
@@ -327,24 +327,23 @@ Todos os produtos de cannabis (flores, edibles, extratos) devem conter **avisos 
 
 Modelo baseado em guidelines ACOG 2025 (American College of Obstetricians and Gynecologists):
 
-- **Screening universal:** Obstetras e parteiras devem perguntar sobre uso de cannabis em **todas** as consultas pré-natais e pós-parto
+- **Screening universal:** A ACOG recomenda rastreio universal do uso de cannabis na pré-concepção, na gravidez e no pós-parto; o papel de obstetras e parteiras em cada consulta é proposta adaptada a Portugal
 - **Screening por entrevista/auto-reporte:** Testes biológicos (urina/sangue) **não devem** ser usados como screening primário (evitar estigma)
 - **Aconselhamento cessação:** Profissionais devem aconselhar sobre riscos (baixo peso, admissão NICU, mortalidade perinatal) e recomendar cessação total
 - **Sem indicação médica:** Não existe indicação médica aprovada para uso de cannabis durante gravidez ou amamentação [@acog2025cannabis]
 
 **Transferência materno-fetal e lactação** [@cdc2024lactation; @wsu2024thcmilk]:
 
-Evidência científica sobre exposição THC:
+Evidência científica sobre exposição THC (estudos pequenos; valores quantitativos não estão estabelecidos de forma robusta):
 
-- **Gravidez:** THC atravessa placenta (concentração fetal ~10% da materna). Receptores canabinóides presentes no feto desde 5 semanas
-- **Amamentação:** THC detectado no leite materno de todas as mães consumidoras, mesmo 12h após abstinência. Persistência: 6 dias a >6 semanas
-- **Sem "pico seguro":** Estudos 2024 mostram que THC no leite não tem pico claro — impossível evitar exposição cronometrando amamentação [@wsu2024thcmilk]
-- **Dose infantil:** Bebés recebem ~0,07mg THC/dia via leite (vs. 2mg num edible baixa dose adulto)
+- **Gravidez:** THC atravessa a placenta. Receptores canabinóides presentes no feto desde 5 semanas [@acog2025cannabis]
+- **Amamentação:** O leite materno pode conter THC até 6 dias após o consumo, segundo um estudo; outros estudos referem durações ainda mais longas [@cdc2024lactation]
+- **Sem "pico seguro":** Um estudo pequeno de 2024 (20 mães) indica que THC no leite não tem pico claro, pelo que cronometrar a amamentação pode não evitar a exposição [@wsu2024thcmilk]
 
 **Suporte e referenciação** [@acog2025cannabis]:
 
-- **Oficial de Prevenção:** Deve identificar grávidas/lactantes em clubes e oferecer referenciação para SNS (obstetrícia, apoio cessação)
-- **Sem penalização:** Grávidas que auto-reportem uso de cannabis **não** devem ser penalizadas legalmente (evitar sub-reporte)
+- **Oficial de Prevenção (proposta própria para Portugal, não da ACOG):** Deve identificar grávidas/lactantes em clubes e oferecer referenciação para SNS (obstetrícia, apoio cessação)
+- **Sem penalização:** A ACOG apoia a referenciação para tratamento e critica políticas punitivas; daí decorre, de forma indirecta, que grávidas que auto-reportem uso de cannabis não devam ser penalizadas legalmente (evitar sub-reporte)
 - **Redução de danos:** Se cessação completa impossível, reduzir para menor quantidade possível [@sogc2022cannabis]
 
 **Justificação:** Guidelines ACOG 2025 demonstram riscos dose-dependentes de THC em gravidez (baixo peso ao nascer, NICU, mortalidade perinatal). CDC e AAP recomendam cessação durante amamentação. Alemanha enfrenta desafio similar pós-legalização (Abril 2024) — estudo 2024 mostra necessidade de treino profissionais saúde [@pmc2024midwives]. Portugal deve implementar proteções ab initio, não reactivamente.
@@ -359,26 +358,28 @@ Estudos recentes 2024-2025 documentam níveis alarmantes de contaminação em ca
 
 | Contaminante | Cannabis Ilícita | Mercado Licenciado |
 | :---- | :---- | :---- |
-| **Contagem aeróbica** (excede limites) | 55% amostras | <5% |
-| **Leveduras e fungos** (excede limites) | 73% amostras | <10% |
+| **Contagem aeróbica** (excede limites) | 55% amostras | 6% |
+| **Leveduras e fungos** (excede limites) | 73% amostras | 6% |
 | **Micotoxinas detectadas** | 12% amostras | 0% |
-| **Pesticidas detectados** | 94% amostras (média 3,4 compostos/amostra, 24 tipos únicos) | <5% (resíduos mínimos) |
+| **Pesticidas detectados** | 94% amostras (média 3,4 compostos/amostra, 24 tipos únicos) | 4% |
+
+O mesmo preprint (50 amostras ilícitas e 50 licenciadas) refere também que 20% dos produtos licenciados excediam os limites microbianos e 48% se desviavam mais de 20% do THC rotulado, pelo que o mercado licenciado não está isento de falhas.
 
 **Outros estudos corroboram:**
 
 - **Arizona/California 2023-2024:** 16% de 118 amostras apreendidas tinham micotoxinas e metabolitos fúngicos detectáveis [@pmc2024fusarium]
 - **New Brunswick 2024:** 16 amostras de mercado ilícito tinham ≥5 pesticidas acima dos limites Health Canada; uma cartridge vape continha **22 pesticidas** acima dos limites [@stratcann2024pesticides]
-- **Metais pesados:** 7 de 27 amostras ilícitas tinham metais pesados (Pb, Cd, As) acima dos limites permitidos, especialmente em hash, pré-rolls infusados e flores secas [@sciety2025illicit]
+- **Metais pesados:** No mesmo preprint, As, Cd, Pb e Hg foram mais prevalentes nas amostras ilícitas, enquanto o Cr foi mais elevado nas licenciadas; vários metais excederam os limites USP num ou nos dois grupos [@sciety2025illicit]
 
 **Riscos para a saúde** [@pmc2018contaminants; @frontiers2020cannabis]:
 
 - **Pesticidas:** Consumo humano pode causar malignidade (cancro), problemas desenvolvimento, reprodutivos, neurológicos e endócrinos
-- **Metais pesados:** Cannabis acumula metais pesados do solo (fitoextração). Inalação aumenta efeito pulmonar danoso (Pb, Cd, As entram corrente sanguínea directamente)
+- **Metais pesados:** Cannabis acumula metais pesados do solo (fitoextração) [@pmc2018contaminants]. Contaminantes inalados evitam o metabolismo de primeira passagem
 - **Fungos e micotoxinas:** Esporos fúngicos podem causar infecção directa (aspergilose) ou produzir micotoxinas (aflatoxinas). Relatórios de caso documentam infecções oportunistas em doentes imunocomprometidos [@pmc2023fungal]
 
 ##### Solução: Testes Obrigatórios em Clubes Sociais
 
-Modelo alemão KCanG/CanG 2024 (adotado como base para PT) [@eurofins2024cannabis; @canndelta2024germany]:
+Modelo alemão KCanG/CanG 2024 (adotado como base para PT) [@eurofins2024] (afirmação do laboratório; a fonte não é a lei):
 
 **Testes obrigatórios antes de distribuição aos membros:**
 
@@ -392,7 +393,7 @@ Modelo alemão KCanG/CanG 2024 (adotado como base para PT) [@eurofins2024cannabi
 
 **Implementação PT:**
 
-- **Laboratórios acreditados:** Apenas laboratórios certificados ISO 17025 podem realizar testes cannabis. **Nota sobre capacidade laboratorial em Portugal:** O IPAC (Instituto Português de Acreditação) acredita laboratórios de ensaio, mas não foi possível confirmar a existência de laboratórios em Portugal **actualmente acreditados especificamente para testes de cannabis recreativa** (potência THC/CBD, pesticidas, metais pesados, micotoxinas). Existem laboratórios com capacidade analítica relevante — nomeadamente os que servem a indústria de cannabis medicinal (37 empresas licenciadas pelo INFARMED exportam cannabis testada segundo padrões EU-GMP) [@cannareporter2022] e laboratórios de análise alimentar e ambiental acreditados ISO 17025 pelo IPAC. A transição para testes de cannabis recreativa requer: (1) extensão do âmbito de acreditação dos laboratórios existentes, (2) formação específica em matrizes cannabis, e (3) investimento em equipamento (HPLC, GC-MS). **Recomendação:** Mapear capacidade laboratorial existente e planear investimento necessário antes da abertura dos clubes. Considerar subcontratação internacional transitória (Eurofins, Fundación CANNA — Espanha) se necessário nos primeiros 12-18 meses
+- **Laboratórios acreditados:** Apenas laboratórios certificados ISO 17025 podem realizar testes cannabis. **Nota sobre capacidade laboratorial em Portugal:** O IPAC (Instituto Português de Acreditação) acredita laboratórios de ensaio, mas não foi possível confirmar a existência de laboratórios em Portugal **actualmente acreditados especificamente para testes de cannabis recreativa** (potência THC/CBD, pesticidas, metais pesados, micotoxinas). Existem laboratórios com capacidade analítica relevante — nomeadamente os que servem a indústria de cannabis medicinal (34 empresas licenciadas pelo INFARMED até final de 2022, 11 delas com certificação EU-GMP) [@cannareporter2022] e laboratórios de análise alimentar e ambiental acreditados ISO 17025 pelo IPAC. A transição para testes de cannabis recreativa requer: (1) extensão do âmbito de acreditação dos laboratórios existentes, (2) formação específica em matrizes cannabis, e (3) investimento em equipamento (HPLC, GC-MS). **Recomendação:** Mapear capacidade laboratorial existente e planear investimento necessário antes da abertura dos clubes. Considerar subcontratação internacional transitória (Eurofins, Fundación CANNA — Espanha) se necessário nos primeiros 12-18 meses
 - **Frequência testes:** Cada lote de cannabis antes de distribuição (modelo Alemanha/Canadá)
 - **Rastreabilidade:** Certificado teste acompanha cada lote distribuído (código QR em embalagem)
 - **Rejeição lotes:** Cannabis que falhe qualquer teste **não pode** ser distribuída — deve ser destruída sob supervisão Infarmed
@@ -418,8 +419,8 @@ Modelo alemão KCanG/CanG 2024 (adotado como base para PT) [@eurofins2024cannabi
 
 Cannabis de autocultivo (3 plantas) usando **sementes certificadas** de clubes tem controlo de qualidade **superior** ao mercado negro:
 
-- **Sementes testadas:** Fornecedores licenciados obrigados a testar lotes sementes (pesticidas, metais, microorganismos) antes de distribuição [@eurofins2024cannabis]
-- **Cultivo orgânico:** Padrão suíço exige produtores licenciados usarem cultivo orgânico certificado (sem pesticidas sintéticos) [@bagch2024pilots]
+- **Sementes testadas (proposta para Portugal):** Fornecedores licenciados obrigados a testar lotes sementes (pesticidas, metais, microorganismos) antes de distribuição
+- **Cultivo orgânico:** Nos pilotos suíços, a cannabis deve ser produzida na Suíça e, se possível, segundo a Portaria de agricultura biológica [@bagch2024pilots]; não é exigida certificação nem proibição explícita de pesticidas sintéticos
 - **THC conhecido:** Sementes certificadas têm THC previsível (10% máx. 18-20 anos), **impossível** no mercado negro
 
 **Conclusão:** Regulação com testes obrigatórios transforma cannabis de **substância de pureza desconhecida e potencialmente perigosa** (mercado negro: 94% pesticidas, 73% fungos, 26% metais pesados) em **produto testado** comparável a padrões alimentares/farmacêuticos. Esta é uma das principais justificações de saúde pública para regulação — **não** é possível garantir segurança de produtos ilícitos.
@@ -436,7 +437,7 @@ Cannabis de autocultivo (3 plantas) usando **sementes certificadas** de clubes t
 
 ##### Comparação com Produção Doméstica de Vinho
 
-Portugal permite produção doméstica de vinho até **1.000 litros/ano** (10 hectolitros) para consumo familiar sem necessidade de declaração ao Instituto da Vinha e do Vinho [@ivv2025]. O enforcement é **reactivo** (queixas de vizinhos, suspeita de venda comercial) não **proactivo** (inspecções domiciliares aleatórias).
+Portugal permite produção doméstica de vinho para consumo familiar; segundo o Instituto da Vinha e do Vinho, a Declaração de Colheita e Produção é obrigatória para os operadores que colheram uvas, com isenção apenas para viticultores associados a cooperativas que entregaram toda a uva e mantiveram o direito de vinificar menos de 10 hl para uso doméstico [@ivv2025]. O limite de 1.000 litros/ano sem declaração para produção doméstica em geral não consta desta fonte e carece de verificação na legislação vitivinícola (DL 213/2004). O enforcement é **reactivo** (queixas de vizinhos, suspeita de venda comercial) não **proactivo** (inspecções domiciliares aleatórias).
 
 **Contexto internacional — União Europeia:**
 
@@ -507,7 +508,7 @@ O autocultivo de cannabis seguirá o mesmo modelo de enforcement reactivo, mas *
 
 Fornecedores de sementes devem obter licença de Infarmed/DGAV com os seguintes requisitos:
 
-- **Testes obrigatórios:** Cada lote testado para pesticidas, metais pesados, micotoxinas, microorganismos [@eurofins2024]
+- **Testes obrigatórios:** Testes a pesticidas, metais pesados, micotoxinas, microorganismos (segundo o laboratório Eurofins, na Alemanha são agora obrigatórios [@eurofins2024]; a frequência por lote é proposta para Portugal)
 - **Rastreabilidade seed-to-sale:** Documentação completa da origem genética ao clube
 - **Cultivo orgânico certificado:** Sem pesticidas sintéticos ou fertilizantes químicos (padrão suíço)
 - **Auditoria anual:** Inspecção de instalações, verificação conformidade, testes aleatórios
@@ -525,7 +526,7 @@ Fornecedores de sementes devem obter licença de Infarmed/DGAV com os seguintes 
 - **Penalidades:** Fornecedores não licenciados = coima €5.000-50.000 + apreensão stock
 - **Reconhecimento:** Impossível eliminar 100% sementes ilegais (tal como produção doméstica vinho ilegal existe), mas sistema reduz risco vs. mercado negro
 
-**Justificação:** Alemanha permite clubes distribuírem 7 sementes/mês de seedbanks UE (sem certificação formal). Suíça exige produtores licenciados com transparência seed-to-sale e cultivo orgânico [@bagch2024pilots]. Modelo português combina praticabilidade alemã (distribuição via clubes) com rigor suíço (licenciamento produtores + testes qualidade).
+**Justificação:** Alemanha permite clubes distribuírem 7 sementes/mês de seedbanks UE (sem certificação formal). Suíça exige produtores licenciados com transparência seed-to-sale e, se possível, cultivo biológico [@bagch2024pilots]. Modelo português combina praticabilidade alemã (distribuição via clubes) com rigor suíço (licenciamento produtores + testes qualidade).
 
 Para informação sobre o sistema de sementes certificadas proposto, ver Anexo B.
 
@@ -557,7 +558,7 @@ Com a regulação do consumo recreativo, propõe-se clarificação legislativa:
 
 ## Integração da Indústria Licenciada Existente {#integração-da-indústria-licenciada-existente}
 
-**Contexto:** Portugal tem **37 empresas licenciadas** para cultivo de cannabis medicinal [@cmslaw2024], exportando **32.558 kg em 2024** [@eco2024]. Estas empresas têm infraestrutura, conhecimento técnico, e capacidade produtiva já estabelecidos. **Ignorar este ecossistema existente seria economicamente irracional** e criaria oposição política desnecessária.
+**Contexto:** Portugal tem **34 empresas licenciadas pelo INFARMED** para actividades com cannabis (final de 2022, 11 com EU-GMP) [@cannareporter2022], exportando **32.558 kg em 2024** [@eco2024]. Estas empresas têm infraestrutura, conhecimento técnico, e capacidade produtiva já estabelecidos. **Ignorar este ecossistema existente seria economicamente irracional** e criaria oposição política desnecessária.
 
 **Problema identificado:** O modelo de clubes sociais auto-cultivando toda a sua cannabis poderia ser visto como competição directa à indústria licenciada, gerando resistência do sector produtivo que emprega centenas de pessoas e representa investimento significativo.
 
@@ -589,7 +590,7 @@ Para evitar concentração de mercado, permitir **máximo 1-2 clubes por produto
 - **Transparência de preços aplica-se:** Publicação obrigatória de custos de produção e preços, excedentes doados a SICAD (como todos os clubes)
 - **Governance rigorosa:** Mesmas obrigações que clubes independentes (auditoria, transparência, whistleblowing)
 
-**Justificação:** Suíça permite produtores licenciados operarem pontos de venda em pilotos Zur Can [@springer2024zurican]. Limitar a 1-2 clubes/produtor previne oligopólio, mantendo diversidade de clubes independentes.
+**Justificação:** Nos pilotos suíços (Züri Can), os 21 pontos de venda eram 10 farmácias, 10 clubes sociais de cannabis e o centro municipal de informação sobre drogas (DIZ), sem produtores a operar pontos de venda [@springer2024zurican]; permitir que produtores licenciados operem pontos de venda é, portanto, proposta própria. Limitar a 1-2 clubes/produtor previne oligopólio, mantendo diversidade de clubes independentes.
 
 #### Opção 3: Parcerias técnicas
 
@@ -706,8 +707,8 @@ A ausência de uma estratégia media pode comprometer a viabilidade política da
 
 ##### Lições internacionais
 
-* **Alemanha (2024):** O governo federal lançou campanha informativa coordenada com a entrada em vigor da CanG, focada em saúde pública e protecção juvenil. Apesar disso, tabloides como o *Bild* amplificaram narrativas alarmistas ("Cannabis-Chaos"). A resposta institucional — publicação regular de dados oficiais (Bundesgesundheitsministerium) — ajudou a contrariar desinformação [@lancet2024germany].
-* **Canadá (2018):** Health Canada investiu em campanhas educativas pré-legalização ("Don't Drive High", "Know Before You Go") e estabeleceu portais informativos públicos. A estratégia incluiu comunicação segmentada: pais, jovens, profissionais de saúde [@healthcanada2024].
+* **Alemanha (2024):** O governo federal lançou campanha informativa coordenada com a entrada em vigor da CanG, focada em saúde pública e protecção juvenil. Apesar disso, tabloides como o *Bild* amplificaram narrativas alarmistas ("Cannabis-Chaos"). A eficácia da publicação regular de dados oficiais (Bundesgesundheitsministerium) a contrariar desinformação não está demonstrada; as afirmações sobre a campanha e a cobertura mediática carecem de fonte verificada (a fonte anteriormente citada, um comentário crítico sobre os riscos do modelo alemão, não as suporta).
+* **Canadá (2018):** Health Canada investiu em campanhas educativas pré-legalização ("Don't Drive High", "Know Before You Go") e estabeleceu portais informativos públicos. A estratégia incluiu comunicação segmentada: pais, jovens, profissionais de saúde (descrição sem fonte verificada; o Canadian Cannabis Survey não refere estas campanhas).
 
 ##### Princípios orientadores para Portugal
 
@@ -742,7 +743,7 @@ Diferentemente de modelos comerciais (Colorado, Canadá), Portugal propõe clube
 
 | Categoria | Custo Anual Estimado | Fonte |
 | :---- | :---- | :---- |
-| **Enforcement PSP/GNR** (operações cannabis) | €25-45M | Estimativa proporcional dados alemães [@cannabisnow2024] |
+| **Enforcement PSP/GNR** (operações cannabis) | €25-45M | Estimativa própria, proporcional a totais alemães [@cannabisnow2024] (a fonte só apresenta totais alemães) |
 | **Sistema Judicial** (processos tráfico) | €10-20M | Estimativa processos tribunais + custos administrativos |
 | **Sistema Prisional** (reclusos cannabis) | €5-15M | Estimativa: ~1.000 reclusos cannabis × €5.000-15.000/ano |
 | **Custos Saúde Pública** (cannabis ilícita contaminada) | €5-10M | Estimativa: tratamento infecções fúngicas, intoxicações pesticidas, metais pesados (ver secção Controlo Qualidade) |
@@ -829,8 +830,8 @@ Impactos positivos **não incluídos** no balanço fiscal acima:
 
 | País/Estado | Modelo | Receitas Fiscais Anuais | Afetação |
 | :---- | :---- | :---- | :---- |
-| **Colorado** (2022) | Comercial (impostos ~37%) | $423M (~€390M) | 37% educação, 26% saúde, 12% enforcement [@colorado2022tax] |
-| **Canadá** (2018-2025) | Comercial (impostos federais + provinciais) | $5,4B CAD acumulado (~€3,6B) | Provinces decidem afetação [@cbcnews2025] |
+| **Colorado** (2021) | Comercial (impostos ~37%) | $423M (~€390M) [@colorado2022tax] | Afetação definida por lei estadual (percentagens não verificadas) |
+| **Canadá** (2018-2025) | Comercial (impostos federais + provinciais) | $5,4B CAD acumulado [@cbcnews2025] (~€3,6B: conversão aproximada dos autores, taxa e data não fixadas) | Afetação não verificada na fonte |
 | **Portugal** (proposta) | **Não-comercial (cost-recovery)** | **€0 impostos específicos** (IVA 23% sobre quotas aplica-se) | **Poupanças enforcement** (não impostos cannabis) |
 
 **Por que Portugal difere:**
@@ -990,7 +991,7 @@ Todos os valores ROI apresentados acima (**120-753%**) baseiam-se **exclusivamen
 
 | Parâmetro | Cálculo | Valor Estimado | Notas |
 | :---- | :---- | :---- | :---- |
-| **Mercado total PT** | €52-151M/ano | €100M (mid-range) | ResearchGate study [@ribeiro2024economic] |
+| **Base de cálculo (pressuposto)** | €100M/ano | €100M | Valor ilustrativo dos autores; Ribeiro [@ribeiro2024economic] reporta receita fiscal projetada (52,7-70,8 M€ conservador; 151,3 M€ otimista), não dimensão de mercado |
 | **Captura comercial** | 70-95% (dados Canadá) | 80% | Comercial > clubes em captura mercado |
 | **Receitas capturadas** | €100M × 80% | €80M/ano | Vendas sujeitas a impostos |
 | **Taxa fiscal** | 20-37% (Colorado 37%) | 25% (conservador) | Impostos específicos cannabis |
@@ -1108,19 +1109,19 @@ Assumindo 46 clubes × 400 membros activos médios = **18.400 utilizadores** (ce
 | Jurisdição | Modelo | Captura mercado legal (anos após legalização) | Notas |
 | :---- | :---- | :---- | :---- |
 | **Canadá** (comercial) | Dispensários + online | ~78% (2022, 4 anos) [@hammond2025] | Modelo comercial com ampla rede de retalho |
-| **Uruguai** (misto) | Clubes + farmácias + autocultivo | ~37% (2024, 10 anos) [@talkingdrugs2024]; 76% continuam a comprar ilegalmente [@dankreports2025] | Limites THC baixos afastaram consumidores durante anos |
-| **Alemanha** (clubes) | Clubes sociais + autocultivo | ~2% elegíveis com acesso (2025, <1 ano) [@businesscannabis2025b]; inquérito sugere 88,4% das fontes são legais entre quem tem acesso [@internationalcbc2025] | Demasiado cedo para avaliar; dados limitados a quem já aderiu |
+| **Uruguai** (misto) | Clubes + farmácias + autocultivo | ~36% dos consumidores registados (90.000 de ~250.000; 2024, 10 anos) [@talkingdrugs2024]; 76% continuam a comprar ilegalmente [@dankreports2025] | Limites THC baixos afastaram consumidores durante anos |
+| **Alemanha** (clubes) | Clubes sociais + autocultivo | sem valor fiável de acesso (o ~2% anteriormente indicado não consta da fonte); inquérito KonCanG (n=11.471, auto-seleccionado) indica que 88,4% dos inquiridos obteve geralmente cannabis de fontes legais, incluindo autocultivo de amigos [@internationalcbc2025] | Demasiado cedo para avaliar; dados limitados a quem já aderiu |
 
 **Premissas da projecção 30-45% (clubes + autocultivo combinados):**
 
 1. **Clubes directos:** 2,6% (18.400 membros activos / 706.000 utilizadores)
-2. **Autocultivo (3 plantas):** Estimativa adicional 10-20% utilizadores migram para cultivo próprio — **sem dados internacionais fiáveis para esta estimativa** (Uruguai: autocultivo representa ~14% dos registados legais [@talkingdrugs2024])
+2. **Autocultivo (3 plantas):** Estimativa adicional 10-20% utilizadores migram para cultivo próprio — **sem dados internacionais fiáveis para esta estimativa** (Uruguai: 14.000 autocultivadores e 249 clubes registados em 2022 [@talkingdrugs2024], sem percentagem calculada)
 3. **Efeito cascata:** Membros partilham com agregado familiar/círculo próximo (efeito multiplicador estimado 2-3x) — **premissa razoável mas não comprovada empiricamente**
 4. **Atracção gradual:** À medida que oferta legal ganha reputação de qualidade e preço competitivo (€3-6/g vs €10-15/g mercado negro), mais consumidores migram
 
 **Honestidade sobre incerteza:**
 
-- A projecção de 30-45% é **o cenário optimista**, não a baseline. Uruguai (modelo mais comparável, com clubes) atingiu apenas ~37% após 10 anos — e com farmácias e autocultivo além dos clubes
+- A projecção de 30-45% é **o cenário optimista**, não a baseline. Uruguai (modelo mais comparável, com clubes) atingiu apenas ~36% de consumidores registados após 10 anos — e com farmácias e autocultivo além dos clubes
 - Canadá atingiu 78%, mas com modelo **comercial** (dispensários) — não comparável directamente
 - Alemanha tem dados insuficientes (<1 ano)
 - **Cenário pessimista realista:** 15-25% captura em 5 anos (autocultivo + clubes), semelhante a Uruguai nos primeiros anos

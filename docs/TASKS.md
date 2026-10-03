@@ -154,12 +154,11 @@ Todas as tarefas BAIXA concluídas.
 
 ### Auditoria de citações (2026-10-03)
 
-- [ ] `chapters/02-panorama-portugues.md`: "24 estados dos EUA... 32% (2006) para 88% (2022)" cita `[@pan2021]` (página do PAN, que não conseguimos abrir) e a citação da Drug Policy Alliance ("a descriminalização não é suficiente") cita `[@publico2023]`, que é sobre o debate do PS e não a menciona. Encontrar a fonte certa ou retirar.
-- [ ] Muitas entradas de `references.bib` têm `title = {Sem título}` (ex.: `observador2024`, `eco2021`, `pan2021`, `publico2023`). Preencher título e autor e verificar que cada afirmação está mesmo na fonte citada.
-- [ ] **Decidir sobre as citações não apoiadas e parciais** listadas em [auditoria-citacoes.md](auditoria-citacoes.md): 193 não apoiadas e 254 parciais em 608. Prioridade: números e estatísticas (ROI, quota de mercado, uso juvenil, mercado ilegal no Canadá, Tailândia), depois afirmações sem ressalva.
-- [ ] Afirmações do capítulo 04 sobre maturação pré-frontal (até aos 25 anos) ficaram sem fonte: encontrar e verificar uma (a candidata `casey2019` não foi confirmada).
-- [ ] 12 entradas com `title = {Sem título}` e 71 entradas não citadas no bib: preencher ou apagar.
-- [ ] O Goulão opõe-se ao autocultivo (`cannareporter2020`) e a proposta defende 3 plantas: tratar a objecção nos capítulos 8 e 10.
+- [x] Auditoria de 608 citações tratada em 2026-10-04: texto corrigido, suavizado ou retirado onde a fonte não apoiava (ver [auditoria-citacoes.md](auditoria-citacoes.md)); bib limpo (duplicados, entradas não citadas, títulos). **Atenção:** os agentes corrigiram sobretudo com base na evidência do auditor e só abriram algumas fontes; falta uma revisão humana por amostragem.
+- [ ] Números sem fonte, a decidir (marcados no texto como estimativa dos autores ou "por verificar"): mercado ilegal de €100M e captura de 80% (cap. 08); ROI e poupanças de enforcement (€40-80M, €174M); €16 mil milhões de comparticipação universal e €350/mês de CBD (cap. 16); 5.000 doentes a €120/mês e "Pacientes ativos" por país (cap. 07); estimativa de 36-58 t de mercado ilegal (`ribeiro2024`, página 403); CO₂ por hectare do cânhamo e 23.000 ha em França (cap. 09); Zurique ">90% compraram só legal" (cap. 15).
+- [ ] Sem fonte: "59% dos portugueses apoiam a regulação" (ficou o 55% europeu da Hanway); prevalência de uso Portugal vs UE; córtex pré-frontal "até aos ~25 anos" (cap. 04); sanções de condução em Colorado/Canadá (cap. 04).
+- [ ] Coerência: o "6,5x" de uso de risco juvenil (0,2%→1,3%) foi retirado dos cap. 02 e 16 mas pode subsistir no cap. 05 via `espad2023`; confirmar. Corrigir entradas do bib `suraev2020insomnia` (é Bhagavan 2020), `sarvet2018jama` (revista Addiction), `lei2024` (URL e ano 2018), `malta2021` (URL e limites).
+- [ ] Objecção do Goulão ao autocultivo vs proposta de 3 plantas (`cannareporter2020`; tratar nos capítulos 08 e 10).
 
 ## ✅ CONCLUÍDAS
 

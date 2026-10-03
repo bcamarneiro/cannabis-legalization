@@ -6,13 +6,13 @@
 
 > **Nota estratégica:** O cânhamo industrial **não depende de nenhum outro pilar** desta proposta. Pode e deve avançar imediatamente, em paralelo com a revisão da cannabis medicinal. Não gera controvérsia ideológica — é agricultura, já legal na UE, e reúne condições para consenso transversal no Parlamento.
 
-O cânhamo industrial (*Cannabis sativa* L. com THC<0,3%) representa uma oportunidade estratégica para Portugal, combinando benefícios económicos, ambientais e sociais. O mercado europeu de cânhamo industrial foi avaliado em **USD 2,9 mil milhões** em 2024, com projeções de crescimento a uma taxa anual de 24% até atingir **USD 20,4 mil milhões em 2033** [@marketdataforecast2025]. A Europa representa cerca de **31% do mercado global** [@psmarketresearch2024].
+O cânhamo industrial (*Cannabis sativa* L. com THC<0,3%) representa uma oportunidade estratégica para Portugal, combinando benefícios económicos, ambientais e sociais. O mercado europeu de cânhamo industrial foi avaliado em **USD 3,6 mil milhões** em 2025, com projeções de crescimento a uma taxa anual de 24,2% até atingir **USD 25,4 mil milhões em 2034** [@marketdataforecast2025]. A Europa representava cerca de **31% do mercado global** em 2023 [@fortunebusinessinsights2025].
 
 ## Análise Económica {#análise-económica}
 
 ### Mercado Europeu e Global {#mercado-europeu-e-global}
 
-O mercado global de cânhamo industrial foi avaliado em **USD 9,47 mil milhões** em 2024, com projeção de atingir **USD 47,82 mil milhões em 2032** (CAGR 22,7%) [@fortunebusinessinsights2025]. A procura é impulsionada por:
+O mercado global de cânhamo industrial foi avaliado em **USD 9,47 mil milhões** em 2024, com projeção de atingir **USD 47,82 mil milhões em 2032** (CAGR 22,4%) [@fortunebusinessinsights2025]. A procura é impulsionada por:
 
 * **Têxteis sustentáveis:** Alternativa ao algodão, com menor consumo de água e sem necessidade de pesticidas
 * **Materiais de construção:** O *hempcrete* (betão de cânhamo) é um material carbono-negativo que pode sequestrar **mais de 100 kg CO₂/m²** de parede construída [@anthropocene2022]
@@ -24,7 +24,7 @@ O mercado global de cânhamo industrial foi avaliado em **USD 9,47 mil milhões*
 
 Portugal reúne condições excecionais para o cultivo de cânhamo:
 
-1. **Clima mediterrânico:** Verões quentes e secos ideais para a maturação da planta; possibilidade de **duas colheitas anuais** no sul (Alentejo, Algarve) — algo impossível no norte da Europa [@lampoon2024hemp]
+1. **Clima mediterrânico:** Verões quentes e secos ideais para a maturação da planta; possibilidade, a confirmar agronomicamente, de **duas colheitas anuais** no sul (Alentejo, Algarve), improvável no norte da Europa
 2. **Tradição agrícola:** O cânhamo foi cultivado em Portugal durante séculos, particularmente para cordoaria naval
 3. **Custos de produção competitivos:** Mão-de-obra e terra agrícola mais acessíveis que França ou Alemanha
 4. **Infraestrutura de exportação:** Portos de Sines e Leixões com ligações diretas aos principais mercados
@@ -84,9 +84,9 @@ Atualmente, o cultivo de cânhamo em Portugal exige:
 O cânhamo é uma das culturas com maior capacidade de sequestro de carbono:
 
 * **9 a 15 toneladas de CO₂/hectare** por ciclo de cultivo, segundo a Comissão Europeia [@ec2024]
-* Em condições do Reino Unido/Irlanda: **8–15 t CO₂/ha** [@cambridge2022hemp; @carboncredits2024hemp]
-* Em Portugal, com uma colheita: **8–12 t CO₂/ha**; com duas colheitas/ano no sul: potencialmente **15–20 t CO₂/ha** [@lampoon2024hemp]
-* O *hempcrete* continua a absorver CO₂ durante décadas após a construção (carbonatação da cal), sendo classificado como **material carbono-negativo** [@anthropocene2022; @researchgate2017hempcrete]
+* Estimativa atribuída a investigadores de Cambridge: **8–15 t CO₂/ha** de cultivo, dependente do método de cultivo; as fontes secundárias não especificam a região nem se é por ciclo [@cambridge2022hemp; @carboncredits2024hemp]
+* Outras estimativas apontam para **8–22 t CO₂/ha/ano**, consoante as condições de cultivo; não existe medição específica para Portugal [@lampoon2024hemp]
+* O *hempcrete* é classificado como **material carbono-negativo** (absorção de CO₂ no cultivo e na carbonatação da cal), embora não seja estrutural [@anthropocene2022; @researchgate2017hempcrete]
 
 Para contexto: a floresta de eucalipto em Portugal sequestra cerca de 6–8 t CO₂/ha/ano. O cânhamo, numa única colheita, pode igualar ou superar este valor.
 
@@ -94,16 +94,16 @@ Para contexto: a floresta de eucalipto em Portugal sequestra cerca de 6–8 t CO
 
 Múltiplos estudos científicos demonstram que o cânhamo é um **fitorremediador eficaz** de solos contaminados:
 
-* O cânhamo absorve metais pesados (chumbo, cádmio, zinco) através das raízes, removendo-os do solo [@pmc2022hemp]
-* Ensaios em Sardenha (Itália), em solos poluídos por atividade mineira, demonstraram absorção significativa de Pb, Cd e Zn em condições semiáridas — clima comparável ao do Alentejo [@mdpi2022hemp]
-* Nos EUA, variedades de cânhamo industrial demonstraram capacidade de crescer em solos de minas de carvão abandonadas, simultaneamente remediando o solo e produzindo canabinóides [@pmc2019hemp]
-* Uma revisão de 2023 confirma que o cânhamo é adequado para fitorremediação de Pb e Zn, entre os mais eficazes das fibras *bast* [@pmc2023phyto]
+* O cânhamo absorve metais pesados (chumbo, cádmio, níquel) através das raízes e tolera o zinco, retido sobretudo nas raízes [@pmc2022hemp]
+* Ensaios em Sardenha (Itália), em solos poluídos por atividade mineira, demonstraram acumulação elevada de Zn e Cd nas folhas em condições semiáridas (o Pb surgiu elevado mesmo em solo não contaminado, por deposição atmosférica); a comparação com o clima do Alentejo é inferência dos autores deste documento [@mdpi2022hemp]
+* Nos EUA, variedades de cânhamo industrial demonstraram capacidade de crescer em solos de minas de carvão abandonadas, tolerando e acumulando metais e produzindo canabinóides (a remediação do solo não foi demonstrada) [@pmc2019hemp]
+* Uma revisão de 2023 confirma que o cânhamo é adequado para fitorremediação de Pb e Zn, sendo a espécie que acumula Zn mais fortemente (sobretudo nas raízes; processo lento e dependente do clima) [@pmc2023phyto]
 
 **Aplicação em Portugal:** Existem áreas contaminadas pela antiga atividade mineira (São Domingos, Aljustrel, Panasqueira) onde o cânhamo poderia contribuir para a recuperação ambiental, desde que a biomassa contaminada seja destinada a uso energético e não alimentar.
 
 ### Consumo de Água {#consumo-de-água}
 
-* O cânhamo requer **50–70% menos água** que o algodão para produzir uma quantidade equivalente de fibra [@stockholm2005]
+* O cânhamo requer cerca de **65–78% menos água** que o algodão para produzir uma quantidade equivalente de fibra (algodão ~9.758 L/kg; cânhamo 2.123–3.401 L/kg) [@stockholm2005]
 * Em condições de sequeiro no Alentejo, o cânhamo pode produzir biomassa suficiente para fibra e semente, enquanto o algodão é praticamente inviável sem irrigação intensiva
 * Contribui para a resiliência agrícola face às alterações climáticas e à crescente escassez hídrica no sul de Portugal
 
@@ -156,7 +156,7 @@ Múltiplos estudos científicos demonstram que o cânhamo é um **fitorremediado
 
 A França é o **maior produtor europeu** de cânhamo, representando mais de **60% da produção da UE** [@ec2024]:
 
-* **~23.000 hectares** cultivados em 2024, com produção de ~28.000 toneladas métricas de fibra [@marketdataforecast2025]
+* **~23.000 hectares** cultivados em 2024, com produção de ~28.000 toneladas métricas de fibra (dado indireto, citado como relatório de mercado mais recente) [@marketdataforecast2025]
 * Foco principal em fibra para isolamento térmico, papel de cigarro (Bolloré) e compósitos automóveis (PSA/Stellantis)
 * A *InterChanvre* (interprofissão do cânhamo) coordena a cadeia de valor desde os anos 1990
 * Mais de **1.400 agricultores** envolvidos
@@ -167,7 +167,7 @@ A França é o **maior produtor europeu** de cânhamo, representando mais de **6
 Itália ilustra o potencial de recuperação de uma indústria histórica:
 
 * Antes da proibição, Itália era o **2.º maior produtor mundial** de cânhamo (atrás da URSS)
-* A Lei 242/2016 relançou o cultivo: de **400 hectares em 2013** para **4.000 hectares em 2018** — crescimento de 10× em cinco anos [@enecta2024; @usdaitaly2020]
+* A Lei 242/2016 relançou o cultivo: de **400 hectares em 2013** para **4.000 hectares em 2018** — crescimento de 10× em cinco anos [@enecta2024]; a Lei 242/2016 e as cerca de 800 explorações [@usdaitaly2020]
 * Mais de **800 explorações** agrícolas envolvidas
 * O rendimento por hectare (€600–2.500) é **2–8× superior ao trigo duro** (€300/ha) [@wikipedia2025italy]
 * Aplicações: materiais de construção, têxteis de moda, alimentação biológica

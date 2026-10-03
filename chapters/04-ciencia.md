@@ -2,37 +2,36 @@
 
 # O QUE DIZ A CIÊNCIA {#o-que-diz-a-ciência}
 ## Eficácia médica: evidência por condição {#eficácia-médica-evidência-por-condição}
-A NASEM (2017) — analisando mais de 10.000 resumos científicos — estabeleceu evidência conclusiva ou substancial para [@publico2018a]:
+A NASEM (2017) — analisando mais de 10.000 resumos científicos — estabeleceu evidência conclusiva ou substancial para a dor crónica em adultos, as náuseas da quimioterapia e a espasticidade na esclerose múltipla [@national2017]; as restantes indicações abaixo têm fonte própria:
 
-* **Dor crónica:** Evidência substancial de eficácia, embora com qualidade variável dos estudos [@publico2018b]
-* **Epilepsia resistente:** NEJM (2017): redução de 39% nas convulsões com CBD. Epidiolex aprovado FDA (2018) e EMA [@cannareporter2024b]
-* **Espasticidade na esclerose múltipla:** OR 2,41 (meta-análise 2023). Sativex aprovado em 29 países [@publico2022]
-* **Náuseas oncológicas:** Evidência conclusiva de eficácia [@colorado2023]
+* **Dor crónica:** Evidência substancial de eficácia em adultos, embora com qualidade variável dos estudos [@national2017]
+* **Epilepsia resistente:** No ensaio do NEJM (2017, síndrome de Dravet), a mediana mensal de convulsões baixou de 12,4 para 5,9 com CBD, contra 14,9 para 14,1 com placebo. Epidiolex aprovado pela FDA (2018) e pela EMA [@devinsky2017]
+* **Espasticidade na esclerose múltipla:** OR 2,41 (IC 95% 1,39-4,18) para resposta ao nabiximols (Sativex) como terapêutica adjuvante em espasticidade refratária (meta-análise de 7 ensaios, 2023, com algumas reservas quanto ao risco de viés) [@torresmoreno2023]
+* **Náuseas oncológicas:** Evidência conclusiva de eficácia de canabinóides orais [@national2017]
 
-**Nota sobre dor neuropática:** Revisões sistemáticas encontraram evidência limitada para dor neuropática especificamente [@kirby2019], sublinhando a necessidade de mais investigação — algo que a proibição dificulta. Isto reforça a importância de criar condições para mais investigação clínica.
+**Nota sobre dor neuropática:** Uma revisão sistemática (Nugent et al., 2017) encontrou apenas evidência de baixa força de que a cannabis alivia a dor neuropática, e evidência insuficiente para outros tipos de dor crónica [@nugent2017], sublinhando a necessidade de mais investigação — algo que a proibição dificulta. Isto reforça a importância de criar condições para mais investigação clínica.
 
 ## Riscos para a saúde mental: a evidência que levamos a sério {#riscos-para-a-saúde-mental-a-evidência-que-levamos-a-sério}
 A evidência sobre riscos é robusta e deve orientar a nossa proposta:
 
-* **Psicose:** Meta-análise Marconi et al. (2016): OR 3,90 para psicose nos consumidores mais pesados vs. não-consumidores [@unnews2020]
-* **Alta potência + uso diário:** Estudo EU-GEI (2019): combinação de **uso diário** + cannabis de alta potência (THC ≥10%) associado a ~5x maior probabilidade de psicose (OR 4,8). **Nota crítica:** O risco elevado requer AMBOS factores (uso diário + THC ≥10%), não apenas potência isolada [@dezeen2021]
+* **Psicose:** Meta-análise Marconi et al. (2016): OR 3,90 para psicose nos consumidores mais pesados vs. não-consumidores [@marconi2016]
+* **Alta potência + uso diário:** Estudo EU-GEI (2019): combinação de **uso diário** + cannabis de alta potência (THC ≥10%) associado a ~5x maior probabilidade de psicose (OR 4,8). **Nota crítica:** O risco elevado requer AMBOS factores (uso diário + THC ≥10%), não apenas potência isolada [@di2019]
 * **Cannabis Use Disorder (CUD) — Gradiente de risco por frequência de uso:** Meta-análise Leung et al. (2020): **~22% dos utilizadores de cannabis** desenvolvem CUD ao longo da vida (baseline). **Risco aumenta substancialmente com frequência:**
-  - **Uso ocasional/infrequente:** ~10-15% desenvolvem CUD (metade do risco baseline)
-  - **Uso semanal/regular:** ~25-30% desenvolvem CUD
-  - **Uso diário/near-daily:** **~33% desenvolvem dependência** (1 em cada 3) — dados longitudinais consistentes [@leung2020; @coffeeshop2024cud]
+  - **Uso menos frequente:** a fonte não apresenta estimativa específica; o risco tende a ser inferior ao dos consumidores regulares
+  - **Jovens com consumo regular (semanal ou diário):** **~33% (IC 95% 22-44%) desenvolvem dependência** (estudos de coorte; a fonte não distingue uso semanal de diário e refere falta de dados de coorte para CUD em consumidores regulares) [@leung2020]
   - **Contexto:** O risco NÃO é uniforme — padrões de uso ocasional têm risco significativamente menor que uso diário, reforçando importância de prevenção de escalada de frequência
-* **Idade de início:** Consumo persistente com início na adolescência (antes dos 18 anos) associado a maior risco cognitivo e psiquiátrico. Início após 18-21 anos com uso ocasional tem risco substancialmente menor [@jackson2016; @meier2012]
+* **Idade de início:** Consumo persistente com início na adolescência (antes dos 18 anos) associado a maior declínio neuropsicológico no estudo de Dunedin, em que o défice se concentrou nos consumidores com início adolescente [@meier2012]. Contudo, dois estudos de gémeos (Jackson et al., 2016) não encontraram evidência de efeito causal no QI, pelo que a causalidade permanece incerta [@jackson2016]. Estas fontes não avaliam o risco psiquiátrico
 
 * **Riscos cardiovasculares:** Evidência crescente associa cannabis a riscos cardiovasculares significativos:
   - **Mittleman et al. (2001):** Risco de enfarte do miocárdio **4,8× superior** na hora seguinte ao consumo de cannabis — evento raro mas clinicamente significativo [@mittleman2001]
-  - **American Heart Association (2024):** Análise de 430.000 adultos encontrou associação significativa entre uso de cannabis (fumada, ingerida ou vaporizada) e **maior risco de enfarte e AVC**, mesmo após controlo de factores confundentes [@aha2024]
-  - **American College of Cardiology (2025):** Estudo multicêntrico retrospectivo reportou risco **6× superior de enfarte**, 4× de AVC isquémico e 2× de insuficiência cardíaca em utilizadores de cannabis vs não-utilizadores, ao longo de ~3 anos de follow-up [@acc2025]
-  - **Meta-análise Cheng et al. (2023):** Análise agrupada encontrou **aumento não-estatisticamente significativo** do risco de enfarte agudo — sugerindo que a evidência, embora preocupante, não é ainda conclusiva para todos os perfis de consumo [@cheng2023]
+  - **American Heart Association (2024):** Análise de ~434.000 adultos (estudo transversal, desfechos auto-reportados) encontrou associação entre **uso diário** de cannabis e **maior risco de enfarte (aOR 1,25) e AVC (aOR 1,42)**, após ajuste para factores confundentes [@aha2024]
+  - **American College of Cardiology (2025):** Estudo multicêntrico retrospectivo reportou risco **6× superior de enfarte**, 4× de AVC isquémico e 2× de insuficiência cardíaca em utilizadores de cannabis com menos de 50 anos vs não-utilizadores, ao longo de >3 anos de follow-up (comunicado de apresentação em congresso) [@acc2025]
+  - **Meta-análise Theerasuwipakorn et al. (2023):** Análise agrupada encontrou **aumento não-estatisticamente significativo** do risco de enfarte agudo — sugerindo que a evidência, embora preocupante, não é ainda conclusiva para todos os perfis de consumo [@theerasuwipakorn2023]
   - **Mecanismos propostos:** Aumento agudo da frequência cardíaca, alteração da pressão arterial, efeitos pró-trombóticos do fumo de cannabis. O risco pode ser parcialmente atribuível à **via de administração** (fumo), não apenas ao THC
   - **Contexto:** Estes riscos são particularmente relevantes para utilizadores com **patologia cardiovascular pré-existente**, **idade >50 anos**, ou **consumo combinado com tabaco**. Para utilizadores jovens saudáveis com consumo ocasional, o risco absoluto permanece baixo, mas não é nulo
 
 ### Como a nossa proposta mitiga estes riscos {#como-a-nossa-proposta-mitiga-estes-riscos}
-Reconhecemos os riscos e por isso propomos medidas específicas, baseadas em modelos internacionais comprovados [@hanway2022; @cleirec2025]:
+Reconhecemos os riscos e por isso propomos medidas específicas, inspiradas em modelos internacionais (ver capítulo 5), cuja avaliação é ainda parcial:
 
 | Risco | Medida de Mitigação |
 | :---- | :---- |
@@ -44,7 +43,7 @@ Reconhecemos os riscos e por isso propomos medidas específicas, baseadas em mod
 | **Consumo problemático** | Financiamento garantido para tratamento e prevenção via Orçamento do Estado ([ver estimativas](#financiamento)) |
 | **Uso frequente/diário** | Limites mensais (30g/mês para 18-20, 50g/mês para 21+); limite de plantas (3) em autocultivo; Oficial de Prevenção monitorizando frequência + encaminhamento proactivo |
 | **Riscos cardiovasculares** | Informação obrigatória sobre riscos cardíacos na sessão de admissão; screening cardiovascular no PHQ inicial; aviso em rotulagem; recomendação de vaporização vs combustão (redução exposição a produtos de combustão); encaminhamento médico para utilizadores >50 anos ou com patologia cardíaca conhecida |
-| **Vulnerabilidades específicas de género** | Programas de prevenção sensíveis ao género; formação de Oficiais de Prevenção em trauma-informed care; rastreio de trauma em admissão; referenciação prioritária para mulheres em situação vulnerável (dados ICAD 2024 mostram 100% alto-risco em raparigas institucionalizadas vs 49% rapazes) [@carapinha2024icad; @observador2026cannabis] |
+| **Vulnerabilidades específicas de género** | Programas de prevenção sensíveis ao género; formação de Oficiais de Prevenção em trauma-informed care; rastreio de trauma em admissão; referenciação prioritária para mulheres em situação vulnerável (ICAD: entre as consumidoras internadas em Centros Educativos, 100% com consumo de risco elevado vs 49% dos rapazes consumidores; amostra institucional, não generalizável; as medidas são propostas deste documento, não da fonte) [@carapinha2024icad; @observador2026cannabis] |
 
 **Nota crítica sobre acesso 18-20 anos:**
 
@@ -59,13 +58,13 @@ O estudo EU-GEI 2019 demonstra que o risco elevado de psicose (OR 4,8) requer a 
 
 ### Idade 21 vs. Desenvolvimento Cerebral até 25 — Transparência sobre Trade-offs {#idade-21-vs-25}
 
-**A questão legítima:** A neurociência demonstra que o córtex pré-frontal continua a desenvolver-se até aproximadamente 25 anos. Se o objectivo é proteger o cérebro em desenvolvimento, porque estabelecer limites aos 21 e não aos 25?
+**A questão legítima:** A neurociência demonstra que o córtex pré-frontal continua a desenvolver-se durante a adolescência e o início da idade adulta (fala-se frequentemente em cerca de 25 anos, sem consenso quanto a um limite exacto). Se o objectivo é proteger o cérebro em desenvolvimento, porque estabelecer limites aos 21 e não aos 25?
 
 **Evidência científica sobre desenvolvimento cerebral e cannabis:**
 
-1. **Maturação pré-frontal:** O córtex pré-frontal — responsável por julgamento, tomada de decisão, controlo de impulsos — é uma das últimas áreas cerebrais a maturar completamente, tipicamente entre 23-26 anos
+1. **Maturação pré-frontal:** O córtex pré-frontal — responsável por julgamento, tomada de decisão, controlo de impulsos — é uma das últimas áreas cerebrais a maturar completamente, mais tarde do que a adolescência, sem idade de conclusão consensual (fala-se frequentemente em cerca de 25 anos)
 
-2. **Cannabis e córtex pré-frontal:** Estudos de neuroimagem encontram associações entre uso regular de cannabis na adolescência/juventude e:
+2. **Cannabis e córtex pré-frontal:** Alguns estudos de neuroimagem, de desenho maioritariamente observacional e com resultados heterogéneos (sem fonte verificada neste documento), encontram associações entre uso regular de cannabis na adolescência/juventude e:
    - Volumes reduzidos no córtex pré-frontal
    - Atraso na maturação cortical em início precoce (<16 anos)
    - Alterações funcionais em tarefas de memória de trabalho
@@ -125,7 +124,7 @@ A política proposta **não maximiza protecção cerebral** — maximiza *reduç
 
 Se evidência futura demonstrar danos significativos em 21-25 com modelo proposto, **revisão será necessária**. Isto requer dados do modelo de clubes (2029-2032) e disposição para ajustar limites baseado em evidência, não ideologia.
 
-**Nota sobre frequência de consumo:** A frequência de consumo é um preditor de risco tão ou mais importante que a potência [@autor2024]. Contudo, tal como não se limita a frequência de consumo de álcool ou tabaco, a abordagem mais praticável é limitar a quantidade disponível. Esta proposta faz-lo através dos limites mensais (30g para 18-20, 50g para 21+ nos clubes) e de plantas (3 em autocultivo) — medidas mais restritivas do que as existentes para substâncias legais com maior score de dano.
+**Nota sobre frequência de consumo:** Tanto a frequência de consumo como a potência estão associadas ao risco de psicose no estudo EU-GEI [@di2019]. Contudo, tal como não se limita a frequência de consumo de álcool ou tabaco, a abordagem mais praticável é limitar a quantidade disponível. Esta proposta faz-lo através dos limites mensais (30g para 18-20, 50g para 21+ nos clubes) e de plantas (3 em autocultivo) — medidas mais restritivas do que as existentes para substâncias legais com maior score de dano.
 
 **Proposta concreta de financiamento:** Dado que o modelo de clubes sociais sem fins lucrativos não gera receitas fiscais significativas (ao contrário de modelos comerciais), propõe-se financiamento via **Orçamento do Estado** para:
 
@@ -139,9 +138,9 @@ Se evidência futura demonstrar danos significativos em 21-25 com modelo propost
 
 **Nota sobre dados fiscais internacionais:**
 
-Modelos comerciais (Colorado, Washington, Canadá) geram receitas fiscais significativas via impostos sobre vendas (~37-50% destinado a educação/saúde [@tax2024]). **Contudo, estes dados NÃO são aplicáveis a Portugal por duas razões fundamentais:**
+Modelos comerciais (Colorado, Washington, Canadá) geram receitas fiscais significativas via impostos sobre vendas (a afectação varia por estado; por exemplo, no Colorado a receita é afecta à construção de escolas e no Washington cerca de metade a programas de saúde, segundo a fonte [@tax2024]). **Contudo, estes dados NÃO são aplicáveis a Portugal por duas razões fundamentais:**
 
-1. **Prevalência diferente:** Colorado tem prevalência de consumo adulto ~13-15% [@cdphe2024monitoring; @brfss2023cannabis], enquanto Portugal tem 8,2% [@euda2024cannabis]. Mesmo se Portugal adoptasse modelo comercial, as receitas fiscais seriam proporcionalmente menores devido à menor base de consumidores (quase metade).
+1. **Prevalência diferente:** Colorado tem prevalência de consumo adulto superior à portuguesa (os valores dependem do inquérito e do período de referência, pelo que não se apresenta aqui uma comparação numérica verificada). Mesmo se Portugal adoptasse modelo comercial, as receitas fiscais tenderiam a ser menores devido à menor base de consumidores.
 
 2. **Modelo completamente diferente:** Portugal propõe clubes sociais **sem fins lucrativos** (princípio cost-recovery, modelo alemão/maltês). Clubes não-comerciais não geram **impostos específicos sobre cannabis** (excise tax) — apenas recuperam custos operacionais via quotas de membros. **Nota fiscal:** As quotas de membros estão sujeitas ao IVA standard de 23% (obrigatório em Portugal para todas as transacções de bens e serviços, mesmo sem fins lucrativos). Na Alemanha, clubes sem fins lucrativos podem beneficiar da taxa reduzida de 7% se obtiverem estatuto de utilidade pública; na Suíça, o IVA standard é 7,7%. Portugal poderá explorar taxa reduzida (6% ou 13%) mediante alteração legislativa, mas o IVA a 23% é o cenário base.
 
@@ -172,11 +171,11 @@ O estudo de David Nutt com 20 drogas e 16 critérios de dano [@nutt2010]:
 
 ## Cannabis e condução: um desafio de implementação {#cannabis-e-condução-um-desafio-de-implementação}
 ### O problema {#o-problema}
-* **Risco aumentado:** Meta-análise Rogeberg (2019): OR 1,28 (IC 95%: 1,16-1,40) para risco de acidente. O autor conclui que o risco é "baixo" e a fração de risco atribuível está "abaixo de 2%" na maioria dos estudos [@rogeberg2019].
+* **Risco aumentado:** Meta-análise Rogeberg (2019): aumento médio do risco de acidente de 1,28 (IC 95%: 1,16-1,40); risco de acidente com culpa 1,42 (IC 95%: 1,11-1,75). O autor conclui que o aumento do risco é baixo e que a fração de risco atribuível está abaixo de 2% em todos os estudos incluídos menos dois [@rogeberg2019].
 * **Mas:** Qualquer aumento de risco justifica regulação adequada.
 
 ### Lições da Alemanha {#lições-da-alemanha}
-A Alemanha estabeleceu um limite de **3,5 ng/ml de THC** no sangue (equiparado a 0,2‰ de álcool), aprovado pelo Bundestag em Junho 2024 e em vigor desde Agosto 2024 [@bundesministerium2024].
+A Alemanha estabeleceu um limite de **3,5 ng/ml de THC** no sangue (equiparado a 0,2‰ de álcool [@bessergrowen2025]), aprovado em Junho 2024 e em vigor desde Agosto 2024 [@bundesministerium2024].
 
 **Problemas identificados [@bessergrowen2025]:**
 
@@ -188,8 +187,8 @@ A Alemanha estabeleceu um limite de **3,5 ng/ml de THC** no sangue (equiparado a
 **Soluções em desenvolvimento [@bessergrowen2025]:**
 
 * Renânia-Palatinado está a testar novos testes rápidos desde Maio 2025 (distrito de Trier)
-* Novos testes de saliva com cut-off de 3,5 ng/ml dão resultados em 3 minutos
-* Universidade de Mainz está a verificar precisão contra testes sanguíneos
+* Novos testes de saliva com cut-off de 3,5 ng/ml dão resultados em cerca de 3 minutos (num caso documentado)
+* Universidade de Mainz está a verificar precisão contra testes sanguíneos (piloto ainda em avaliação, sem resultados finais)
 
 ### Legislação internacional comparada {#legislação-internacional-comparada}
 
@@ -197,26 +196,26 @@ Três jurisdições estabeleceram regulação DUI cannabis com vários anos de i
 
 | Jurisdição | Limite THC | Tipo Limite | Testes Roadside | Penalidades | Notas |
 | :---- | :---- | :---- | :---- | :---- | :---- |
-| **Colorado** (2014) | 5 ng/ml | Whole blood, "permissible inference" | Saliva/urina (não evidentiary) | Iguais a álcool DUI: $600-1000 multa, 9 meses suspensão (1ª ofensa) | Não é limite absoluto — condutores podem ser condenados abaixo de 5 ng/ml se demonstrarem incapacidade; sem excepção medicinal [@colorado2023dui] |
-| **Canadá** (2018) | 2-5 ng/ml (summary) / 5+ ng/ml (hybrid) / THC+álcool (combinado) | Whole blood, sistema tiered | Oral fluid 25 ng/ml (screening roadside, 98% confirmação sanguínea) | 2-5 ng/ml: $1000 multa; 5+ ng/ml: $1000 (1ª), 30 dias prisão (2ª); Combinado: agravamento | Sistema tiered permite proporcionalidade; testes orais 3-5 min resultado, confirmação laboratorial obrigatória [@canada2023cannabis] |
-| **Alemanha** (2024) | 3,5 ng/ml | Serum, equiparado 0,2‰ álcool | Saliva/urina calibrados 1,0 ng/ml (problema: falsos positivos) | €500 multa + 1 mês suspensão (1ª ofensa); 3,5+ ng/ml sempre ilegal | Aumentado de 1,0 para 3,5 ng/ml Ago 2024; **tolerância zero** cannabis+álcool; testes roadside desactualizados criam enforcement issues [@bundesministerium2024; @bessergrowen2025] |
+| **Colorado** (2014) | 5 ng/ml | Whole blood, "permissible inference" | Saliva/urina (não evidentiary) | Equiparadas a álcool DUI (valores concretos não verificados) | Não é limite absoluto — condutores podem ser condenados abaixo de 5 ng/ml se demonstrarem incapacidade; fonte primária por citar (C.R.S. 42-4-1301) |
+| **Canadá** (2018) | 2-5 ng/ml (summary) / 5+ ng/ml (hybrid) / THC+álcool (combinado) | Whole blood, sistema tiered | Oral fluid (screening roadside; limiar e taxa de confirmação não verificados) | 2-5 ng/ml: multa até $1000; 5+ ng/ml: mínimo $1000 (1ª), 30 dias prisão (2ª); Combinado (THC+álcool): infração própria, sem agravamento descrito na fonte | Sistema tiered permite proporcionalidade; testes orais 3-5 min resultado, confirmação laboratorial obrigatória [@canada2023cannabis] |
+| **Alemanha** (2024) | 3,5 ng/ml | Serum, equiparado 0,2‰ álcool | Saliva/urina calibrados 1,0 ng/ml (problema: falsos positivos) | Sanções do regime actual não verificadas (€500 + 1 mês suspensão descritos apenas para o regime anterior de 1,0 ng/ml) | Aumentado de 1,0 para 3,5 ng/ml Ago 2024; **tolerância zero** cannabis+álcool; testes roadside desactualizados criam enforcement issues [@bundesministerium2024; @bessergrowen2025] |
 
 **Contexto científico:**
 
-* **Detection window:** THC permanece detectável dias/semanas após consumo (lipossolúvel). Níveis sanguíneos não correlacionam perfeitamente com incapacidade actual [@rogeberg2019]
-* **Risco estabelecido:** Meta-análise Rogeberg 2019: OR 1,28 (IC 95%: 1,16-1,40) para acidentes. Autor conclui risco "baixo" mas qualquer aumento justifica regulação [@rogeberg2019]
+* **Detection window:** THC permanece detectável dias/semanas após consumo (lipossolúvel). Níveis sanguíneos não correlacionam perfeitamente com incapacidade actual (afirmação sem fonte verificada) [@bessergrowen2025]
+* **Risco estabelecido:** Meta-análise Rogeberg 2019: aumento médio do risco de acidente de 1,28 (IC 95%: 1,16-1,40). O autor conclui que o risco é baixo [@rogeberg2019]; o presente documento entende que mesmo um aumento pequeno justifica regulação
 * **Combinação THC+álcool:** Efeito sinérgico — incapacidade maior que soma individual das substâncias
 
 ### Nossa proposta para Portugal {#nossa-proposta-para-portugal}
 
-Baseada nos três modelos validados e adaptada ao contexto português [@bundesministerium2024; @bessergrowen2025; @colorado2023dui; @canada2023cannabis]:
+Baseada nos três modelos acima descritos [@bundesministerium2024; @bessergrowen2025; @canada2023cannabis] e adaptada ao contexto português (adaptação proposta por este documento; as fontes descrevem os regimes, não validam a adaptação):
 
 #### Limites e Testes
 
 * **Limite legal:** 3,5 ng/ml de THC no sangue (modelo alemão — conservador e equiparado a 0,2‰ álcool)
 * **Tolerância zero:** Para condutores com menos de 2 anos de carta e menores de 21 anos (0 ng/ml)
 * **Proibição absoluta:** Mistura de cannabis com álcool ao volante (qualquer concentração detectável de ambas as substâncias)
-* **Testes roadside:** Oral fluid screening (modelo canadiano 25 ng/ml) — resultado 3-5 minutos, confirmação laboratorial obrigatória
+* **Testes roadside:** Oral fluid screening (modelo canadiano) — resultado 3-5 minutos, confirmação laboratorial obrigatória
 * **Testes confirmatórios:** Análise sanguínea laboratorial (gold standard) — apenas estes têm valor evidentiary
 * **Investimento em tecnologia:** Financiar aquisição de testes oral fluid calibrados a 3,5 ng/ml antes da implementação (lição alemã: evitar falsos positivos)
 
@@ -246,7 +245,7 @@ Todos os produtos cannabis (clubes sociais, autocultivo com sementes certificada
 > Cannabis prejudica reflexos e coordenação.
 > Conduzir sob influência THC ≥3,5 ng/ml = crime (€250-1250 multa, inibição conduzir)
 
-**Justificação 4 horas:** Pico THC sanguíneo: 15-30 min pós-consumo (inalação), 1-2h (ingestão). Clearance substancial: 3-4h para utilizadores ocasionais. Aviso conservador protege condutores [@grotenhermen2007pharmacokinetics]
+**Justificação 4 horas:** Efeitos psicotrópicos máximos: 15-30 min pós-consumo (inalação), 2-3h (ingestão oral), com duração de 4-12h após ingestão [@grotenhermen2007pharmacokinetics]. O aviso de 4 horas pode, por isso, ser insuficiente após ingestão oral e deve ser revisto
 
 #### Formação e Implementação
 

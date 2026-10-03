@@ -22,7 +22,7 @@ A Suíça implementou em 2021 uma alteração à Lei Federal de Estupefacientes 
 | **Biel** | — | 2024 | ~300 | 2024-2027 | Modelo misto |
 | **Lucerna** | — | 2024 | ~300 | 2024-2027 | Farmácias |
 
-**Total investimento:** ~CHF 7,5M retirados do mercado negro nos primeiros 18 meses (estimativa oficial) [@businessofcannabis2024zurican].
+**Total investimento:** ~CHF 7,5M retirados do mercado negro nos primeiros 18 meses (valor reportado pela imprensa; a confirmar no relatório do estudo da cidade de Zurique) [@businessofcannabis2024zurican].
 
 ## Framework Regulatório Suíço {#framework-regulatório-suíço}
 
@@ -103,7 +103,7 @@ Os pilotos suíços testam deliberadamente **3 modelos distintos** para comparar
 ### Impacto Mercado Negro {#impacto-mercado-negro}
 
 **Züri Can (Zurique):**
-- **>90% participantes** compraram cannabis exclusivamente de fontes legais piloto após registo [@businessofcannabis2024zurican]
+- Proporção de participantes que compraram exclusivamente em fontes legais piloto após registo: dado não verificado (a confirmar no relatório do estudo)
 - **CHF 7,5M retirados mercado negro** em 18 meses (estimativa oficial)
 - **Zero leakage detectado:** Nenhum caso documentado de revenda cannabis piloto mercado ilegal
 
@@ -134,7 +134,7 @@ Os pilotos suíços testam deliberadamente **3 modelos distintos** para comparar
 
 ### Transição Pilotos → Legalização Nacional {#transição-pilotos-legalização-nacional}
 
-Em **Agosto 2025**, governo suíço abriu **consulta pública sobre Lei de Produtos Cannabis** (Cannabis Products Act), permitindo comentários até Dezembro 2025 [@cannabisregulations2025switzerland].
+Em **Agosto 2025**, governo suíço abriu **consulta pública sobre Lei de Produtos Cannabis** (Cannabis Products Act; lançada pela comissão SGK-N do Conselho Nacional, segundo outras fontes), permitindo comentários até Dezembro 2025 [@cannabisregulations2025switzerland].
 
 **Objetivo:** Expandir fornecimento cannabis adultos 18+ para além de trials científicos, permitindo **venda comercial regulada a nível nacional** (mantendo opt-out cantonal).
 

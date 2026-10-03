@@ -2,15 +2,15 @@
 
 \newpage
 
-> **TL;DR (30 segundos):** Portugal exporta 32.500 kg de cannabis medicinal mas apenas emitiu 1.157 prescrições internas. 95% dos utilizadores compram no mercado negro (€52-151M/ano) sem controlo de qualidade. Propomos três pilares — (1) revisão cannabis medicinal com comparticipação SNS, (2) clubes sociais + autocultivo para adultos (modelo alemão 2024), (3) cânhamo industrial — implementados em três fases: Fase 1 (imediata: cânhamo + medicinal), Fase 2 (clubes + autocultivo, após resultados), Fase 3 (venda comercial, horizonte condicional). Evidência internacional: legalização não aumentou consumo juvenil. ROI estimado: 120-753% via poupanças enforcement. **Não é modelo comercial** — é redução de danos para quem já consome.
+> **TL;DR (30 segundos):** Portugal exporta 32.500 kg de cannabis medicinal mas apenas emitiu 1.157 prescrições internas. O consumo recreativo não tem mercado legal: quem consome compra no mercado ilegal, sem controlo de qualidade. Propomos três pilares — (1) revisão cannabis medicinal com comparticipação SNS, (2) clubes sociais + autocultivo para adultos (modelo alemão 2024), (3) cânhamo industrial — implementados em três fases: Fase 1 (imediata: cânhamo + medicinal), Fase 2 (clubes + autocultivo, após resultados), Fase 3 (venda comercial, horizonte condicional). Evidência internacional: legalização não aumentou consumo juvenil. Poupanças de enforcement: estimativa dos autores, sem dados orçamentais oficiais (capítulo 08). **Não é modelo comercial** — é redução de danos para quem já consome.
 
 ---
 
 ## O paradoxo português {#o-paradoxo-português}
 
-Portugal encontra-se numa posição paradoxal: é o segundo maior exportador mundial de cannabis medicinal (32.558 kg em 2024 [@infarmed2024], ultrapassados nos primeiros 8 meses de 2025 [@euronews2024]), mas apenas 1.157 prescrições foram emitidas internamente em 2023 [@eco2024], equivalendo a cerca de 17 kg [@cannareporter2024].
+Portugal encontra-se numa posição paradoxal: é o segundo maior exportador mundial de cannabis medicinal (32.558 kg em 2024 [@eco2024; @cannareporter2024]), mas apenas 1.157 prescrições (embalagens) foram emitidas internamente em 2023 [@infarmed2024]; as vendas no mercado interno rondaram os 17 kg [@cannabislaw2024export].
 
-**Uso recreativo:** 95% via mercado negro (€52-151M/ano) com:
+**Uso recreativo:** sem mercado legal; o consumo faz-se no mercado ilegal, com:
 - **Sintéticos perigosos** (800x mais potentes que THC)
 - **Potência duplicada** sem rotulagem
 - **Catástrofe ambiental:** Cultivo indoor clandestino gera 2.300-5.200 kg CO₂/kg (outdoor: apenas 22,7 kg CO₂/kg; energia 100% renovável reduz 50-70%)
@@ -33,20 +33,20 @@ Os pilares descrevem a substância de cada proposta. As fases descrevem a sequê
 
 * **Objectivo:** Garantir acesso efectivo para doentes com prescrição médica
 * **Medidas:** Comparticipação SNS, simplificação da prescrição, alargamento de indicações, formação médicos família
-* **Urgência:** Portugal exporta 99,85% da produção enquanto doentes pagam €150/mês sem comparticipação [@cannabislaw2024export; @drug2024]
+* **Urgência:** Em 2023, Portugal exportou cerca de 99,85% do que vendeu (exportações face a vendas no mercado interno), e o acesso interno dos doentes é limitado, sem comparticipação [@cannabislaw2024export; @euronews2024]
 
 #### Pilar 2: Cannabis Recreativa
 
 * **Modelo:** Clubes sociais sem fins lucrativos + autocultivo (framework legal alemão 2024)
 * **NÃO é modelo comercial** (tipo Canadá/EUA)
-* **Objectivo:** **Proteger os 95% que já consomem** via mercado negro [@cannareporter2025medicinal], não promover novos consumidores
+* **Objectivo:** **Proteger quem já consome** sem alternativa legal acessível, não promover novos consumidores
 * Idade mínima 21 anos; clubes max 500 membros; autocultivo 3 plantas com sementes certificadas
 * €20-40M/ano para prevenção
 
 #### Pilar 3: Cânhamo Industrial
 
 * **Não controverso** (já legal UE, THC<0,3%) — **não depende de qualquer outro pilar**
-* **Solução climática:** Captura **8-15 toneladas CO₂/hectare** por ciclo em condições UK [@cambridge2022hemp; @carboncredits2024hemp] — Portugal (clima mediterrânico) pode atingir **8-12 t CO₂/ha**, ainda assim 2-4x mais que florestas
+* **Solução climática:** Estimativas atribuídas a um investigador de Cambridge apontam para **8-15 toneladas CO₂/hectare** de cânhamo [@carboncredits2024hemp]; o valor depende do método de cultivo, não há estimativa verificada para Portugal e a comparação com florestas depende da metodologia
 * Oportunidade agrícola (fibra, sementes, construção) e economia rural
 * Programa piloto 3-5 regiões; incentivos PAC
 
@@ -71,7 +71,7 @@ Os pilares descrevem a substância de cada proposta. As fases descrevem a sequê
 Evidência internacional sobre impacto:
 
 - Colorado (2014, 10+ anos dados): consumo juvenil -42% (nota: tendência nacional similar -38%, ver secção [*Impacto no consumo juvenil*](#3.5-impacto-no-consumo-juvenil))
-- Canadá (2018, 6 anos dados): consumo juvenil (15-17 anos) não aumentou pós-legalização [@statcan2019youth]; dados mais recentes (CCS, 16-19 anos) mostram ligeiro aumento de 36% para 41-43% entre 2018-2024 — interpretação disputada
+- Canadá (dados 2018-2019): estudo da Statistics Canada indica que o consumo juvenil (15-17 anos) não aumentou no primeiro ano pós-legalização, sem permitir inferência causal [@statcan2019youth]; dados mais recentes (CCS, 16-19 anos) apontam para um ligeiro aumento — interpretação disputada (fonte por indicar)
 - Alemanha (2024, framework legislativo): 357 clubes aprovados (Nov 2025), dados eficácia insuficientes (<1 ano)
 
 #### Fase 3 (condicional — 2033+): Venda Comercial Regulada
@@ -92,13 +92,13 @@ Evidência internacional sobre impacto:
 
 **4. Horizonte condicional, não promessa:** A Fase 3 (venda comercial) é deliberadamente apresentada como horizonte. Depende de factores externos (dados, coordenação UE) e pode nunca acontecer. Esta honestidade reforça credibilidade — não prometemos o que não controlamos.
 
-**5. Aproveitar momentum:** O framework legal alemão de clubes sociais (2024) oferece modelo recente de regulação sem comercialização [@bundesgesundheit2024cannabis]. Evidência de Colorado (10+ anos) e Canadá (6 anos) mostra que a legalização **não provocou o aumento de consumo juvenil que opositores previam** [@statcan2019youth; @mpp2024colorado; @coley2024]. Contudo, os declínios observados reflectem também tendências nacionais pré-existentes (ver secção [*Impacto no consumo juvenil*](#3.5-impacto-no-consumo-juvenil)), pelo que não se pode atribuir causalidade exclusiva à regulação.
+**5. Aproveitar momentum:** O framework legal alemão de clubes sociais (2024) oferece modelo recente de regulação sem comercialização [@bundesgesundheit2024cannabis]. Evidência de Colorado (10+ anos), Canadá (primeiro ano pós-legalização) e estados dos EUA (YRBS 2011-2021, onde se observaram descidas modestas ou nenhuma alteração líquida) sugere que a legalização **não provocou o aumento de consumo juvenil que opositores previam** [@statcan2019youth; @mpp2024colorado; @coley2024]. Contudo, os declínios observados reflectem também tendências nacionais pré-existentes (ver secção [*Impacto no consumo juvenil*](#3.5-impacto-no-consumo-juvenil)), pelo que não se pode atribuir causalidade exclusiva à regulação.
 
 **Os objectivos são complementares, não conflituantes** — mas a sequência estratégica (consenso primeiro, controverso depois, comercial só se dados positivos) maximiza probabilidade de sucesso político.
 
 ## Cronograma proposto {#cronograma-proposto}
 
-**Timeline realista baseada em processos legislativos comparáveis:** Portugal descriminalização 2001 (~18 meses) [@springer2021pt; @transform2016pt], Alemanha CanG 2024 (~18 meses de framework a implementação) [@lancet2024germany].
+**Timeline realista baseada em processos legislativos comparáveis:** Portugal descriminalização (lei aprovada em Novembro de 2000, em vigor em Julho de 2001, ~8 meses) [@parlamento2000lei30], Alemanha CanG (cerca de 18 meses entre o Eckpunktepapier de Outubro de 2022 e a entrada em vigor em Abril de 2024, apenas na 1.ª fase, sem mercado comercial) [@lancet2024germany].
 
 | Data | Acção | Fase |
 |------|-------|------|

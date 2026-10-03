@@ -12,22 +12,22 @@
 
 ## O problema actual: Criminalização sem reduzir consumo {#o-problema-actual-criminalização-sem-reduzir-consumo}
 
-**Dados de criminalização (SICAD 2018, Diário de Notícias 2020):**
+**Dados de criminalização (SICAD 2018):**
 
-* **75% de todos os processos por drogas (CDT)** em Portugal são por cannabis [@sicad2018condenacoes; @dn2020condenacoes]
-* **86% dos indiciados** têm perfil "não toxicodependente" — são consumidores ocasionais criminalizados, não pessoas com dependência [@cannareporter2023legalization]
-* **95% dos utilizadores** portugueses usa cannabis ilegal (mercado negro) [@cannareporter2025medicinal]
-* Mercado negro estimado em **36-58 toneladas/ano**, potencial receita fiscal €52-151M [@ribeiro2024economic]
+* **84% dos processos por drogas nas CDT (2018)** envolvem apenas cannabis [@sicad2018condenacoes]
+* **86% dos indiciados em 2021** tinham perfil "não toxicodependente" (dados SICAD, citados por [@cannareporter2023legalization])
+* Não existe mercado legal para uso recreativo: o consumo recreativo abastece-se no mercado ilegal (sem estimativa quantitativa da quota)
+* Mercado negro estimado em **36-58 toneladas/ano**, receita fiscal projetada de €52-151M em cenários de legalização [@ribeiro2024economic]
 
-**Conclusão:** A proibição não elimina o consumo. Criminaliza centenas de pessoas por ano, enquanto 95% continua a usar produto não regulado.
+**Conclusão:** A proibição não elimina o consumo. Criminaliza centenas de pessoas por ano, enquanto o consumo continua a abastecer-se de produto não regulado.
 
 ### Impacto esperado dos clubes sociais no mercado ilegal {#impacto-esperado-dos-clubes-sociais-no-mercado-ilegal}
 
 **Dados internacionais de redução do mercado negro:**
 
-* **Uruguai (2013, modelo clubes):** Após 10 anos, mercado legal captura **24-39% dos utilizadores** [@dankreports2024uruguay; @talkingdrugs2024uruguay]. Limitações específicas (registo biométrico obrigatório, baixa potência 2017-2022, oferta limitada) explicam captura moderada [@cdays2025]
-* **Canadá (2018, modelo comercial):** Progressão rápida — mercado ilegal **96% (2018) → 22% (2022) → 3% (2024)** [@born2invest2024canada; @sciencedirect2025canada]
-* **Colorado (2014, modelo comercial):** Mercado ilegal estimado em **27-40%** após 10 anos [@arcview2017colorado]
+* **Uruguai (2013, modelo clubes):** Após 10 anos, mercado legal captura **cerca de 24-40% dos utilizadores** [@dankreports2024uruguay; @talkingdrugs2024uruguay]. Factores apontados pelas fontes (registo biométrico obrigatório [@talkingdrugs2024uruguay]; variedade e THC limitados, distribuição desigual [@cdays2025]) podem contribuir para a captura moderada, mas a causalidade não está demonstrada
+* **Canadá (2018, modelo comercial):** Progressão rápida — mercado ilegal **cerca de 22% (2022, [@sciencedirect2025canada]) → cerca de 5% (2024, [@born2invest2024canada])**
+* **Colorado (2014, modelo comercial):** Mercado ilegal estimado em **27% do gasto total em 2017** [@arcview2017colorado]
 
 **Expectativa realista para Portugal (modelo clubes sem registo biométrico):**
 
@@ -48,7 +48,7 @@
 * **18 novos canabinóides semi-sintéticos** identificados em 2024 [@euda2025nps]
 * Alguns são **2 a 800 vezes mais potentes** que THC natural [@oasas2024synthetic] — EUDA 2025 confirma que são "altamente potentes" mas não quantifica [@euda2025nps]
 * **HHC** (hexahydrocannabinol) e derivados vendidos como "alternativas legais" reportados em **27 países europeus**, controlados em 22 Estados-Membros [@euda2025nps]
-* **Hungria reportou 30 intoxicações agudas** por gomas adulteradas com sintéticos em 2024 [@euda2024threat]
+* **Hungria reportou 30 intoxicações agudas** por gomas com canabinóides semi-sintéticos potentes em 2024 [@euda2025nps]
 
 **2. Aumento drástico da potência:**
 
@@ -62,22 +62,22 @@
 * Sem testes de qualidade: risco de pesticidas, metais pesados, fungos
 * Sem rastreabilidade: origem e composição desconhecidas
 * Sem informação ao consumidor: teor de THC, dosagens, riscos
-* Hospitalizações por produtos adulterados a aumentar na Europa [@euda2024threat]
+* Risco de adulteração e de intoxicações por produtos com sintéticos reportado na Europa [@euda2024threat]
 
 **4. Catástrofe ambiental do modelo actual:**
 
 O modelo de cultivo indoor dominante no mercado negro (e em alguns mercados legais) é **ambientalmente insustentável:**
 
-* **Emissões de carbono indoor:** Cultivo indoor gera **2.283-5.184 kg CO₂-equivalente por kg de flor seca** [@summers2021cannabis; @mills2021cannabis]
-* **Comparação apropriada:** Tomates em estufa aquecida geram 1,7-5,6 kg CO₂/kg [@sciencedirect2025tomato]. Cannabis indoor é **comparável ou pior** que agricultura intensiva mais emissora
+* **Emissões de carbono indoor:** Cultivo indoor gera **2.283-5.184 kg CO₂-equivalente por kg de flor seca** [@summers2021cannabis]; estimativa anterior de cerca de 4.600 kg CO₂/kg de produto final [@mills2021cannabis]
+* **Comparação apropriada:** Tomates em estufa climatizada geram cerca de 1,7 kg CO₂e/kg (mediana) [@sciencedirect2025tomato]. Cannabis indoor é **ordens de grandeza superior** (cerca de mil vezes)
 * **Consumo energético:** Instalações indoor consomem tanta electricidade quanto data centers [@motherjones2021carbon]
-* **Impacto grid energético:** Estas emissões assumem **grid energético actual português** (mix fóssil + renováveis). Com 100% renováveis, redução de 50-70% [@nature2021cannabis]
+* **Impacto grid energético:** Estas estimativas reflectem a rede eléctrica dos EUA [@nature2021cannabis], não a portuguesa; o efeito de energia 100% renovável em Portugal não está quantificado nas fontes citadas
 
 **Alternativa sustentável — energias renováveis obrigatórias:**
 
-* **Cannabis outdoor:** Emite apenas **22,7 kg CO₂/kg** — redução de **99% vs. indoor** [@nature2021cannabis]
-* **Shift to outdoor:** Se 75% produção for outdoor, redução de 80% nas emissões do sector [@marijuanamoment2024outdoor]
-* **Cânhamo captura carbono:** **8-15 toneladas CO₂/hectare** por ciclo em condições UK/Irlanda [@cambridge2022hemp; @carboncredits2024hemp]. Clima mediterrânico português (temperaturas até 35°C toleradas) permite **8-12 t CO₂/ha** com uma colheita, potencialmente **15-20 t** com duas colheitas/ano em regiões sul [@lampoon2024hemp]
+* **Cannabis outdoor:** Redução de emissões de cerca de **96% vs. indoor** (cerca de 42% em estufa) [@nature2021cannabis]
+* **Shift to outdoor:** Uma transição para outdoor poderia reduzir as emissões do sector em até 76% [@marijuanamoment2024outdoor]
+* **Cânhamo captura carbono:** **8-15 toneladas CO₂/hectare** segundo investigador de Cambridge, consoante o método de cultivo [@cambridge2022hemp; @carboncredits2024hemp]; outra fonte refere **8-22 t CO₂/ha/ano** e tolerância a temperaturas até 35°C [@lampoon2024hemp]. Não há estimativa específica para Portugal
 * **Co-benefícios outdoor:** Regeneração de solos, biodiversidade, economia rural, sem electricidade intensiva
 * **Mas o problema real é o carbono, não o método:** A proibição de cultivo indoor excluiria clubes urbanos (Lisboa, Porto) e limitaria a viabilidade do modelo. A solução é atacar directamente a pegada carbónica através de energia 100% renovável
 
@@ -109,14 +109,14 @@ O modelo de cultivo indoor dominante no mercado negro (e em alguns mercados lega
 
 **3. Redução de custos sociais:**
 
-* **Menos processos judiciais:** 75% dos processos por drogas (CDT) envolvem cannabis [@sicad2018condenacoes]
-* **Menos urgências hospitalares:** produtos testados vs. sintéticos perigosos [@euda2024threat]
+* **Menos processos judiciais:** 84% dos processos por drogas nas CDT (2018) envolvem apenas cannabis [@sicad2018condenacoes]
+* **Menos urgências hospitalares:** hipótese (produtos testados vs. sintéticos perigosos), não demonstrada
 * **Recursos policiais libertados:** foco em crime grave, não consumidores ocasionais
 * **Menos pessoas com registo criminal** por consumo pessoal de cannabis
 
 **4. Retirar rendimento ao crime organizado:**
 
-* Mercado de €52-151M/ano actualmente controlado por redes ilegais [@ribeiro2024economic]
+* Mercado ilegal estimado em 36-58 toneladas/ano, actualmente controlado por redes ilegais [@ribeiro2024economic]
 * Regulação transfere para operadores licenciados, monitorizados, sem fins lucrativos
 
 ## Coerência com outras políticas do LIVRE {#coerência-com-outras-políticas-do-livre}
@@ -124,7 +124,7 @@ O modelo de cultivo indoor dominante no mercado negro (e em alguns mercados lega
 O LIVRE defende **redução de danos** para substâncias psicoactivas. Cannabis segue os mesmos princípios de saúde pública:
 
 * **Regular ≠ promover:** regulação é controlo, prevenção e minimização de danos
-* **A proibição não funciona:** 95% usa mercado negro [@cannareporter2025medicinal]
+* **A proibição não funciona:** o consumo mantém-se e abastece-se no mercado ilegal
 * **A questão é:** produto seguro e testado, ou produto ilegal potencialmente adulterado?
 
 ## A resposta a "Porquê legalizar recreativo?" {#a-resposta-a-porquê-legalizar-recreativo}
@@ -135,18 +135,18 @@ O LIVRE defende **redução de danos** para substâncias psicoactivas. Cannabis 
 - ❌ "Normalizar" a cannabis
 
 **É para:**
-- ✅ **Proteger quem já consome** (95% da população utilizadora [@cannareporter2025medicinal])
-- ✅ **Reduzir danos:** produtos testados vs. sintéticos perigosos 800x mais potentes [@euda2025nps]
-- ✅ **Descriminalizar:** 75% dos processos (CDT) envolvem consumidores ocasionais [@sicad2018condenacoes; @dn2020condenacoes]
-- ✅ **Controlar potência:** THC rotulado vs. mercado negro com resina a 24.8% THC sem rotulagem [@euda2024cannabis]
+- ✅ **Proteger quem já consome** (os consumidores recreativos, que hoje só dispõem do mercado ilegal)
+- ✅ **Reduzir danos:** produtos testados vs. canabinóides sintéticos perigosos, alguns 2 a 800 vezes mais potentes que o THC [@oasas2024synthetic]
+- ✅ **Descriminalizar:** 84% dos processos CDT (2018) envolvem apenas cannabis [@sicad2018condenacoes]
+- ✅ **Controlar potência:** THC rotulado vs. produto ilegal não rotulado; a resina apreendida na UE tem em média 24,8% THC (2022) [@euda2024cannabis]
 - ✅ **Financiar prevenção:** €20-40M/ano (transição gradual OE→poupanças enforcement) para tratamento
-- ✅ **Retirar rendimento ao crime:** €52-151M/ano para clubes licenciados sem fins lucrativos [@ribeiro2024economic]
+- ✅ **Retirar rendimento ao crime:** mercado ilegal estimado em 36-58 toneladas/ano [@ribeiro2024economic]
 
 **Princípio central:** A proibição não elimina o consumo — apenas elimina o controlo e a segurança.
 
 ### Proteção do Desenvolvimento Cognitivo em Jovens Adultos {#proteção-do-desenvolvimento-cognitivo-em-jovens-adultos}
 
-O desenvolvimento do córtex pré-frontal continua até aos ~25 anos. Estudos longitudinais demonstram que **utilizadores persistentes com início na adolescência** apresentam declínio de QI de 8 pontos aos 38 anos [@Meier2012]. Contudo, meta-análises recentes confirmam que este risco está concentrado em **consumo pesado/dependente**, não em utilizadores ocasionais [@Jackson2016].
+O desenvolvimento do córtex pré-frontal continua até aos ~25 anos. Estudos longitudinais demonstram que **utilizadores persistentes com início na adolescência** apresentam declínio de QI de 8 pontos aos 38 anos [@Meier2012]. Contudo, um estudo de gémeos não encontrou efeito causal do consumo adolescente no QI, atribuindo as diferenças a factores familiares [@Jackson2016].
 
 **Medida de precaução adotada:**
 

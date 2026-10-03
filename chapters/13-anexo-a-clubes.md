@@ -36,9 +36,9 @@ A regra de exclusividade e o período mínimo de residência previnem acumulaç�
 
 O turismo cannabis cria problemas documentados em cidades europeias:
 
-* **Amsterdam:** 58% dos turistas internacionais visitam especificamente para consumir drogas; 3 milhões de turistas/ano frequentam coffee shops. A autarca descreveu o fenómeno como "a blight on the city, fostering crime and public disorder" [@natgeo2024amsterdam; @schengen2024amsterdam]. Apesar de propostas para implementar critério de residência (i-criterium), Amsterdam não conseguiu aplicar a medida por receio de expansão do mercado negro.
+* **Amsterdam:** a autarca propôs proibir a entrada de estrangeiros nos coffee shops [@natgeo2024amsterdam] e foi introduzida a proibição de fumar na rua no Bairro da Luz Vermelha [@schengen2024amsterdam].
 
-* **Barcelona:** Em 2024, o município ordenou encerramento de 30 clubes por violações e turismo cannabis. Supremo Tribunal Espanhol (2021-2023) estabeleceu que clubes que operam como negócios, aceitam turistas ou fazem publicidade constituem **tráfico de drogas**. Inspeções regulares resultaram em encerramentos e acusações criminais [@medium2024barcelona; @greendream2024spain].
+* **Barcelona:** Em 2024, o município ordenou encerramento de 30 clubes por violações e turismo cannabis. Supremo Tribunal Espanhol (2021-2023) estabeleceu que clubes que operam como negócios, aceitam turistas ou fazem publicidade constituem **tráfico de drogas**. As inspeções resultaram em ordens de encerramento (30 clubes em julho de 2024) [@medium2024barcelona; @greendream2024spain].
 
 **Política portuguesa proposta:**
 
@@ -112,7 +112,7 @@ Cada clube deve:
 
 ## Governance e Prevenção de Desvios Comerciais {#governance-e-prevenção-de-desvios-comerciais}
 
-**Contexto:** A Alemanha implementa fiscalização através de documentação obrigatória (§26 KCanG) [@kcang2024], inspecções aleatórias das autoridades regionais, e princípio cost-recovery (§§24-25 KCanG) [@kcang2024] que proíbe lucro. **Contudo**, Espanha demonstrou que tolerância de clubes sem regulação nacional rigorosa permite desvios comerciais, exploração, e ligações a crime organizado.
+**Contexto:** A Alemanha implementa fiscalização através de documentação obrigatória (§26 KCanG) [@kcang2024], inspecções aleatórias das autoridades regionais, e restrições ao lucro das associações. **Contudo**, Espanha demonstrou que tolerância de clubes sem regulação nacional rigorosa permite desvios comerciais, exploração, e ligações a crime organizado.
 
 **Para evitar repetir o cenário espanhol**, Portugal deve ir além do modelo alemão base, adicionando mecanismos de enforcement específicos ausentes tanto na Alemanha como em Espanha:
 
@@ -488,7 +488,7 @@ Artigo XX — Acesso a Serviços Financeiros
 
 #### 5. Parcerias com Indústria Cannabis Medicinal {#parcerias-medicinal}
 
-**Contexto:** Portugal tem **37 empresas licenciadas** para cannabis medicinal, com infraestrutura, know-how, e excesso de capacidade após queda preços internacionais.
+**Contexto:** Portugal tem **dezenas de empresas licenciadas** para cannabis medicinal, com infraestrutura, know-how, e excesso de capacidade após queda preços internacionais.
 
 **Modelo de parceria:**
 
@@ -534,9 +534,9 @@ Internacionalmente, empresas e associações ligadas à cannabis enfrentam restr
 
 **O problema:**
 
-* **EUA:** Cannabis permanece ilegal federalmente (Schedule I), o que impede bancos federais de oferecer serviços. Resultado: >70% dos negócios de cannabis operam maioritariamente em cash, criando riscos de segurança [@cuna2025]. O SAFE Banking Act, proposto repetidamente desde 2019, ainda não foi aprovado.
+* **EUA:** Cannabis permanece ilegal federalmente (Schedule I), o que impede bancos federais de oferecer serviços. Resultado: os negócios de cannabis operam quase inteiramente em numerário, criando riscos de segurança [@cuna2025]. O SAFE Banking Act, proposto repetidamente desde 2019, ainda não foi aprovado.
 * **Europa:** O risco é menor (sem conflito federal/estadual), mas bancos europeus aplicam frequentemente políticas de *de-risking*, recusando clientes do sector cannabis por receio de compliance com regulação anti-branqueamento.
-* **Reino Unido:** Empresas de CBD e cannabis medicinal reportam recusas sistemáticas de bancos comerciais, recorrendo a cooperativas financeiras como a Co-Op [@healtheuropa2022].
+* **Reino Unido:** Empresas de CBD e cannabis medicinal reportam encerramento de contas por alguns bancos britânicos (p. ex. Metro Bank), com algumas a recorrer à Co-Op [@healtheuropa2022].
 
 **Situação em Portugal:**
 

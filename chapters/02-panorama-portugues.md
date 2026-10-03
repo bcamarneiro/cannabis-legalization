@@ -16,37 +16,36 @@ Portugal transformou-se num polo de produção de cannabis medicinal para export
 | 2023 | 11.973 | \+29% |
 | **2024** | **32.558** | **\+172%** |
 
-Fonte: Infarmed [@prohibition2025], dados 2024: Eco [@cannareporter2025]
+Fonte: Infarmed, via [@prohibition2025] (2023: 11,97 toneladas); dados 2024: ECO [@eco2024]
 
-O setor emprega **37 empresas** autorizadas para cultivo [@cmslaw2024] e **20 empresas** com certificação EU-GMP [@ec2024] (dados de Dezembro 2024).
+O setor tinha **41 empresas** autorizadas para cultivo [@eco2024] e **25 empresas** com certificação EU-GMP [@prohibition2025] (dados de 2025).
 
-Contudo, o mercado interno permanece residual: em 2023, apenas **1.157 prescrições** foram emitidas [@rtp2019], com produtos a custar ~€150 por 15g [@prohibition2017] e **sem comparticipação do SNS [@ribeiro2024]**.
+Contudo, o mercado interno permanece residual: em 2023, apenas **1.157 prescrições** foram emitidas [@prohibition2025], com produtos a custar ~€150 por 15g [@euronews2024] e **sem comparticipação do SNS** [@prohibition2025; @euronews2024].
 
 ### Barreiras ao acesso: por que tão poucas variedades e receitas? {#barreiras-ao-acesso-por-que-tão-poucas-variedades-e-receitas}
 **Poucas variedades disponíveis em Portugal:**
 
 A limitada oferta de cannabis medicinal resulta de múltiplas barreiras regulatórias e económicas:
 
-* **Regulação restritiva:** Requisitos rigorosos de certificação GACP e EU-GMP [@sicad2022]
-* **Burocracia complexa:** O processo de autorização é demorado (2-3 meses em 2025) [@euda2025]
-* **Falta de incentivos:** Mercado interno pequeno (1.157 prescrições/ano) [@open2013] não justifica investimento em diversidade
-* **Enquadramento legal fragmentado:** O CBD encontra-se numa zona cinzenta entre o Infarmed (substância controlada) e a DGAV ("novel food" não autorizado) [@jacobin2023], e o cânhamo industrial (THC\<0,3%) [@renascencalusa2025] tem regulamentação distinta da cannabis medicinal"
+* **Regulação restritiva:** Requisitos rigorosos de certificação GACP e EU-GMP
+* **Burocracia complexa:** O processo de autorização é demorado (mais de 150 empresas aguardavam autorização do Infarmed em 2025 [@eco2024])
+* **Falta de incentivos:** Mercado interno pequeno (1.157 prescrições em 2023) [@prohibition2025] não justifica investimento em diversidade
+* **Enquadramento legal fragmentado:** O CBD encontra-se numa zona cinzenta entre o Infarmed (substância controlada) e a DGAV ("novel food" não autorizado), e o cânhamo industrial (THC\<0,3%) tem regulamentação distinta da cannabis medicinal.
 
 **Dificuldade em obter receitas médicas:**
 
 O acesso legal à cannabis medicinal enfrenta obstáculos significativos:
 
-* **Falta de formação médica:** A cannabis medicinal não é ensinada nas universidades e os médicos carecem de formação [@euda2025a]
-* **Receio profissional:** Médicos não se sentem confortáveis a prescrever por falta de conhecimento [@greenwald2009]
-* **Indicações restritas:** Apenas 7 indicações terapêuticas aprovadas, e só quando outras opções falharam [@drug2023]
-* **Processo burocrático:** Cada prescrição requer que terapêuticas convencionais tenham falhado primeiro [@cannareporter2020]
-* **Custo proibitivo:** ~€150 por 15g sem comparticipação afasta doentes [@drug2024]
-* **Estigma persistente:** Médicos recusam ajudar pacientes apesar de enquadramento legal existir [@national2017]
+* **Falta de formação médica:** Os médicos carecem de formação sobre canabinóides [@euronews2024]
+* **Receio profissional:** Médicos não se sentem confortáveis a prescrever por falta de conhecimento [@euronews2024]
+* **Indicações restritas:** A flor só pode ser prescrita para sete condições específicas, e só quando outros tratamentos falharam [@euronews2024]
+* **Processo burocrático:** Cada prescrição requer que terapêuticas convencionais tenham falhado primeiro [@euronews2024]
+* **Custo proibitivo:** ~€150 por 15g sem comparticipação afasta doentes [@euronews2024]
 
 **Estas barreiras justificam as propostas deste documento de simplificação do acesso e comparticipação pelo SNS.**
 
 ## O mercado negro: a realidade que a proibição não elimina {#o-mercado-negro-a-realidade-que-a-proibição-não-elimina}
-Um estudo de 2024 publicado na ResearchGate estima o mercado ilegal português de cannabis recreativa em **36-58 toneladas anuais** [@torresmoreno2023].
+Um estudo publicado na ResearchGate estima o mercado ilegal português de cannabis recreativa em **36-58 toneladas anuais** [@ribeiro2024] (não foi possível confirmar o texto integral).
 
 **O problema da proibição:** Este mercado negro opera sem qualquer regulação — não verifica idades, não paga impostos, não oferece controlo de qualidade ou potência, e financia redes criminosas. A proibição não elimina o consumo, apenas elimina o controlo.
 
@@ -55,14 +54,14 @@ Um estudo de 2024 publicado na ResearchGate estima o mercado ilegal português d
 ## Prevalência de consumo: abaixo da média europeia {#prevalência-de-consumo-abaixo-da-média-europeia}
 Os dados do V Inquérito Nacional (SICAD, 2022) mostram que Portugal mantém taxas de consumo abaixo da média europeia:
 
-* **Prevalência ao longo da vida (15-64 anos):** 10,5% (PT) [@nugent2017]
-* **Consumo último ano (15-64 anos, dados ~2012–2017):** 2,8% (PT) vs. 8,4% (média UE) [@marconi2016; @di2019]
+* **Prevalência ao longo da vida (15-74 anos):** 10,5% (PT) [@sicad2022]
+* **Consumo último ano (15-74 anos):** ~2% (PT) [@carapinha2024icad]. A comparação com a média da UE carece de fonte verificada neste documento
 
-**Dado preocupante:** O consumo de risco elevado entre jovens 15-24 anos aumentou de 0,2% (2012) para 1,3% (2022), medido pelo Cannabis Abuse Screening Test (CAST) [@leung2020].
+**Dado relevante:** O consumo de risco moderado/elevado em 15-34 anos, medido pelo Cannabis Abuse Screening Test (CAST), manteve-se em 1,3% entre 2012 e 2022 [@carapinha2024icad].
 
 ### Consumo problemático: novos dados ICAD 2024 {#consumo-problemático-novos-dados-icad-2024}
 
-Um estudo recente do Instituto para os Comportamentos Aditivos e as Dependências (ICAD, 2024) fornece dados actualizados sobre padrões de consumo problemático em Portugal [@carapinha2024icad; @observador2026cannabis]:
+Um estudo recente do Instituto para os Comportamentos Aditivos e as Dependências (ICAD, 2025) fornece dados actualizados sobre padrões de consumo problemático em Portugal [@carapinha2024icad; @observador2026cannabis]:
 
 **População geral (15-74 anos):**
 
@@ -89,7 +88,7 @@ Um estudo recente do Instituto para os Comportamentos Aditivos e as Dependência
 
 **Explicação dos padrões — vulnerabilidade e trauma:**
 
-A coordenadora do estudo, Ludmila Carapinha, explica que "raparigas já em trajectórias desviantes ou situações vulneráveis carregam maior peso de factores de risco, nomeadamente experiências de trauma comparadas aos rapazes" [@observador2026cannabis].
+A coordenadora do estudo, Ludmila Carapinha, explicou ao Público, segundo o Observador, que "as raparigas que já têm um percurso desviante ou que se encontram em situações de vulnerabilidade apresentam uma maior sobrecarga de fatores de risco, nomeadamente associada a experiências e situações de trauma face aos rapazes" [@observador2026cannabis].
 
 **Implicações para a regulação proposta:**
 
@@ -100,16 +99,16 @@ Estes dados reforçam a necessidade de:
 3. **Harm reduction direccionado:** Sistema de clubes com Oficial de Prevenção pode identificar padrões problemáticos precocemente e referenciar para tratamento — algo impossível no mercado negro actual
 4. **Protecção de jovens vulneráveis:** Idade mínima 21 anos (18-20 com restrições) e limites mensais previnem escalada de frequência — particularmente crítico para populações de risco
 
-**Contexto importante:** Este aumento de 6,5x no consumo de risco juvenil (0,2% → 1,3%) [@transform2020] ocorreu durante o período de **desinvestimento drástico nos serviços de prevenção e tratamento**: em 2012, o financiamento foi cortado de €76 milhões para €16 milhões (-79%) [@tax2024; @nutt2010], o IDT foi extinto e substituído pelo SICAD, e o tempo de espera para tratamento passou de 4 horas para 1 ano [@rogeberg2019]. Em 2025, o coordenador nacional João Goulão confirmou que o orçamento actual continua inferior ao de antes de 2012 [@bundesministerium2024]. **A proibição não impediu este aumento; regulação permitiria controlo de potência e programas de prevenção adequadamente financiados.**
+**Contexto importante:** O consumo de risco moderado/elevado em 15-34 anos manteve-se estável (1,3%) entre 2012 e 2022 [@carapinha2024icad], período que coincidiu com **desinvestimento nos serviços de prevenção e tratamento**: após os cortes orçamentais da austeridade, o IDT foi extinto e integrado no SICAD [@transform2016pt; @open2013]. **A proibição não eliminou o consumo de risco; regulação permitiria controlo de potência e programas de prevenção adequadamente financiados.**
 
 ## A descriminalização de 2001: resultados comprovados {#a-descriminalização-de-2001-resultados-comprovados}
 A Lei 30/2000 descriminalizou o consumo pessoal. Os resultados em 25 anos são notáveis:
 
-* **Mortes por overdose:** de 369 (1999) para ~80/ano (10 por milhão vs. 22 média UE) [@bessergrowen2025]
-* **HIV relacionado com drogas:** de 907 novos diagnósticos (2000) para 18 (2017) — redução de ~98% [@manthey2024]
-* **População prisional por drogas:** de 44% (1999) para 15,7% (2019) — abaixo da média europeia de 18% [@businesscannabis2025a]
+* **Mortes por overdose:** 6 por milhão (15-64 anos, 2019) vs. 23,7 de média UE [@transform2016pt]
+* **HIV relacionado com drogas injectadas:** de 1.287 novos diagnósticos (2001) para 16 (2019) — redução de mais de 98% [@transform2016pt]
+* **População prisional condenada por drogas:** de mais de 40% (2001) para 15,7% (2019) — abaixo da média europeia de 18% [@transform2016pt]
 
-*O Cato Institute (2009) classificou o modelo como "sucesso retumbante por praticamente todas as métricas"* [@marijuanamoment2025].
+*Greenwald, num estudo para o Cato Institute (2009), classificou o modelo como "sucesso retumbante por praticamente todas as métricas"* [@greenwald2009].
 
 **Conclusões a retirar de 25 anos de descriminalização:**
 
@@ -117,32 +116,29 @@ A Lei 30/2000 descriminalizou o consumo pessoal. Os resultados em 25 anos são n
 
 Os dados comprovam que tratar consumo como questão de saúde (e não criminal) salva vidas:
 
-* Redução de 98% nos diagnósticos de HIV relacionado com drogas [@internationalcbc2025]
-* Mortes por overdose caíram significativamente [@businesscannabis2025b]
-* Portugal tem agora uma das taxas mais baixas de mortalidade por drogas na Europa (10 por milhão vs. 22 média UE) [@mmjdaily2025]
-* **Consumo não aumentou após descriminalização** — Portugal mantém taxas abaixo da média europeia (8,2% vs 8,3% UE, último ano, dados 2022) [@euda2024cannabis] (nota: a diferença face aos 2,8% do período anterior reflecte alterações metodológicas nos inquéritos do SICAD/EMCDDA, incluindo maior abrangência amostral e revisão dos critérios de reporte, não necessariamente um aumento real proporcional do consumo). **Nota metodológica:** Impossível provar causalidade (múltiplos factores confundidos: tendências europeias, mudanças culturais, políticas prevenção). A conclusão defensável é que a descriminalização **não causou a epidemia temida** pelos opositores [@greenwald2009; @springer2021pt]
+* Redução de mais de 98% nos diagnósticos de HIV relacionado com drogas injectadas [@transform2016pt]
+* Consumo e mortes por drogas na população geral situam-se muito abaixo da média europeia [@transform2016pt]
+* Portugal tem agora uma das taxas mais baixas de mortalidade por drogas na Europa (6 por milhão vs. 23,7 média UE, 2019) [@transform2016pt]
+* **Consumo não aumentou após descriminalização** — Portugal mantém taxas de consumo abaixo da média europeia [@transform2016pt]. **Nota metodológica:** Impossível provar causalidade (múltiplos factores confundidos: tendências europeias, mudanças culturais, políticas prevenção). A conclusão defensável é que a descriminalização **não causou a epidemia temida** pelos opositores [@greenwald2009; @springer2021pt] (Greenwald cobre cerca de oito anos de dados e é um documento de política pública, não revisto por pares)
 
 **2\. O sistema judicial tornou-se mais eficaz e humano**
 
 Retirar utilizadores do sistema penal libertou recursos e reduziu pressão sobre prisões:
 
-* População prisional por drogas: 44% (1999) → 15,7% (2019) [@cbcnews2025]
-* Menor estigma facilita procura de ajuda — 45% dos dependentes de heroína procuraram tratamento após 2001 [@insolvency2025]
-* Abordagem não-punitiva das CDTs promove acesso a tratamento em vez de punição [@cdays2025]
+* População prisional condenada por drogas: mais de 40% (2001) → 15,7% (2019) [@transform2016pt]
+* Abordagem não-punitiva das CDTs promove acesso a tratamento em vez de punição
 
 **3\. O modelo requer financiamento sustentado para funcionar**
 
-**Lição crítica:** O desinvestimento durante o período de austeridade (2012-2021) mostrou a fragilidade do modelo [@latinamerica2024; @softsecrets2025; @tni2018]:
+**Lição crítica:** O desinvestimento durante o período de austeridade mostrou a fragilidade do modelo [@transform2016pt; @open2013]:
 
-* Corte de financiamento de €76M para €16M (-79%) [@transform2018]
-* Serviços de proximidade (equipas de rua) subcontratados a ONGs com menos recursos [@hightimes2024]
-* Consequência: overdoses aumentaram 29% em 2021 (63→81 mortes) [@cdphe2024]
-* **O sucesso não é automático** — depende de investimento contínuo [@marijuanapolicy2025]
+* Cortes no financiamento após 2009 [@transform2016pt]
+* **O sucesso não é automático** — depende de investimento contínuo
 
 **Implicação política para o debate sobre cannabis:**
 
 João Goulão, que coordenou a política portuguesa de drogas e presidia ao SICAD em 2020, defendeu nesse ano a regulação do mercado de cannabis para uso recreativo: "o mercado livre é o que temos agora". Argumentou que regular permitiria ter "evidência sólida" sobre urgências hospitalares, pedidos de ajuda e acidentes [@cannareporter2020]. Não é um apoio sem reservas: no mesmo debate opôs-se ao autocultivo, por impedir o controlo da concentração e dos contaminantes e a cobrança de impostos, e disse que a situação de então não era tão dramática como a de 2000 [@cannareporter2020].
 
-A experiência internacional confirma esta progressão: nos EUA, 24 estados evoluíram da descriminalização para a legalização regulada, com apoio público a subir de 32% (2006) para 88% (2022) [@pan2021]. Organizações como a Drug Policy Alliance argumentam que "a descriminalização não é suficiente" — não elimina o mercado negro, não gera receitas fiscais, nem permite controlo de qualidade [@publico2023].
+A experiência internacional confirma esta progressão: vários estados dos EUA evoluíram da descriminalização para a legalização regulada. Argumenta-se que a descriminalização, por si só, não é suficiente — não elimina o mercado negro, não gera receitas fiscais, nem permite controlo de qualidade.
 
 A questão já não é "se" abandonar a proibição, mas "como" implementar regulação responsável.

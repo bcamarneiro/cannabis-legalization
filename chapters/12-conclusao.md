@@ -11,7 +11,7 @@ Este documento demonstra que existe uma base sólida de evidência para avançar
 * **Aberta a construir pontes** com outros partidos
 * **Firme no autocultivo** — com regulação através de sementes certificadas
 
-**59% dos portugueses apoiam a legalização regulada** [@hanway2022]. A maioria da população está à frente dos políticos. O LIVRE pode liderar esta mudança.
+Numa sondagem em 8 mercados europeus, **55% dos inquiridos apoiam a venda legal e regulada a maiores de 18 anos** [@hanway2022]; não foi verificada nesta revisão uma sondagem especificamente portuguesa. O LIVRE pode liderar esta mudança.
 
 ## Síntese das Ações Prioritárias {#síntese-das-ações-prioritárias}
 

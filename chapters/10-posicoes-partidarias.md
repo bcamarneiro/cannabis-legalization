@@ -6,13 +6,13 @@
 | PARTIDO | POSIÇÃO | LINHA VERMELHA | PONTO DE CONVERGÊNCIA |
 | :---- | :---- | :---- | :---- |
 | BE | A FAVOR | — | Proposta 2024 modelo alemão [@observador2024] |
-| IL | A FAVOR | Excesso de regulação estatal | Mercado livre, menos regulação [@eco2021] |
+| IL | A FAVOR | Necessidade e vantagens da legalização | Menos intervenção estatal, mercado livre, legalização responsável [@eco2021] |
 | PAN | A FAVOR | — | Venda exclusiva em farmácias; autocultivo até 6 plantas [@pan2021] |
-| PS | DIVIDIDO | Divisão interna; evitar controvérsia | Grupo trabalho 2023 (não concretizado) [@publico2023] |
-| PSD | CONTRA (divisões) | Autocultivo | Moção Baptista Leite 2018; JSD referendou tema (2020) [@publico2018a] |
+| PS | DIVIDIDO | Divisão interna; evitar controvérsia | Grupo de trabalho anunciado em 2023 [@publico2023] |
+| PSD | CONTRA (divisões) | Autocultivo | JSD anunciou referendo interno (planeado para fev. 2020) [@publico2018a] |
 | PCP | CONTRA | Autocultivo | Cannabis medicinal (votou a favor em 2018, sem autocultivo) [@publico2018b] |
 | CDS-PP | CONTRA | Valores conservadores | Segue PSD na coligação AD |
-| CHEGA | FIRMEMENTE CONTRA | Qualquer liberalização | Nenhum — oposição ideológica total [@cannareporter2024b] |
+| CHEGA | FIRMEMENTE CONTRA | Qualquer liberalização | Nenhum; contra a legalização recreativa [@cannareporter2024b] (o fact-check nota que PCP e PSD também votaram contra) |
 | JPP | DESCONHECIDO | — | Partido sem posição pública conhecida |
 
 ### Notas detalhadas sobre posições partidárias {#notas-detalhadas-sobre-posições-partidárias}
@@ -23,11 +23,11 @@ A posição do PS sobre a regulação da cannabis é internamente diversa, com d
 
 - **Legado da Lei 30/2000:** O PS foi responsável pela aprovação da lei que descriminalizou o consumo de drogas em Portugal, considerada internacionalmente como caso de sucesso em política de drogas [@greenwald2009].
 
-- **Juventude Socialista (JS):** A JS tem defendido publicamente a legalização da cannabis desde pelo menos 2019 [@publico2021js]. Em janeiro de 2024, a JS reiterou a sua posição a favor da legalização [@rr2024js]. Miguel Costa Matos, enquanto líder da JS, apelou ao PS para que aproveitasse a maioria absoluta (2022-2024) para avançar com a regulação [@publico2023ps].
+- **Juventude Socialista (JS):** A JS tem defendido publicamente a legalização da cannabis desde pelo menos 2019 [@publico2019js]. Em janeiro de 2024, a JS reiterou a sua posição a favor da legalização [@rr2024js]. Miguel Costa Matos, enquanto líder da JS, apelou ao PS para que aproveitasse a maioria absoluta (2022-2024) para avançar com a regulação, em dezembro de 2022 [@publico2022js].
 
 - **Votações parlamentares:** Vários deputados do PS votaram favoravelmente propostas de legalização da cannabis em 2019, demonstrando que existe abertura interna sobre o tema.
 
-- **Grupo de trabalho 2023:** Em setembro de 2023, Eurico Brilhante Dias, então líder do grupo parlamentar do PS, anunciou a criação de um grupo de trabalho sobre cannabis. O grupo nunca concluiu os seus trabalhos devido à crise política que conduziu a eleições antecipadas em 2024 [@publico2023ps; @ps2023cannabis].
+- **Grupo de trabalho 2023:** Em setembro de 2023, Eurico Brilhante Dias, então líder do grupo parlamentar do PS, anunciou um projeto de resolução para criar um grupo de trabalho sobre cannabis, com proposta legislativa apenas em 2024 [@publico2023ps; @ps2023cannabis]. Não foi verificado nas fontes citadas o desfecho deste grupo.
 
 - **Cannabis medicinal:** O PS votou conjuntamente com PSD e PCP a favor da regulação da cannabis medicinal em 2018 [@publico2018b], demonstrando que existe consenso transversal nesta matéria.
 
@@ -62,7 +62,7 @@ Alemanha desenhou o CanG 2024 como **sistema two-pillar**:
   * **Acordo Schengen** (livre circulação + proibição cannabis = conflict enforcement fronteiras)
   * **Tratados ONU** (1961 Single Convention, 1971 Psychotropic, 1988 Trafficking) incorporados em lei UE
 * **2025:** 49 municípios alemães aplicam pilotos comerciais, todos bloqueados/estagnados
-* **2025:** CDU (conservador) assume governo alemão, reverte progresso Pillar 2 — "likely not coming to fruition" [@businessofcannabis2025pillar2]
+* **2025:** novo governo alemão (CDU/CSU); o futuro do Pillar 2 é incerto (afirmação não verificada) [@businessofcannabis2025pillar2]
 
 **Lição para Portugal:** Clubes sociais não-comerciais (Pillar 1) são **tolerados pela UE**. Venda comercial (Pillar 2) **viola lei UE actual** e requer mudança política europeia.
 
@@ -86,8 +86,8 @@ A proposta inclui diplomacia activa para alterar a interpretação da Comissão 
 
 **1. Coligação informal estados-membros progressistas**
 
-* **Países Baixos:** Piloto Maastricht (10 municípios) iniciado 2023, planeia expansão nacional [@government2023netherlands]
-* **Luxemburgo:** Legalizou autocultivo 2021, estuda venda comercial [@luxembourg2023]
+* **Países Baixos:** Experimento *Wietexperiment* (10 municípios) iniciado em dezembro de 2023, com avaliação final prevista (fonte a confirmar)
+* **Luxemburgo:** Legalizou autocultivo (4 plantas por agregado; em vigor desde 21 jul. 2023; anunciado em 2021); venda comercial não permitida [@luxembourg2023]
 * **Malta:** Legalizou autocultivo + clubes 2021, sem comercialização [@malta2021]
 * **Alemanha (se houver mudança governo):** ~190 clubes operacionais (de 357 aprovados), precedente estabelecido
 
@@ -109,7 +109,7 @@ A proposta inclui diplomacia activa para alterar a interpretação da Comissão 
 **Canadá 2018:**
 * Em desacordo com 3 tratados ONU, segundo o INCB (Single Convention 1961, Psychotropic 1971, Trafficking 1988)
 * INCB criticou publicamente
-* **Resultado:** Trudeau revelou 2024 **"ONU nunca discutiu o tema connosco desde legalização"** [@marijuanamoment2024trudeau]
+* **Resultado:** Trudeau revelou 2024 **"nobody talked to us about this"** (ONU, segundo Trudeau) [@marijuanamoment2024trudeau]
 * **Zero sanções, zero consequências diplomáticas práticas**
 
 **Alemanha 2024:**
@@ -147,7 +147,7 @@ A proposta inclui diplomacia activa para alterar a interpretação da Comissão 
 **Benefícios Fase 2 standalone (sem venda comercial):**
 * Captura estimada 30-45% mercado ilegal (Uruguai misto atingiu ~37% em 10 anos; PT com autocultivo adicional — ver análise gap mercado)
 * ROI projectado de 120-753% via poupanças de enforcement, não receitas fiscais (intervalo largo; pressupostos no capítulo 8)
-* Sem evidência de aumento do consumo juvenil (Colorado -42%, mas tendência nacional similar -38% [@cdphe2024]; Canadá — dados disputados, ver secção [*Impacto no consumo juvenil*](#3.5-impacto-no-consumo-juvenil))
+* Sem evidência de aumento do consumo juvenil (Colorado -42% [@cdphe2024]; Canadá — dados disputados, ver secção [*Impacto no consumo juvenil*](#3.5-impacto-no-consumo-juvenil))
 * Produtos testados vs. mercado negro contaminado (94% das amostras com pesticidas; ver capítulo 8)
 * Redução criminalização (75% processos CDT envolvem cannabis)
 

@@ -17,9 +17,13 @@ Revisão de todas as citações (`[@chave]`) contra as fontes, feita em 2026-10-
 - 5 citações sem entrada na bibliografia retiradas do capítulo 04 (`casey2019`, `bbrfoundation2023`, `frontiers2025cannabis`, `utdallas2023`, `pmc2013adolescent`); as afirmações ficam sem fonte até se encontrar uma verificável (o artigo de Casey et al. 2019 proposto pelo auditor não foi confirmado).
 - Capítulo 10 (posições partidárias) e citação de Goulão no capítulo 02, corrigidos antes desta auditoria.
 
+## Seguimento (2026-10-04)
+
+Todas as citações não apoiadas e parciais foram tratadas no texto dos capítulos (corrigidas, suavizadas ou retiradas). As listas abaixo descrevem o estado **antes** dessa correcção, com números de linha desactualizados. Os pontos que ficaram por decidir estão em `docs/TASKS.md`.
+
 ## O que NÃO foi alterado
 
-Nenhuma afirmação do texto foi reescrita automaticamente. Os problemas abaixo exigem decisão: corrigir o número, trocar a fonte, acrescentar a ressalva ou retirar a afirmação. As correcções de metadados que o auditor propôs sem evidência suficiente também ficaram de fora.
+Na primeira fase nenhuma afirmação do texto foi reescrita automaticamente. Os problemas abaixo exigiam decisão: corrigir o número, trocar a fonte, acrescentar a ressalva ou retirar a afirmação. As correcções de metadados que o auditor propôs sem evidência suficiente também ficaram de fora.
 
 ## Citações não apoiadas pela fonte (193)
 
