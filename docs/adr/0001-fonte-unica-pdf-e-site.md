@@ -1,6 +1,6 @@
 # ADR 0001: Fonte única para PDF, DOCX e site; abertura a contribuições
 
-- Estado: **proposto** (aguarda revisão; nada está implementado)
+- Estado: **aceite; implementado na fase 1 (passos 1 a 5 da ordem de implementação; ver docs/superpowers/plans/2026-10-03-fonte-unica-pdf-e-site.md). Identidade, licença e fase 2 por decidir/fazer**
 - Data: 2026-10-03
 
 ## Contexto
@@ -52,11 +52,11 @@ chapters/*.md + references.bib + assets/diagrams
 
 ## Verificações pendentes antes de implementar
 
-1. O Pandoc não está instalado nesta máquina. Confirmar a versão no CI e localmente: `chunkedhtml` exige 3.0 ou superior.
-2. Teste descartável: o `chunkedhtml` aceita o template e a navegação de que o site precisa?
-3. O que faz o projecto Vercel `cannabis-legalization`; verificar que não lê `build/documento.md`.
-4. Antes de apagar `data/`: confirmar que os números do ICAD já existem nos capítulos.
-5. Garantir que a limpeza do PDF não remove conteúdo que o site deva mostrar.
+1. [resolvida] Pandoc: confirmado 3.12 localmente; o CI instala o do apt e imprime a versão. `require_pandoc` falha abaixo de 3.x.
+2. [resolvida] `chunkedhtml` aceita o template e a navegação do site (ver Notas de implementação).
+3. [**em aberto**] O que faz o projecto Vercel `cannabis-legalization`; verificar que não lê `build/documento.md`. O repo não mostra o que o projecto Vercel lê: tem de ser confirmado no painel do Vercel.
+4. [resolvida, com ressalva] Números do ICAD: o valor 11083 (dimensão da amostra, em `data/raw_icad_stats_initial.json`) não existe nos capítulos; `data/` foi apagado por não ser alegação do documento e fica no histórico git (9c5834e).
+5. [resolvida] A limpeza do PDF (emojis, CO₂) fica só em `build-pdf.sh`; o site e o DOCX não a sofrem.
 
 ## Perguntas em aberto (decisão do Bruno, não de código)
 
@@ -86,3 +86,13 @@ Explorador de modelos, simulador, assistente de contribuição e mapa de clubes 
 5. CI em PRs e publicação no Pages; formulários de Issue; botões nas secções.
 6. Identidade e licença, depois de respondidas as perguntas em aberto.
 7. Fase 2 (formulário e função serverless).
+
+## Notas de implementação
+
+- **Pandoc:** 3.12 na máquina de desenvolvimento; o `chunkedhtml` exige 3.0 ou superior.
+- **`chunkedhtml`:** funciona com template e CSS próprios (`site/`) e produz um zip plano, mas `unzip` no macOS corrompe nomes com acentos, por isso `build-site.sh` extrai com `zipfile` do Python. Resultado: 21 páginas, com Pagefind (`SKIP_PAGEFIND=1` salta a pesquisa).
+- **Vercel:** por verificar. O repo não mostra o que o projecto Vercel lê; confirmar no painel que não depende de `build/documento.md`, que deixou de ser versionado (passa a anexo da release).
+- **Paridade das saídas:** o `.tex` e o DOCX diferem do original só por: remoção de comentários mortos, `# Referências` passar a ser secção (capítulos concatenados com linha em branco) e um nome de marcador interno no DOCX (ID `{#potencial-de-co2}`, escrito à mão porque o PDF reescreve CO₂).
+- **IDs:** 224 títulos com ID explícito; `docs/heading-ids.lock` guarda 248 IDs publicados. O `slugify` segue o do Pandoc (separa por espaços, ignora vazios). Não se encontraram ligações internas partidas.
+- **Por decidir:** governação, contribuições anónimas, licença (o `LICENSE` actual é CC BY-SA 4.0), se `build_state.py` fica (por agora fica) e os diagramas (`assets/diagrams/` não foi alterado). O passo 6 (identidade e licença) e a fase 2 não foram feitos.
+- **Por fazer fora do código:** activar GitHub Pages (Source: GitHub Actions) e criar as etiquetas `triagem`, `correcção`, `proposta`, `contestação` usadas pelos formulários. Os workflows só ficam validados no primeiro run no GitHub.
