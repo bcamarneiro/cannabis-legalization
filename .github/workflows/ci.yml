@@ -49,6 +49,10 @@ jobs:
           BASE_REF: ${{ github.base_ref }}
         run: |
           git fetch --depth=1 origin "$BASE_REF"
+          if ! git cat-file -e "origin/$BASE_REF:docs/heading-ids.lock" 2>/dev/null; then
+            echo "O lock ainda não existe em $BASE_REF: primeira introdução, nada a comparar."
+            exit 0
+          fi
           if ! git diff --quiet "origin/$BASE_REF" -- docs/heading-ids.lock; then
             echo "::error file=docs/heading-ids.lock::docs/heading-ids.lock difere do branch base ($BASE_REF). Só os workflows de release (auto-release.yml / manual-release.yml) podem escrever este ficheiro; reverta as alterações a docs/heading-ids.lock neste PR."
             exit 1
