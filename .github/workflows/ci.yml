@@ -1,0 +1,51 @@
+name: CI
+
+on:
+  pull_request:
+    paths:
+      - 'chapters/**'
+      - 'references.bib'
+      - 'scripts/**'
+      - 'site/**'
+      - 'assets/**'
+      - 'tests/**'
+      - 'ieee.csl'
+      - '.github/workflows/**'
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install Pandoc and LaTeX
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc texlive-xetex texlive-fonts-recommended texlive-latex-extra
+          pandoc --version | head -1
+
+      - name: Verify heading IDs and internal links
+        run: python3 scripts/heading_ids.py check
+
+      - name: Unit tests
+        run: |
+          python3 -m unittest discover -s tests -p 'test_heading_ids.py' -v
+          python3 -m unittest discover -s tests -p 'test_site_actions.py' -v
+
+      - name: Build PDF, DOCX and site
+        run: bash scripts/build.sh pdf docx site
+
+      - name: Site build test
+        run: python3 -m unittest discover -s tests -p 'test_site_build.py' -v
+
+      - name: Upload build for review
+        uses: actions/upload-artifact@v4
+        with:
+          name: build
+          path: |
+            output/*.pdf
+            output/*.docx
+            output/site
