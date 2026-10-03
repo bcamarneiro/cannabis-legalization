@@ -43,6 +43,7 @@ jobs:
 
       - name: Commit version bump and heading lock
         run: |
+          python3 scripts/heading_ids.py check
           python3 scripts/heading_ids.py lock
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
