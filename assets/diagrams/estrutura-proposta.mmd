@@ -1,53 +1,25 @@
-graph TB
-    subgraph prop[" "]
+flowchart LR
+    subgraph P["Pilares: o que se propõe"]
         direction TB
-        titulo["<b>PROPOSTA EM 3 PARTES</b><br/>Independentes mas Complementares"]
+        PM["Medicinal<br/>comparticipação SNS,<br/>prescrição simplificada"]
+        PR["Recreativo<br/>clubes sociais sem fins lucrativos<br/>+ autocultivo (3 plantas)"]
+        PC["Cânhamo industrial<br/>THC &lt; 0,3 %, piloto em 3-5 regiões"]
     end
-
-    subgraph parte1["PARTE I: MEDICINAL"]
+    subgraph F["Fases: quando e em que ordem"]
         direction TB
-        M1["🏥 Alargar Lei 33/2018"]
-        M2["💊 Mais indicações THC"]
-        M3["👨‍⚕️ Formação médicos"]
-        M4["📅 Timeline: 2026"]
-        M1 --> M2 --> M3 --> M4
+        F1["Fase 1 · imediata<br/>cânhamo + revisão medicinal"]
+        F2["Fase 2 · após resultados da Fase 1<br/>clubes + autocultivo, 21+<br/>avaliação de 2-3 anos"]
+        F3["Fase 3 · horizonte condicional<br/>venda comercial regulada<br/>só com dados, UE e nova votação"]
+        F1 --> F2 --> F3
     end
+    PM --> F1
+    PC --> F1
+    PR --> F2
+    PR -. "só se a Fase 2 provar eficácia" .-> F3
 
-    subgraph parte2["PARTE II: USO ADULTO"]
-        direction TB
-        R1["🌱 Pillar 1: Clubes"]
-        R2["📊 Anos 1-3: Implementação"]
-        R3["🔍 Ano 3: Avaliação"]
-        R4{"Pillar 2?"}
-        R5["✅ Venda comercial"]
-        R6["❌ Manter Pillar 1"]
-
-        R1 --> R2 --> R3 --> R4
-        R4 -->|Aprovado| R5
-        R4 -->|Rejeitado| R6
-    end
-
-    subgraph parte3["PARTE III: CÂNHAMO"]
-        direction TB
-        C1["🌾 THC < 0.3%"]
-        C2["🏗️ Construção sustentável"]
-        C3["👕 Têxteis ecológicos"]
-        C4["🔄 Agricultura regenerativa"]
-        C1 --> C2 --> C3 --> C4
-    end
-
-    titulo --> parte1
-    titulo --> parte2
-    titulo --> parte3
-
-    parte1 -.->|Complementar| parte3
-    parte2 -.->|Independente| parte1
-    parte2 -.->|Independente| parte3
-
-    classDef urgent fill:#ff6b6b,stroke:#c92a2a,color:#fff
-    classDef medium fill:#4dabf7,stroke:#1971c2,color:#fff
-    classDef parallel fill:#51cf66,stroke:#2f9e44,color:#fff
-
-    class M1,M2,M3,M4 urgent
-    class R1,R2,R3,R4,R5,R6 medium
-    class C1,C2,C3,C4 parallel
+    classDef pilar fill:#e7f0fa,stroke:#1c5d99,color:#10243a
+    classDef fase fill:#f4f4f4,stroke:#555,color:#222
+    classDef cond fill:#fff6dc,stroke:#a07800,color:#3a2e00,stroke-dasharray:5 3
+    class PM,PR,PC pilar
+    class F1,F2 fase
+    class F3 cond

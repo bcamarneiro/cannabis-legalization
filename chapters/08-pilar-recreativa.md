@@ -736,6 +736,8 @@ A ausência de uma estratégia media pode comprometer a viabilidade política da
 
 Diferentemente de modelos comerciais (Colorado, Canadá), Portugal propõe clubes **sem fins lucrativos** (cost-recovery). Impacto fiscal baseia-se exclusivamente em **poupanças** e **custos**, não em receitas fiscais.
 
+![Balanço fiscal do modelo português. Fase 2: poupança líquida de enforcement de €30-65 M/ano, sem imposto específico sobre cannabis. Fase 3 (condicional e especulativa): cerca de €20 M/ano de receitas fiscais. Valores estimados neste capítulo, sem dados orçamentais do Ministério da Justiça ou da Saúde.](assets/diagrams/balanco-fiscal.png){width=70%}
+
 ##### Situação Actual (2026) — Proibição
 
 | Categoria | Custo Anual Estimado | Fonte |

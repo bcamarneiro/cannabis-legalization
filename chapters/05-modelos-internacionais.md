@@ -8,6 +8,8 @@
 * Compatibilidade com tratados internacionais
 * Abordagem de saúde pública (não comercial)
 
+![Modelo alemão: o Pillar 1 (autocultivo e clubes) está em vigor; o Pillar 2 (venda comercial em cidades-piloto) está bloqueado pelo direito da UE. A Fase 2 portuguesa corresponde ao Pillar 1 e a Fase 3 ao Pillar 2.](assets/diagrams/modelo-alemao-pillars.png){width=100%}
+
 ### Regras principais {#regras-principais}
 | Aspecto | Regra |
 | :---- | :---- |

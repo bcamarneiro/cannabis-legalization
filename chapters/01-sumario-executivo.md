@@ -25,6 +25,8 @@ Este documento propõe que o LIVRE assuma uma posição clara e proactiva sobre 
 
 Os pilares descrevem a substância de cada proposta. As fases descrevem a sequência de implementação. Um pilar pode abranger múltiplas fases (ex: o Medicinal começa na Fase 1 e continua a evoluir). Uma fase contém elementos de múltiplos pilares.
 
+![Os três pilares (o que se propõe) e as três fases (quando e em que ordem). O pilar medicinal e o cânhamo avançam na Fase 1; o recreativo na Fase 2; a venda comercial é um horizonte condicional.](assets/diagrams/estrutura-proposta.png){width=100%}
+
 ### Os três pilares (O QUE) {#os-três-pilares-o-que}
 
 #### Pilar 1: Cannabis Medicinal

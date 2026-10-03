@@ -1,0 +1,16 @@
+flowchart TB
+    subgraph F2["Fase 2 · clubes sem fins lucrativos (base do argumento)"]
+        direction LR
+        S["Poupança líquida de enforcement<br/>€30-65 M/ano"] --> U["Afectação proposta: 50-70 %<br/>a prevenção e tratamento<br/>€20-40 M/ano"]
+        C["Custos regulatórios novos<br/>€10-15 M/ano<br/>(já descontados na poupança líquida)"]
+        R["Receitas fiscais: sem imposto específico<br/>sobre cannabis; IVA de 23 % sobre as quotas"]
+    end
+    subgraph F3["Fase 3 · venda comercial (condicional e especulativo)"]
+        T["Receitas fiscais ≈ €20 M/ano<br/>mercado €100 M × captura 80 % × taxa 25 %"]
+    end
+    F2 -. "só se a Fase 3 avançar" .-> F3
+
+    classDef base fill:#e7f0fa,stroke:#1c5d99,color:#10243a
+    classDef cond fill:#fff6dc,stroke:#a07800,color:#3a2e00,stroke-dasharray:5 3
+    class R,C,S,U base
+    class T cond

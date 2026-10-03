@@ -129,6 +129,8 @@ A proposta segue uma lógica pragmática: **cada fase valida a seguinte**, come�
 
 ## Cronograma Base (Cenário Realista) {#cronograma-base-cenário-realista}
 
+![Cronograma base no cenário realista: Fase 1 em 2026-2027, aprovação do regime de clubes em 2028, clubes licenciados em 2029, avaliação em 2030-2032 e decisão sobre venda comercial em 2033 ou depois.](assets/diagrams/cronograma-implementacao.png){width=100%}
+
 ### Fase 1: Cânhamo Industrial + Revisão Cannabis Medicinal (imediata) {#fase-1-cânhamo-industrial-revisão-cannabis-medicinal-imediata}
 
 | PRAZO | ACÇÃO | CONTINGÊNCIA |

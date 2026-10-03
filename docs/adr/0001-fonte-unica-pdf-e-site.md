@@ -64,7 +64,7 @@ chapters/*.md + references.bib + assets/diagrams
 - Aceitam-se contribuições anónimas ou com pseudónimo?
 - Licença do conteúdo: CC BY-SA, CC BY ou outra?
 - `build_state.py` e o seu teste ficam?
-- Redesenhar os diagramas (cronograma, estrutura, modelo alemão; "poupanças vs custos" no lugar de receitas fiscais) como parte desta mudança ou depois?
+- ~~Redesenhar os diagramas~~ Feito: ver notas de implementação.
 
 ## Fora de âmbito
 
@@ -94,5 +94,6 @@ Explorador de modelos, simulador, assistente de contribuição e mapa de clubes 
 - **Vercel:** por verificar. O repo não mostra o que o projecto Vercel lê; confirmar no painel que não depende de `build/documento.md`, que deixou de ser versionado (passa a anexo da release).
 - **Paridade das saídas:** o `.tex` e o DOCX diferem do original só por: remoção de comentários mortos, `# Referências` passar a ser secção (capítulos concatenados com linha em branco) e um nome de marcador interno no DOCX (ID `{#potencial-de-co2}`, escrito à mão porque o PDF reescreve CO₂).
 - **IDs:** 224 títulos com ID explícito; `docs/heading-ids.lock` guarda 248 IDs publicados. O `slugify` segue o do Pandoc (separa por espaços, ignora vazios). Não se encontraram ligações internas partidas.
-- **Por decidir:** governação, contribuições anónimas, licença (o `LICENSE` actual é CC BY-SA 4.0), se `build_state.py` fica (por agora fica) e os diagramas (`assets/diagrams/` não foi alterado). O passo 6 (identidade e licença) e a fase 2 não foram feitos.
+- **Por decidir:** governação, contribuições anónimas, licença (o `LICENSE` actual é CC BY-SA 4.0), se `build_state.py` fica (por agora fica). O passo 6 (identidade e licença) e a fase 2 não foram feitos.
 - **Por fazer fora do código:** activar GitHub Pages (Source: GitHub Actions) e criar as etiquetas `triagem`, `correcção`, `proposta`, `contestação` usadas pelos formulários. Os workflows só ficam validados no primeiro run no GitHub.
+- **Diagramas (feito):** os 4 foram redesenhados a partir dos capítulos 01, 05, 08 e 11 e embebidos neles. `receitas-fiscais` passou a `balanco-fiscal` (poupança líquida na Fase 2; receitas só como Fase 3 especulativa); emojis removidos; `mermaid-config.json` e README novos. O PDF não foi compilado neste ambiente (falta `pdflatex`); DOCX e site foram verificados.
