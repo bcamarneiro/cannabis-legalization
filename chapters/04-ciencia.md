@@ -59,16 +59,16 @@ O estudo EU-GEI 2019 demonstra que o risco elevado de psicose (OR 4,8) requer a 
 
 ### Idade 21 vs. Desenvolvimento Cerebral até 25 — Transparência sobre Trade-offs {#idade-21-vs-25}
 
-**A questão legítima:** A neurociência demonstra que o córtex pré-frontal continua a desenvolver-se até aproximadamente 25 anos [@casey2019]. Se o objectivo é proteger o cérebro em desenvolvimento, porque estabelecer limites aos 21 e não aos 25?
+**A questão legítima:** A neurociência demonstra que o córtex pré-frontal continua a desenvolver-se até aproximadamente 25 anos. Se o objectivo é proteger o cérebro em desenvolvimento, porque estabelecer limites aos 21 e não aos 25?
 
 **Evidência científica sobre desenvolvimento cerebral e cannabis:**
 
-1. **Maturação pré-frontal:** O córtex pré-frontal — responsável por julgamento, tomada de decisão, controlo de impulsos — é uma das últimas áreas cerebrais a maturar completamente, tipicamente entre 23-26 anos [@casey2019; @bbrfoundation2023]
+1. **Maturação pré-frontal:** O córtex pré-frontal — responsável por julgamento, tomada de decisão, controlo de impulsos — é uma das últimas áreas cerebrais a maturar completamente, tipicamente entre 23-26 anos
 
 2. **Cannabis e córtex pré-frontal:** Estudos de neuroimagem encontram associações entre uso regular de cannabis na adolescência/juventude e:
-   - Volumes reduzidos no córtex pré-frontal [@frontiers2025cannabis]
-   - Atraso na maturação cortical em início precoce (<16 anos) [@utdallas2023]
-   - Alterações funcionais em tarefas de memória de trabalho [@pmc2013adolescent]
+   - Volumes reduzidos no córtex pré-frontal
+   - Atraso na maturação cortical em início precoce (<16 anos)
+   - Alterações funcionais em tarefas de memória de trabalho
 
 3. **Janela crítica mais precoce:** A evidência mais robusta de dano associa-se a início **antes dos 18 anos** e uso pesado/diário. Estudos como Meier et al. (2012) encontraram declínio cognitivo persistente em utilizadores com início adolescente (<18), mas não em utilizadores com início adulto [@meier2012]
 

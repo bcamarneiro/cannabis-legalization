@@ -156,7 +156,9 @@ Todas as tarefas BAIXA concluídas.
 
 - [ ] `chapters/02-panorama-portugues.md`: "24 estados dos EUA... 32% (2006) para 88% (2022)" cita `[@pan2021]` (página do PAN, que não conseguimos abrir) e a citação da Drug Policy Alliance ("a descriminalização não é suficiente") cita `[@publico2023]`, que é sobre o debate do PS e não a menciona. Encontrar a fonte certa ou retirar.
 - [ ] Muitas entradas de `references.bib` têm `title = {Sem título}` (ex.: `observador2024`, `eco2021`, `pan2021`, `publico2023`). Preencher título e autor e verificar que cada afirmação está mesmo na fonte citada.
-- [ ] Verificar o resto do bib contra a fonte primária (DOI/Crossref). Já se encontrou um erro de autoria (`springer2021pt`).
+- [ ] **Decidir sobre as citações não apoiadas e parciais** listadas em [auditoria-citacoes.md](auditoria-citacoes.md): 193 não apoiadas e 254 parciais em 608. Prioridade: números e estatísticas (ROI, quota de mercado, uso juvenil, mercado ilegal no Canadá, Tailândia), depois afirmações sem ressalva.
+- [ ] Afirmações do capítulo 04 sobre maturação pré-frontal (até aos 25 anos) ficaram sem fonte: encontrar e verificar uma (a candidata `casey2019` não foi confirmada).
+- [ ] 12 entradas com `title = {Sem título}` e 71 entradas não citadas no bib: preencher ou apagar.
 - [ ] O Goulão opõe-se ao autocultivo (`cannareporter2020`) e a proposta defende 3 plantas: tratar a objecção nos capítulos 8 e 10.
 
 ## ✅ CONCLUÍDAS
