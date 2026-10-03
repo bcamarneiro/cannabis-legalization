@@ -20,11 +20,18 @@ local function add_actions(h)
     return nil
   end
   local id = h.identifier
+  local enc = urlencode(id)
+  local function issue(template, label)
+    return string.format(
+      '<a href="https://github.com/%s/issues/new?template=%s&section=%s">%s</a>',
+      repo, template, enc, label)
+  end
   local links = {
     string.format('<a class="permalink" href="#%s">Ligação</a>', id),
-    string.format(
-      '<a href="https://github.com/%s/issues/new?template=propor-alteracao.yml&section=%s">Levantar questão</a>',
-      repo, urlencode(id)),
+    '<span class="issue-label">Levantar questão:</span>',
+    issue("corrigir-erro-ou-fonte.yml", "Corrigir erro"),
+    issue("propor-alteracao.yml", "Propor alteração"),
+    issue("contestar-argumento.yml", "Contestar"),
   }
   if map[id] then
     table.insert(links, string.format(

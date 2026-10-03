@@ -22,7 +22,8 @@ class SectionActionsTest(unittest.TestCase):
         html = self.render("## Riscos {#riscos}\n\ntexto\n", {"riscos": "chapters/02-ciencia.md"})
         self.assertIn('class="section-actions"', html)
         self.assertIn('href="#riscos"', html)
-        self.assertIn("https://github.com/dono/repo/issues/new?template=propor-alteracao.yml&section=riscos", html)
+        for template in ("corrigir-erro-ou-fonte.yml", "propor-alteracao.yml", "contestar-argumento.yml"):
+            self.assertIn(f"https://github.com/dono/repo/issues/new?template={template}&section=riscos", html)
         self.assertIn("https://github.com/dono/repo/edit/main/chapters/02-ciencia.md", html)
 
     def test_ids_with_accents_and_dots_are_percent_encoded(self):
@@ -30,7 +31,9 @@ class SectionActionsTest(unittest.TestCase):
             "## Estratégia {#5.5-estratégia-de-negociação}\n",
             {"5.5-estratégia-de-negociação": "chapters/10-politica.md"},
         )
-        self.assertIn("section=5.5-estrat%C3%A9gia-de-negocia%C3%A7%C3%A3o", html)
+        encoded = "5.5-estrat%C3%A9gia-de-negocia%C3%A7%C3%A3o"
+        for template in ("corrigir-erro-ou-fonte.yml", "propor-alteracao.yml", "contestar-argumento.yml"):
+            self.assertIn(f"template={template}&section={encoded}", html)
         self.assertNotIn("section=5.5-estratégia", html)
 
     def test_level4_and_headings_without_map_entry_get_no_edit_link(self):

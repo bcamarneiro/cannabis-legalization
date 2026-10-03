@@ -82,8 +82,9 @@ jobs:
             ${{ github.event.inputs.release_notes != '' && format('### 📝 Notas da Release\n\n{0}\n', github.event.inputs.release_notes) || '' }}
 
             ### 📦 Ficheiros disponíveis:
-            - 📄 `documento.pdf` - Versão PDF completa
-            - 📝 `documento.docx` - Versão Word editável
+            - 📄 `Regulacao_Cannabis_Portugal.pdf` - Versão PDF completa
+            - 📝 `Regulacao_Cannabis_Portugal.docx` - Versão Word editável
+            - 🧾 `documento.md` - Texto fonte concatenado (Markdown)
 
             ### 🔗 Links úteis:
             - [Ver documento fonte](../../tree/main/chapters)

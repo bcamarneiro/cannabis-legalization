@@ -83,8 +83,9 @@ jobs:
             ```
 
             ### 📦 Ficheiros disponíveis:
-            - 📄 `documento.pdf` - Versão PDF completa
-            - 📝 `documento.docx` - Versão Word editável
+            - 📄 `Regulacao_Cannabis_Portugal.pdf` - Versão PDF completa
+            - 📝 `Regulacao_Cannabis_Portugal.docx` - Versão Word editável
+            - 🧾 `documento.md` - Texto fonte concatenado (Markdown)
 
             ### 🔗 Links úteis:
             - [Ver alterações desde última release](../../compare/${{ github.event.before }}...${{ github.sha }})

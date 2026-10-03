@@ -11,6 +11,7 @@ on:
       - 'tests/**'
       - 'ieee.csl'
       - '.github/workflows/**'
+      - 'docs/heading-ids.lock'
 
 permissions:
   contents: read
@@ -27,19 +28,26 @@ jobs:
           sudo apt-get install -y pandoc texlive-xetex texlive-fonts-recommended texlive-latex-extra
           pandoc --version | head -1
 
+      - name: Guard published-ID lock (only release workflows may change it)
+        env:
+          BASE_REF: ${{ github.base_ref }}
+        run: |
+          git fetch --depth=1 origin "$BASE_REF"
+          if ! git diff --quiet "origin/$BASE_REF" -- docs/heading-ids.lock; then
+            echo "::error file=docs/heading-ids.lock::docs/heading-ids.lock difere do branch base ($BASE_REF). Só os workflows de release (auto-release.yml / manual-release.yml) podem escrever este ficheiro; reverta as alterações a docs/heading-ids.lock neste PR."
+            exit 1
+          fi
+
       - name: Verify heading IDs and internal links
         run: python3 scripts/heading_ids.py check
 
       - name: Unit tests
-        run: |
-          python3 -m unittest discover -s tests -p 'test_heading_ids.py' -v
-          python3 -m unittest discover -s tests -p 'test_site_actions.py' -v
+        run: python3 -m unittest discover -s tests -v
 
       - name: Build PDF, DOCX and site
+        env:
+          SKIP_PAGEFIND: '1'
         run: bash scripts/build.sh pdf docx site
-
-      - name: Site build test
-        run: python3 -m unittest discover -s tests -p 'test_site_build.py' -v
 
       - name: Upload build for review
         uses: actions/upload-artifact@v4
