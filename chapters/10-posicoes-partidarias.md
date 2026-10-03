@@ -68,28 +68,28 @@ Alemanha desenhou o CanG 2024 como **sistema two-pillar**:
 
 ### Diferença Estratégia Portugal vs Alemanha {#diferença-estratégia-portugal-vs-alemanha}
 
-**Alemanha errou ao prometer Pillar 2 sem garantir coordenação UE primeiro.** Portugal adopta abordagem diferente:
+O desenho alemão avançou o Pillar 2 sem garantir primeiro a coordenação europeia. A proposta portuguesa segue outra abordagem:
 
 | Aspecto | Alemanha CanG 2024 | Portugal Proposta 2026 |
 | :---- | :---- | :---- |
-| **Pillar 1 (clubes)** | ✅ Implementado, 190+ clubes operacionais | ✅ **Prioritário, viável agora** |
-| **Pillar 2 (comercial)** | ❌ Prometido mas bloqueado UE | ⚠️ **Condicional, honestidade com eleitores** |
+| **Pillar 1 (clubes)** | Implementado; ~190 operacionais de 357 aprovados (nov. 2025) | **Prioritário, viável agora** |
+| **Pillar 2 (comercial)** | Prometido mas bloqueado pela UE | **Condicional; sem promessas aos eleitores** |
 | **Timeline comercial** | Prometido 2024-2025 (falhou) | **Sem promessas firmes** — depende coordenação EU |
 | **Viabilidade standalone** | Pillar 1 visto como "temporário" | **Pillar 1 atinge objectivos principais** (harm reduction, captura estimada 30-45% mercado — sujeita a validação) |
 | **Risco político** | Reversão CDU 2025 matou Pillar 2 | **Implementação completa Pillar 1 minimiza risco** reversão |
 
-**Vantagem estratégica Portugal:** Não comprometer credibilidade política com promessas dependentes de factores externos (mudança lei UE). Clubes standalone (Fase 2) já entregam ROI 120-753%, captura estimada 30-50% mercado (ver [análise *gap de mercado*](#gap-mercado)), sem evidência de aumento do consumo juvenil nas jurisdições comparáveis.
+**Vantagem estratégica Portugal:** Não comprometer credibilidade política com promessas dependentes de factores externos (mudança lei UE). Clubes standalone (Fase 2) têm ROI projectado de 120-753% (intervalo largo, com pressupostos no capítulo 8), captura estimada 30-45% mercado (ver [análise *gap de mercado*](#gap-mercado)), sem evidência de aumento do consumo juvenil nas jurisdições comparáveis.
 
 ### Estratégia Multilateral: Trabalhar para Mudança Política Europeia {#estratégia-multilateral-trabalhar-para-mudança-política-europeia}
 
-**Portugal não aceita bloqueio UE passivamente.** Proposta inclui diplomacia activa para alterar interpretação Comissão Europeia:
+A proposta inclui diplomacia activa para alterar a interpretação da Comissão Europeia:
 
 **1. Coligação informal estados-membros progressistas**
 
 * **Países Baixos:** Piloto Maastricht (10 municípios) iniciado 2023, planeia expansão nacional [@government2023netherlands]
 * **Luxemburgo:** Legalizou autocultivo 2021, estuda venda comercial [@luxembourg2023]
 * **Malta:** Legalizou autocultivo + clubes 2021, sem comercialização [@malta2021]
-* **Alemanha (se houver mudança governo):** 190+ clubes operacionais, precedente estabelecido
+* **Alemanha (se houver mudança governo):** ~190 clubes operacionais (de 357 aprovados), precedente estabelecido
 
 **Objectivo:** Coordenar lobby conjunto na Comissão Europeia para reinterpretar Schengen — argumentar que venda comercial **regulada harmonizada** (padrões comuns UE) **não viola** livre circulação, análogo a tabaco/álcool.
 
@@ -102,20 +102,20 @@ Alemanha desenhou o CanG 2024 como **sistema two-pillar**:
 * **Eutanásia:** Legal Países Baixos/Bélgica/Luxemburgo, ilegal resto UE — sem conflito Schengen
 * **Tabaco/álcool:** Impostos divergentes (€1-10/maço cigarros entre estados), idades mínimas divergentes — harmonização **não é obrigatória**
 
-**Por que cannabis seria tratada diferente?** Comissão argumenta tratados ONU via Schengen, mas **tratados são recomendações sem enforcement** (ver Canadá violou 3 tratados, zero consequências).
+**Por que cannabis seria tratada diferente?** Comissão argumenta tratados ONU via Schengen, mas os tratados ONU são vinculativos mas não têm mecanismo coercivo: a consequência tem sido política, não sancionatória (ver o caso canadiano, sem sanções).
 
 **3. Precedente tratados ONU: Críticas sem enforcement**
 
 **Canadá 2018:**
-* Violou 3 tratados ONU (Single Convention 1961, Psychotropic 1971, Trafficking 1988)
+* Em desacordo com 3 tratados ONU, segundo o INCB (Single Convention 1961, Psychotropic 1971, Trafficking 1988)
 * INCB criticou publicamente
 * **Resultado:** Trudeau revelou 2024 **"ONU nunca discutiu o tema connosco desde legalização"** [@marijuanamoment2024trudeau]
 * **Zero sanções, zero consequências diplomáticas práticas**
 
 **Alemanha 2024:**
-* Violou mesmos tratados (Pillar 1 autocultivo + clubes)
+* Em desacordo com os mesmos tratados, segundo o INCB (Pillar 1 autocultivo + clubes)
 * INCB criticou
-* **Resultado:** Zero enforcement, 190+ clubes operacionais
+* **Resultado:** Sem sanções; ~190 clubes operacionais de 357 aprovados
 
 **Conclusão:** Tratados ONU produzem críticas mas **não impedem legalização**. Obstáculo real é interpretação Comissão Europeia de Schengen, não tratados internacionais.
 
@@ -140,23 +140,23 @@ Alemanha desenhou o CanG 2024 como **sistema two-pillar**:
 
 **Portugal deve ser explícito com eleitores e decisores políticos:**
 
-* ✅ **Fase 2 (clubes não-comerciais + autocultivo) é viável após Fase 1** — modelo alemão funciona, UE tolera, objectivos harm reduction atingidos
-* ⚠️ **Fase 3 (venda comercial regulada) depende factores externos** — coordenação UE, mudança política europeia, timeline 5-10+ anos
-* ❌ **Fase 3 pode nunca acontecer** — se UE mantém bloqueio, Portugal aceita clubes standalone como solução permanente
+* **Fase 2 (clubes não-comerciais + autocultivo) é viável após Fase 1** — modelo alemão funciona, UE tolera, objectivos harm reduction atingidos
+* **Fase 3 (venda comercial regulada) depende factores externos** — coordenação UE, mudança política europeia, timeline 5-10+ anos
+* **Fase 3 pode nunca acontecer** — se UE mantém bloqueio, Portugal aceita clubes standalone como solução permanente
 
 **Benefícios Fase 2 standalone (sem venda comercial):**
 * Captura estimada 30-45% mercado ilegal (Uruguai misto atingiu ~37% em 10 anos; PT com autocultivo adicional — ver análise gap mercado)
-* ROI 120-753% via poupanças enforcement (não receitas fiscais)
-* Sem evidência de aumento do consumo juvenil (Colorado -42%, mas tendência nacional similar -38%; Canadá — dados disputados, ver secção [*Impacto no consumo juvenil*](#3.5-impacto-no-consumo-juvenil))
-* Produtos testados vs. mercado negro contaminado (94% pesticidas)
+* ROI projectado de 120-753% via poupanças de enforcement, não receitas fiscais (intervalo largo; pressupostos no capítulo 8)
+* Sem evidência de aumento do consumo juvenil (Colorado -42%, mas tendência nacional similar -38% [@cdphe2024]; Canadá — dados disputados, ver secção [*Impacto no consumo juvenil*](#3.5-impacto-no-consumo-juvenil))
+* Produtos testados vs. mercado negro contaminado (94% das amostras com pesticidas; ver capítulo 8)
 * Redução criminalização (75% processos CDT envolvem cannabis)
 
 **Fase 3 adiciona mas não essencial:**
 * Captura 70-95% mercado ilegal (dados Canadá comercial)
-* Receitas fiscais ~€50-150M/ano (se impostos similares Colorado/Canadá)
+* Receitas fiscais de cerca de €20M/ano (estimativa especulativa do capítulo 8: mercado de €100M × captura de 80% × taxa de 25%)
 * **MAS objectivos harm reduction principais já atingidos Fase 2**
 
-**Esta transparência maximiza credibilidade:** LIVRE não promete o que não pode garantir. Fase comercial é ambição condicional, não promessa firme.
+**Esta transparência protege a credibilidade:** a proposta não promete o que não pode garantir. A fase comercial é uma ambição condicional, não uma promessa firme.
 
 ### Posição LIVRE na Assembleia/Comunicação Pública {#posição-livre-na-assembleiacomunicação-pública}
 
@@ -164,5 +164,5 @@ Alemanha desenhou o CanG 2024 como **sistema two-pillar**:
 
 *"A proposta segue uma estratégia em três fases. **Fase 1 — cânhamo industrial + revisão cannabis medicinal** — é consensual e avança imediatamente. **Fase 2 — clubes sociais não-comerciais + autocultivo** — é nossa prioridade no recreativo e é viável após Fase 1 demonstrar resultados. **Fase 3 — possível venda comercial regulada** — é um horizonte condicional que depende de três condições: (1) dados do modelo de clubes 2029-2032 mostrarem eficácia, (2) coordenação europeia resolver conflitos lei UE/Schengen, (3) renovação aprovação parlamentar. **Fase 3 pode nunca acontecer** se obstáculos legais UE persistirem. Mas mesmo sem Fase 3, clubes standalone (Fase 2) já atingem objectivos principais: proteger quem consome, reduzir mercado negro, acabar criminalização utilizadores ocasionais. Cada fase valida a seguinte — e os ganhos de cada fase são permanentes, independentemente de a próxima avançar."*
 
-**Mensagem-chave:** **Honestidade > promessas inflacionadas.** Modelo clubes funciona standalone, venda comercial é bonus condicional.
+**Mensagem-chave:** o modelo de clubes funciona sem venda comercial; a venda comercial é um extra condicional.
 
