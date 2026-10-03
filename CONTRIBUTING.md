@@ -30,10 +30,9 @@ Há três formulários de Issue: corrigir erro ou fonte, propor alteração, con
 
 - Toda a alteração factual traz fonte, acrescentada a `references.bib` e citada como `[@chave]`.
 - Não mudes IDs de secção já publicados (o CI falha).
-- **Quem integra:** por agora, o Bruno Camarneiro é o único maintainer. Cada PR precisa de uma segunda pessoa a rever. Alterações factuais sem fonte não são integradas. Quando houver contribuidores recorrentes, convidam-se co-maintainers, com prioridade para direito e economia.
+- **Quem integra:** por agora, o Bruno Camarneiro é o único maintainer. Quando existirem co-maintainers, cada PR precisa de uma segunda pessoa a rever. Alterações factuais sem fonte não são integradas. Quando houver contribuidores recorrentes, convidam-se co-maintainers, com prioridade para direito e economia.
 - **Licença:** o conteúdo é CC BY-SA 4.0 (ver `LICENSE`).
-- **Identidade:** o CI recusa PRs com commits sem `Signed-off-by`.
-- **Identidade (regra):** quem altera o texto (Pull Request) assina com o nome real, no autor do commit e com `Signed-off-by` (`git commit -s`), e aparece na lista de contribuidores. O histórico do git é público e permanente: só contribuis com nome se estiveres de acordo com isso.
+- **Identidade:** o CI recusa PRs com commits sem `Signed-off-by`. Quem altera o texto (Pull Request) assina com o nome real, no autor do commit e com `Signed-off-by` (`git commit -s`), e aparece na lista de contribuidores. O histórico do git é público e permanente: só contribuis com nome se estiveres de acordo com isso.
 - **Questões e sugestões (Issues):** ficam públicas e podem ser feitas com a conta GitHub, incluindo sob pseudónimo. Não contam como apoio ao documento.
 - **Apoio público ao documento:** só conta com nome e cara.
 - O nome real não é verificado; é uma regra de honestidade, não um controlo técnico.
