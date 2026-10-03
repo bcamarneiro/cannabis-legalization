@@ -30,7 +30,7 @@ Há três formulários de Issue: corrigir erro ou fonte, propor alteração, con
 
 - Toda a alteração factual traz fonte, acrescentada a `references.bib` e citada como `[@chave]`.
 - Não mudes IDs de secção já publicados (o CI falha).
-- As propostas e contestações ficam públicas; podes usar pseudónimo.
+- As propostas e contestações ficam públicas. Contribuições com pseudónimo ou anónimas: política por decidir.
 
 ## Escolher uma tarefa
 
