@@ -1,16 +1,16 @@
 \newpage
 
-# PARTE II — PROPOSTA
+# PARTE II — PROPOSTA {#parte-ii-proposta}
 
 \newpage
 
-# PRINCÍPIOS ORIENTADORES: Porquê Regular o Uso Recreativo?
+# PRINCÍPIOS ORIENTADORES: Porquê Regular o Uso Recreativo? {#princípios-orientadores-porquê-regular-o-uso-recreativo}
 
-## A questão central que devemos responder
+## A questão central que devemos responder {#a-questão-central-que-devemos-responder}
 
 **CRÍTICO:** A regulação do uso recreativo NÃO é sobre promover consumo ou gerar receitas fiscais. É sobre **redução de danos para quem já consome**.
 
-## O problema actual: Criminalização sem reduzir consumo
+## O problema actual: Criminalização sem reduzir consumo {#o-problema-actual-criminalização-sem-reduzir-consumo}
 
 **Dados de criminalização (SICAD 2018, Diário de Notícias 2020):**
 
@@ -21,7 +21,7 @@
 
 **Conclusão:** A proibição não elimina o consumo. Criminaliza centenas de pessoas por ano, enquanto 95% continua a usar produto não regulado.
 
-### Impacto esperado dos clubes sociais no mercado ilegal
+### Impacto esperado dos clubes sociais no mercado ilegal {#impacto-esperado-dos-clubes-sociais-no-mercado-ilegal}
 
 **Dados internacionais de redução do mercado negro:**
 
@@ -41,7 +41,7 @@
 2. Aprendizagem com erros uruguaios (potência competitiva desde início)
 3. Sistema dual clubes + autocultivo (maior flexibilidade)
 
-## Riscos do mercado não regulado (EUDA 2024-2025)
+## Riscos do mercado não regulado (EUDA 2024-2025) {#riscos-do-mercado-não-regulado-euda-2024-2025}
 
 **1. Canabinóides sintéticos perigosos:**
 
@@ -91,7 +91,7 @@ O modelo de cultivo indoor dominante no mercado negro (e em alguns mercados lega
 
 **A proibição força o cultivo indoor clandestino.** A regulação permite exigir métodos sustentáveis como condição de licenciamento — renováveis obrigatórias, incentivo ao outdoor, monitorização de emissões. Ao exigir energia 100% renovável em vez de proibir indoor, Portugal garante acessibilidade urbana sem comprometer objectivos ambientais.
 
-## O que a regulação permite (redução de danos)
+## O que a regulação permite (redução de danos) {#o-que-a-regulação-permite-redução-de-danos}
 
 **1. Protecção do consumidor:**
 
@@ -119,7 +119,7 @@ O modelo de cultivo indoor dominante no mercado negro (e em alguns mercados lega
 * Mercado de €52-151M/ano actualmente controlado por redes ilegais [@ribeiro2024economic]
 * Regulação transfere para operadores licenciados, monitorizados, sem fins lucrativos
 
-## Coerência com outras políticas do LIVRE
+## Coerência com outras políticas do LIVRE {#coerência-com-outras-políticas-do-livre}
 
 O LIVRE defende **redução de danos** para substâncias psicoactivas. Cannabis segue os mesmos princípios de saúde pública:
 
@@ -127,7 +127,7 @@ O LIVRE defende **redução de danos** para substâncias psicoactivas. Cannabis 
 * **A proibição não funciona:** 95% usa mercado negro [@cannareporter2025medicinal]
 * **A questão é:** produto seguro e testado, ou produto ilegal potencialmente adulterado?
 
-## A resposta a "Porquê legalizar recreativo?"
+## A resposta a "Porquê legalizar recreativo?" {#a-resposta-a-porquê-legalizar-recreativo}
 
 **Não é para:**
 - ❌ Promover consumo
@@ -144,7 +144,7 @@ O LIVRE defende **redução de danos** para substâncias psicoactivas. Cannabis 
 
 **Princípio central:** A proibição não elimina o consumo — apenas elimina o controlo e a segurança.
 
-### Proteção do Desenvolvimento Cognitivo em Jovens Adultos
+### Proteção do Desenvolvimento Cognitivo em Jovens Adultos {#proteção-do-desenvolvimento-cognitivo-em-jovens-adultos}
 
 O desenvolvimento do córtex pré-frontal continua até aos ~25 anos. Estudos longitudinais demonstram que **utilizadores persistentes com início na adolescência** apresentam declínio de QI de 8 pontos aos 38 anos [@Meier2012]. Contudo, meta-análises recentes confirmam que este risco está concentrado em **consumo pesado/dependente**, não em utilizadores ocasionais [@Jackson2016].
 

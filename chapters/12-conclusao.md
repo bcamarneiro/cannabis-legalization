@@ -13,7 +13,7 @@ Este documento demonstra que existe uma base sólida de evidência para avançar
 
 **59% dos portugueses apoiam a legalização regulada** [@hanway2022]. A maioria da população está à frente dos políticos. O LIVRE pode liderar esta mudança.
 
-## Síntese das Ações Prioritárias
+## Síntese das Ações Prioritárias {#síntese-das-ações-prioritárias}
 
 O caminho proposto organiza-se em **três pilares** (o que propomos) e **três fases** (quando e em que ordem implementamos). Os pilares descrevem a substância; as fases descrevem a sequência. **Cada fase valida a seguinte — e os ganhos de cada fase são permanentes, independentemente de a próxima avançar.**
 

@@ -1,7 +1,7 @@
 \newpage
 
-# O QUE DIZ A CIÊNCIA
-## Eficácia médica: evidência por condição
+# O QUE DIZ A CIÊNCIA {#o-que-diz-a-ciência}
+## Eficácia médica: evidência por condição {#eficácia-médica-evidência-por-condição}
 A NASEM (2017) — analisando mais de 10.000 resumos científicos — estabeleceu evidência conclusiva ou substancial para [@publico2018a]:
 
 * **Dor crónica:** Evidência substancial de eficácia, embora com qualidade variável dos estudos [@publico2018b]
@@ -11,7 +11,7 @@ A NASEM (2017) — analisando mais de 10.000 resumos científicos — estabelece
 
 **Nota sobre dor neuropática:** Revisões sistemáticas encontraram evidência limitada para dor neuropática especificamente [@kirby2019], sublinhando a necessidade de mais investigação — algo que a proibição dificulta. Isto reforça a importância de criar condições para mais investigação clínica.
 
-## Riscos para a saúde mental: a evidência que levamos a sério
+## Riscos para a saúde mental: a evidência que levamos a sério {#riscos-para-a-saúde-mental-a-evidência-que-levamos-a-sério}
 A evidência sobre riscos é robusta e deve orientar a nossa proposta:
 
 * **Psicose:** Meta-análise Marconi et al. (2016): OR 3,90 para psicose nos consumidores mais pesados vs. não-consumidores [@unnews2020]
@@ -31,7 +31,7 @@ A evidência sobre riscos é robusta e deve orientar a nossa proposta:
   - **Mecanismos propostos:** Aumento agudo da frequência cardíaca, alteração da pressão arterial, efeitos pró-trombóticos do fumo de cannabis. O risco pode ser parcialmente atribuível à **via de administração** (fumo), não apenas ao THC
   - **Contexto:** Estes riscos são particularmente relevantes para utilizadores com **patologia cardiovascular pré-existente**, **idade >50 anos**, ou **consumo combinado com tabaco**. Para utilizadores jovens saudáveis com consumo ocasional, o risco absoluto permanece baixo, mas não é nulo
 
-### Como a nossa proposta mitiga estes riscos
+### Como a nossa proposta mitiga estes riscos {#como-a-nossa-proposta-mitiga-estes-riscos}
 Reconhecemos os riscos e por isso propomos medidas específicas, baseadas em modelos internacionais comprovados [@hanway2022; @cleirec2025]:
 
 | Risco | Medida de Mitigação |
@@ -156,7 +156,7 @@ Modelos comerciais (Colorado, Washington, Canadá) geram receitas fiscais signif
 
 **Conclusão:** Comparações com receitas fiscais do Colorado/Canadá são irrelevantes para avaliar o modelo português. A viabilidade fiscal do modelo PT baseia-se exclusivamente em poupanças de enforcement, não em geração de receitas.
 
-## Comparação de riscos (Lancet 2010)
+## Comparação de riscos (Lancet 2010) {#comparação-de-riscos-lancet-2010}
 O estudo de David Nutt com 20 drogas e 16 critérios de dano [@nutt2010]:
 
 | SUBSTÂNCIA | PONTUAÇÃO (0-100) |
@@ -170,12 +170,12 @@ O estudo de David Nutt com 20 drogas e 16 critérios de dano [@nutt2010]:
 
 **Nota sobre proporcionalidade regulatória:** Portugal vende bebidas alcoólicas com teor >70% (absinto, aguardente) sem limite de potência. Se aplicamos o princípio de que substâncias mais nocivas devem ter regulação mais restritiva, então limitar o THC a 10% numa substância com score 20/100 — enquanto o álcool (score 72/100) não tem limite — é coerente com esse princípio. A cannabis é ~1/3 tão nociva quanto o álcool segundo esta metodologia multicritério. Isto não significa que é inofensiva — significa que a actual desproporção regulatória (álcool legal sem limites de potência, cannabis ilegal) não tem base nos perfis de dano relativos.
 
-## Cannabis e condução: um desafio de implementação
-### O problema
+## Cannabis e condução: um desafio de implementação {#cannabis-e-condução-um-desafio-de-implementação}
+### O problema {#o-problema}
 * **Risco aumentado:** Meta-análise Rogeberg (2019): OR 1,28 (IC 95%: 1,16-1,40) para risco de acidente. O autor conclui que o risco é "baixo" e a fração de risco atribuível está "abaixo de 2%" na maioria dos estudos [@rogeberg2019].
 * **Mas:** Qualquer aumento de risco justifica regulação adequada.
 
-### Lições da Alemanha
+### Lições da Alemanha {#lições-da-alemanha}
 A Alemanha estabeleceu um limite de **3,5 ng/ml de THC** no sangue (equiparado a 0,2‰ de álcool), aprovado pelo Bundestag em Junho 2024 e em vigor desde Agosto 2024 [@bundesministerium2024].
 
 **Problemas identificados [@bessergrowen2025]:**
@@ -191,7 +191,7 @@ A Alemanha estabeleceu um limite de **3,5 ng/ml de THC** no sangue (equiparado a
 * Novos testes de saliva com cut-off de 3,5 ng/ml dão resultados em 3 minutos
 * Universidade de Mainz está a verificar precisão contra testes sanguíneos
 
-### Legislação internacional comparada
+### Legislação internacional comparada {#legislação-internacional-comparada}
 
 Três jurisdições estabeleceram regulação DUI cannabis com vários anos de implementação:
 
@@ -207,7 +207,7 @@ Três jurisdições estabeleceram regulação DUI cannabis com vários anos de i
 * **Risco estabelecido:** Meta-análise Rogeberg 2019: OR 1,28 (IC 95%: 1,16-1,40) para acidentes. Autor conclui risco "baixo" mas qualquer aumento justifica regulação [@rogeberg2019]
 * **Combinação THC+álcool:** Efeito sinérgico — incapacidade maior que soma individual das substâncias
 
-### Nossa proposta para Portugal
+### Nossa proposta para Portugal {#nossa-proposta-para-portugal}
 
 Baseada nos três modelos validados e adaptada ao contexto português [@bundesministerium2024; @bessergrowen2025; @colorado2023dui; @canada2023cannabis]:
 

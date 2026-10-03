@@ -1,11 +1,11 @@
 \newpage
 
-# PARTE I — CONTEXTO E DIAGNÓSTICO
+# PARTE I — CONTEXTO E DIAGNÓSTICO {#parte-i-contexto-e-diagnóstico}
 
 \newpage
 
-# O PANORAMA PORTUGUÊS EM NÚMEROS
-## Exportação massiva, acesso interno mínimo
+# O PANORAMA PORTUGUÊS EM NÚMEROS {#o-panorama-português-em-números}
+## Exportação massiva, acesso interno mínimo {#exportação-massiva-acesso-interno-mínimo}
 Portugal transformou-se num polo de produção de cannabis medicinal para exportação. Os dados oficiais do Infarmed revelam:
 
 | ANO | EXPORTAÇÃO (kg) | VARIAÇÃO |
@@ -22,7 +22,7 @@ O setor emprega **37 empresas** autorizadas para cultivo [@cmslaw2024] e **20 em
 
 Contudo, o mercado interno permanece residual: em 2023, apenas **1.157 prescrições** foram emitidas [@rtp2019], com produtos a custar ~€150 por 15g [@prohibition2017] e **sem comparticipação do SNS [@ribeiro2024]**.
 
-### Barreiras ao acesso: por que tão poucas variedades e receitas?
+### Barreiras ao acesso: por que tão poucas variedades e receitas? {#barreiras-ao-acesso-por-que-tão-poucas-variedades-e-receitas}
 **Poucas variedades disponíveis em Portugal:**
 
 A limitada oferta de cannabis medicinal resulta de múltiplas barreiras regulatórias e económicas:
@@ -45,14 +45,14 @@ O acesso legal à cannabis medicinal enfrenta obstáculos significativos:
 
 **Estas barreiras justificam as propostas deste documento de simplificação do acesso e comparticipação pelo SNS.**
 
-## O mercado negro: a realidade que a proibição não elimina
+## O mercado negro: a realidade que a proibição não elimina {#o-mercado-negro-a-realidade-que-a-proibição-não-elimina}
 Um estudo de 2024 publicado na ResearchGate estima o mercado ilegal português de cannabis recreativa em **36-58 toneladas anuais** [@torresmoreno2023].
 
 **O problema da proibição:** Este mercado negro opera sem qualquer regulação — não verifica idades, não paga impostos, não oferece controlo de qualidade ou potência, e financia redes criminosas. A proibição não elimina o consumo, apenas elimina o controlo.
 
 **Nota sobre receitas fiscais:** O modelo de clubes sociais sem fins lucrativos proposto neste documento (inspirado na Alemanha) não visa gerar receitas fiscais significativas — os clubes cobrem apenas custos operacionais. O objectivo principal é **reduzir o mercado negro** através de acesso legal regulado, com foco em saúde pública e não em comercialização.
 
-## Prevalência de consumo: abaixo da média europeia
+## Prevalência de consumo: abaixo da média europeia {#prevalência-de-consumo-abaixo-da-média-europeia}
 Os dados do V Inquérito Nacional (SICAD, 2022) mostram que Portugal mantém taxas de consumo abaixo da média europeia:
 
 * **Prevalência ao longo da vida (15-64 anos):** 10,5% (PT) [@nugent2017]
@@ -60,7 +60,7 @@ Os dados do V Inquérito Nacional (SICAD, 2022) mostram que Portugal mantém tax
 
 **Dado preocupante:** O consumo de risco elevado entre jovens 15-24 anos aumentou de 0,2% (2012) para 1,3% (2022), medido pelo Cannabis Abuse Screening Test (CAST) [@leung2020].
 
-### Consumo problemático: novos dados ICAD 2024
+### Consumo problemático: novos dados ICAD 2024 {#consumo-problemático-novos-dados-icad-2024}
 
 Um estudo recente do Instituto para os Comportamentos Aditivos e as Dependências (ICAD, 2024) fornece dados actualizados sobre padrões de consumo problemático em Portugal [@carapinha2024icad; @observador2026cannabis]:
 
@@ -102,7 +102,7 @@ Estes dados reforçam a necessidade de:
 
 **Contexto importante:** Este aumento de 6,5x no consumo de risco juvenil (0,2% → 1,3%) [@transform2020] ocorreu durante o período de **desinvestimento drástico nos serviços de prevenção e tratamento**: em 2012, o financiamento foi cortado de €76 milhões para €16 milhões (-79%) [@tax2024; @nutt2010], o IDT foi extinto e substituído pelo SICAD, e o tempo de espera para tratamento passou de 4 horas para 1 ano [@rogeberg2019]. Em 2025, o coordenador nacional João Goulão confirmou que o orçamento actual continua inferior ao de antes de 2012 [@bundesministerium2024]. **A proibição não impediu este aumento; regulação permitiria controlo de potência e programas de prevenção adequadamente financiados.**
 
-## A descriminalização de 2001: resultados comprovados
+## A descriminalização de 2001: resultados comprovados {#a-descriminalização-de-2001-resultados-comprovados}
 A Lei 30/2000 descriminalizou o consumo pessoal. Os resultados em 25 anos são notáveis:
 
 * **Mortes por overdose:** de 369 (1999) para ~80/ano (10 por milhão vs. 22 média UE) [@bessergrowen2025]

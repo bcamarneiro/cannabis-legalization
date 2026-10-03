@@ -1,8 +1,8 @@
 \newpage
 
-# ANEXO D: Guia de Argumentação
+# ANEXO D: Guia de Argumentação {#anexo-d-guia-de-argumentação}
 
-## Como usar este guia
+## Como usar este guia {#como-usar-este-guia}
 
 Este manual organiza os principais contra-argumentos que enfrentarão em debate, agrupados por tema. Para cada ataque:
 
@@ -12,7 +12,7 @@ Este manual organiza os principais contra-argumentos que enfrentarão em debate,
 
 **Princípio orientador:** A proibição não elimina o consumo — apenas elimina o controlo. Regulação permite proteger quem consome e reduzir danos sociais.
 
-## Táctica Geral de Debate
+## Táctica Geral de Debate {#táctica-geral-de-debate}
 
 Quando atacado, usa esta estrutura:
 
@@ -38,9 +38,9 @@ Quando atacado, usa esta estrutura:
 
 ---
 
-## Argumentos sobre Saúde Pública
+## Argumentos sobre Saúde Pública {#argumentos-sobre-saúde-pública}
 
-### Ataque 3: "Estão a ignorar os cientistas que se opõem"
+### Ataque 3: "Estão a ignorar os cientistas que se opõem" {#ataque-3-estão-a-ignorar-os-cientistas-que-se-opõem}
 
 **Resposta curta (30s):**
 
@@ -71,7 +71,7 @@ Sabe o que o mercado negro oferece? Nenhuma destas protecções. Produto de pot�
 * Evidência: Colorado consumo juvenil -42%, Alemanha -9% [@cdphe2024; @marijuanamoment2025]
 * **Princípio:** Reconhecer riscos ≠ manter proibição ineficaz
 
-### Ataque 2: "Uma ganza é o início de uma vida de toxicodependência"
+### Ataque 2: "Uma ganza é o início de uma vida de toxicodependência" {#ataque-2-uma-ganza-é-o-início-de-uma-vida-de-toxicodependência}
 
 **Resposta curta (30s):**
 
@@ -91,7 +91,7 @@ Na realidade, mais de 90% das pessoas que experimentam cannabis nunca consomem d
 * National Institute of Justice (2018): "não há evidência conclusiva" de causalidade
 * Factor de risco: contexto social/familiar, não substância per se
 
-### "CBD já está disponível - não precisamos de legalizar THC"
+### "CBD já está disponível - não precisamos de legalizar THC" {#cbd-já-está-disponível---não-precisamos-de-legalizar-thc}
 
 **Resposta curta (30s):**
 
@@ -133,7 +133,7 @@ Na realidade, mais de 90% das pessoas que experimentam cannabis nunca consomem d
 * Umbrella review BMJ 2023 + meta-análise BMC Medicine 2022: evidência robusta THC [@solmi2023bmj; @hauser2022bmc]
 * **Princípio:** CBD e THC têm aplicações terapêuticas distintas — afirmar que 'CBD é suficiente' nega tratamento eficaz a doentes
 
-### "A comparticipação vai custar muito ao SNS"
+### "A comparticipação vai custar muito ao SNS" {#a-comparticipação-vai-custar-muito-ao-sns}
 
 **Resposta curta (30s):**
 
@@ -197,7 +197,7 @@ A comparticipação selectiva, combinada com acesso regulado (autocultivo/clubes
 * Poupanças potenciais: substituição opiáceos, redução emergências, receitas fiscais via licenciamento
 * **Princípio:** Comparticipação selectiva + regulação pode ser custo-neutra quando contabilizamos poupanças e receitas vs. status quo do mercado negro
 
-### "O LIVRE quer comparticipação para quem fuma canábis recreativamente em cafés"
+### "O LIVRE quer comparticipação para quem fuma canábis recreativamente em cafés" {#o-livre-quer-comparticipação-para-quem-fuma-canábis-recreativamente-em-cafés}
 
 **Resposta curta (30s):**
 
@@ -245,9 +245,9 @@ A comparticipação selectiva, combinada com acesso regulado (autocultivo/clubes
 
 ---
 
-## Argumentos sobre Segurança e Criminalidade
+## Argumentos sobre Segurança e Criminalidade {#argumentos-sobre-segurança-e-criminalidade}
 
-### "O autocultivo não pode ser controlado"
+### "O autocultivo não pode ser controlado" {#o-autocultivo-não-pode-ser-controlado}
 
 **Resposta curta (30s):**
 
@@ -272,7 +272,7 @@ Quarto ponto sobre enforcement: seguimos o modelo da produção doméstica de vi
 * Sistema certificação permite rastreabilidade impossível no mercado negro
 * **Princípio:** Regulação oferece mais controlo que proibição
 
-### "O autocultivo impossibilita controlar a concentração de THC"
+### "O autocultivo impossibilita controlar a concentração de THC" {#o-autocultivo-impossibilita-controlar-a-concentração-de-thc}
 
 **Resposta curta (30s):**
 
@@ -295,7 +295,7 @@ Por fim, permita-me uma pergunta: prefere que as pessoas cultivem em casa com se
 * Portugal: autocultivo vinho não controlado, ninguém fiscaliza teor alcoólico das uvas [@nutt2010]
 * **Princípio:** Sementes certificadas oferecem mais controlo que proibição
 
-### Ataque 1: "Não existe prova científica de que a legalização diminui o tráfico"
+### Ataque 1: "Não existe prova científica de que a legalização diminui o tráfico" {#ataque-1-não-existe-prova-científica-de-que-a-legalização-diminui-o-tráfico}
 
 **Resposta curta (30s):**
 
@@ -317,7 +317,7 @@ Posso concordar que devemos investir mais em prevenção e tratamento — é por
 * Alemanha: ~100.000 processos evitados [@businesscannabis2025a]
 * **Conclusão:** Evidência inequívoca de redução do mercado negro
 
-### "E os acidentes de viação?"
+### "E os acidentes de viação?" {#e-os-acidentes-de-viação}
 
 **Resposta curta (30s):**
 
@@ -348,7 +348,7 @@ A Alemanha enfrentou desafios iniciais com os testes rápidos disponíveis — o
 * Proposta PT: investir em tecnologia de testagem adequada antes da implementação
 * **Princípio:** Regulação com salvaguardas rigorosas + tecnologia adequada = não aumenta riscos rodoviários
 
-### "Espanha tentou clubes sem fins lucrativos. Tornaram-se criminosos. Porque Portugal será diferente?"
+### "Espanha tentou clubes sem fins lucrativos. Tornaram-se criminosos. Porque Portugal será diferente?" {#espanha-tentou-clubes-sem-fins-lucrativos.-tornaram-se-criminosos.-porque-portugal-será-diferente}
 
 **Resposta curta (30s):**
 
@@ -386,9 +386,9 @@ A Alemanha implementa fiscalização através de documentação obrigatória (§
 
 ---
 
-## Argumentos Morais e Ideológicos
+## Argumentos Morais e Ideológicos {#argumentos-morais-e-ideológicos}
 
-### Ataque 1: "O LIVRE quer drogar a juventude portuguesa"
+### Ataque 1: "O LIVRE quer drogar a juventude portuguesa" {#ataque-1-o-livre-quer-drogar-a-juventude-portuguesa}
 
 **Resposta curta (30s):**
 
@@ -411,7 +411,7 @@ A proibição não está a proteger ninguém. A nossa proposta inclui idade mín
 * MPP: consumo diminuiu em 19 de 21 estados que legalizaram [@marijuanapolicy2025]
 * **Conclusão:** Legalização não causou aumento; regulação cria verificação idade que mercado negro não tem
 
-### Ataque 4: "O LIVRE é o partido da droga"
+### Ataque 4: "O LIVRE é o partido da droga" {#ataque-4-o-livre-é-o-partido-da-droga}
 
 **Resposta curta (30s):**
 
@@ -436,7 +436,7 @@ Nós não somos o partido da droga. Somos o partido que lê os dados e age em co
 * Consumo PT estável pós-2001, abaixo média EU (8,2% vs 8,3% último ano) — correlação não prova causalidade, mas refuta previsões catastrofistas [@springer2021pt]
 * 25 anos de evidência vs. rótulos ideológicos
 
-### "Isto vai normalizar o consumo"
+### "Isto vai normalizar o consumo" {#isto-vai-normalizar-o-consumo}
 
 **Resposta curta (30s):**
 
@@ -469,15 +469,15 @@ A 'normalização' que preocupa não acontece. O que acontece é transferir o me
 
 ---
 
-## Argumentos Legais e de Governança
+## Argumentos Legais e de Governança {#argumentos-legais-e-de-governança}
 
-### "Viola tratados internacionais"
+### "Viola tratados internacionais" {#viola-tratados-internacionais}
 
 **Resposta:** Canadá, Uruguai, Alemanha, Malta e 24 estados dos EUA legalizaram sem consequências internacionais. Em Dezembro de 2020, a cannabis foi removida do Anexo IV da Convenção de 1961 da ONU (27-25-1), por recomendação da OMS, reconhecendo o seu potencial terapêutico [@unnews2020].
 
 A cannabis permanece no Anexo I, mas a remoção do Anexo IV (reservado a drogas "sem vantagens terapêuticas substanciais") abre caminho para regulação responsável.
 
-### "Isto deveria ser tratado como questão técnico-científica, não política"
+### "Isto deveria ser tratado como questão técnico-científica, não política" {#isto-deveria-ser-tratado-como-questão-técnico-científica-não-política}
 
 **Resposta curta (30s):**
 
@@ -500,7 +500,7 @@ Estamos de acordo que isto deve ser técnico-científico? Então propomos uma co
 * Proposta: comissão científica independente para monitorização e avaliação contínua
 * **Princípio:** Decisões políticas devem ser informadas pela melhor evidência disponível
 
-### "Precisamos primeiro de estudar mais"
+### "Precisamos primeiro de estudar mais" {#precisamos-primeiro-de-estudar-mais}
 
 **Resposta curta (30s):**
 
@@ -526,7 +526,7 @@ Propomos incluir um mecanismo de avaliação independente, como a Alemanha fez. 
 * Proposta: mecanismo avaliação independente incluído (comissão científica)
 * **Princípio:** Evidência abundante existe; protelar é escolher manter o status quo do mercado negro
 
-### "A prioridade deve ser educação e prevenção"
+### "A prioridade deve ser educação e prevenção" {#a-prioridade-deve-ser-educação-e-prevenção}
 
 **Resposta curta (30s):**
 
@@ -558,7 +558,7 @@ Prevenção e regulação não são opostos — são complementares. A regulaç�
 * Alemanha: programa de avaliação formal até 2028 com financiamento garantido [@bundesministerium2024]
 * **Princípio:** Regulação cria fonte sustentável de financiamento para prevenção que a proibição não oferece
 
-### "Portugal não precisa de ser cobaia"
+### "Portugal não precisa de ser cobaia" {#portugal-não-precisa-de-ser-cobaia}
 
 **Resposta curta (30s):**
 

@@ -1,4 +1,4 @@
-# SUMÁRIO EXECUTIVO
+# SUMÁRIO EXECUTIVO {#sumário-executivo}
 
 \newpage
 
@@ -6,7 +6,7 @@
 
 ---
 
-## O paradoxo português
+## O paradoxo português {#o-paradoxo-português}
 
 Portugal encontra-se numa posição paradoxal: é o segundo maior exportador mundial de cannabis medicinal (32.558 kg em 2024 [@infarmed2024], ultrapassados nos primeiros 8 meses de 2025 [@euronews2024]), mas apenas 1.157 prescrições foram emitidas internamente em 2023 [@eco2024], equivalendo a cerca de 17 kg [@cannareporter2024].
 
@@ -16,7 +16,7 @@ Portugal encontra-se numa posição paradoxal: é o segundo maior exportador mun
 - **Catástrofe ambiental:** Cultivo indoor clandestino gera 2.300-5.200 kg CO₂/kg (outdoor: apenas 22,7 kg CO₂/kg; energia 100% renovável reduz 50-70%)
 - **75% dos processos (CDT)** por drogas são consumidores ocasionais de cannabis
 
-## O que propomos: três pilares, três fases
+## O que propomos: três pilares, três fases {#o-que-propomos-três-pilares-três-fases}
 
 Este documento propõe que o LIVRE assuma uma posição clara e proactiva sobre a regulação da cannabis. A proposta organiza-se em dois eixos ortogonais:
 
@@ -25,7 +25,7 @@ Este documento propõe que o LIVRE assuma uma posição clara e proactiva sobre 
 
 Os pilares descrevem a substância de cada proposta. As fases descrevem a sequência de implementação. Um pilar pode abranger múltiplas fases (ex: o Medicinal começa na Fase 1 e continua a evoluir). Uma fase contém elementos de múltiplos pilares.
 
-### Os três pilares (O QUE)
+### Os três pilares (O QUE) {#os-três-pilares-o-que}
 
 #### Pilar 1: Cannabis Medicinal
 
@@ -48,7 +48,7 @@ Os pilares descrevem a substância de cada proposta. As fases descrevem a sequê
 * Oportunidade agrícola (fibra, sementes, construção) e economia rural
 * Programa piloto 3-5 regiões; incentivos PAC
 
-### As três fases (QUANDO)
+### As três fases (QUANDO) {#as-três-fases-quando}
 
 #### Fase 1 (imediata — 2026): Cânhamo Industrial + Revisão Cannabis Medicinal
 
@@ -80,7 +80,7 @@ Evidência internacional sobre impacto:
 * **Se dados negativos:** permanecer na Fase 2 e ajustar — Fase 3 pode nunca acontecer
 * Objectivos de harm reduction já atingidos na Fase 2, independentemente da Fase 3
 
-## Porquê esta abordagem?
+## Porquê esta abordagem? {#porquê-esta-abordagem}
 
 **1. Separar o QUE do QUANDO:** Os três pilares (Medicinal, Recreativo, Cânhamo) descrevem propostas distintas que podem ser avaliadas independentemente. As três fases organizam a implementação de forma pragmática — cada fase valida a seguinte, e os ganhos são permanentes.
 
@@ -94,7 +94,7 @@ Evidência internacional sobre impacto:
 
 **Os objectivos são complementares, não conflituantes** — mas a sequência estratégica (consenso primeiro, controverso depois, comercial só se dados positivos) maximiza probabilidade de sucesso político.
 
-## Cronograma proposto
+## Cronograma proposto {#cronograma-proposto}
 
 **Timeline realista baseada em processos legislativos comparáveis:** Portugal descriminalização 2001 (~18 meses) [@springer2021pt; @transform2016pt], Alemanha CanG 2024 (~18 meses de framework a implementação) [@lancet2024germany].
 
@@ -112,7 +112,7 @@ Evidência internacional sobre impacto:
 | **2030-2032** | Período de avaliação: recolha de dados, relatórios públicos anuais | **Fase 2** |
 | **2033+** | Decisão sobre venda comercial regulada (condicional a dados + coordenação UE) | **Fase 3** (horizonte) |
 
-## Honestidade com eleitores e decisores políticos
+## Honestidade com eleitores e decisores políticos {#honestidade-com-eleitores-e-decisores-políticos}
 
 **A proposta segue uma lógica de validação progressiva — cada fase valida a seguinte:**
 
@@ -129,7 +129,7 @@ Evidência internacional sobre impacto:
 
 **Esta abordagem maximiza viabilidade política:** Não compromete LIVRE com promessas dependentes de factores externos (mudanças lei UE), mas mantém ambição estratégica de longo prazo condicional a dados e coordenação europeia.
 
-## Próximos passos
+## Próximos passos {#próximos-passos}
 
 1. **Votação CTs** — aprovação proposta como posição LIVRE
 2. **Coordenação** — validação estratégia faseada

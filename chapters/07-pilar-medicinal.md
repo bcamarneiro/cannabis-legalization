@@ -1,12 +1,12 @@
 \newpage
 
-# PILAR 1: CANNABIS MEDICINAL
+# PILAR 1: CANNABIS MEDICINAL {#pilar-1-cannabis-medicinal-1}
 
-## Cannabis Medicinal: Uma Promessa Por Cumprir
+## Cannabis Medicinal: Uma Promessa Por Cumprir {#cannabis-medicinal-uma-promessa-por-cumprir}
 
 A cannabis medicinal é o pilar de maior consenso político e social desta proposta. Já é legal desde 2018, mas na prática os doentes continuam sem acesso. Portugal produz e exporta milhares de quilos, enquanto os pacientes portugueses compram no mercado negro. Este capítulo analisa o que falhou e propõe soluções concretas.
 
-## Análise da Lei 33/2018: Porque Falhou
+## Análise da Lei 33/2018: Porque Falhou {#análise-da-lei-332018-porque-falhou}
 
 A Lei n.º 33/2018, de 18 de julho, legalizou o uso de medicamentos, preparações e substâncias à base da planta *cannabis* para fins medicinais [@lei2024]. O Decreto-Lei n.º 8/2019 regulamentou os procedimentos de autorização e colocação no mercado. Sete anos depois, os resultados são desanimadores.
 
@@ -33,9 +33,9 @@ A Alemanha legalizou a cannabis medicinal em 2017, enfrentando inicialmente barr
 * As prescrições privadas (fora do seguro) passaram a representar 80% do total, enquanto as comparticipadas representam 20% — mas o acesso global aumentou enormemente [@cannabishealthnews2024]
 * A Alemanha tem cerca de **4,5 milhões de utilizadores totais** de cannabis (incluindo recreativo), enquanto o mercado médico regista aproximadamente 370.000 prescrições/ano e movimenta centenas de milhões de euros [@globenewswire2024]
 
-## Modelo de Comparticipação Proposto
+## Modelo de Comparticipação Proposto {#modelo-de-comparticipação-proposto}
 
-### Custo Atual para os Doentes
+### Custo Atual para os Doentes {#custo-atual-para-os-doentes}
 
 O custo é a principal barreira ao acesso. Atualmente em Portugal:
 
@@ -45,7 +45,7 @@ O custo é a principal barreira ao acesso. Atualmente em Portugal:
 
 Para contexto: €300/mês corresponde à totalidade do rendimento disponível de uma pessoa com pensão de invalidez, depois das despesas essenciais [@internationalcbc2021].
 
-### Proposta de Comparticipação
+### Proposta de Comparticipação {#proposta-de-comparticipação}
 
 Propomos um modelo de comparticipação faseado:
 
@@ -55,7 +55,7 @@ Propomos um modelo de comparticipação faseado:
 | Passo 2 | 6 meses | Alargamento a 90% (escalão A) para doentes crónicos com baixos rendimentos |
 | Passo 3 | 12 meses | Inclusão no Formulário Nacional de Medicamentos com revisão anual |
 
-### Comparação Internacional de Comparticipação
+### Comparação Internacional de Comparticipação {#comparação-internacional-de-comparticipação}
 
 * **Alemanha:** O seguro de saúde público (*Gesetzliche Krankenversicherung*) cobre cannabis medicinal desde 2017; desde outubro de 2024, sem necessidade de autorização prévia para 16 especialidades. O doente paga apenas a taxa de copagamento habitual (5–10€) [@cannabishealthnews2024]
 * **Israel:** Reformas de 2024 simplificaram o acesso — basta uma prescrição médica, sem licença adicional. Mais de **137.940 pacientes** com licença ativa em 2024. O custo é parcialmente subsidiado pelo sistema de saúde [@prohibitionpartners2024israel]
@@ -64,21 +64,21 @@ Propomos um modelo de comparticipação faseado:
 
 **Lição:** Os modelos sem comparticipação (Canadá, Reino Unido, Portugal atual) resultam em baixa adesão e manutenção do mercado negro. O modelo alemão demonstra que a inclusão no sistema de saúde público é o factor decisivo para o acesso efetivo.
 
-### Análise Custo-Benefício para o SNS
+### Análise Custo-Benefício para o SNS {#análise-custo-benefício-para-o-sns}
 
 * **Custo estimado:** Com 5.000 doentes (projeção conservadora para os primeiros 2 anos) e um custo médio de €120/mês comparticipado a 69%, o encargo anual para o SNS seria de ~€5 milhões
 * **Poupanças potenciais:** Substituição parcial de opióides (custo anual por doente: €2.000–5.000), benzodiazepinas e anti-epilépticos de nova geração. Estudos indicam que estados/países com programas de cannabis medicinal registam reduções de 20–35% nas prescrições de opióides [@norml2024]
 * **Balanço:** O investimento é modesto face ao orçamento do SNS (~€14 mil milhões em 2024) e pode gerar poupanças líquidas a médio prazo
 
-## Simplificação do Acesso
+## Simplificação do Acesso {#simplificação-do-acesso}
 
-### Barreiras Atuais
+### Barreiras Atuais {#barreiras-atuais}
 
 * **Prescrição restrita a «último recurso»:** Na prática, o doente tem de demonstrar que todas as outras opções falharam — criando um percurso burocrático e desumanizante [@prohibition2025]
 * **Poucos médicos prescritores:** Embora a lei permita que qualquer médico prescreva, a falta de formação e o estigma significam que apenas uma mão-cheia o faz [@rtp2019]
 * **Farmácias limitadas:** Nem todas as farmácias dispensam estes produtos, obrigando doentes a deslocações
 
-### Propostas de Simplificação
+### Propostas de Simplificação {#propostas-de-simplificação}
 
 1. **Alargamento da prescrição a médicos de família:**
    * Evidência: Na Austrália, os médicos de família (GPs) estão na linha da frente da prescrição de cannabis medicinal, com aumentos substanciais nos últimos anos [@pmc2022ausGP]. Na Nova Zelândia, 55% dos GPs já tinham sido solicitados a prescrever cannabis antes da alteração regulatória [@pmc2022nzGP]
@@ -99,9 +99,9 @@ Propomos um modelo de comparticipação faseado:
    * Substituir por critério de "benefício clínico comprovado" a par de outras opções terapêuticas
    * Alinhamento com a prática alemã, onde a cannabis pode ser prescrita quando existe "perspectiva fundamentada de benefício" (*begründete Aussicht auf einen Therapieerfolg*)
 
-## Indicações Terapêuticas
+## Indicações Terapêuticas {#indicações-terapêuticas}
 
-### Indicações Atualmente Aprovadas em Portugal
+### Indicações Atualmente Aprovadas em Portugal {#indicações-atualmente-aprovadas-em-portugal}
 
 O Infarmed aprovou sete indicações em 2019 [@publico2019]:
 
@@ -113,7 +113,7 @@ O Infarmed aprovou sete indicações em 2019 [@publico2019]:
 6. Epilepsia e crises epiléticas graves
 7. Glaucoma resistente à terapêutica convencional
 
-### Evidência Científica para Alargamento
+### Evidência Científica para Alargamento {#evidência-científica-para-alargamento}
 
 A revisão *umbrella* do BMJ (2023) analisou 101 meta-análises sobre benefícios e riscos dos canabinóides, concluindo que existe evidência moderada a elevada para várias condições [@solmi2023]:
 
@@ -124,15 +124,15 @@ A revisão *umbrella* do BMJ (2023) analisou 101 meta-análises sobre benefício
 * **Insónia:** Meta-análises recentes sugerem benefícios do THC e CBN na qualidade do sono [@suraev2020; @kuhathasan2022]
 * **Substituição de opióides:** Crescente evidência de que o acesso a cannabis medicinal está associado a reduções nas prescrições de opióides — relevante para a crise de dependência [@norml2024; @rock2024]
 
-### Proposta de Alargamento
+### Proposta de Alargamento {#proposta-de-alargamento}
 
 * **Passo 1 (imediato):** Manter as 7 indicações atuais, mas eliminar requisito de «último recurso»
 * **Passo 2 (6 meses):** Adicionar PTSD, fibromialgia, doença inflamatória intestinal e artrite reumatoide
 * **Passo 3 (12 meses):** Revisão baseada em evidência atualizada, com comissão técnica independente
 
-## Integração com a Indústria Existente
+## Integração com a Indústria Existente {#integração-com-a-indústria-existente}
 
-### O Paradoxo Português
+### O Paradoxo Português {#o-paradoxo-português-1}
 
 Portugal é o **maior exportador europeu** de cannabis medicinal e o segundo maior do mundo [@cannareporter2024]:
 
@@ -143,7 +143,7 @@ Portugal é o **maior exportador europeu** de cannabis medicinal e o segundo mai
 
 Paradoxalmente, em 2023 apenas **17 kg** foram vendidos domesticamente. Os doentes portugueses não têm acesso ao que Portugal produz [@cannabis2024_1].
 
-### Proposta: Redirecionamento para o Mercado Interno
+### Proposta: Redirecionamento para o Mercado Interno {#proposta-redirecionamento-para-o-mercado-interno}
 
 1. **Quota obrigatória de mercado interno:**
    * Exigir que pelo menos 5% da produção licenciada seja disponibilizada ao mercado nacional
@@ -158,7 +158,7 @@ Paradoxalmente, em 2023 apenas **17 kg** foram vendidos domesticamente. Os doent
    * Testes obrigatórios para pesticidas, metais pesados, micotoxinas e contaminantes microbiológicos [@eurofins2024cannabis]
    * Rastreabilidade *seed-to-sale* através do sistema informático do Infarmed
 
-## Tabela Comparativa Internacional
+## Tabela Comparativa Internacional {#tabela-comparativa-internacional}
 
 | Critério | Portugal | Alemanha | Israel | Reino Unido | Canadá |
 |----------|----------|----------|--------|-------------|--------|
@@ -172,7 +172,7 @@ Paradoxalmente, em 2023 apenas **17 kg** foram vendidos domesticamente. Os doent
 
 *Nota: valores aproximados, dados de 2024. Dados a confirmar para alguns valores específicos.*
 
-## Recomendações Prioritárias
+## Recomendações Prioritárias {#recomendações-prioritárias}
 
 1. **Curto prazo (0–6 meses):**
    * Comparticipação imediata a 69% para as indicações aprovadas

@@ -1,14 +1,14 @@
 \newpage
 
-# MODELOS INTERNACIONAIS
-## Alemanha (2024): o modelo de clubes sociais
+# MODELOS INTERNACIONAIS {#modelos-internacionais}
+## Alemanha (2024): o modelo de clubes sociais {#alemanha-2024-o-modelo-de-clubes-sociais}
 **A Cannabis Act (CanG)** entrou em vigor a 1 de abril de 2024\. É o modelo mais relevante para Portugal por várias razões [@bundesministerium2024; @wikipedia2025]:
 
 * Contexto europeu similar
 * Compatibilidade com tratados internacionais
 * Abordagem de saúde pública (não comercial)
 
-### Regras principais
+### Regras principais {#regras-principais}
 | Aspecto | Regra |
 | :---- | :---- |
 | Posse em público | Até 25g |
@@ -19,7 +19,7 @@
 | Clubes sociais | Máx. 500 membros, 25g/dia, 50g/mês |
 | Distância de escolas | 200 metros (clubes e consumo proibido) |
 
-### Como funcionam os clubes sociais na Alemanha
+### Como funcionam os clubes sociais na Alemanha {#como-funcionam-os-clubes-sociais-na-alemanha}
 **Processo de criação:**
 
 * Registo como associação sem fins lucrativos
@@ -52,7 +52,7 @@
 * Avisos de saúde
 * Códigos de rastreamento
 
-### Estado actual da implementação (Janeiro 2026)
+### Estado actual da implementação (Janeiro 2026) {#estado-actual-da-implementação-janeiro-2026}
 | Indicador | Valor |
 | :---- | :---- |
 | Candidaturas submetidas | 791 (Nov 2025) |
@@ -68,7 +68,7 @@
 * **Líderes:** Renânia do Norte-Vestefália (96 clubes), Baixa Saxónia (68 clubes) — juntas representam \>45% das licenças [@mmjdaily2025]
 * **Bloqueio efectivo:** Baviera (0 clubes operacionais até Abril 2025; apenas 3 aprovados depois, com restrições de zonamento severas) [@businesscannabis2025b]
 
-### Avaliação da implementação alemã (Janeiro 2026)
+### Avaliação da implementação alemã (Janeiro 2026) {#avaliação-da-implementação-alemã-janeiro-2026}
 **Dados de saúde pública:**
 
 * Cannabis é 2ª causa de tratamento de dependências na Alemanha (após álcool) — **tendência de 20 anos, anterior à legalização**: casos em tratamento subiram de 7,1% (2001) para 19,9% (2021) do total [@manthey2024]
@@ -152,7 +152,7 @@ Mesmo assumindo dificuldades semelhantes às alemãs, o modelo continua viável:
 
 **Conclusão:** A "taxa de 47% de falha" alemã reflecte dores de crescimento normais de um sistema com <12 meses de operação, sem apoio estatal, com obstrução política activa (Baviera), e sem programa piloto. Portugal propõe corrigir cada uma destas lacunas. A avaliação definitiva do modelo alemão só será possível após 2-3 anos de operação estabilizada.
 
-## Canadá (2018): lições do modelo comercial
+## Canadá (2018): lições do modelo comercial {#canadá-2018-lições-do-modelo-comercial}
 * **Quota de mercado legal:** de 4% (2018) para **72%** (2024, segundo o Canadian Cannabis Survey). Compras ilegais: 28% → 3% [@healthcanada2024]
 * **Receitas fiscais:** $5,4 mil milhões CAD desde outubro 2018 (federal: $1,2B; províncias: $4,2B) [@cbcnews2025]
 * **Consumo juvenil:** Permaneceu estável (16-19 anos: ~41%) — sem aumento atribuível à legalização [@healthcanada2024]
@@ -161,7 +161,7 @@ Mesmo assumindo dificuldades semelhantes às alemãs, o modelo continua viável:
 
 **Lição para Portugal:** Regular oferta desde o início; não permitir proliferação excessiva de licenças.
 
-## Uruguai (2013): lições de uma década
+## Uruguai (2013): lições de uma década {#uruguai-2013-lições-de-uma-década}
 **Sucesso:** Idade média de primeiro uso subiu de 18 para 20 anos [@cdays2025]. Uso problemático estável em 2,1% desde 2011\. Consumo global desceu de 14,6% (2018) para 12,3% (2024) [@cdays2025].
 
 **Problema:** Apenas 37% acedem via canais legais (2024) [@cdays2025]. Os limites iniciais de THC (2-9% entre 2017-2022) afastaram consumidores para o mercado negro — só após introdução de variedades com 15% (2022) e 20% THC (2024) o mercado legal ganhou competitividade [@latinamerica2024; @softsecrets2025].
@@ -170,7 +170,7 @@ Mesmo assumindo dificuldades semelhantes às alemãs, o modelo continua viável:
 
 Estudos sobre preferências de consumidores confirmam que a escolha entre mercado legal e ilegal depende de múltiplos factores — qualidade, preço, conveniência e potência — e não apenas da legalidade [@autor2024]. Qualquer modelo regulatório deve considerar estes factores para ser competitivo face ao mercado negro.
 
-## Espanha: o risco da não-regulação
+## Espanha: o risco da não-regulação {#espanha-o-risco-da-não-regulação}
 Espanha não legalizou cannabis, mas tolera ~800-1.000 clubes sociais numa "área cinzenta legal" baseada em jurisprudência sobre consumo partilhado [@tni2018; @transform2018].
 
 **Problemas documentados:**

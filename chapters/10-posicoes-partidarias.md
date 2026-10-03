@@ -1,8 +1,8 @@
 \newpage
 
-# POSIÇÕES PARTIDÁRIAS E ESTRATÉGIA DE CONSENSO
+# POSIÇÕES PARTIDÁRIAS E ESTRATÉGIA DE CONSENSO {#posições-partidárias-e-estratégia-de-consenso}
 
-## Mapa de posições
+## Mapa de posições {#mapa-de-posições}
 | PARTIDO | POSIÇÃO | LINHA VERMELHA | PONTO DE CONVERGÊNCIA |
 | :---- | :---- | :---- | :---- |
 | BE | A FAVOR | — | Proposta 2024 modelo alemão [@observador2024] |
@@ -15,7 +15,7 @@
 | CHEGA | FIRMEMENTE CONTRA | Qualquer liberalização | Nenhum — oposição ideológica total [@cannareporter2024b] |
 | JPP | DESCONHECIDO | — | Partido sem posição pública conhecida |
 
-### Notas detalhadas sobre posições partidárias
+### Notas detalhadas sobre posições partidárias {#notas-detalhadas-sobre-posições-partidárias}
 
 #### Partido Socialista (PS)
 
@@ -33,7 +33,7 @@ A posição do PS sobre a regulação da cannabis é internamente diversa, com d
 
 
 
-## ESTRATÉGIAS PARA CONSTRUIR PONTES
+## ESTRATÉGIAS PARA CONSTRUIR PONTES {#estratégias-para-construir-pontes}
 
 ## Estratégia de Negociação em 3 Níveis {#5.5-estratégia-de-negociação-em-3-níveis}
 
@@ -46,9 +46,9 @@ A posição do PS sobre a regulação da cannabis é internamente diversa, com d
 
 **Táctica:** Começar pelo Nível 1 (construir consenso máximo), negociar Nível 2 (implementação realista), manter Nível 3 como objectivo futuro baseado em evidência de sucesso.
 
-## Coordenação Europeia: Desafios Legais UE/Schengen e Estratégia Multilateral
+## Coordenação Europeia: Desafios Legais UE/Schengen e Estratégia Multilateral {#coordenação-europeia-desafios-legais-ueschengen-e-estratégia-multilateral}
 
-### O Obstáculo Legal: Comissão Europeia Bloqueou Venda Comercial Alemã
+### O Obstáculo Legal: Comissão Europeia Bloqueou Venda Comercial Alemã {#o-obstáculo-legal-comissão-europeia-bloqueou-venda-comercial-alemã}
 
 **Contexto crítico que Portugal deve compreender:**
 
@@ -66,7 +66,7 @@ Alemanha desenhou o CanG 2024 como **sistema two-pillar**:
 
 **Lição para Portugal:** Clubes sociais não-comerciais (Pillar 1) são **tolerados pela UE**. Venda comercial (Pillar 2) **viola lei UE actual** e requer mudança política europeia.
 
-### Diferença Estratégia Portugal vs Alemanha
+### Diferença Estratégia Portugal vs Alemanha {#diferença-estratégia-portugal-vs-alemanha}
 
 **Alemanha errou ao prometer Pillar 2 sem garantir coordenação UE primeiro.** Portugal adopta abordagem diferente:
 
@@ -80,7 +80,7 @@ Alemanha desenhou o CanG 2024 como **sistema two-pillar**:
 
 **Vantagem estratégica Portugal:** Não comprometer credibilidade política com promessas dependentes de factores externos (mudança lei UE). Clubes standalone (Fase 2) já entregam ROI 120-753%, captura estimada 30-50% mercado (ver [análise *gap de mercado*](#gap-mercado)), sem evidência de aumento do consumo juvenil nas jurisdições comparáveis.
 
-### Estratégia Multilateral: Trabalhar para Mudança Política Europeia
+### Estratégia Multilateral: Trabalhar para Mudança Política Europeia {#estratégia-multilateral-trabalhar-para-mudança-política-europeia}
 
 **Portugal não aceita bloqueio UE passivamente.** Proposta inclui diplomacia activa para alterar interpretação Comissão Europeia:
 
@@ -136,7 +136,7 @@ Alemanha desenhou o CanG 2024 como **sistema two-pillar**:
 * Se maioria estados-membros mantém oposição, mudança lei UE impossível
 * Portugal fica limitado a clubes não-comerciais permanentemente
 
-### Honestidade Política: Fase Comercial Pode Nunca Acontecer
+### Honestidade Política: Fase Comercial Pode Nunca Acontecer {#honestidade-política-fase-comercial-pode-nunca-acontecer}
 
 **Portugal deve ser explícito com eleitores e decisores políticos:**
 
@@ -158,7 +158,7 @@ Alemanha desenhou o CanG 2024 como **sistema two-pillar**:
 
 **Esta transparência maximiza credibilidade:** LIVRE não promete o que não pode garantir. Fase comercial é ambição condicional, não promessa firme.
 
-### Posição LIVRE na Assembleia/Comunicação Pública
+### Posição LIVRE na Assembleia/Comunicação Pública {#posição-livre-na-assembleiacomunicação-pública}
 
 **Quando questionados sobre venda comercial futura:**
 

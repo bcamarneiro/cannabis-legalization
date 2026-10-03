@@ -1,16 +1,16 @@
 \newpage
 
-# PILAR 3: CÂNHAMO INDUSTRIAL
+# PILAR 3: CÂNHAMO INDUSTRIAL {#pilar-3-cânhamo-industrial-1}
 
-## Cânhamo Industrial: Uma Oportunidade Económica e Ambiental
+## Cânhamo Industrial: Uma Oportunidade Económica e Ambiental {#cânhamo-industrial-uma-oportunidade-económica-e-ambiental}
 
 > **Nota estratégica:** O cânhamo industrial **não depende de nenhum outro pilar** desta proposta. Pode e deve avançar imediatamente, em paralelo com a revisão da cannabis medicinal. Não gera controvérsia ideológica — é agricultura, já legal na UE, e reúne condições para consenso transversal no Parlamento.
 
 O cânhamo industrial (*Cannabis sativa* L. com THC<0,3%) representa uma oportunidade estratégica para Portugal, combinando benefícios económicos, ambientais e sociais. O mercado europeu de cânhamo industrial foi avaliado em **USD 2,9 mil milhões** em 2024, com projeções de crescimento a uma taxa anual de 24% até atingir **USD 20,4 mil milhões em 2033** [@marketdataforecast2025]. A Europa representa cerca de **31% do mercado global** [@psmarketresearch2024].
 
-## Análise Económica
+## Análise Económica {#análise-económica}
 
-### Mercado Europeu e Global
+### Mercado Europeu e Global {#mercado-europeu-e-global}
 
 O mercado global de cânhamo industrial foi avaliado em **USD 9,47 mil milhões** em 2024, com projeção de atingir **USD 47,82 mil milhões em 2032** (CAGR 22,7%) [@fortunebusinessinsights2025]. A procura é impulsionada por:
 
@@ -20,7 +20,7 @@ O mercado global de cânhamo industrial foi avaliado em **USD 9,47 mil milhões*
 * **Bioplásticos:** Alternativa biodegradável aos plásticos derivados do petróleo
 * **Papel e celulose:** O cânhamo produz 4× mais celulose por hectare que as árvores
 
-### Vantagens Competitivas de Portugal
+### Vantagens Competitivas de Portugal {#vantagens-competitivas-de-portugal}
 
 Portugal reúne condições excecionais para o cultivo de cânhamo:
 
@@ -30,7 +30,7 @@ Portugal reúne condições excecionais para o cultivo de cânhamo:
 4. **Infraestrutura de exportação:** Portos de Sines e Leixões com ligações diretas aos principais mercados
 5. **Elegibilidade para subsídios PAC:** O cânhamo é uma cultura elegível para pagamentos diretos da Política Agrícola Comum (PAC) da UE [@ec2024]
 
-### Produtos e Cadeias de Valor
+### Produtos e Cadeias de Valor {#produtos-e-cadeias-de-valor}
 
 | Produto | Aplicações | Valor estimado/ha |
 |---------|------------|-------------------|
@@ -44,15 +44,15 @@ Portugal reúne condições excecionais para o cultivo de cânhamo:
 
 Para comparação, o trigo duro em Itália rende cerca de **€300/ha**, enquanto o cânhamo pode render **€600–2.500/ha** — tornando-o uma alternativa atrativa para agricultores [@wikipedia2025italy].
 
-## Enquadramento Regulatório
+## Enquadramento Regulatório {#enquadramento-regulatório}
 
-### Regulação Europeia Atual
+### Regulação Europeia Atual {#regulação-europeia-atual}
 
 Desde janeiro de 2023, a nova PAC (2023–2027) elevou o limite de THC permitido em cânhamo de **0,2% para 0,3%**, alinhando a UE com o padrão internacional [@vitafoodsinsights2022]. Isto alargou significativamente o número de variedades cultiváveis e facilitou o acesso a genética mais produtiva.
 
 O cânhamo está incluído no Catálogo Comum de Variedades da UE, sendo obrigatório o uso de **sementes certificadas** de variedades listadas. As variedades devem ser registadas e testadas quanto ao teor de THC.
 
-### Situação Regulatória em Portugal
+### Situação Regulatória em Portugal {#situação-regulatória-em-portugal}
 
 Atualmente, o cultivo de cânhamo em Portugal exige:
 
@@ -61,7 +61,7 @@ Atualmente, o cultivo de cânhamo em Portugal exige:
 * Inspeções regulares ao longo do ciclo de cultivo
 * Declaração de cultivo junto do IFAP (Instituto de Financiamento da Agricultura e Pescas)
 
-### Alterações Regulatórias Propostas
+### Alterações Regulatórias Propostas {#alterações-regulatórias-propostas}
 
 1. **Regime simplificado para cânhamo industrial:**
    * Processo de licenciamento online, com resposta em 30 dias
@@ -77,9 +77,9 @@ Atualmente, o cultivo de cânhamo em Portugal exige:
    * Garantir que todos os agricultores de cânhamo accedem automaticamente aos pagamentos diretos da PAC
    * Incentivar a conversão de culturas através de pagamentos eco-*scheme* adicionais
 
-## Benefícios Ambientais
+## Benefícios Ambientais {#benefícios-ambientais}
 
-### Captura de Carbono
+### Captura de Carbono {#captura-de-carbono}
 
 O cânhamo é uma das culturas com maior capacidade de sequestro de carbono:
 
@@ -90,7 +90,7 @@ O cânhamo é uma das culturas com maior capacidade de sequestro de carbono:
 
 Para contexto: a floresta de eucalipto em Portugal sequestra cerca de 6–8 t CO₂/ha/ano. O cânhamo, numa única colheita, pode igualar ou superar este valor.
 
-### Fitorremediação de Solos
+### Fitorremediação de Solos {#fitorremediação-de-solos}
 
 Múltiplos estudos científicos demonstram que o cânhamo é um **fitorremediador eficaz** de solos contaminados:
 
@@ -101,22 +101,22 @@ Múltiplos estudos científicos demonstram que o cânhamo é um **fitorremediado
 
 **Aplicação em Portugal:** Existem áreas contaminadas pela antiga atividade mineira (São Domingos, Aljustrel, Panasqueira) onde o cânhamo poderia contribuir para a recuperação ambiental, desde que a biomassa contaminada seja destinada a uso energético e não alimentar.
 
-### Consumo de Água
+### Consumo de Água {#consumo-de-água}
 
 * O cânhamo requer **50–70% menos água** que o algodão para produzir uma quantidade equivalente de fibra [@stockholm2005]
 * Em condições de sequeiro no Alentejo, o cânhamo pode produzir biomassa suficiente para fibra e semente, enquanto o algodão é praticamente inviável sem irrigação intensiva
 * Contribui para a resiliência agrícola face às alterações climáticas e à crescente escassez hídrica no sul de Portugal
 
-### Saúde do Solo
+### Saúde do Solo {#saúde-do-solo}
 
 * Raízes profundas (até 2–3 metros) que descompactam o solo e melhoram a drenagem
 * Devolve azoto ao solo quando as folhas caem e se decompõem
 * **Naturalmente resistente à maioria das pragas**, reduzindo ou eliminando a necessidade de pesticidas
 * Excelente cultura de rotação — melhora o rendimento das culturas subsequentes
 
-## Programa Piloto Nacional
+## Programa Piloto Nacional {#programa-piloto-nacional}
 
-### Regiões Prioritárias
+### Regiões Prioritárias {#regiões-prioritárias}
 
 | Região | Justificação | Área piloto proposta |
 |--------|-------------|---------------------|
@@ -126,14 +126,14 @@ Múltiplos estudos científicos demonstram que o cânhamo é um **fitorremediado
 | **Ribatejo** | Solos aluviais do Tejo; tradição de culturas industriais | 150 ha |
 | **Total** | | **1.000 ha** |
 
-### Parcerias Universitárias
+### Parcerias Universitárias {#parcerias-universitárias}
 
 * **Instituto Superior de Agronomia (ISA/ULisboa):** Investigação agronómica e fitotecnia; capacidade laboratorial para análise de THC, canabinóides e qualidade de fibra
 * **UTAD (Universidade de Trás-os-Montes e Alto Douro):** Centro de investigação CITAB com experiência em cadeias agrícolas e agricultura sustentável; programa doutoral AgriChains [@utadagrichains2024]
 * **Universidade de Évora:** Investigação em agricultura mediterrânica e recursos hídricos
 * **INIAV (Instituto Nacional de Investigação Agrária e Veterinária):** Ensaios de variedades, certificação de sementes
 
-### Cronograma e Avaliação
+### Cronograma e Avaliação {#cronograma-e-avaliação}
 
 | Fase | Prazo | Ação |
 |------|-------|------|
@@ -150,9 +150,9 @@ Múltiplos estudos científicos demonstram que o cânhamo é um **fitorremediado
 * Rentabilidade para o agricultor (€/ha líquido vs. culturas alternativas)
 * Emprego criado (direto e indireto)
 
-## Exemplos Internacionais
+## Exemplos Internacionais {#exemplos-internacionais}
 
-### França — Líder Europeu
+### França — Líder Europeu {#frança-líder-europeu}
 
 A França é o **maior produtor europeu** de cânhamo, representando mais de **60% da produção da UE** [@ec2024]:
 
@@ -162,7 +162,7 @@ A França é o **maior produtor europeu** de cânhamo, representando mais de **6
 * Mais de **1.400 agricultores** envolvidos
 * A produção de fibra representou **60% da produção total de fibra de cânhamo da UE** em 2022 [@hempcbdbusinessplans2024]
 
-### Itália — Renascença do Cânhamo
+### Itália — Renascença do Cânhamo {#itália-renascença-do-cânhamo}
 
 Itália ilustra o potencial de recuperação de uma indústria histórica:
 
@@ -172,15 +172,15 @@ Itália ilustra o potencial de recuperação de uma indústria histórica:
 * O rendimento por hectare (€600–2.500) é **2–8× superior ao trigo duro** (€300/ha) [@wikipedia2025italy]
 * Aplicações: materiais de construção, têxteis de moda, alimentação biológica
 
-### Alemanha — Segundo Produtor Europeu
+### Alemanha — Segundo Produtor Europeu {#alemanha-segundo-produtor-europeu}
 
 * Representa **17% da produção europeia** de cânhamo [@ec2024]
 * Foco em sementes para alimentação e CBD para suplementos
 * Forte integração com a indústria automóvel (compósitos de fibra de cânhamo para painéis interiores)
 
-## Projeções Económicas para Portugal
+## Projeções Económicas para Portugal {#projeções-económicas-para-portugal}
 
-### Cenário Conservador (5 anos)
+### Cenário Conservador (5 anos) {#cenário-conservador-5-anos}
 
 | Indicador | Ano 1 | Ano 3 | Ano 5 |
 |-----------|-------|-------|-------|
@@ -193,7 +193,7 @@ Itália ilustra o potencial de recuperação de uma indústria histórica:
 
 *Nota: projeções baseadas em rendimentos europeus médios e preços de mercado 2024. Valores a confirmar com dados dos ensaios piloto.*
 
-### Subsídios PAC Disponíveis
+### Subsídios PAC Disponíveis {#subsídios-pac-disponíveis}
 
 Os agricultores de cânhamo em Portugal podem aceder a:
 
@@ -202,7 +202,7 @@ Os agricultores de cânhamo em Portugal podem aceder a:
 * **Medidas agroambientais:** Apoio ao cultivo em zonas ambientalmente sensíveis
 * **Investimento:** Apoio FEADER para transformação primária (desfibragem, decorticação)
 
-### Potencial de CO₂
+### Potencial de CO₂ {#potencial-de-co2}
 
 Com 5.000 hectares em produção:
 
@@ -210,7 +210,7 @@ Com 5.000 hectares em produção:
 * Se utilizado em *hempcrete*: sequestro adicional de longo prazo nos edifícios
 * Contribuição para as metas do PNEC (Plano Nacional Energia e Clima) 2030
 
-## Proposta Legislativa Resumida
+## Proposta Legislativa Resumida {#proposta-legislativa-resumida}
 
 1. **Simplificação regulatória** para cânhamo com THC<0,3% — regime de notificação em vez de autorização
 2. **Programa piloto** em 4 regiões com 1.000 ha iniciais
