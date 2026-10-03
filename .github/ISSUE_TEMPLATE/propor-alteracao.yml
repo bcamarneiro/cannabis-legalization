@@ -30,4 +30,4 @@ body:
       description: Direito, saúde, economia, activismo, etc.
   - type: markdown
     attributes:
-      value: "Este pedido fica **público** no GitHub. Podes usar um pseudónimo."
+      value: "Este pedido fica **público** no GitHub. Podes usar a tua conta GitHub, mesmo sob pseudónimo; isto não conta como apoio ao documento. Alterações ao texto (PRs) exigem nome real: ver CONTRIBUTING."
