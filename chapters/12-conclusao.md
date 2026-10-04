@@ -2,7 +2,7 @@
 
 # CONCLUSÃO {#conclusão}
 
-Este documento demonstra que existe uma base sólida de evidência para avançar com regulação responsável. A posição do LIVRE deve ser:
+Este documento demonstra que existe uma base sólida de evidência para avançar com regulação responsável. A posição a adoptar deve ser:
 
 * **Baseada em evidência, não em ideologia** — reconhecendo tanto os benefícios como os riscos
 * **Sensível aos riscos reais** (saúde mental juvenil, dependência, condução)
@@ -11,7 +11,7 @@ Este documento demonstra que existe uma base sólida de evidência para avançar
 * **Aberta a construir pontes** com outros partidos
 * **Firme no autocultivo** — com regulação através de sementes certificadas
 
-Numa sondagem em 8 mercados europeus, **55% dos inquiridos apoiam a venda legal e regulada a maiores de 18 anos** [@hanway2022]; não foi verificada nesta revisão uma sondagem especificamente portuguesa. O LIVRE pode liderar esta mudança.
+Numa sondagem em 8 mercados europeus, **55% dos inquiridos apoiam a venda legal e regulada a maiores de 18 anos** [@hanway2022]; não foi verificada nesta revisão uma sondagem especificamente portuguesa. Quem adopte esta proposta pode liderar esta mudança.
 
 ## Síntese das Ações Prioritárias {#síntese-das-ações-prioritárias}
 

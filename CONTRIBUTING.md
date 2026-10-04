@@ -1,6 +1,6 @@
 # Como Contribuir
 
-Este é um projecto aberto a todos, independentemente de filiação partidária, ideologia ou background. Nasceu no contexto do LIVRE, mas pretende ser abrangente e colaborativo: partidos, associações, profissionais e cidadãos. Concordar com os princípios de política baseada em evidência, redução de danos e direitos humanos é o que importa; as contribuições são avaliadas pelo mérito.
+Este é um projecto aberto a todos, independentemente de filiação partidária, ideologia ou background. É uma iniciativa independente de qualquer partido: partidos, associações, profissionais e cidadãos podem contribuir. Concordar com os princípios de política baseada em evidência, redução de danos e direitos humanos é o que importa; as contribuições são avaliadas pelo mérito.
 
 Questões ainda por decidir (co-maintainers): ver as perguntas em aberto no [ADR 0001](docs/adr/0001-fonte-unica-pdf-e-site.md). Até serem decididas, não há regras formais sobre elas. A identidade está decidida: ver abaixo.
 

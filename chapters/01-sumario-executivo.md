@@ -18,7 +18,7 @@ Portugal encontra-se numa posição paradoxal: é o segundo maior exportador mun
 
 ## O que propomos: três pilares, três fases {#o-que-propomos-três-pilares-três-fases}
 
-Este documento propõe que o LIVRE assuma uma posição clara e proactiva sobre a regulação da cannabis. A proposta organiza-se em dois eixos ortogonais:
+Este documento propõe uma abordagem clara e faseada para a regulação da cannabis em Portugal. A proposta organiza-se em dois eixos ortogonais:
 
 > **Três PILARES** (o que propomos): Medicinal, Recreativo, Cânhamo Industrial
 > **Três FASES** (quando e em que ordem): Imediata → Após resultados → Horizonte condicional
@@ -129,12 +129,12 @@ Evidência internacional sobre impacto:
 * Fase 2 → consumidores protegidos, mercado negro reduzido, receitas enforcement poupadas
 * Fase 3 → captura adicional do mercado negro, receitas fiscais (se algum dia implementada)
 
-**Esta abordagem maximiza viabilidade política:** Não compromete LIVRE com promessas dependentes de factores externos (mudanças lei UE), mas mantém ambição estratégica de longo prazo condicional a dados e coordenação europeia.
+**Esta abordagem maximiza viabilidade política:** Não compromete quem a adopte com promessas dependentes de factores externos (mudanças lei UE), mas mantém ambição estratégica de longo prazo condicional a dados e coordenação europeia.
 
 ## Próximos passos {#próximos-passos}
 
-1. **Votação CTs** — aprovação proposta como posição LIVRE
-2. **Coordenação** — validação estratégia faseada
+1. **Posições oficiais** — pedir a cada partido uma posição oficial sobre o mesmo conjunto de perguntas e registá-las no anexo E
+2. **Validação** — revisão por juristas, economistas e profissionais de saúde
 3. **Parlamentar** — preparar Projecto de Resolução (grupo trabalho)
 4. **Comunicação** — lançamento público alinhado com Marcha Cannabis (Mai 2026)
 

@@ -158,11 +158,4 @@ A proposta inclui diplomacia activa para alterar a interpretação da Comissão 
 
 **Esta transparência protege a credibilidade:** a proposta não promete o que não pode garantir. A fase comercial é uma ambição condicional, não uma promessa firme.
 
-### Posição LIVRE na Assembleia/Comunicação Pública {#posição-livre-na-assembleiacomunicação-pública}
-
-**Quando questionados sobre venda comercial futura:**
-
-*"A proposta segue uma estratégia em três fases. **Fase 1 — cânhamo industrial + revisão cannabis medicinal** — é consensual e avança imediatamente. **Fase 2 — clubes sociais não-comerciais + autocultivo** — é nossa prioridade no recreativo e é viável após Fase 1 demonstrar resultados. **Fase 3 — possível venda comercial regulada** — é um horizonte condicional que depende de três condições: (1) dados do modelo de clubes 2029-2032 mostrarem eficácia, (2) coordenação europeia resolver conflitos lei UE/Schengen, (3) renovação aprovação parlamentar. **Fase 3 pode nunca acontecer** se obstáculos legais UE persistirem. Mas mesmo sem Fase 3, clubes standalone (Fase 2) já atingem objectivos principais: proteger quem consome, reduzir mercado negro, acabar criminalização utilizadores ocasionais. Cada fase valida a seguinte — e os ganhos de cada fase são permanentes, independentemente de a próxima avançar."*
-
-**Mensagem-chave:** o modelo de clubes funciona sem venda comercial; a venda comercial é um extra condicional.
-
+O registo de posições oficiais pedidas a cada partido, com as perguntas-padrão e as respostas, está no [anexo E](#anexo-e-registo-de-posições-oficiais-dos-partidos).

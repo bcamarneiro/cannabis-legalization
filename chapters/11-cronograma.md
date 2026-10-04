@@ -31,7 +31,7 @@ Para estabelecer expectativas realistas, é essencial analisar o tempo que legis
 
 | Factor | Lei 30/2000 | Proposta Cannabis Recreativa 2026 |
 | :---- | :---- | :---- |
-| Consenso cross-party | ✅ PS + PSD + médicos | ❌ LIVRE minoritário, PS/PSD incertos |
+| Consenso cross-party | ✅ PS + PSD + médicos | ❌ Posições partidárias divididas (ver anexo E) |
 | Maioria parlamentar | ✅ PS maioritário | ❌ Sem maioria garantida |
 | Precedente internacional | ❌ Portugal foi pioneiro | ✅ Alemanha, Uruguai, Canadá |
 | Recomendação comissão especialistas | ✅ Comissão Estratégia | ⚠️ A criar (proposto neste documento) |
@@ -57,7 +57,7 @@ A proposta segue uma lógica pragmática: **cada fase valida a seguinte**, come�
 **Porquê sequenciar:**
 - A Fase 1 demonstra capacidade regulatória e gera resultados tangíveis (emprego rural, acesso a doentes)
 - Constrói confiança institucional e pública para o debate mais difícil
-- Permite ao LIVRE e parceiros parlamentares apresentar a regulação recreativa com track record de competência
+- Permite a quem apresente a regulação recreativa com track record de competência
 - **O que inclui:** Licenciamento nacional de clubes sociais, autocultivo 3 plantas para adultos, idade 21+
 - **Período de avaliação:** 2-3 anos de recolha de dados sobre impacto no mercado negro, consumo juvenil, saúde pública
 - **Condição:** Fase 1 demonstra viabilidade política e resultados positivos
@@ -83,7 +83,7 @@ A proposta segue uma lógica pragmática: **cada fase valida a seguinte**, come�
 
 | Prazo | Acção | Fase |
 | :---- | :---- | :---- |
-| Fev-Mar 2026 | Aprovação interna LIVRE (CTs + Coordenação) | — |
+| Fev-Mar 2026 | Pedido de posições oficiais aos partidos (anexo E) | — |
 | Abr-Jun 2026 | Propostas cânhamo + revisão medicinal (consenso transversal) | **Fase 1** |
 | **Q3-Q4 2026** | **Aprovação cânhamo + medicinal** | **Fase 1** |
 | Q4 2026 - Q1 2027 | Programa piloto cânhamo (3-5 regiões); medicinal operacional | **Fase 1** |

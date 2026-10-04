@@ -729,7 +729,7 @@ A ausência de uma estratégia media pode comprometer a viabilidade política da
 * **Estigma residual:** Associação cannabis = "droga" está enraizada. Resposta: enquadrar como política de saúde pública (modelo Lei 30/2000).
 * **Turismo cannábico:** Receio de Portugal "virar Amesterdão". Resposta: enfatizar restrição a residentes (6 meses), proibição consumo público, modelo clubes (não coffee shops).
 
-**Nota:** Esta secção é um esboço de princípios. Uma estratégia de comunicação completa requer plano operacional detalhado (timing, canais, orçamento, porta-vozes), a desenvolver em coordenação com a equipa de comunicação do LIVRE e especialistas em comunicação de saúde pública.
+**Nota:** Esta secção é um esboço de princípios. Uma estratégia de comunicação completa requer plano operacional detalhado (timing, canais, orçamento, porta-vozes), a desenvolver em coordenação com a equipa de comunicação e especialistas em comunicação de saúde pública.
 
 #### Impacto Fiscal Total para o Estado: Análise Consolidada
 

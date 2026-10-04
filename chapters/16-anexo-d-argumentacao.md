@@ -197,7 +197,7 @@ A comparticipação selectiva, combinada com acesso regulado (autocultivo/clubes
 * Poupanças potenciais: substituição opiáceos, redução emergências, receitas fiscais via licenciamento
 * **Princípio:** Comparticipação selectiva + regulação pode ser custo-neutra quando contabilizamos poupanças e receitas vs. status quo do mercado negro
 
-### "O LIVRE quer comparticipação para quem fuma canábis recreativamente em cafés" {#o-livre-quer-comparticipação-para-quem-fuma-canábis-recreativamente-em-cafés}
+### "A proposta quer comparticipação para quem fuma canábis recreativamente em cafés" {#o-livre-quer-comparticipação-para-quem-fuma-canábis-recreativamente-em-cafés}
 
 **Resposta curta (30s):**
 
@@ -388,7 +388,7 @@ A Alemanha implementa fiscalização através de documentação obrigatória (§
 
 ## Argumentos Morais e Ideológicos {#argumentos-morais-e-ideológicos}
 
-### Ataque 1: "O LIVRE quer drogar a juventude portuguesa" {#ataque-1-o-livre-quer-drogar-a-juventude-portuguesa}
+### Ataque 1: "Isto é drogar a juventude portuguesa" {#ataque-1-o-livre-quer-drogar-a-juventude-portuguesa}
 
 **Resposta curta (30s):**
 
@@ -411,11 +411,11 @@ A proibição não está a reduzir esse consumo de risco. A nossa proposta inclu
 * MPP: consumo juvenil diminuiu em 19 dos 21 estados com dados antes e depois da legalização [@marijuanapolicy2025]
 * **Conclusão:** Não há evidência de que a legalização tenha aumentado o consumo juvenil; regulação cria verificação idade que mercado negro não tem
 
-### Ataque 4: "O LIVRE é o partido da droga" {#ataque-4-o-livre-é-o-partido-da-droga}
+### Ataque 4: "Isto é a política da droga" {#ataque-4-o-livre-é-o-partido-da-droga}
 
 **Resposta curta (30s):**
 
-"O LIVRE é o partido da evidência. A descriminalização portuguesa de 2001 foi classificada como 'sucesso retumbante' num estudo publicado pelo Cato Institute (think tank libertário americano; autor Glenn Greenwald) [@greenwald2009]. Os novos diagnósticos de HIV em consumidores de drogas injectadas caíram mais de 98% entre 2001 e 2019 [@transform2016pt], e o consumo manteve-se abaixo da média europeia. Queremos continuar esse sucesso, não voltar atrás."
+"A proposta assenta na evidência. A descriminalização portuguesa de 2001 foi classificada como 'sucesso retumbante' num estudo publicado pelo Cato Institute (think tank libertário americano; autor Glenn Greenwald) [@greenwald2009]. Os novos diagnósticos de HIV em consumidores de drogas injectadas caíram mais de 98% entre 2001 e 2019 [@transform2016pt], e o consumo manteve-se abaixo da média europeia. Queremos continuar esse sucesso, não voltar atrás."
 
 **Resposta desenvolvida (2min):**
 
@@ -512,7 +512,7 @@ Estamos de acordo que isto deve ser técnico-científico? Então propomos uma co
 
 A questão é: quanto tempo mais queremos esperar enquanto o mercado negro continua a operar? O mercado negro não espera pelos nossos estudos. Continua a vender produto de potência desconhecida, sem verificar idades, sem pagar impostos, financiando redes criminosas.
 
-Aliás, a moção 'Legalizar' aprovada no Congresso do LIVRE em 2018 foi há 8 anos. O que foi estudado desde então? O grupo de trabalho do PS em 2023 nunca concluiu. Em algum momento temos de parar de estudar e começar a agir.
+Aliás, o debate parlamentar sobre a legalização arrancou em 2018, há 8 anos. O que foi estudado desde então? O grupo de trabalho do PS em 2023 nunca concluiu. Em algum momento temos de parar de estudar e começar a agir.
 
 Propomos incluir um mecanismo de avaliação independente, como a Alemanha fez. Mas não podemos usar 'estudar mais' como desculpa permanente para não fazer nada."
 

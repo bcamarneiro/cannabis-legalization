@@ -160,6 +160,15 @@ Todas as tarefas BAIXA concluídas.
 - [ ] Coerência: o "6,5x" de uso de risco juvenil (0,2%→1,3%) foi retirado dos cap. 02 e 16 mas pode subsistir no cap. 05 via `espad2023`; confirmar. Corrigir entradas do bib `suraev2020insomnia` (é Bhagavan 2020), `sarvet2018jama` (revista Addiction), `lei2024` (URL e ano 2018), `malta2021` (URL e limites).
 - [ ] Objecção do Goulão ao autocultivo vs proposta de 3 plantas (`cannareporter2020`; tratar nos capítulos 08 e 10).
 
+### Plano da iniciativa (2026-10-04, ver [PLANO-INICIATIVA.md](PLANO-INICIATIVA.md))
+
+- [ ] Neutralizar o texto: iniciativa independente. Rever referências ao LIVRE em `CONTRIBUTING.md`, capítulo 10 ("Posição LIVRE na Assembleia") e restantes capítulos.
+- [ ] Recrutar grupo jurídico pro bono (UE/ONU, constitucional, penal, regulação, redacção) e co-maintainers (direito, economia, saúde pública, técnico); definir em `CONTRIBUTING.md` a perda de estatuto por inactividade.
+- [ ] Criar o registo público de afirmações (afirmação, fonte, grau de confiança, data).
+- [ ] Pedidos de dados oficiais (SICAD, Infarmed, AT, Ministério da Justiça, INE) e registo das respostas.
+- [ ] Parecer UE/Constituição antes do articulado da Fase 2; articulado da Fase 1 em paralelo.
+- [ ] Verificar limiares de ILC e petição, lei-travão e composição do Parlamento antes de fixar datas.
+
 ## ✅ CONCLUÍDAS
 
 ### Red-Team Vulnerabilities (CRÍTICO 1-5)

@@ -119,9 +119,9 @@ O modelo de cultivo indoor dominante no mercado negro (e em alguns mercados lega
 * Mercado ilegal estimado em 36-58 toneladas/ano, actualmente controlado por redes ilegais [@ribeiro2024economic]
 * Regulação transfere para operadores licenciados, monitorizados, sem fins lucrativos
 
-## Coerência com outras políticas do LIVRE {#coerência-com-outras-políticas-do-livre}
+## Coerência com a política de redução de danos {#coerência-com-outras-políticas-do-livre}
 
-O LIVRE defende **redução de danos** para substâncias psicoactivas. Cannabis segue os mesmos princípios de saúde pública:
+A política portuguesa de drogas assenta na **redução de danos** (Lei 30/2000). Cannabis segue os mesmos princípios de saúde pública:
 
 * **Regular ≠ promover:** regulação é controlo, prevenção e minimização de danos
 * **A proibição não funciona:** o consumo mantém-se e abastece-se no mercado ilegal
