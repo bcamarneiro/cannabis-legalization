@@ -2,7 +2,7 @@
 
 \newpage
 
-> **TL;DR (30 segundos):** Portugal exporta 32.500 kg de cannabis medicinal mas apenas emitiu 1.157 prescrições internas. O consumo recreativo não tem mercado legal: quem consome compra no mercado ilegal, sem controlo de qualidade. Propomos três pilares — (1) revisão cannabis medicinal com comparticipação SNS, (2) clubes sociais + autocultivo para adultos (modelo alemão 2024), (3) cânhamo industrial — implementados em três fases: Fase 1 (imediata: cânhamo + medicinal), Fase 2 (clubes + autocultivo, após resultados), Fase 3 (venda comercial, horizonte condicional). Evidência internacional: legalização não aumentou consumo juvenil. Poupanças de enforcement: estimativa dos autores, sem dados orçamentais oficiais (capítulo 08). **Não é modelo comercial** — é redução de danos para quem já consome.
+> **TL;DR (30 segundos):** Portugal exporta 32.500 kg de cannabis medicinal mas apenas emitiu 1.157 prescrições (embalagens) internas. O consumo recreativo não tem mercado legal: quem consome compra no mercado ilegal, sem controlo de qualidade. Propomos três pilares — (1) revisão cannabis medicinal com comparticipação SNS, (2) clubes sociais + autocultivo para adultos (modelo alemão 2024), (3) cânhamo industrial — implementados em três fases: Fase 1 (imediata: cânhamo + medicinal), Fase 2 (clubes + autocultivo, após resultados), Fase 3 (venda comercial, horizonte condicional). Evidência internacional: legalização não aumentou consumo juvenil. Poupanças de enforcement: estimativa dos autores, sem dados orçamentais oficiais (capítulo 08). **Não é modelo comercial** — é redução de danos para quem já consome.
 
 ---
 

@@ -95,7 +95,7 @@ Na realidade, a grande maioria das pessoas que experimentam cannabis nunca conso
 
 **Resposta curta (30s):**
 
-"Esse é um mito comum que importa desconstruir. O THC tem aplicações terapêuticas comprovadas e distintas do CBD: é essencial para dor neuropática (Sativex aprovado em vários países europeus; no Canadá, com condições, para a dor neuropática associada à esclerose múltipla [@nabiximols2024; @jazzpharma2024sativex]), náuseas oncológicas (Dronabinol aprovado pela FDA em 1985 [@ncbi2024dronabinol]), e estimulação do apetite. **Insónia (evidência LIMITADA):** poucos estudos, de baixa qualidade, sugerem melhoria a curto prazo com canabinóides, enquanto estudos observacionais associam o uso recreativo actual a PIOR qualidade do sono (possível enviesamento; sem associação nos estudos experimentais) [@suraev2020insomnia; @sciencedirect2025sleep]."
+"Esse é um mito comum que importa desconstruir. O THC tem aplicações terapêuticas comprovadas e distintas do CBD: é essencial para dor neuropática (Sativex aprovado em vários países europeus; no Canadá, com condições, para a dor neuropática associada à esclerose múltipla [@nabiximols2024; @jazzpharma2024sativex]), náuseas oncológicas (Dronabinol aprovado pela FDA em 1985 [@ncbi2024dronabinol]), e estimulação do apetite. **Insónia (evidência LIMITADA):** poucos estudos, de baixa qualidade, sugerem melhoria a curto prazo com canabinóides, enquanto estudos observacionais associam o uso recreativo actual a PIOR qualidade do sono (possível enviesamento; sem associação nos estudos experimentais) [@bhagavan2020insomnia; @sciencedirect2025sleep]."
 
 **Resposta desenvolvida (2min):**
 
@@ -106,7 +106,7 @@ Na realidade, a grande maioria das pessoas que experimentam cannabis nunca conso
 * **Dor neuropática e espasticidade (esclerose múltipla):** O Sativex (THC+CBD 1:1) está aprovado em vários países europeus e Canadá [@nabiximols2024; @jazzpharma2024sativex]; o THC é um dos dois componentes activos
 * **Náuseas e vómitos oncológicos:** Dronabinol (THC sintético) aprovado pela FDA em **1985** [@ncbi2024dronabinol]
 * **Estimulação do apetite (HIV/cancro):** THC é o composto activo, com aprovação FDA posterior para anorexia associada a VIH/SIDA [@ncbi2024dronabinol]
-* **Insónias (evidência limitada e contraditória):** Revisão sistemática de **poucos estudos** (cinco, de baixa qualidade e com amostras pequenas) sugere que canabinóides podem melhorar o sono a curto prazo, mas a evidência é fraca [@suraev2020insomnia]. **CONTUDO:** Uma revisão recente (2025) de 102 estudos observacionais associa o **uso recreativo actual de cannabis a PIOR qualidade do sono** e mais sintomas de insónia, embora possa estar afectada por enviesamento e não se observe associação nos 19 estudos experimentais [@sciencedirect2025sleep]. **Risco dependência:** cerca de 33% dos jovens com consumo regular (semanal ou diário) desenvolvem Cannabis Use Disorder [@leung2020], e uso crónico cria tolerância (efeito diminui com o tempo). **Conclusão:** Evidência para uso crónico é fraca; uso a curto prazo pode ajudar, mas risco dependência + tolerância não justificam recomendação generalizada
+* **Insónias (evidência limitada e contraditória):** Revisão sistemática de **poucos estudos** (cinco, de baixa qualidade e com amostras pequenas) sugere que canabinóides podem melhorar o sono a curto prazo, mas a evidência é fraca [@bhagavan2020insomnia]. **CONTUDO:** Uma revisão recente (2025) de 102 estudos observacionais associa o **uso recreativo actual de cannabis a PIOR qualidade do sono** e mais sintomas de insónia, embora possa estar afectada por enviesamento e não se observe associação nos 19 estudos experimentais [@sciencedirect2025sleep]. **Risco dependência:** cerca de 33% dos jovens com consumo regular (semanal ou diário) desenvolvem Cannabis Use Disorder [@leung2020], e uso crónico cria tolerância (efeito diminui com o tempo). **Conclusão:** Evidência para uso crónico é fraca; uso a curto prazo pode ajudar, mas risco dependência + tolerância não justificam recomendação generalizada
 
 **Umbrella review BMJ (2023):** Revisão abrangente que avalia benefícios e danos de medicamentos à base de canábis (por exemplo CBD na epilepsia, dor, espasticidade, náuseas), não do THC isoladamente [@solmi2023bmj]. Meta-análise BMC Medicine (2022): CBD eficaz na epilepsia e (moderada) no parkinsonismo; dronabinol com evidência moderada em dor crónica, apetite e Tourette; nabiximols em dor, espasticidade e sono; para a maioria dos restantes efeitos a evidência é de qualidade baixa ou muito baixa [@hauser2022bmc].
 
@@ -125,7 +125,7 @@ Na realidade, a grande maioria das pessoas que experimentam cannabis nunca conso
 
 * Sativex (THC:CBD 1:1): aprovado em múltiplos países europeus e Canadá [@nabiximols2024; @jazzpharma2024sativex]
 * Dronabinol (THC sintético): FDA 1985 (náuseas/vómitos), 1992 (anorexia HIV/AIDS) [@ncbi2024dronabinol]
-* Sono: evidência LIMITADA — poucos estudos de baixa qualidade sugerem melhoria a curto prazo; estudos observacionais associam o uso recreativo a pior sono (possível enviesamento) [@suraev2020insomnia; @sciencedirect2025sleep]
+* Sono: evidência LIMITADA — poucos estudos de baixa qualidade sugerem melhoria a curto prazo; estudos observacionais associam o uso recreativo a pior sono (possível enviesamento) [@bhagavan2020insomnia; @sciencedirect2025sleep]
 * Portugal 2023: 11.973 kg exportados vs 17 kg vendidos localmente (99,85% exportação) [@cannabislaw2024export; @infarmed2024]
 * Portugal 2024: 32.558 kg exportados (+172%) [@eco2024cannabis]
 * Apenas 1.157 embalagens de produtos autorizados em 2023 [@infarmed2024prescricoes]
@@ -225,7 +225,7 @@ A comparticipação selectiva, combinada com acesso regulado (autocultivo/clubes
 
 * **Canadá:** Statistics Canada refere que as indicações preliminares (early indications) sugerem que o consumo juvenil não aumentou, sem inferência causal [@statcan2019youth]. Dados contraditórios: survey NCS 2019 (15-17 anos) mostrou queda inicial; survey CCS 2024 (16-19 anos) mostra aumento de 36%→41-43%. Health Canada conclui: "não há tendência clara" — evidência mais honesta que cherry-picking de um único ano
 * **Colorado:** Consumo em adolescentes **desceu de 22% (2011) para 12,8% (2023)** — redução de 42% (Healthy Kids Colorado Survey, CDPHE) [@mpp2024colorado] — **nota:** tendência nacional EUA similar (-38%), pelo que a causalidade exclusiva da legalização não é demonstrável
-* **Meta-análise (Addiction, 2018):** Leis de cannabis medicinal **não se associaram a aumento do consumo juvenil** nos EUA (não abrange legalização recreativa) [@sarvet2018jama]
+* **Meta-análise (Addiction, 2018):** Leis de cannabis medicinal **não se associaram a aumento do consumo juvenil** nos EUA (não abrange legalização recreativa) [@sarvet2018]
 * **Coley et al. (2024, Boston College):** Estudo transversal repetido 2011-2021 encontrou, em 47 estados dos EUA, associações modestas e mistas entre legalização recreativa e consumo juvenil (sem aumento líquido global) [@coley2024]
 * **Alemanha:** Clubes sociais incluem medidas específicas de protecção juvenil; o consumo juvenil continuou a descer no primeiro ano (dados preliminares) [@marijuanamoment2025]
 
@@ -240,7 +240,7 @@ A comparticipação selectiva, combinada com acesso regulado (autocultivo/clubes
 * Clubes sociais (modelo alemão): sem fins lucrativos, 200 m escolas, oficial de prevenção [@kcang2024], THC limitado [@bundesgesundheit2024cannabis]
 * Canadá: Statistics Canada refere indicações preliminares de que o consumo juvenil não aumentou (sem inferência causal); dados variam por survey/metodologia [@statcan2019youth]
 * Colorado: consumo adolescente **↓ 42%** (22%→12,8%, 2011-2023; tendência nacional semelhante, causalidade não demonstrada) [@mpp2024colorado; @cdphe2024]
-* Meta-análise: leis de cannabis medicinal não se associaram a aumento do uso juvenil [@sarvet2018jama]
+* Meta-análise: leis de cannabis medicinal não se associaram a aumento do uso juvenil [@sarvet2018]
 * **Princípio:** Medicinal e recreativo são objectivos distintos com mecanismos diferentes — misturá-los é desinformação
 
 ---
