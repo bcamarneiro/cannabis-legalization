@@ -20,7 +20,7 @@ Fonte: Infarmed, via [@prohibition2025] (2023: 11,97 toneladas); dados 2024: ECO
 
 O setor tinha **41 empresas** autorizadas para cultivo [@eco2024] e **25 empresas** com certificação EU-GMP [@prohibition2025] (dados de 2025).
 
-Contudo, o mercado interno permanece residual: em 2023, apenas **1.157 prescrições** foram emitidas [@prohibition2025], com produtos a custar ~€150 por 15g [@euronews2024] e **sem comparticipação do SNS** [@prohibition2025; @euronews2024].
+Contudo, o mercado interno permanece residual: em 2023, apenas **1.157 prescrições (embalagens)** foram emitidas [@prohibition2025], com produtos a custar ~€150 por 15g [@euronews2024] e **sem comparticipação do SNS** [@prohibition2025; @euronews2024].
 
 ### Barreiras ao acesso: por que tão poucas variedades e receitas? {#barreiras-ao-acesso-por-que-tão-poucas-variedades-e-receitas}
 **Poucas variedades disponíveis em Portugal:**
@@ -29,7 +29,7 @@ A limitada oferta de cannabis medicinal resulta de múltiplas barreiras regulat�
 
 * **Regulação restritiva:** Requisitos rigorosos de certificação GACP e EU-GMP
 * **Burocracia complexa:** O processo de autorização é demorado (mais de 150 empresas aguardavam autorização do Infarmed em 2025 [@eco2024])
-* **Falta de incentivos:** Mercado interno pequeno (1.157 prescrições em 2023) [@prohibition2025] não justifica investimento em diversidade
+* **Falta de incentivos:** Mercado interno pequeno (1.157 prescrições, contadas em embalagens, em 2023) [@prohibition2025] não justifica investimento em diversidade
 * **Enquadramento legal fragmentado:** O CBD encontra-se numa zona cinzenta entre o Infarmed (substância controlada) e a DGAV ("novel food" não autorizado), e o cânhamo industrial (THC\<0,3%) tem regulamentação distinta da cannabis medicinal.
 
 **Dificuldade em obter receitas médicas:**

@@ -358,12 +358,12 @@ Estudos recentes 2024-2025 documentam níveis alarmantes de contaminação em ca
 
 | Contaminante | Cannabis Ilícita | Mercado Licenciado |
 | :---- | :---- | :---- |
-| **Contagem aeróbica** (excede limites) | 55% amostras | 6% |
-| **Leveduras e fungos** (excede limites) | 73% amostras | 6% |
+| **Contagem aeróbica** (excede limites) | 55% amostras | 20% excedem limites microbianos (valor agregado; o resumo não separa) |
+| **Leveduras e fungos** (excede limites) | 73% amostras | (idem) |
 | **Micotoxinas detectadas** | 12% amostras | 0% |
-| **Pesticidas detectados** | 94% amostras (média 3,4 compostos/amostra, 24 tipos únicos) | 4% |
+| **Pesticidas detectados** | 94% amostras (média 3,4 compostos/amostra, 24 tipos únicos) | 2 amostras (4%), vestígios de 0,01 µg/g |
 
-O mesmo preprint (50 amostras ilícitas e 50 licenciadas) refere também que 20% dos produtos licenciados excediam os limites microbianos e 48% se desviavam mais de 20% do THC rotulado, pelo que o mercado licenciado não está isento de falhas.
+O mesmo preprint (50 amostras ilícitas e 50 licenciadas) refere também que 20% dos produtos licenciados excediam os limites microbianos e 48% se desviavam mais de 20% do THC rotulado, pelo que o mercado licenciado não está isento de falhas. Os valores foram confirmados apenas no resumo do preprint.
 
 **Outros estudos corroboram:**
 

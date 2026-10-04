@@ -12,7 +12,7 @@ A Lei n.º 33/2018, de 18 de julho, legalizou o uso de medicamentos, preparaçõ
 
 **Números que demonstram o fracasso:**
 
-* Entre 2021 e 2023, as prescrições de cannabis medicinal aumentaram de 460 para 1.157 por ano — um número irrisório para um país de 10 milhões de habitantes [@prohibition2025]
+* Entre 2021 e 2023, as prescrições de cannabis medicinal aumentaram de 460 para 1.157 por ano (contagem em embalagens) — um número irrisório para um país de 10 milhões de habitantes [@prohibition2025]
 * Em 2024, os dados mostram uma **queda acentuada**, invertendo a tendência de crescimento: apenas 757 prescrições até ao 3.º trimestre (média de 252/trimestre, abaixo das ~289/trimestre de 2023) [@prohibition2025]
 * Até ao 3.º trimestre de 2024, Portugal **exportou 18,5 toneladas** de cannabis medicinal (12,0 toneladas em todo o ano de 2023) [@infarmed2024]; o total de 2024 foi de 32,6 toneladas [@eco2024]
 * Em 2023, apenas **17 kg** foram vendidos a doentes portugueses — 99,85% da produção nacional foi exportada [@cannabis2024_1]
