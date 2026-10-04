@@ -23,12 +23,12 @@ Os Cannabis Social Clubs (CSCs), oficialmente designados *Anbauvereinigungen* (a
 | Requisito | Especificação |
 | :---- | :---- |
 | Idade mínima | 18 anos |
-| Residência | Mínimo 6 meses de residência legal na Alemanha |
+| Residência | Residência ou domicílio habitual na Alemanha (§16(4) KCanG; sem prazo mínimo) [@kcang2024] |
 | Exclusividade | Apenas 1 clube por pessoa em todo o país |
 | Período mínimo | 3 meses de filiação obrigatória |
 | Declaração escrita | Confirmar que não é membro de outro CSC |
 
-A regra de exclusividade e o período mínimo de residência previnem acumulação de quantidades acima do legal e turismo cannábico.
+A regra de exclusividade e o requisito de residência destinam-se a prevenir a acumulação de quantidades acima do legal e o turismo cannábico.
 
 ### Prevenção de Turismo Cannabis: Lições de Amsterdam e Barcelona {#prevenção-de-turismo-cannabis-lições-de-amsterdam-e-barcelona}
 
@@ -36,9 +36,9 @@ A regra de exclusividade e o período mínimo de residência previnem acumulaç�
 
 O turismo cannabis cria problemas documentados em cidades europeias:
 
-* **Amsterdam:** a autarca propôs proibir a entrada de estrangeiros nos coffee shops [@natgeo2024amsterdam] e foi introduzida a proibição de fumar na rua no Bairro da Luz Vermelha [@schengen2024amsterdam].
+* **Amsterdam:** a autarca propôs proibir a entrada de estrangeiros nos coffee shops [@natgeo2024amsterdam] e, em Maio de 2023, entrou em vigor a proibição de fumar cannabis na rua no Bairro da Luz Vermelha [@schengen2024amsterdam].
 
-* **Barcelona:** Em 2024, o município ordenou encerramento de 30 clubes por violações e turismo cannabis. Supremo Tribunal Espanhol (2021-2023) estabeleceu que clubes que operam como negócios, aceitam turistas ou fazem publicidade constituem **tráfico de drogas**. As inspeções resultaram em ordens de encerramento (30 clubes em julho de 2024) [@medium2024barcelona; @greendream2024spain].
+* **Barcelona:** Desde 2015 o Tribunal Supremo considera que o cultivo e a distribuição de cannabis "organizados, institucionalizados e com vocação de permanência", numa associação aberta à entrada de novos membros, preenchem o crime de tráfico do art. 368 do Código Penal (STS 484/2015, de 7 de Setembro, caso Ebers) [@cgpj2015ebers]. O plano urbanístico com que Barcelona regulou os clubes em 2016 foi anulado pelo Tribunal Superior de Justiça da Catalunha por falta de competência municipal, decisão confirmada pelo Tribunal Supremo em 2021 [@eldiario2021barcelona]. Em Julho de 2024, após 57 inspecções, o município ordenou o encerramento de 30 dos 212 clubes da cidade, por venda ou consumo no local, por períodos de 6 meses a 2 anos [@ara2024barcelona].
 
 **Política portuguesa proposta:**
 
@@ -46,27 +46,27 @@ Para evitar replicar os problemas de Amsterdam/Barcelona, Portugal implementaria
 
 | Requisito | Especificação | Verificação |
 | :---- | :---- | :---- |
-| **Residência mínima** | 6 meses de residência legal em Portugal | NIF ou Cartão de Cidadão Português |
+| **Residência mínima** | Residência legal em Portugal; o prazo mínimo de 6 meses é opção do autor (a lei alemã não fixa prazo) | NIF ou Cartão de Cidadão Português |
 | **Registo antecipado** | Mínimo 15 dias antes da primeira visita | Base de dados nacional CSCs (prevenir dupla filiação) |
 | **Proibição turistas** | Sem excepções para visitantes temporários | Verificação ID obrigatória a cada visita |
 | **Penalidade clubes** | Admitir turistas = revogação permanente licença | Auditorias SICAD/Infarmed |
 
 **Justificação:**
 
-1. **Evitar problemas documentados:** Turismo cannabis sobrecarrega infraestruturas locais, cria nuisance público, atrai criminalidade organizada (Barcelona: tráfico internacional camuflado como clubes)
-2. **Proteger modelo não-comercial:** Turismo transforma clubes em negócios de facto (Barcelona: clubes aceitavam turistas mediante "convites" pagos €20-50)
-3. **Prevenir pressão expansionista:** Demanda turística incentiva crescimento descontrolado de clubes (Barcelona: explosão de clubes em zonas turísticas)
-4. **Manter escala controlada:** Clubes para residentes mantêm-se pequenos/médios (modelo cooperativa), turismo força industrialização
+1. **Evitar problemas documentados:** o turismo cannabis gera incómodo público, invocado pela autarca de Amsterdam [@schengen2024amsterdam], e em Barcelona as inspecções municipais detectaram venda e consumo no local em clubes [@ara2024barcelona]
+2. **Proteger o modelo não-comercial:** a venda a não-sócios transforma clubes em negócios de facto, o que a jurisprudência espanhola trata como tráfico [@cgpj2015ebers]
+3. **Prevenir pressão expansionista:** Barcelona chegou a 212 clubes sem regulação nacional [@ara2024barcelona]
+4. **Manter escala controlada:** clubes para residentes mantêm-se pequenos/médios (modelo cooperativa)
 
-**Diferenças face a modelos falhados:**
+**Diferenças face a modelos de tolerância sem regulação nacional:**
 
-* **Amsterdam:** Nunca implementou residency requirement devido a lobby turístico; resultado: 165 coffee shops ainda operacionais para turistas, pressão insustentável
-* **Barcelona:** Implementou requisito residência apenas 2023-2024 (tarde demais); centenas de clubes já operavam ilegalmente para turistas; encerramento em massa criou vazio regulatório
-* **Portugal:** Implementaria residency requirement desde o início (licenciamento 2029), prevenindo problemas antes de emergirem
+* **Amsterdam:** a regra de acesso só para residentes (*i-criterium*) não foi aplicada porque a maioria do conselho municipal a recusou em Setembro de 2022 (só 8 dos 45 lugares apoiavam a proposta), receando aumento da venda de rua e do recrutamento de jovens como vendedores [@nltimes2022amsterdam]; os coffee shops continuam abertos a turistas
+* **Barcelona:** regulou os clubes em 2016 por via urbanística, mas o plano foi anulado judicialmente por falta de competência municipal (TSJC; confirmação do Tribunal Supremo em 2021); desde então a cidade actua apenas por via sancionatória [@eldiario2021barcelona; @ara2024barcelona]
+* **Portugal:** regime de residentes previsto na lei nacional desde o início (licenciamento 2029), com competência clara
 
 **Nota sobre enforcement:**
 
-Diferentemente de Amsterdam (que falhou implementação por lobby), Portugal teria vantagem de:
+Diferentemente de Amsterdam, onde a regra de residentes não obteve maioria local, Portugal teria a vantagem de:
 
 * Sistema NIF já existente e obrigatório
 * Base de dados nacional CSCs centralizada (prevenir dupla filiação)
@@ -84,14 +84,14 @@ Diferentemente de Amsterdam (que falhou implementação por lobby), Portugal ter
 
 **Produtos permitidos:**
 
-* Flores de cannabis não processadas
-* Sementes e estacas para autocultivo dos membros
+* Flores (marijuana) e haxixe (resina) não processados — ambos incluídos na definição legal de cannabis (§1 KCanG)
+* Sementes e estacas para autocultivo dos membros: máximo 7 sementes ou 5 estacas por membro e por mês (§20 KCanG) [@kcang2024]
 
 **Produtos proibidos:**
 
 * Extractos à base de solventes
 * Edibles (comestíveis infundidos)
-* Qualquer produto processado
+* Produtos com aditivos ou processados para além da secagem e prensagem
 
 **Restrições operacionais:**
 
@@ -112,7 +112,7 @@ Cada clube deve:
 
 ## Governance e Prevenção de Desvios Comerciais {#governance-e-prevenção-de-desvios-comerciais}
 
-**Contexto:** A Alemanha implementa fiscalização através de documentação obrigatória (§26 KCanG) [@kcang2024], inspecções aleatórias das autoridades regionais, e restrições ao lucro das associações. **Contudo**, Espanha demonstrou que tolerância de clubes sem regulação nacional rigorosa permite desvios comerciais, exploração, e ligações a crime organizado.
+**Contexto:** A Alemanha implementa fiscalização através de documentação obrigatória (§26 KCanG) [@kcang2024], inspecções aleatórias das autoridades regionais, e restrições ao lucro das associações. **Contudo**, o caso espanhol mostra que a tolerância de clubes sem regulação nacional deixa a fronteira entre associação e comércio à jurisprudência penal [@cgpj2015ebers] e à fiscalização municipal [@ara2024barcelona], o que permitiu desvios comerciais.
 
 **Para evitar repetir o cenário espanhol**, Portugal deve ir além do modelo alemão base, adicionando mecanismos de enforcement específicos ausentes tanto na Alemanha como em Espanha:
 
@@ -133,7 +133,7 @@ Cada clube deve:
   - Afixação visível dos preços praticados nas instalações e plataforma digital do clube
   - Justificação documentada de variações superiores a 20% face ao preço de referência
 * **Preço de referência indicativo:** SICAD publica anualmente um preço de referência (não vinculativo) baseado nos custos médios dos clubes licenciados — serve como benchmark, não como limite legal
-* **Objectivo:** Manter competitividade com mercado negro (~€5-8/g) sem impor rigidez que comprometa viabilidade de clubes com custos operacionais mais elevados
+* **Objectivo:** Manter competitividade com o mercado ilegal (~€5,3-5,6/g [@icad2023bulletin]) sem impor rigidez que comprometa viabilidade de clubes com custos operacionais mais elevados
 * **Fiscalização:** Auditoria trimestral de preços vs. custos declarados — desvios significativos sem justificação desencadeiam inspecção aprofundada
 
 ### 3. Transparência Financeira Mensal {#transparência-financeira-mensal}
@@ -167,7 +167,7 @@ Cada clube deve:
 * **Sem aviso prévio:** Inspecção não notificada (aparecem no local sem marcação)
 * **Consequência:** Falha em cooperar ou irregularidades graves = suspensão imediata
 
-**Contraste com Espanha:** Estes mecanismos estão ausentes em muitos clubes espanhóis, permitindo operação comercial disfarçada. **Portugal aprende com erros alheios**, não os replica.
+**Contraste com Espanha:** Estes mecanismos não existem no quadro espanhol, onde não há regulação nacional dos clubes, o que permitiu operação comercial disfarçada [@cgpj2015ebers].
 
 ## Licenciamento {#licenciamento}
 
@@ -178,15 +178,15 @@ O processo de licenciamento é conduzido pelas autoridades de cada Land (estado 
 * Plano de protecção de menores e saúde pública
 * Verificação de localização (200m de escolas)
 
-**Estado actual (Novembro 2025):** 791 candidaturas submetidas, 357 licenças aprovadas a nível nacional (fonte: BCAv - Associação Federal Alemã de Associações de Cultivo).
+**Estado actual (Novembro 2025):** 791 candidaturas submetidas, 357 licenças aprovadas a nível nacional, segundo a associação federal de clubes [@bcav2025]. São licenças aprovadas: o número de clubes efectivamente a distribuir é inferior e não é publicado oficialmente.
 
 ## Modelo de Custos — Exemplo Real {#modelo-de-custos-exemplo-real}
 
-O Cannabis Social Club Ganderkesee (Baixa Saxónia), primeiro a distribuir cannabis em 2 de Novembro de 2024:
+O Cannabis Social Club Ganderkesee (Baixa Saxónia), primeiro a distribuir cannabis em 2 de Novembro de 2024, descreve o seu modelo assim [@cscganderkesee2025]:
 
-* **Adesão:** gratuita ou contribuição única de €250–500
-* **Quota mensal:** €50–500 (funciona como crédito para compras)
-* **Produtos:** 6 variedades disponíveis (9–25% THC)
+* **Adesão:** sem taxa de inscrição nem quota anual; quota estatutária simbólica de €1/mês
+* **Contribuições:** de montante livre, funcionam como crédito de compra, com bónus de até 30% de crédito extra consoante a regularidade
+* **Preço efectivo:** a partir de €6,15/g
 
 ## Modelo Económico Detalhado: Estrutura de Custos e Financiamento {#modelo-económico-detalhado-estrutura-de-custos-e-financiamento}
 
@@ -257,7 +257,7 @@ Nota: Rácio pessoal-membros conservador (1:66-111), garantindo atendimento pers
 
 ### Modelo de Financiamento e Regulação de Preços {#modelo-de-financiamento-e-regulação-de-preços}
 
-#### Opção 1: Sistema de Quotas Mensais Fixas (modelo alemão predominante)
+#### Opção 1: Sistema de Quotas Mensais Fixas (modelo de contribuição-crédito usado por clubes alemães, p. ex. Ganderkesee)
 
 * **Quota mensal:** €70 - €100/membro
 * **Funciona como:** Crédito para compras dentro do mês (não acumula)
@@ -287,18 +287,17 @@ Nota: Rácio pessoal-membros conservador (1:66-111), garantindo atendimento pers
 * **Exemplo consumidor médio (20g/mês):**
   - Quota: €30
   - Cannabis: 20g × €4 = €80
-  - **Total: €110/mês** (vs €200-300 mercado negro)
+  - **Total: €110/mês** — ou seja, ao nível do mercado ilegal (20 g a €5,3-5,6/g ≈ €106-112 [@icad2023bulletin]); para este perfil de consumidor a vantagem do clube está na qualidade testada e na segurança jurídica, não no preço
 
 ### Comparação Preços: Clube vs Mercado Negro vs Comercial {#comparação-preços-clube-vs-mercado-negro-vs-comercial}
 
-| Modelo | Preço/grama | Markup | Finalidade lucro |
-| :---- | :---- | :---- | :---- |
-| **Mercado negro PT** | €10 - €15 | 200-400% | Máximo lucro, sem custos compliance |
-| **Clube social (proposta PT)** | €3 - €8 | 0% | Cost-recovery only, sem fins lucrativos, preços transparentes |
-| **Dispensário comercial (Colorado)** | $8 - $15 (~€7,50 - €14) | ~37% impostos | Lucro + impostos estaduais |
-| **Farmácia (Alemanha)** | €15 - €25 | Farmacêutico | Medicinal, prescrição obrigatória |
+| Modelo | Preço/grama | Finalidade lucro |
+| :---- | :---- | :---- |
+| **Mercado ilegal PT** | €5,3 - €5,6 [@icad2023bulletin] | Lucro, sem custos de conformidade nem controlo de qualidade |
+| **Clube social (proposta PT)** | €3 - €8 (estimativa do autor, conforme custos reais) | Recuperação de custos, sem fins lucrativos, preços transparentes |
+| **Farmácia PT (medicinal)** | ~€10/g (€150 por 15 g, preço legal Tilray) [@euronews2024] | Medicinal, prescrição obrigatória |
 
-**Vantagem competitiva clubes:** Preço 40-60% inferior ao mercado negro, mantendo qualidade testada superior. Suficiente para capturar utilizadores racionais, sem comercialização excessiva.
+**Vantagem competitiva dos clubes:** o preço do clube é comparável ao do mercado ilegal — inferior só se os custos ficarem no limite baixo da estimativa. A experiência suíça mostra que a fiabilidade do produto atrai utilizadores mesmo a preços iguais aos do mercado ilegal, mas que o preço (descontos de quantidade) é a principal razão para compras ilegais residuais [@bag2025pilotversuche]. O argumento para os clubes é a qualidade testada e a redução de riscos, não um preço 40-60% inferior.
 
 ### Viabilidade Económica: Ponto de Equilíbrio {#viabilidade-económica-ponto-de-equilíbrio}
 
@@ -343,16 +342,18 @@ Nota: Rácio pessoal-membros conservador (1:66-111), garantindo atendimento pers
 
 **Crítica legítima:** Assumir que 200-300 pessoas pagam €500-1.000 **antes do clube existir** é irrealista — fundadores precisam ver licença aprovada antes de investir quantias significativas.
 
-**Precedentes internacionais que demonstram viabilidade:**
+**Precedentes internacionais:**
 
-| País | Nº Clubes | Subsídio Estatal | Financiamento Principal | Taxa Sobrevivência |
-| :---- | :---- | :---- | :---- | :---- |
-| **Uruguai** (2013-2024) | 24 | Zero | Quotas fundadores (100-300 × ~€600) | >80% (10+ anos) |
-| **Espanha** (não regulada) | ~500-700 | Zero | Quotas fundadores + empréstimos pessoais | ~50% (regulação fraca) |
-| **Alemanha** (2024-2025) | 190+ operacionais | Zero | Quotas fundadores exclusivamente | Em avaliação (ano 1) |
-| **Portugal** (proposta) | 46 projecção | €50-100k/clube | Subsídio + quotas + crédito cooperativo | Objectivo >70% |
+| País | Nº Clubes | Subsídio Estatal | Fonte |
+| :---- | :---- | :---- | :---- |
+| **Uruguai** (desde 2014) | ~460 registados em 2024; 557 no fim de 2025 (máx. 45 sócios e 99 plantas em floração cada) | Nenhum | [@ircca2025resumen; @elplanteo2025uruguay] |
+| **Espanha** (não regulada) | 212 só em Barcelona (Jul 2024); não há contagem nacional oficial | Nenhum | [@ara2024barcelona] |
+| **Alemanha** (2024-2026) | 357 licenças aprovadas em 791 pedidos (Nov 2025); 494 em 916 (1 Out 2026); nº a operar não publicado | Nenhum | [@bcav2025; @bcav2026] |
+| **Portugal** (proposta) | 46 (projecção) | €50-100k/clube | Este documento |
 
-**Lição:** Clubes internacionais financiaram-se **sem apoio estatal**. Portugal, **com** subsídio + clima favorável + infraestrutura cannabis medicinal existente, tem vantagem estrutural.
+Não há dados publicados sobre taxas de sobrevivência ou estrutura de financiamento destes clubes; as colunas correspondentes da versão anterior foram retiradas.
+
+**Lição:** os clubes uruguaios, espanhóis e alemães financiaram-se **sem apoio estatal**, com quotas dos membros. Portugal, **com** subsídio, clima favorável e infra-estrutura de cannabis medicinal existente, partiria de condições mais favoráveis.
 
 ### Modelo de Financiamento Faseado (Proposta Revisada) {#modelo-faseado}
 
@@ -410,8 +411,8 @@ Para mitigar o risco de "pagar antes de ver", propõe-se modelo em 3 fases:
 
 **Justificação política:**
 
-* **Investimento saúde pública, não "subsidiar drogas":** Clubes são mecanismo de harm reduction — produto testado, monitorização, referenciação tratamento
-* **Comparação:** Portugal gasta €45-90M/ano em enforcement cannabis. Custos de licenciamento e supervisão são proporcionais ao número de clubes — subsídio de €50-100k por clube representa uma fracção mínima do gasto anual em enforcement
+* **O subsídio financia infra-estrutura de redução de riscos:** produto testado, monitorização, dados para avaliação e referenciação para tratamento
+* **Comparação:** segundo a estimativa deste documento (cap. 8), Portugal gasta €45-90M/ano em enforcement de cannabis. Custos de licenciamento e supervisão são proporcionais ao número de clubes — subsídio de €50-100k por clube representa uma fracção mínima do gasto anual em enforcement
 * **Contrapartida:** Dados detalhados para avaliação (tracking anonimizado, relatórios SICAD, auditorias)
 
 **Mecanismo proposto:**
@@ -433,7 +434,7 @@ Para mitigar o risco de "pagar antes de ver", propõe-se modelo em 3 fases:
 | **TOTAL** | — | — | 170-270 pessoas |
 | **Capital gerado** | **€55.000-115.000** | — | — |
 
-**Viabilidade:** Encontrar 170-270 pessoas dispostas a investir €250-1.000 para acesso a cannabis legal testada é **mais fácil** que criar cooperativa habitacional. Demanda existe (706k utilizadores PT), maioria comprando produto contaminado a preços mais altos.
+**Viabilidade:** encontrar 170-270 pessoas dispostas a adiantar €250-1.000 por acesso a cannabis legal testada é um pressuposto do autor, não um dado. A procura existe: ~180.000 pessoas de 15-74 anos consumiram cannabis no último ano [@carapinha2024icad], sem qualquer controlo de qualidade no mercado ilegal.
 
 #### 3. Crédito Cooperativo e Banca Social {#credito-cooperativo}
 
@@ -466,7 +467,7 @@ Artigo XX — Acesso a Serviços Financeiros
    de compliance aplicáveis a associações de cultivo licenciadas.
 ```
 
-**Impacto:** Elimina principal razão de recusa bancária (incerteza regulatória). Clubes licenciados pelo Estado são entidades legais — não há motivo para tratamento discriminatório.
+**Impacto:** reduz a principal razão invocada para a recusa bancária — o risco de conformidade anti-branqueamento — porque o licenciamento estatal explícito e a circular do Banco de Portugal clarificam o estatuto do cliente.
 
 #### 4. Crowdfunding e Financiamento Comunitário {#crowdfunding}
 
@@ -488,7 +489,7 @@ Artigo XX — Acesso a Serviços Financeiros
 
 #### 5. Parcerias com Indústria Cannabis Medicinal {#parcerias-medicinal}
 
-**Contexto:** Portugal tem **dezenas de empresas licenciadas** para cannabis medicinal, com infraestrutura, know-how, e excesso de capacidade após queda preços internacionais.
+**Contexto:** Portugal tem dezenas de empresas licenciadas para cannabis medicinal — exportou 32.558 kg em 2024 e mais de 150 empresas aguardavam autorização do Infarmed [@eco2024] — com infra-estrutura e know-how orientados para exportação. A existência de capacidade disponível para parcerias com clubes é um pressuposto do autor.
 
 **Modelo de parceria:**
 
@@ -524,7 +525,7 @@ Artigo XX — Acesso a Serviços Financeiros
 | Crowdfunding | €20.000 | 10% |
 | **TOTAL** | **€200.000** | 100% |
 
-**Conclusão:** Mesmo sem subsídio estatal, financiamento é possível — como demonstrado por 190+ clubes alemães e 24 clubes uruguaios. O subsídio **acelera** arranque e **reduz risco** para fundadores, mas não é condição sine qua non.
+**Conclusão:** Mesmo sem subsídio estatal, o financiamento é possível — como mostram as centenas de clubes alemães licenciados [@bcav2025] e os 557 clubes uruguaios registados no fim de 2025 [@ircca2025resumen]. O subsídio **acelera** arranque e **reduz risco** para fundadores, mas não é condição sine qua non.
 
 **Prazo até break-even:** 12-18 meses (após primeira colheita comercializável, estabilização base membros)
 
@@ -534,7 +535,7 @@ Internacionalmente, empresas e associações ligadas à cannabis enfrentam restr
 
 **O problema:**
 
-* **EUA:** Cannabis permanece ilegal federalmente (Schedule I), o que impede bancos federais de oferecer serviços. Resultado: os negócios de cannabis operam quase inteiramente em numerário, criando riscos de segurança [@cuna2025]. O SAFE Banking Act, proposto repetidamente desde 2019, ainda não foi aprovado.
+* **EUA:** Cannabis permanece ilegal federalmente (Schedule I), o que impede bancos federais de oferecer serviços. Resultado: os negócios de cannabis operam quase inteiramente em numerário, criando riscos de segurança [@cuna2025]. O SAFE Banking Act, introduzido em 2017 [@govinfo2017safe] e aprovado várias vezes pela Câmara dos Representantes desde Setembro de 2019 [@hfsc2019safe], nunca foi aprovado pelo Senado.
 * **Europa:** O risco é menor (sem conflito federal/estadual), mas bancos europeus aplicam frequentemente políticas de *de-risking*, recusando clientes do sector cannabis por receio de compliance com regulação anti-branqueamento.
 * **Reino Unido:** Empresas de CBD e cannabis medicinal reportam encerramento de contas por alguns bancos britânicos (p. ex. Metro Bank), com algumas a recorrer à Co-Op [@healtheuropa2022].
 
@@ -553,6 +554,6 @@ Portugal não tem o conflito federal/estadual dos EUA, o que reduz o risco. Cont
 3. **Cooperativas financeiras:** Explorar criação de cooperativa de crédito especializada (modelo norte-americano *credit unions* cannabis) se bancos comerciais recusarem serviço
 4. **Pagamentos digitais:** Clubes devem operar preferencialmente por transferência bancária/MBWay (não cash), garantindo transparência financeira e facilitando auditorias
 
-**Nota:** Este desafio é significativo mas **não intransponível**. A diferença fundamental face aos EUA é que em Portugal, com legislação explícita, o enquadramento legal é claro — o que remove a principal razão de recusa bancária. A experiência de Alemanha e Malta (clubes legais desde 2024 e 2021, respectivamente) será informativa.
+**Nota:** Este desafio é significativo mas **não intransponível**. A diferença fundamental face aos EUA é que em Portugal, com legislação explícita, o enquadramento legal é claro — o que remove a principal razão de recusa bancária. A experiência da Alemanha (clubes licenciados desde 2024 [@kcang2024]) e de Malta (lei de 2021 [@malta2021]; primeiras associações licenciadas pela ARUC em Outubro de 2023 e oito licenciadas em Julho de 2024 [@maltatoday2023malta; @maltatoday2024malta]) será informativa.
 
 \newpage
