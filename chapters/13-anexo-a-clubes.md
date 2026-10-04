@@ -23,7 +23,7 @@ Os Cannabis Social Clubs (CSCs), oficialmente designados *Anbauvereinigungen* (a
 | Requisito | Especificação |
 | :---- | :---- |
 | Idade mínima | 18 anos |
-| Residência | Residência ou domicílio habitual na Alemanha (§16(4) KCanG; sem prazo mínimo) [@kcang2024] |
+| Residência | Residência ou domicílio habitual na Alemanha há pelo menos 6 meses (§16(4) KCanG, por remissão para as definições do §1, n.º 16-17); a filiação cessa se o domicílio deixar a Alemanha (§16(5)) [@kcang2024] |
 | Exclusividade | Apenas 1 clube por pessoa em todo o país |
 | Período mínimo | 3 meses de filiação obrigatória |
 | Declaração escrita | Confirmar que não é membro de outro CSC |
@@ -36,7 +36,7 @@ A regra de exclusividade e o requisito de residência destinam-se a prevenir a a
 
 O turismo cannabis cria problemas documentados em cidades europeias:
 
-* **Amsterdam:** a autarca propôs proibir a entrada de estrangeiros nos coffee shops [@natgeo2024amsterdam] e, em Maio de 2023, entrou em vigor a proibição de fumar cannabis na rua no Bairro da Luz Vermelha [@schengen2024amsterdam].
+* **Amsterdam:** a autarca propôs proibir a entrada de estrangeiros nos coffee shops [@natgeo2024amsterdam] e o município anunciou, em Fevereiro de 2023, a proibição de fumar cannabis na rua no Bairro da Luz Vermelha, com entrada em vigor prevista para meados de Maio de 2023 [@schengen2024amsterdam].
 
 * **Barcelona:** Desde 2015 o Tribunal Supremo considera que o cultivo e a distribuição de cannabis "organizados, institucionalizados e com vocação de permanência", numa associação aberta à entrada de novos membros, preenchem o crime de tráfico do art. 368 do Código Penal (STS 484/2015, de 7 de Setembro, caso Ebers) [@cgpj2015ebers]. O plano urbanístico com que Barcelona regulou os clubes em 2016 foi anulado pelo Tribunal Superior de Justiça da Catalunha por falta de competência municipal, decisão confirmada pelo Tribunal Supremo em 2021 [@eldiario2021barcelona]. Em Julho de 2024, após 57 inspecções, o município ordenou o encerramento de 30 dos 212 clubes da cidade, por venda ou consumo no local, por períodos de 6 meses a 2 anos [@ara2024barcelona].
 
@@ -46,14 +46,14 @@ Para evitar replicar os problemas de Amsterdam/Barcelona, Portugal implementaria
 
 | Requisito | Especificação | Verificação |
 | :---- | :---- | :---- |
-| **Residência mínima** | Residência legal em Portugal; o prazo mínimo de 6 meses é opção do autor (a lei alemã não fixa prazo) | NIF ou Cartão de Cidadão Português |
+| **Residência mínima** | Residência legal em Portugal há pelo menos 6 meses — o mesmo prazo que a lei alemã exige (§16(4) e §1, n.º 16-17, KCanG) | Certificado de residência ou morada no Cartão de Cidadão |
 | **Registo antecipado** | Mínimo 15 dias antes da primeira visita | Base de dados nacional CSCs (prevenir dupla filiação) |
 | **Proibição turistas** | Sem excepções para visitantes temporários | Verificação ID obrigatória a cada visita |
 | **Penalidade clubes** | Admitir turistas = revogação permanente licença | Auditorias SICAD/Infarmed |
 
 **Justificação:**
 
-1. **Evitar problemas documentados:** o turismo cannabis gera incómodo público, invocado pela autarca de Amsterdam [@schengen2024amsterdam], e em Barcelona as inspecções municipais detectaram venda e consumo no local em clubes [@ara2024barcelona]
+1. **Evitar problemas documentados:** o turismo cannabis gera incómodo público, invocado por residentes do Bairro da Luz Vermelha de Amsterdam na cobertura da proibição de fumar na rua [@schengen2024amsterdam], e em Barcelona as inspecções municipais detectaram venda e consumo no local em clubes [@ara2024barcelona]
 2. **Proteger o modelo não-comercial:** a venda a não-sócios transforma clubes em negócios de facto, o que a jurisprudência espanhola trata como tráfico [@cgpj2015ebers]
 3. **Prevenir pressão expansionista:** Barcelona chegou a 212 clubes sem regulação nacional [@ara2024barcelona]
 4. **Manter escala controlada:** clubes para residentes mantêm-se pequenos/médios (modelo cooperativa)
@@ -78,14 +78,14 @@ Diferentemente de Amsterdam, onde a regra de residentes não obteve maioria loca
 | Idade | Limite diário | Limite mensal | Limite THC |
 | :---- | :---- | :---- | :---- |
 | 21+ anos | 25g | 50g | Sem limite |
-| 18 - 21 anos | 25g | 30g | Máximo 10% |
+| 18-20 anos | 25g | 30g | Máximo 10% |
 
 ## Regras de Funcionamento {#regras-de-funcionamento}
 
 **Produtos permitidos:**
 
-* Flores (marijuana) e haxixe (resina) não processados — ambos incluídos na definição legal de cannabis (§1 KCanG)
-* Sementes e estacas para autocultivo dos membros: máximo 7 sementes ou 5 estacas por membro e por mês (§20 KCanG) [@kcang2024]
+* Flores (marijuana) e haxixe (resina) não processados — ambos incluídos na definição legal de cannabis (§1 KCanG) e os únicos produtos que as associações podem entregar (§19(1) KCanG)
+* Sementes e estacas para autocultivo dos membros: máximo 7 sementes ou 5 estacas por membro e por mês (ou 5 no total, se combinados) (§20 KCanG) [@kcang2024]
 
 **Produtos proibidos:**
 
@@ -133,7 +133,7 @@ Cada clube deve:
   - Afixação visível dos preços praticados nas instalações e plataforma digital do clube
   - Justificação documentada de variações superiores a 20% face ao preço de referência
 * **Preço de referência indicativo:** SICAD publica anualmente um preço de referência (não vinculativo) baseado nos custos médios dos clubes licenciados — serve como benchmark, não como limite legal
-* **Objectivo:** Manter competitividade com o mercado ilegal (~€5,3-5,6/g [@icad2023bulletin]) sem impor rigidez que comprometa viabilidade de clubes com custos operacionais mais elevados
+* **Objectivo:** Manter competitividade com o mercado ilegal (€5,58/g em 2023, preço médio de retalho da cannabis herbácea [@euda2025ppp]) sem impor rigidez que comprometa viabilidade de clubes com custos operacionais mais elevados
 * **Fiscalização:** Auditoria trimestral de preços vs. custos declarados — desvios significativos sem justificação desencadeiam inspecção aprofundada
 
 ### 3. Transparência Financeira Mensal {#transparência-financeira-mensal}
@@ -178,11 +178,11 @@ O processo de licenciamento é conduzido pelas autoridades de cada Land (estado 
 * Plano de protecção de menores e saúde pública
 * Verificação de localização (200m de escolas)
 
-**Estado actual (Novembro 2025):** 791 candidaturas submetidas, 357 licenças aprovadas a nível nacional, segundo a associação federal de clubes [@bcav2025]. São licenças aprovadas: o número de clubes efectivamente a distribuir é inferior e não é publicado oficialmente.
+**Estado actual (1 de Outubro de 2026):** 916 candidaturas submetidas e 494 licenças aprovadas a nível nacional, segundo a contagem da associação federal de clubes junto das autoridades dos Länder [@bcav2026]; em Novembro de 2025 eram 791 candidaturas e 357 licenças [@bcav2025]. São licenças aprovadas: o número de clubes efectivamente a distribuir é inferior e não é publicado oficialmente.
 
 ## Modelo de Custos — Exemplo Real {#modelo-de-custos-exemplo-real}
 
-O Cannabis Social Club Ganderkesee (Baixa Saxónia), primeiro a distribuir cannabis em 2 de Novembro de 2024, descreve o seu modelo assim [@cscganderkesee2025]:
+O Cannabis Social Club Ganderkesee (Baixa Saxónia), primeiro a distribuir cannabis em 2 de Novembro de 2024 [@zdf2024ganderkesee], descreve o seu modelo assim [@cscganderkesee2025]:
 
 * **Adesão:** sem taxa de inscrição nem quota anual; quota estatutária simbólica de €1/mês
 * **Contribuições:** de montante livre, funcionam como crédito de compra, com bónus de até 30% de crédito extra consoante a regularidade
@@ -192,7 +192,7 @@ O Cannabis Social Club Ganderkesee (Baixa Saxónia), primeiro a distribuir canna
 
 ### Estrutura de Custos Operacionais (clube 300-500 membros) {#estrutura-de-custos-operacionais-clube-300-500-membros}
 
-#### 1. Custos de Cultivo (50-60% do total)
+#### 1. Custos de Cultivo (cerca de 20-25% do total)
 
 | Categoria | Custo Anual Estimado | Detalhes |
 | :---- | :---- | :---- |
@@ -203,7 +203,7 @@ O Cannabis Social Club Ganderkesee (Baixa Saxónia), primeiro a distribuir canna
 | **Manutenção equipamento** | €4.000 - €6.000 | Reparações, substituição lâmpadas, calibração sistemas |
 | **TOTAL CULTIVO** | **€60.000 - €98.000** | ~€200-330/membro/ano |
 
-#### 2. Custos de Pessoal (25-30% do total)
+#### 2. Custos de Pessoal (cerca de 45-55% do total)
 
 | Função | Salário Anual | FTE | Custo Total |
 | :---- | :---- | :---- | :---- |
@@ -220,11 +220,11 @@ Nota: Rácio pessoal-membros conservador (1:66-111), garantindo atendimento pers
 
 | Categoria | Custo Anual | Detalhes |
 | :---- | :---- | :---- |
-| **Testes laboratoriais** | €18.000 - €30.000 | €150-300/lote × 10-12 lotes/mês (THC/CBD, pesticidas, metais, microbiologia) |
+| **Testes laboratoriais** | €18.000 - €43.200 | €150-300/lote × 10-12 lotes/mês × 12 meses (THC/CBD, pesticidas, metais, microbiologia) |
 | **Auditoria financeira** | €3.000 - €5.000 | Auditor certificado externo, relatório anual |
 | **Sistemas rastreabilidade** | €2.000 - €4.000 | Software seed-to-sale, manutenção base dados |
 | **Seguros** | €4.000 - €6.000 | Responsabilidade civil, produtos, instalações |
-| **TOTAL COMPLIANCE** | **€27.000 - €45.000** | ~€90-150/membro/ano |
+| **TOTAL COMPLIANCE** | **€27.000 - €58.200** | ~€90-195/membro/ano |
 
 #### 4. Custos Fixos e Administrativos (5-10% do total)
 
@@ -238,7 +238,7 @@ Nota: Rácio pessoal-membros conservador (1:66-111), garantindo atendimento pers
 
 #### 5. Reserva Operacional (10% custos totais)
 
-* **Fundo emergência:** €25.500 - €35.700/ano
+* **Fundo emergência:** €25.500 - €37.000/ano
 * **Finalidade:** Cobrir imprevistos (quebras colheita, reparações urgentes, flutuações procura)
 * **Regra:** Acumulação máxima 10% custos anuais; excedente doado SICAD
 
@@ -248,12 +248,12 @@ Nota: Rácio pessoal-membros conservador (1:66-111), garantindo atendimento pers
 | :---- | :---- |
 | Cultivo | €60.000 - €98.000 |
 | Pessoal | €149.100 - €185.000 |
-| Compliance | €27.000 - €45.000 |
+| Compliance | €27.000 - €58.200 |
 | Fixos | €19.000 - €29.000 |
-| Reserva | €25.500 - €35.700 |
-| **TOTAL** | **€280.600 - €392.700** |
-| **Custo/membro/ano** | **€702 - €982** |
-| **Custo/membro/mês** | **€58 - €82** |
+| Reserva | €25.500 - €37.000 |
+| **TOTAL** | **€280.600 - €407.200** |
+| **Custo/membro/ano** | **€702 - €1.018** |
+| **Custo/membro/mês** | **€58 - €85** |
 
 ### Modelo de Financiamento e Regulação de Preços {#modelo-de-financiamento-e-regulação-de-preços}
 
@@ -273,7 +273,7 @@ Nota: Rácio pessoal-membros conservador (1:66-111), garantindo atendimento pers
 * **Preço/grama:** €3 - €8 (conforme custos reais clube, sem tecto rígido)
 * **Quota base:** €20 - €30/mês (administrativa, cobrir fixos)
 * **Cálculo:** Custos totais / produção anual estimada
-* **Exemplo:** €336.000 custos / 60.000g produção = €5,60/grama
+* **Exemplo:** €344.000 de custos / 72.000-144.000 g de produção (400 membros × 15-30 g/mês) ≈ €2,40-4,80/grama
 * **Vantagens:**
   - Transparência absoluta (preço = custo)
   - Flexibilidade para consumidores ocasionais
@@ -287,14 +287,14 @@ Nota: Rácio pessoal-membros conservador (1:66-111), garantindo atendimento pers
 * **Exemplo consumidor médio (20g/mês):**
   - Quota: €30
   - Cannabis: 20g × €4 = €80
-  - **Total: €110/mês** — ou seja, ao nível do mercado ilegal (20 g a €5,3-5,6/g ≈ €106-112 [@icad2023bulletin]); para este perfil de consumidor a vantagem do clube está na qualidade testada e na segurança jurídica, não no preço
+  - **Total: €110/mês** — ou seja, ao nível do mercado ilegal (20 g a €5,58/g ≈ €112 [@euda2025ppp]); para este perfil de consumidor a vantagem do clube está na qualidade testada e na segurança jurídica, não no preço
 
 ### Comparação Preços: Clube vs Mercado Negro vs Comercial {#comparação-preços-clube-vs-mercado-negro-vs-comercial}
 
 | Modelo | Preço/grama | Finalidade lucro |
 | :---- | :---- | :---- |
-| **Mercado ilegal PT** | €5,3 - €5,6 [@icad2023bulletin] | Lucro, sem custos de conformidade nem controlo de qualidade |
-| **Clube social (proposta PT)** | €3 - €8 (estimativa do autor, conforme custos reais) | Recuperação de custos, sem fins lucrativos, preços transparentes |
+| **Mercado ilegal PT** | €5,58 (média de 2023) [@euda2025ppp] | Lucro, sem custos de conformidade nem controlo de qualidade |
+| **Clube social (proposta PT)** | €3 - €8 (estimativa dos autores, conforme custos reais) | Recuperação de custos, sem fins lucrativos, preços transparentes |
 | **Farmácia PT (medicinal)** | ~€10/g (€150 por 15 g, preço legal Tilray) [@euronews2024] | Medicinal, prescrição obrigatória |
 
 **Vantagem competitiva dos clubes:** o preço do clube é comparável ao do mercado ilegal — inferior só se os custos ficarem no limite baixo da estimativa. A experiência suíça mostra que a fiabilidade do produto atrai utilizadores mesmo a preços iguais aos do mercado ilegal, mas que o preço (descontos de quantidade) é a principal razão para compras ilegais residuais [@bag2025pilotversuche]. O argumento para os clubes é a qualidade testada e a redução de riscos, não um preço 40-60% inferior.
@@ -305,21 +305,21 @@ Nota: Rácio pessoal-membros conservador (1:66-111), garantindo atendimento pers
 
 * **Custos anuais:** €200.000 (economias escala menores)
 * **Quota necessária:** €83/mês/membro
-* **Produção anual:** 30.000g (150g/membro/ano)
+* **Produção anual:** 36-72 kg (180-360 g/membro/ano, i.e. 15-30 g/mês)
 * **Risco:** Vulnerável a flutuações (quebras colheita, saídas membros)
 
 #### Clube Médio (400 membros) — OPTIMAL
 
-* **Custos anuais:** €336.000 (economias escala adequadas)
-* **Quota necessária:** €70/mês/membro
-* **Produção anual:** 60.000g (150g/membro/ano)
+* **Custos anuais:** €344.000 (ponto médio da estimativa acima; economias escala adequadas)
+* **Quota necessária:** €72/mês/membro
+* **Produção anual:** 72-144 kg (180-360 g/membro/ano)
 * **Vantagem:** Equilíbrio eficiência/personalização
 
 #### Clube Grande (500 membros) — LIMITE LEGAL
 
 * **Custos anuais:** €380.000 (economias escala máximas)
 * **Quota necessária:** €63/mês/membro
-* **Produção anual:** 75.000g (150g/membro/ano)
+* **Produção anual:** 90-180 kg (180-360 g/membro/ano)
 * **Risco:** Perda de proximidade, dificulta monitorização individualizada
 
 **Conclusão:** Clubes 300-400 membros representam ponto óptimo entre viabilidade económica e missão saúde pública.
@@ -351,9 +351,9 @@ Nota: Rácio pessoal-membros conservador (1:66-111), garantindo atendimento pers
 | **Alemanha** (2024-2026) | 357 licenças aprovadas em 791 pedidos (Nov 2025); 494 em 916 (1 Out 2026); nº a operar não publicado | Nenhum | [@bcav2025; @bcav2026] |
 | **Portugal** (proposta) | 46 (projecção) | €50-100k/clube | Este documento |
 
-Não há dados publicados sobre taxas de sobrevivência ou estrutura de financiamento destes clubes; as colunas correspondentes da versão anterior foram retiradas.
+Não há dados publicados sobre taxas de sobrevivência ou estrutura de financiamento destes clubes.
 
-**Lição:** os clubes uruguaios, espanhóis e alemães financiaram-se **sem apoio estatal**, com quotas dos membros. Portugal, **com** subsídio, clima favorável e infra-estrutura de cannabis medicinal existente, partiria de condições mais favoráveis.
+**Lição:** os clubes uruguaios, espanhóis e alemães operam sem subsídio público previsto na lei; a sua estrutura de financiamento não está documentada. Portugal, **com** subsídio, clima favorável e infra-estrutura de cannabis medicinal existente, partiria de condições mais favoráveis.
 
 ### Modelo de Financiamento Faseado (Proposta Revisada) {#modelo-faseado}
 
@@ -412,7 +412,7 @@ Para mitigar o risco de "pagar antes de ver", propõe-se modelo em 3 fases:
 **Justificação política:**
 
 * **O subsídio financia infra-estrutura de redução de riscos:** produto testado, monitorização, dados para avaliação e referenciação para tratamento
-* **Comparação:** segundo a estimativa deste documento (cap. 8), Portugal gasta €45-90M/ano em enforcement de cannabis. Custos de licenciamento e supervisão são proporcionais ao número de clubes — subsídio de €50-100k por clube representa uma fracção mínima do gasto anual em enforcement
+* **Comparação:** segundo o pressuposto deste documento (cap. 8), Portugal gasta €40-80M/ano (valor central €60M) em enforcement de cannabis. Custos de licenciamento e supervisão são proporcionais ao número de clubes — subsídio de €50-100k por clube representa uma fracção mínima do gasto anual em enforcement
 * **Contrapartida:** Dados detalhados para avaliação (tracking anonimizado, relatórios SICAD, auditorias)
 
 **Mecanismo proposto:**
@@ -422,7 +422,7 @@ Para mitigar o risco de "pagar antes de ver", propõe-se modelo em 3 fases:
 * **Desembolso:** 50% na aprovação, 50% após 6 meses (condicionado a milestones)
 * **Reembolso:** Não obrigatório se clube cumprir objectivos saúde pública
 
-#### 2. Quotas de Fundadores (€40.000-100.000)
+#### 2. Quotas de Fundadores (€70.000-117.500)
 
 **Modelo "quota fundador" diferenciada:**
 
@@ -432,9 +432,9 @@ Para mitigar o risco de "pagar antes de ver", propõe-se modelo em 3 fases:
 | **Fundador Prata** | €500 | Crédito €650 (18 meses) + voto AG + prioridade variedades | 50-80 |
 | **Fundador Ouro** | €1.000 | Crédito €1.400 (24 meses) + voto AG + acesso pré-lançamento | 20-40 |
 | **TOTAL** | — | — | 170-270 pessoas |
-| **Capital gerado** | **€55.000-115.000** | — | — |
+| **Capital gerado** | **€70.000-117.500** | — | — |
 
-**Viabilidade:** encontrar 170-270 pessoas dispostas a adiantar €250-1.000 por acesso a cannabis legal testada é um pressuposto do autor, não um dado. A procura existe: ~180.000 pessoas de 15-74 anos consumiram cannabis no último ano [@carapinha2024icad], sem qualquer controlo de qualidade no mercado ilegal.
+**Viabilidade:** encontrar 170-270 pessoas dispostas a adiantar €250-1.000 por acesso a cannabis legal testada é um pressuposto dos autores, não um dado. A procura existe: ~180.000 pessoas de 15-74 anos consumiram cannabis no último ano (INPG 2022) [@carapinha2024icad], sem qualquer controlo de qualidade no mercado ilegal.
 
 #### 3. Crédito Cooperativo e Banca Social {#credito-cooperativo}
 
@@ -489,7 +489,7 @@ Artigo XX — Acesso a Serviços Financeiros
 
 #### 5. Parcerias com Indústria Cannabis Medicinal {#parcerias-medicinal}
 
-**Contexto:** Portugal tem dezenas de empresas licenciadas para cannabis medicinal — exportou 32.558 kg em 2024 e mais de 150 empresas aguardavam autorização do Infarmed [@eco2024] — com infra-estrutura e know-how orientados para exportação. A existência de capacidade disponível para parcerias com clubes é um pressuposto do autor.
+**Contexto:** Portugal tem dezenas de empresas licenciadas para cannabis medicinal — exportou 32.558 kg em 2024 e cerca de 150 empresas com decisão de aptidão documental aguardavam vistoria do Infarmed [@eco2024] — com infra-estrutura e know-how orientados para exportação. A existência de capacidade disponível para parcerias com clubes é um pressuposto dos autores.
 
 **Modelo de parceria:**
 
@@ -525,7 +525,7 @@ Artigo XX — Acesso a Serviços Financeiros
 | Crowdfunding | €20.000 | 10% |
 | **TOTAL** | **€200.000** | 100% |
 
-**Conclusão:** Mesmo sem subsídio estatal, o financiamento é possível — como mostram as centenas de clubes alemães licenciados [@bcav2025] e os 557 clubes uruguaios registados no fim de 2025 [@ircca2025resumen]. O subsídio **acelera** arranque e **reduz risco** para fundadores, mas não é condição sine qua non.
+**Conclusão:** Mesmo sem subsídio estatal, o financiamento é possível — como sugerem as licenças concedidas na Alemanha (494 em 1 de Outubro de 2026; o número de clubes a operar não é publicado) [@bcav2026] e os 557 clubes uruguaios registados no fim de 2025 [@ircca2025resumen]. O subsídio **acelera** arranque e **reduz risco** para fundadores, mas não é condição sine qua non.
 
 **Prazo até break-even:** 12-18 meses (após primeira colheita comercializável, estabilização base membros)
 

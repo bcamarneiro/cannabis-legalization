@@ -91,11 +91,11 @@ Explorador de modelos, simulador, assistente de contribuição e mapa de clubes 
 
 - **Pandoc:** 3.12 na máquina de desenvolvimento; o `chunkedhtml` exige 3.0 ou superior.
 - **`chunkedhtml`:** funciona com template e CSS próprios (`site/`) e produz um zip plano, mas `unzip` no macOS corrompe nomes com acentos, por isso `build-site.sh` extrai com `zipfile` do Python. Resultado: 21 páginas, com Pagefind (`SKIP_PAGEFIND=1` salta a pesquisa).
-- **Vercel:** por verificar. O repo não mostra o que o projecto Vercel lê; confirmar no painel que não depende de `build/documento.md`, que deixou de ser versionado (passa a anexo da release).
+- **Vercel:** projecto pausado pelo Bruno em Outubro de 2026. O site publicado é o do GitHub Pages.
 - **Paridade das saídas:** o `.tex` e o DOCX diferem do original só por: remoção de comentários mortos, `# Referências` passar a ser secção (capítulos concatenados com linha em branco) e um nome de marcador interno no DOCX (ID `{#potencial-de-co2}`, escrito à mão porque o PDF reescreve CO₂).
 - **IDs:** 224 títulos com ID explícito; `docs/heading-ids.lock` guarda 248 IDs publicados. O `slugify` segue o do Pandoc (separa por espaços, ignora vazios). Não se encontraram ligações internas partidas.
-- **Por decidir:** co-maintainers (a recrutar). O passo 6 (identidade e licença) e a fase 2 não foram feitos.
-- **Por fazer fora do código:** activar GitHub Pages (Source: GitHub Actions) e criar as etiquetas `triagem`, `correcção`, `proposta`, `contestação` usadas pelos formulários. Os workflows só ficam validados no primeiro run no GitHub.
-- **Diagramas (feito):** os 4 foram redesenhados a partir dos capítulos 01, 05, 08 e 11 e embebidos neles. `receitas-fiscais` passou a `balanco-fiscal` (poupança líquida na Fase 2; receitas só como Fase 3 especulativa); emojis removidos; `mermaid-config.json` e README novos. O PDF não foi compilado neste ambiente (falta `pdflatex`); DOCX e site foram verificados.
+- **Por fazer:** recrutar co-maintainers; fase 2 (formulário e função serverless). O passo 6 (identidade e licença) está decidido (ver abaixo).
+- **Fora do código (feito):** GitHub Pages activo (Source: GitHub Actions); etiquetas `triagem`, `correcção`, `proposta` e `contestação` criadas.
+- **Diagramas (feito):** os 4 foram redesenhados a partir dos capítulos 01, 05, 08 e 11 e embebidos neles. `receitas-fiscais` passou a `balanco-fiscal` (desde a auditoria de Outubro de 2026: custo líquido na Fase 2; receitas só como Fase 3 especulativa); emojis removidos; `mermaid-config.json` e README novos. O PDF não foi compilado neste ambiente (falta `pdflatex`); DOCX e site foram verificados.
 - **Identidade (decidido pelo Bruno):** PRs com nome real e `Signed-off-by`; Issues abertas com conta GitHub (pseudónimo aceite, sem valor de apoio); apoio público só com nome. Não verificável tecnicamente. Falta aplicar sign-off no CI, se se quiser impor.
 - **Governação e licença (decididos):** Bruno único maintainer; 2.ª revisão obrigatória quando houver co-maintainers; CC BY-SA 4.0 mantida. O CI exige `Signed-off-by` em cada commit de PR (passo em `ci.yml`, só validado no primeiro PR).

@@ -18,11 +18,11 @@ O mercado global de cânhamo industrial foi avaliado em **USD 11,4 mil milhões*
 * **Materiais de construção:** O *hempcrete* (betão de cânhamo) é um material carbono-negativo que pode sequestrar **mais de 100 kg CO₂/m²** de parede construída [@anthropocene2022]
 * **Alimentação e suplementos:** Sementes de cânhamo ricas em ómega-3, ómega-6 e proteínas completas
 * **Bioplásticos:** Alternativa biodegradável aos plásticos derivados do petróleo
-* **Papel e celulose:** Um boletim do USDA de 1916 estimou que um hectare de cânhamo em rotação anual produz, ao longo de 20 anos, tanta pasta de papel (a partir da parte lenhosa) como cerca de quatro hectares de floresta média; é uma estimativa histórica, sem confirmação moderna [@dewey1916hemp]
+* **Papel e celulose:** Um boletim do USDA de 1916 estimou que um hectare de cânhamo em rotação anual produz tanta pasta de papel (a partir da parte lenhosa) como cerca de quatro hectares de floresta média em produção sustentada; é uma estimativa histórica, sem confirmação moderna [@dewey1916hemp]
 
 ### Vantagens Competitivas de Portugal {#vantagens-competitivas-de-portugal}
 
-Portugal reúne condições excecionais para o cultivo de cânhamo:
+Portugal reúne condições favoráveis para o cultivo de cânhamo. Os pontos 1 a 4 são pressupostos dos autores, sem fonte própria, a verificar nos ensaios piloto; o ponto 5 tem fonte:
 
 1. **Clima mediterrânico:** Verões quentes e secos ideais para a maturação da planta; possibilidade, a confirmar agronomicamente, de **duas colheitas anuais** no sul (Alentejo, Algarve), improvável no norte da Europa
 2. **Tradição agrícola:** O cânhamo foi cultivado em Portugal durante séculos, particularmente para cordoaria naval
@@ -40,9 +40,9 @@ Portugal reúne condições excecionais para o cultivo de cânhamo:
 | CBD/extratos | Suplementos, cosmética | €2.000–5.000 |
 | Biomassa total | Energia, bioplásticos | €400–800 |
 
-*Nota: intervalos indicativos, pressuposto dos autores a partir de dados europeus dispersos; não correspondem a uma fonte única nem a ensaios em Portugal. Os valores por produto não são cumulativos no mesmo hectare.*
+*Nota: intervalos indicativos, pressuposto dos autores a partir de dados europeus dispersos; não correspondem a uma fonte única nem a ensaios em Portugal. Os valores por produto não são cumulativos no mesmo hectare. A linha «Fibra» refere-se ao valor da fibra depois da desfibragem industrial; o agricultor vende palha (7–8 t/ha de palha seca, segundo testemunho de produtor publicado pela InterChanvre [@interchanvre2024culture]) e semente, não fibra.*
 
-Para comparação, segundo estimativas da indústria citadas pelo USDA (2020), o cânhamo rendia em Itália cerca de **€600/ha** líquidos, contra cerca de **€300/ha** do trigo duro — aproximadamente o dobro [@usdaitaly2020].
+Para comparação, segundo estimativas da indústria citadas pelo USDA (2020), o cânhamo rendia em Itália cerca de **€600/ha** líquidos, contra cerca de **€300/ha** do trigo duro — aproximadamente o dobro [@usdaitaly2020]; é um lucro líquido, não comparável com a receita bruta das tabelas deste capítulo.
 
 ## Enquadramento Regulatório {#enquadramento-regulatório}
 
@@ -104,23 +104,23 @@ Vários estudos indicam que o cânhamo acumula metais pesados e é um **candidat
 ### Consumo de Água {#consumo-de-água}
 
 * O cânhamo requer cerca de **65–79% menos água** que o algodão para produzir uma quantidade equivalente de fibra (algodão ~9.758 L/kg; cânhamo ~2.000–3.400 L/kg; o relatório apresenta intervalos ligeiramente diferentes em secções distintas) [@stockholm2005]
-* Em condições de sequeiro no Alentejo, o cânhamo pode produzir biomassa suficiente para fibra e semente, enquanto o algodão é praticamente inviável sem irrigação intensiva
+* Em sequeiro, no Alentejo, a produção de biomassa suficiente para fibra e semente é um pressuposto dos autores, a verificar nos ensaios piloto; o algodão exige irrigação intensiva
 * Contribui para a resiliência agrícola face às alterações climáticas e à crescente escassez hídrica no sul de Portugal
 
 ### Saúde do Solo {#saúde-do-solo}
 
 * Sistema radicular profundo (45–90 cm, segundo Placido e Lee 2022 [@pmc2022hemp]) que descompacta o solo e melhora a drenagem
-* Devolve azoto ao solo quando as folhas caem e se decompõem
-* **Naturalmente resistente à maioria das pragas**, reduzindo ou eliminando a necessidade de pesticidas
-* Excelente cultura de rotação — melhora o rendimento das culturas subsequentes
+* Menor necessidade de pesticidas, devolução de nutrientes ao solo pela folhagem e benefício para as culturas seguintes em rotação são afirmações correntes sobre o cânhamo que não têm aqui fonte específica (existe literatura sobre pragas e doenças da cultura); são hipóteses a medir nos ensaios piloto
 
 ## Programa Piloto Nacional {#programa-piloto-nacional}
 
 ### Regiões Prioritárias {#regiões-prioritárias}
 
+Proposta indicativa de quatro regiões; o número final (3-5 regiões, como nos capítulos 1 e 11) depende dos parceiros disponíveis.
+
 | Região | Justificação | Área piloto proposta |
 |--------|-------------|---------------------|
-| **Alentejo** | Maior região agrícola; clima ideal; solos subutilizados; duas colheitas possíveis | 500 ha |
+| **Alentejo** | Maior região agrícola; clima adequado; solos subutilizados; duas colheitas a testar | 500 ha |
 | **Trás-os-Montes** | Tradição agrícola; proximidade da UTAD; clima continental adequado | 200 ha |
 | **Beira Interior** | Terras agrícolas abandonadas; baixa densidade populacional; áreas mineiras a remediar | 150 ha |
 | **Ribatejo** | Solos aluviais do Tejo; tradição de culturas industriais | 150 ha |
@@ -156,16 +156,15 @@ Vários estudos indicam que o cânhamo acumula metais pesados e é um **candidat
 
 A França é o **maior produtor europeu** de cânhamo, representando mais de **60% da produção da UE** [@ec2024]:
 
-* **24.600 hectares** cultivados por **1.850 produtores** em 2024, segundo a interprofissão [@interchanvre2024]; um relatório de mercado estima ~28.000 toneladas de fibra para ~23.000 ha, ou seja, cerca de **1,2 t de fibra/ha** [@marketdataforecast2025]
+* **24.600 hectares** cultivados por **1.850 produtores** em 2024, segundo a interprofissão [@interchanvre2024]; um testemunho de produtor publicado pela mesma interprofissão indica **7–8 t/ha de palha seca** (9–10 t/ha de palha enriada) e cerca de 1.100 kg/ha de semente [@interchanvre2024culture]. Não se encontrou fonte estável para a tonelagem nacional de fibra; o rendimento de **~1,2 t de fibra/ha** usado nas projecções deste capítulo é um pressuposto conservador dos autores
 * Foco principal em fibra para isolamento térmico, papel de cigarro e compósitos automóveis
 * A *InterChanvre* (interprofissão do cânhamo) coordena a cadeia de valor desde 2003 [@interchanvre2024]
-* A produção de fibra representou **60% da produção total de fibra de cânhamo da UE** em 2022 [@hempcbdbusinessplans2024]
 
 ### Itália — Renascença do Cânhamo {#itália-renascença-do-cânhamo}
 
 Itália ilustra o potencial de recuperação de uma indústria histórica:
 
-* Antes da proibição, Itália era o **2.º maior produtor mundial** de cânhamo (atrás da URSS)
+* Antes da proibição, por volta de 1940, Itália era o **2.º maior produtor mundial** de cânhamo (atrás da Rússia), com cerca de 100.000 ha [@usdaitaly2020]
 * A área cultivada passou de **400 hectares em 2013** para **4.000 hectares em 2018** — crescimento de 10× em cinco anos [@enecta2024; @usdaitaly2020]
 * A Lei 242/2016, em vigor desde Janeiro de 2017, relançou o sector: mais de **800 explorações** agrícolas em 2018, como alternativa ao trigo duro [@usdaitaly2020]
 * O rendimento líquido estimado pela indústria (~€600/ha) é **cerca do dobro** do trigo duro (~€300/ha) [@usdaitaly2020]
@@ -184,11 +183,12 @@ Itália ilustra o potencial de recuperação de uma indústria histórica:
 | Indicador | Ano 1 | Ano 3 | Ano 5 | Pressuposto |
 |-----------|-------|-------|-------|-------------|
 | Hectares cultivados | 1.000 | 3.000 | 5.000 | Programa piloto e expansão (secção anterior) |
-| Produção de fibra (t) | 1.200 | 3.600 | 6.000 | 1,2 t de fibra/ha, rendimento francês [@marketdataforecast2025] |
-| Receita bruta ao agricultor (M€) | 0,6–1,2 | 1,8–3,6 | 3–6 | €600–1.200/ha (fibra; tabela acima) |
+| Palha produzida (t) | 7.000–8.000 | 21.000–24.000 | 35.000–40.000 | 7–8 t/ha de palha seca, testemunho de produtor publicado pela InterChanvre [@interchanvre2024culture] |
+| Fibra após transformação industrial (t) | ~1.200 | ~3.600 | ~6.000 | ~1,2 t de fibra/ha, pressuposto conservador dos autores, sem fonte estável |
+| Receita bruta ao agricultor (M€) | 0,6–1,2 | 1,8–3,6 | 3–6 | €600–1.200/ha pela palha e semente (tabela acima; pressuposto dos autores) |
 | Empregos directos | 50–100 | 150–300 | 250–500 | 1 emprego por 10–20 ha, pressuposto dos autores |
 
-*Nota: cenário ilustrativo dos autores, não uma previsão. Não inclui semente, CBD nem valor acrescentado na transformação, que dependem de fileira industrial ainda inexistente em Portugal. Todos os parâmetros devem ser substituídos pelos dados dos ensaios piloto.*
+*Nota: cenário ilustrativo dos autores, não uma previsão. Não inclui CBD nem valor acrescentado na transformação, que dependem de fileira industrial ainda inexistente em Portugal; o rendimento de fibra é o parâmetro menos seguro. Todos os parâmetros devem ser substituídos pelos dados dos ensaios piloto.*
 
 ### Subsídios PAC Disponíveis {#subsídios-pac-disponíveis}
 
@@ -210,7 +210,7 @@ Com 5.000 hectares em produção:
 ## Proposta Legislativa Resumida {#proposta-legislativa-resumida}
 
 1. **Simplificação regulatória** para cânhamo com THC<0,3% — regime de notificação em vez de autorização
-2. **Programa piloto** em 4 regiões com 1.000 ha iniciais
+2. **Programa piloto** em 3-5 regiões (proposta indicativa: as quatro da tabela acima) com 1.000 ha iniciais
 3. **Parcerias universidades-empresas** para I&D e certificação de variedades adaptadas ao clima português
 4. **Incentivos PAC e FEADER** para conversão de culturas e investimento em transformação
 5. **Estratégia de exportação** coordenada pela AICEP para produtos de cânhamo português

@@ -84,6 +84,11 @@ class CheckTest(unittest.TestCase):
         self.assertEqual(len([p for p in problems if "quebrada" in p]), 1)
         self.assertTrue(any("#nao-existe" in p for p in problems))
 
+    def test_reports_auto_id_colliding_with_explicit_id(self):
+        root = make_chapters({"01-a.md": "# A {#a}\n\n#### Fase 1\n", "02-b.md": "# B {#fase-1}\n"})
+        problems = hi.check(root / "chapters", root / "no.lock")
+        self.assertTrue(any("colide" in p and "fase-1" in p for p in problems))
+
     def test_link_to_level4_auto_id_is_valid(self):
         root = make_chapters({"01-a.md": "# A {#a}\n\n#### Detalhe fino\n\nVer [x](#detalhe-fino).\n"})
         self.assertEqual(hi.check(root / "chapters", root / "no.lock"), [])

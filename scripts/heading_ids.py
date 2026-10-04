@@ -120,6 +120,10 @@ def check(chapters_dir, lock_file):
             if h.id in seen:
                 problems.append(f"{h.file.name}:{h.line + 1}: ID duplicado: {h.id}")
             seen.add(h.id)
+    reserved = seen | set(anchors)
+    for h in headings:
+        if not h.id and slugify(h.text) in reserved:
+            problems.append(f"{h.file.name}:{h.line + 1}: ID automático colide com ID explícito: {slugify(h.text)}")
     present = present_ids(headings, anchors)
     for path, i, target in links:
         if target not in present:

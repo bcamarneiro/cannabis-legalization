@@ -264,7 +264,71 @@ Todas as tarefas BAIXA concluídas.
 
 **Última atualização:** 2026-01-26 (BAIXA 5-10 concluídas, TODAS tarefas refinamento completas): BAIXA 5 L751 secção cânhamo movida após medicinal (estrutura lógica: consenso→não-controverso→experimental), BAIXA 6 L71-76+L1680-1686 cânhamo integrado cronogramas (Q4 2026 proposta regulatória → Q2-Q3 2027 aprovação piloto → Q4 2027-2028 implementação ISA/UTAD → 2028-2030 avaliação), BAIXA 7 L2585-2750 modelo económico detalhado Anexo A (5 categorias custos clube €280k-393k/ano = €58-82/mês, 3 modelos financiamento, break-even 400 membros €70/mês optimal, investimento inicial €168k-252k, payback 12-18 meses), BAIXA 8 L1737-1740+L2222-2225 "Resposta ao Chega" simplificada (reduzido ~60 palavras defensivas para ~20 palavras directas "factos falam por si"), BAIXA 9 análise completa comparações álcool (whataboutism já removido BAIXA 8, mantidas referências apropriadas: Lancet científico L484-497, coerência regulatória L1697, backing científico L2244/L2253), BAIXA 10 L71-76+L1680-1686 timeline caveats adicionados (3 cenários: optimista 12 meses Q2 2027, realista 15-18 meses Q3-Q4 2027, conservador 24+ meses 2028+; nota precedente alemão implementação técnica +3-6 meses; timeline já realista baseado Lei 30/2000 PT + CanG Alemanha ambos ~18 meses). **Prioridades: CRÍTICO 5/5 ✅, ALTA 7/7 ✅, MÉDIA 16/16 ✅, BAIXA 10/10 ✅ — DOCUMENTO COMPLETO**
 
-## Auditoria factual e retórica, rondas 1-2 (2026-10-04)
+## Auditoria factual e retórica, rondas 3-4 (2026-10-04)
+
+Ronda 3: oito verificadores independentes, sem acesso aos relatórios anteriores, reabriram as fontes do texto corrigido na ronda 2. Encontraram erros que a própria ronda 2 tinha propagado: residência de 6 meses no KCanG (é lei), INCB 1988 sobre o Canadá (só 1961), três vetos à eutanásia (foram quatro), votação final global da Lei 30/2000 (6-7-2000, não 19-10), preço EUDA (€5,58/g em 2023, não €5,3-5,6). Encontraram também a aritmética do cap. 08 incoerente. Ronda 4: sete agentes corrigiram tudo, com o cap. 08 como referência única da economia (base €40-80M, poupanças €3,2-15,5M/ano, custos €15-20M/ano, custo líquido €4,5-11,8M/ano, −€61M a −€119M a 10 anos, Fase 3 €39-63M/ano), aritmética reverificada por script. Bibliografia: 19 chaves duplicadas fundidas, 9 órfãs removidas, notas de trabalho retiradas dos campos que aparecem na lista de referências, autores inventados corrigidos (pmc2024midwives). Diagramas regenerados (cronograma, estrutura, modelo alemão, balanço fiscal). `heading_ids.py check` passa a detectar colisões entre IDs automáticos e explícitos. Falta a ronda 5 (verificação independente do diff da ronda 4).
+
+Pendências que ficaram por resolver (fontes inacessíveis ou decisões):
+
+### Para o Bruno (só manualmente)
+
+- EUDA Statistical Bulletin 2025, tabela PPP-02-1-1-2-3: o robots.txt da EUDA proíbe acesso automático; confirmar no browser que Portugal mostra €5,58/g em 2023 (base da receita da Fase 3).
+- sicad.pt (Relatório Anual 2018, condenações e processos CDT) e cdphe.colorado.gov (HKCS 2023) estão bloqueados ao acesso automático; guardar os PDFs e indicar páginas.
+- europarl (ep2019cannabis) devolve 202 ao acesso automático; confirmar a resolução P8_TA(2019)0113.
+
+### Cap. 01-03 e 12
+
+- 02:56 — "10,5% ao longo da vida (15-74)" [@sicad2022]: valor não encontrado em documento aberto; obter o quadro 15-74 do relatório final do INPG 2022 ou usar 12,2% (15-64) [@balsa2023inpgnota].
+- 03:47 — DL 430/83: falta entrada bib com URL do DRE.
+- 02:47 — ribeiro2024economic: autoria e ano por confirmar (ResearchGate 403; possivelmente Mendonça et al., Jan 2025).
+- 01, 03, 06, 10 — dn2023condenacoes é coluna de opinião (424 condenações em 2021): citar a fonte primária (RA 2021 do SICAD ou DGPJ).
+
+### Cap. 04 e 06
+
+- 06:71 — peso do cultivo indoor na produção ilegal europeia: frase suavizada e sem citação; citar EU Drug Market: Cannabis (EUDA/Europol, 2023) quando acessível.
+- 06:32 — Colorado 27% do gasto (Arcview via Westword): fonte primária.
+- 04:82 — idade 21 nos EUA e no Quebeque: citar NCSL e LégisQuébec.
+- 04:194 — Colorado 5 ng/ml em sangue total: citar C.R.S. 42-4-1301(6)(a)(IV).
+- 04:166 — Nutt et al. 2010: confirmar pp. 1563-1564 para repor a atribuição da advertência.
+- 04:231 — excepção medicinal sem limiar: fundamentar (Ramaekers 2009; Bosker 2012) ou pedir parecer técnico (INMLCF/ANSR).
+- 04:238 — rótulo "6 h após inalação / 12 h após ingestão" é margem dos autores; validar.
+
+### Cap. 05 e 07
+
+- Manthey et al. 2025 (paywall): abrir o texto integral para repor, com atribuição correcta, os valores retirados (≤2% membros; <0,1% da procura).
+- 05:188-194 — AP e Bangkok Post (paywall): números confirmados só via Nation Thailand.
+- 07:84 — inquérito DocCheck "divulgado pela Bloomwell": confirmar quem o encomendou.
+- 07:7,18 — "cerca de 17 kg vendidos em 2023": período ambíguo na fonte; confirmar no Infarmed.
+
+### Cap. 08
+
+- Pressuposto dos 46 clubes: usa o rácio alemão de Novembro de 2025 (84M/357). Com os dados de 1-10-2026 (494 licenças) seriam cerca de 63 clubes. Decidir se se actualiza (muda toda a análise de sensibilidade e os números canónicos).
+- 08:127 — DDN 2022 (álcool e tabaco aos 18): valores retirados; repor só com o PDF do relatório.
+- 08:355-370 — sciety2025illicit é preprint; substituir pela versão publicada (J Cannabis Res, 2026, DOI 10.1186/s42238-026-00414-y) depois de a confirmar.
+- 08:977 — consultas informais Alemanha–Comissão (2022-23) e fim da coligação: acrescentar citação (o cap. 05 cita INCB §182; os caps. 10 e 11 citam mitmischen2024ampel).
+- 08:1057 — população de Espanha "47M" (INE ≈ 48M): recalcular o rácio 1:47-59k.
+
+### Cap. 09-11 e anexo E
+
+- 09 — tonelagem nacional de fibra em França (InterChanvre/FranceAgriMer); 1,2 t/ha fica como pressuposto; custos de terra e trabalho (Eurostat); revisão agronómica (p. ex. Amaducci et al. 2015); preço da palha.
+- 10, 17 — CHEGA: nenhum documento oficial encontrado; Malta: citar a lei (Cap. 628) com artigos; PS a 18-1-2019: RTP diz 8 deputados contra, Polígrafo diz 7.
+- 11 — motivo da nova votação do Decreto n.º 25/VIII (19-10-2000) não verificado (parlamento.pt BID=6026).
+- 10, 11 — IDs com "probabilidade-20-30/40-50" e "comissão-europeia-bloqueou" mantidos por causa do lock (cosmético).
+
+### Anexos A-C
+
+- 13:181, 13:351 — bcav2025 (791/357, Nov 2025): a página só mostra o estado a 1-10-2026; arquivar ou citar notícia datada.
+- 13:223-322 — modelo de custos do Anexo A é pressuposto dos autores (aritmética corrigida: testes €18.000-43.200/ano; total €280.600-407.200 para 400 membros); consumo médio de 15-30 g/mês sem fonte própria.
+- 15:13, 15:24 — CanLeg autorizado em Junho de 2026: falta uma fonte datada na entrada bib.
+- 15:217 — "sem medidas formais" do INCB contra esses países: afirmação por ausência.
+- 14:9, 14:34 — EUR-Lex inacessível (Dir. 2002/57/CE; Reg. 2021/2115); corroborado só pela página da Comissão.
+
+### Anexo D
+
+- 16:43/74/303 — IDs "ataque-N" (sem nome de partido) mantidos para não quebrar ligações.
+- 16:442/452 — comparação UE 15-34 anos (4,9% vs ~15%) não consta do cap. 02; confirmar no Statistical Bulletin e acrescentar, ou retirar.
+
+## Auditoria factual e retórica, rondas 1-2 (2026-10-04) — histórico (muitos itens resolvidos nas rondas 3-4)
 
 Oito auditores reabriram todas as fontes (ronda 1: 77 fontes mal representadas, 96 exageros, 124 afirmações sem suporte, 90 problemas de retórica, 217 OK); sete agentes de correcção trataram todos os itens (ronda 2). Relatórios completos em `/tmp/audit-r1/` (não versionados). Resultado mais importante: com o denominador correcto (≈180.000 consumidores no último ano, ICAD) o balanço dos clubes é negativo em todos os cenários (cap. 08). Pendências que ficaram por resolver, por grupo:
 

@@ -2,13 +2,13 @@
 
 # PILAR 2: CANNABIS RECREATIVA {#pilar-2-cannabis-recreativa-1}
 
-Proposta baseada no modelo alemão (KCanG) [@kcang2024; @bundesgesundheit2024faq], adaptada a Portugal:
+Proposta baseada no modelo alemão (KCanG) [@kcang2024; @bundesministerium2024], adaptada a Portugal:
 
 **Nota importante:** Esta proposta NÃO contempla o modelo comercial de dispensários (tipo Canadá/EUA). Propõe-se exclusivamente: (1) clubes sociais sem fins lucrativos, onde os preços reflectem apenas custos de produção; e (2) autocultivo com sementes de fornecedores certificados. A menor conveniência face ao mercado negro é intencional — evita comercialização excessiva e turismo cannábico, mantendo foco na saúde pública.
 
 ## Posse e consumo {#posse-e-consumo}
-* Idade mínima: **21 anos** para compra livre
-* Menores de 21 (18-20): apenas via clubes sociais, THC máximo 10%
+* Idade mínima: **18 anos** (clubes sociais e autocultivo); não há venda comercial nesta fase
+* 18-20 anos: THC máximo 10% e 30 g/mês; a partir dos 21 anos: 50 g/mês. Uma eventual venda comercial (Fase 3, condicional) seria só para maiores de 21
 * Posse em público: até 25g
 * Posse em casa: até 50g
 
@@ -18,8 +18,8 @@ Proposta baseada no modelo alemão (KCanG) [@kcang2024; @bundesgesundheit2024faq
 
 * Máximo 500 membros
 * Sem fins lucrativos (cost-recovery — apenas custos reais, sem lucro)
-* Residência em Portugal há pelo menos 6 meses (proposta PT; o §16(4) KCanG exige residência na Alemanha, sem prazo mínimo [@kcang2024])
-* Distribuição: máx. 25g/dia, 50g/mês
+* Residência em Portugal há pelo menos 6 meses (como no KCanG: o §16(4) exige residência ou permanência habitual na Alemanha, que o §1 n.º 16-17 define como há pelo menos seis meses [@kcang2024])
+* Distribuição: máx. 25 g/dia e 50 g/mês (18-20 anos: 30 g/mês e THC ≤10%, como no §19 KCanG)
 * 200 metros de escolas e espaços para crianças
 * Consumo proibido nas instalações
 * Controlo de qualidade obrigatório (testes de potência e contaminantes)
@@ -44,7 +44,7 @@ Cada clube deve ter um **Präventionsbeauftragter** (Oficial de Prevenção) —
 
 1. **Educação na admissão (obrigatória)**
    - Sessão individual 30-45 minutos antes do primeiro acesso
-   - Tópicos obrigatórios: riscos de dependência (transição para dependência ~9% dos utilizadores ao longo da vida, mais elevada em quem consome diariamente [@lopezquintero2011]), psicose (OR 3,2 para uso diário; OR 4,8 para uso diário de cannabis com THC ≥10% [@di2019]), impacto cognitivo 18-25 anos, **riscos poliuso cannabis+álcool/tabaco**
+   - Tópicos obrigatórios: riscos de dependência (transição para dependência ~9% dos utilizadores ao longo da vida, mais elevada em quem consome diariamente [@lopezquintero2011]), psicose (aOR 3,2 para uso diário; aOR 4,8 para uso diário de cannabis com THC ≥10% [@di2019]), impacto cognitivo 18-25 anos, **riscos poliuso cannabis+álcool/tabaco**
    - **Screening rápido saúde mental:** PHQ-2 (depressão), GAD-2 (ansiedade), histórico psicose familiar
    - **Screening poliuso:** AUDIT-C (álcool, 3 questões), consumo tabaco (sim/não, frequência), outras substâncias (últimos 12 meses)
    - Documentação assinada pelo membro confirmando compreensão dos riscos
@@ -124,7 +124,7 @@ Para uma descrição detalhada do funcionamento deste modelo, ver Anexo A.
 
 Os dados portugueses disponíveis sobre poliuso vêm do inquérito aos jovens de 18 anos participantes no Dia da Defesa Nacional (2022): 8% dos inquiridos e **36% dos consumidores de cannabis** consumiram cannabis e álcool na mesma ocasião nos últimos 12 meses; 3% dos inquiridos (24% dos consumidores) tinham consumo diário de cannabis [@sicad2022prevalence]. Não dispomos de um valor equivalente para a população adulta em geral (o V Inquérito Nacional 2022 não publica, no sumário, a taxa de co-uso), nem de um valor específico para o co-uso com tabaco.
 
-No mesmo inquérito, aproximadamente 7 a 8 em cada 10 jovens de 18 anos beberam álcool, 4 fumaram tabaco e 2 consumiram pelo menos uma substância ilícita (principalmente cannabis) nos 12 meses anteriores (álcool 78%, tabaco 36%, qualquer droga 27% segundo o Relatório Anual 2022 [@sicad2022prevalence]).
+No mesmo inquérito, 27% dos jovens de 18 anos tinham consumido pelo menos uma substância ilícita (principalmente cannabis) nos 12 meses anteriores [@sicad2022prevalence].
 
 **Riscos do poliuso cannabis + álcool/tabaco** (síntese dos autores a partir de conhecimento farmacológico geral; não citamos aqui estudos específicos e os pontos abaixo devem ser lidos como fundamentação, não como resultados quantificados):
 
@@ -252,13 +252,13 @@ Os pontos acima são raciocínio dos autores sobre dinâmicas de grupo, não res
 
 **Reconhecimento de limitações:**
 
-Nenhum modelo elimina o risco de peer influence. Clubes sempre terão dimensão social (mesmo sem consumo no local, membros podem conhecer-se em assembleias e eventos educativos). Os modelos existentes situam-se num gradiente de medidas — a Espanha e a Holanda têm medidas próprias, ainda que diferentes — e a proposta portuguesa acrescenta prevenção formal obrigatória.
+Nenhum modelo elimina o risco de peer influence. Clubes sempre terão dimensão social (mesmo sem consumo no local, membros podem conhecer-se em assembleias e eventos educativos). Os modelos existentes situam-se num gradiente de medidas, e a proposta portuguesa acrescenta prevenção formal obrigatória.
 
 **Justificação:** Um ambiente de grupo pode normalizar uso frequente. Espera-se que a proibição de consumo no local, o Oficial de Prevenção e a educação explícita sobre pressão de pares reduzam este risco; essa expectativa deve ser avaliada na monitorização, pois não há avaliação empírica comparando modelos.
 
 #### Sistema de Monitorização e Transparência Financeira
 
-**Tracking de distribuições** (modelo alemão [@cang2024; @justbob2024cscs]):
+**Tracking de distribuições** (modelo alemão [@bundesgesundheit2024cannabis; @justbob2024cscs]):
 
 Os clubes devem implementar **rastreabilidade completa** da cannabis cultivada, assegurando:
 
@@ -269,18 +269,18 @@ Os clubes devem implementar **rastreabilidade completa** da cannabis cultivada, 
 
 **Transparência financeira — Modelo base alemão (§1 Nr. 13, §§24 e 26 KCanG) [@kcang2024]:**
 
-- **Princípio sem fins lucrativos (§1 Nr. 13 KCanG) [@kcang2024]:** Os clubes são associações sem fins lucrativos e as quotas destinam-se a cobrir custos; o §24 apenas exige que as contribuições sejam fixadas nos estatutos e o §25 limita-se ao reembolso de custos do material de propagação. A natureza não lucrativa, transparente e democrática dos clubes é descrita em [@cannabusinessplans2024cscs]; o detalhe da regra de preço ao custo ("selbstkostendeckend") consta do FAQ do Ministério da Saúde [@cang2024]
-- **Documentação contínua obrigatória (§26 KCanG) [@kcang2024]:** Registos de quantidades cultivadas e distribuídas, THC médio e armazenamento (variedades apenas nos transportes) — preservados 5 anos, inspecionáveis pelas autoridades (CBD médio e registo de strains por membro são acrescentos propostos para Portugal)
-- **Submissão anual a autoridades (§26 KCanG) [@kcang2024]:** Dados anonimizados até 31 Janeiro (quantidades cultivadas e distribuídas, THC médio; a lista exacta segue a lei, ver acima)
+- **Princípio sem fins lucrativos (§1 Nr. 13 KCanG) [@kcang2024]:** Os clubes são associações sem fins lucrativos e as quotas destinam-se a cobrir custos; o §24 apenas exige que as contribuições sejam fixadas nos estatutos e o §25 trata apenas do reembolso dos custos do material de propagação cedido a terceiros, sem regular os preços aos membros. A natureza não lucrativa, transparente e democrática dos clubes é descrita em [@cannabusinessplans2024cscs]; o detalhe da regra de preço ao custo ("selbstkostendeckend") consta do FAQ do Ministério da Saúde [@bundesgesundheit2024cannabis]
+- **Documentação contínua obrigatória (§26 KCanG) [@kcang2024]:** Registos das quantidades cultivadas, distribuídas e armazenadas e do teor médio de THC das entregas — preservados 5 anos, inspecionáveis pelas autoridades (o registo das variedades entregues a cada membro é acrescento proposto para Portugal)
+- **Submissão anual a autoridades (§26(3) KCanG) [@kcang2024]:** Relatório anual, até 31 de Janeiro, com as quantidades cultivadas e distribuídas discriminadas por variedade e pelo teor médio de THC e de CBD de cada variedade
 - **Assembleia Geral:** Aprovação anual do relatório financeiro por todos os membros
 - **Transparência interna:** Membros verificam que quotas cobrem apenas custos reais, sem lucro
 
 **Safeguards adicionais propostos para Portugal:**
 
-Em Espanha, sem regulação nacional e com fiscalização desigual, a literatura descreve uma grande heterogeneidade entre clubes, incluindo alguns com funcionamento de facto comercial [@pardal2020mapping]. Para reduzir esse risco, Portugal deve adicionar mecanismos ausentes na Alemanha e em Espanha:
+Em Espanha, sem regulação nacional e com fiscalização desigual, a literatura descreve uma variação muito grande de dimensão e profissionalização entre clubes (de 6 a 5.000 membros), e os autores admitem a existência de clubes "mais comerciais" [@pardal2020mapping]. Para reduzir esse risco, Portugal deve adicionar mecanismos ausentes na Alemanha e em Espanha:
 
 - **Auditoria externa independente anual:** Obrigatória para todos os clubes, conduzida por auditor certificado não-membro, relatório publicado online e submetido a SICAD — recusa de publicação resulta em suspensão imediata da licença
-- **Transparência de preços:** Clubes definem preços com base nos custos reais de produção, qualidade do produto e situação financeira — sem tecto rígido. Obrigatória a publicação de custos de produção por grama e a afixação visível de preços. Preço de referência indicativo (não vinculativo) publicado anualmente por SICAD com base em custos médios dos clubes licenciados. Objectivo: competitividade com o mercado ilegal (preço de retalho da cannabis herbácea em Portugal €5,3-5,6/g, EUDA [@euda2025ppp]) sem impor rigidez que comprometa viabilidade
+- **Transparência de preços:** Clubes definem preços com base nos custos reais de produção, qualidade do produto e situação financeira — sem tecto rígido. Obrigatória a publicação de custos de produção por grama e a afixação visível de preços. Preço de referência indicativo (não vinculativo) publicado anualmente por SICAD com base em custos médios dos clubes licenciados. Objectivo: competitividade com o mercado ilegal (preço médio de retalho da cannabis herbácea em Portugal: €5,58/g em 2023, entre €5,36 e €5,82 em 2019-2023, EUDA [@euda2025ppp]) sem impor rigidez que comprometa viabilidade
 - **Proibição absoluta retenção excedentes:** Qualquer surplus (receitas > custos + reserva operacional 10%) é automaticamente doado a SICAD trimestralmente para financiar prevenção/tratamento — distribuição de lucros a membros/direcção resulta em revogação permanente
 - **Dashboard mensal online público:** Divulgação a membros + SICAD de vendas totais (€), custos operacionais agregados, pagamentos direcção/funcionários, número membros activos
 
@@ -289,7 +289,7 @@ Em Espanha, sem regulação nacional e com fiscalização desigual, a literatura
 As autoridades regionais (Länder) conduzem [@cannabis420eu2024]:
 
 - **Inspeções e controlos aleatórios:** Verificação física de stocks, distribuições registadas, proteção menores, conformidade limites
-- **Análises laboratoriais (proposta para Portugal):** Testes aleatórios de THC e contaminantes (pesticidas, metais pesados, fungos); a fonte citada não os refere
+- **Análises laboratoriais:** Testes de THC e contaminantes (pesticidas, metais pesados, fungos) no âmbito do controlo de qualidade exigido pela lei (§21 KCanG [@kcang2024]); a fonte secundária refere inspecções no local e análises laboratoriais
 - **Verificação documental:** Auditoria de registos de distribuição e conformidade com limites legais
 - **Acesso a registos:** Autoridades podem inspecionar documentação (§26 KCanG) [@kcang2024] a qualquer momento
 
@@ -298,16 +298,16 @@ As autoridades regionais (Länder) conduzem [@cannabis420eu2024]:
 - **Meta específica de inspecções:** Mínimo 10% dos clubes auditados por trimestre (selecção aleatória) — cria previsibilidade estatística de fiscalização que desincentiva desvios
 - **Programa de whistleblowing:** Canal confidencial para membros reportarem suspeitas de desvios comerciais (revenda, manipulação preços, não-compliance) anonimamente a SICAD — denunciante protegido contra retaliação, denúncias comprovadas que levem a revogação resultam em reembolso de quotas ao denunciante
 
-**Consequências por incumprimento** [@cang2024]:
+**Consequências por incumprimento** [@bundesgesundheit2024cannabis]:
 
-O regime alemão prevê a revogação da licença após violações repetidas dos limites de cultivo e distribuição [@cang2024]. O regime sancionatório gradual abaixo é **proposta específica para Portugal** (sem correspondência directa na fonte alemã):
+O regime alemão prevê a revogação da licença após violações repetidas dos limites de cultivo e distribuição [@bundesgesundheit2024cannabis]. O regime sancionatório gradual abaixo é **proposta específica para Portugal** (sem correspondência directa na fonte alemã):
 
 - **Clube sem Oficial de Prevenção qualificado:** Licença suspensa até regularização (máximo 30 dias) + coima €500-2.000
 - **Violação de limites de distribuição:** Primeira infração: advertência escrita + auditoria forçada. Reincidência: licença revogada
 - **Falta de transparência financeira:** Recusa de apresentar contas ou auditoria = licença revogada imediatamente
 - **Distribuição a menores:** Revogação permanente da licença + processo criminal contra responsáveis
 
-**Justificação:** Framework alemão estrutura fiscalização rigorosa + transparência total para modelo non-profit. A rastreabilidade individual é necessária (limites legais), mas dados permanecem privados salvo fiscalização. A evidência sobre deslocação do mercado ilegal vem de modelos comerciais, não de clubes: no Canadá, cerca de 78% da despesa em cannabis ia para fontes legais em 2022 [@hammond2025] e ~30% da despesa continuava não licenciada em 2024 [@statcan2025cannabis]; 3% dos consumidores indicam fonte habitual ilegal [@healthcanada2024]. Na Alemanha, o relatório intercalar oficial conclui que os clubes ainda não deslocaram o mercado ilegal de forma significativa [@ekocan2025], e um inquérito representativo encontrou 50,7% de consumidores com alguma fonte legal [@manthey2025germany].
+**Justificação:** Framework alemão estrutura fiscalização rigorosa + transparência total para modelo non-profit. A rastreabilidade individual é necessária (limites legais), mas dados permanecem privados salvo fiscalização. A evidência sobre deslocação do mercado ilegal vem de modelos comerciais, não de clubes: no Canadá, cerca de 78% da despesa em cannabis ia para fontes legais em 2022 [@hammond2025] e ~30% da despesa continuava não licenciada em 2024 [@statcan2025cannabis]; 3% dos consumidores indicam fonte habitual ilegal [@healthcanada2024]. Na Alemanha, o relatório intercalar oficial conclui que os clubes ainda não deslocaram o mercado ilegal de forma significativa [@ekocan2025], e um inquérito ponderado em painel online encontrou 50,7% de consumidores com alguma fonte legal [@manthey2025germany].
 
 #### Proteção Materno-Infantil
 
@@ -344,7 +344,7 @@ Evidência científica sobre exposição THC (estudos pequenos; valores quantita
 - **Sem penalização:** A ACOG apoia a referenciação para tratamento e critica políticas punitivas; daí decorre, de forma indirecta, que grávidas que auto-reportem uso de cannabis não devam ser penalizadas legalmente (evitar sub-reporte)
 - **Redução de danos:** Se cessação completa impossível, reduzir para menor quantidade possível [@sogc2022cannabis]
 
-**Justificação:** As guidelines ACOG 2025 descrevem um risco de resultados adversos que aumenta de forma dose-dependente (baixo peso ao nascer, NICU, mortalidade perinatal). CDC e AAP recomendam cessação durante a amamentação. A Alemanha enfrenta desafio similar pós-legalização (Abril 2024) — um estudo de 2025 com 143 parteiras aponta necessidade de formação dos profissionais de saúde [@pmc2024midwives]. Portugal pode implementar estas protecções desde o início.
+**Justificação:** As guidelines ACOG 2025 descrevem um risco de resultados adversos que aumenta de forma dose-dependente (baixo peso ao nascer, NICU, mortalidade perinatal). CDC e AAP recomendam cessação durante a amamentação. A Alemanha enfrenta desafio similar pós-legalização (Abril 2024) — um inquérito de 2025 a parteiras e médicos (N=284, Maio-Outubro de 2024) aponta necessidade de formação dos profissionais de saúde [@pmc2024midwives]. Portugal pode implementar estas protecções desde o início.
 
 #### Controlo de Qualidade e Segurança dos Produtos
 
@@ -352,7 +352,7 @@ Evidência científica sobre exposição THC (estudos pequenos; valores quantita
 
 Estudos recentes 2024-2025 documentam níveis elevados de contaminação em cannabis ilícita:
 
-**Estudo Dezembro 2025 — Cannabis ilícita vs. mercado licenciado canadiano** [@sciety2025illicit]:
+**Preprint de Dezembro de 2025, não revisto por pares — Cannabis ilícita vs. mercado licenciado canadiano** [@sciety2025illicit]:
 
 | Contaminante | Cannabis Ilícita | Mercado Licenciado |
 | :---- | :---- | :---- |
@@ -377,7 +377,7 @@ O mesmo preprint (50 amostras ilícitas e 50 licenciadas) refere também que 20%
 
 ##### Solução: Testes Obrigatórios em Clubes Sociais
 
-Modelo alemão KCanG/CanG 2024 (adotado como base para PT) [@eurofins2024] (afirmação do laboratório; a fonte não é a lei):
+Modelo alemão KCanG 2024 (adoptado como base para PT): a lei exige controlo de qualidade (§21 KCanG [@kcang2024]); a lista de testes abaixo segue a descrição do laboratório Eurofins [@eurofins2024] e é proposta para Portugal:
 
 **Testes obrigatórios antes de distribuição aos membros:**
 
@@ -401,7 +401,7 @@ Modelo alemão KCanG/CanG 2024 (adotado como base para PT) [@eurofins2024] (afir
 
 - **Custo por teste completo:** €150-300/lote (análise multi-parâmetro)
 - **Financiamento:** Custos testes incluídos na quota mensal membros (cost-recovery, sem lucro)
-- **Escala:** Clubes 500 membros produzindo 25 kg/mês (~1 lote/semana) = €600-1.200/mês testes (~2,5% custos operacionais)
+- **Escala (pressuposto dos autores):** um clube de 500 membros tem um tecto teórico de 15-25 kg/mês (500 × 30-50 g, os máximos legais mensais); com o consumo médio assumido no Anexo A (15-30 g/mês por membro) produz 7,5-15 kg/mês. O Anexo A orça os testes em €18-43 mil/ano por clube (€150-300 por lote, 10-12 lotes por mês), cerca de 5-11% dos custos anuais de um clube de 500 membros
 
 **Comparação mercado negro vs. clubes:**
 
@@ -418,14 +418,14 @@ Modelo alemão KCanG/CanG 2024 (adotado como base para PT) [@eurofins2024] (afir
 Cannabis de autocultivo (3 plantas) com **sementes de origem e genética conhecidas** reduz a incerteza face ao mercado negro, mas não a elimina:
 
 - **Sementes testadas (proposta para Portugal):** Fornecedores licenciados obrigados a testar lotes de sementes (pesticidas, metais, microorganismos) antes da distribuição. Testar sementes **não** controla pesticidas, fungos ou metais no produto cultivado em casa — depende do cultivador
-- **Cultivo biológico:** Nos pilotos suíços, a cannabis deve ser, "se possível", de origem suíça e de agricultura biológica (art. 9 BetmPV); não é exigida certificação nem há proibição explícita de pesticidas sintéticos [@bagch2024pilots]
+- **Cultivo biológico:** Nos pilotos suíços, a cannabis vendida tem de ser cultivada na Suíça segundo as normas da agricultura biológica (regra do art. 8.º BetmPV, com derrogação apenas para produtos fitofarmacêuticos autorizados em agricultura biológica; o art. 9.º fixa os requisitos de qualidade do produto) [@bag2025pilotversuche; @bagch2024pilots]
 - **Potência esperada:** Sementes de genética estabilizada permitem antecipar a gama de THC (variedades ≤10% para 18-20 anos); o THC final depende também das condições de cultivo, pelo que a potência real só se conhece com teste ao produto
 
 **Conclusão:** A regulação com testes obrigatórios transforma a cannabis de substância de composição desconhecida (mercado negro: 94% das amostras com pesticidas, 73% com fungos acima dos limites, metais pesados mais prevalentes [@sciety2025illicit]) em produto testado, com falhas residuais documentadas mesmo em mercados regulados (20% das amostras legais acima dos limites microbianos no mesmo preprint). Esta é uma das justificações de saúde pública para a regulação — não é possível garantir a segurança de produtos ilícitos.
 
 ## Autocultivo regulado *(proposta de compromisso)* {#autocultivo-regulado-proposta-de-compromisso}
 * Até 3 plantas por adulto
-* **Sementes apenas de fornecedores autorizados** (THC conhecido)
+* **Sementes apenas de fornecedores autorizados** (potencial de THC da variedade conhecido; o teor final depende do cultivo — nenhuma jurisdição certifica um "THC máximo" por semente)
 * Plantas seguras e inacessíveis a menores
 * Proibida venda ou cedência
 
@@ -435,7 +435,7 @@ Cannabis de autocultivo (3 plantas) com **sementes de origem e genética conheci
 
 ##### Comparação com Produção Doméstica de Vinho
 
-Portugal permite produção doméstica de vinho para consumo familiar; segundo o Instituto da Vinha e do Vinho, a Declaração de Colheita e Produção é obrigatória para os operadores que colheram uvas, com isenção apenas para viticultores associados a cooperativas que entregaram toda a uva e mantiveram o direito de vinificar menos de 10 hl para uso doméstico [@ivv2025]. O limite de 1.000 litros/ano sem declaração para produção doméstica em geral não consta desta fonte e carece de verificação na legislação vitivinícola (DL 213/2004). O enforcement é **reactivo** (queixas de vizinhos, suspeita de venda comercial) não **proactivo** (inspecções domiciliares aleatórias).
+Portugal permite produção doméstica de vinho para consumo familiar; segundo o Instituto da Vinha e do Vinho, a Declaração de Colheita e Produção é obrigatória para os operadores que colheram uvas, com isenção apenas para viticultores associados a cooperativas que entregaram toda a uva e mantiveram o direito de vinificar menos de 10 hl para uso doméstico [@ivv2025]. No plano fiscal, o Código dos Impostos Especiais de Consumo trata como "pequenos produtores de vinho" quem produz em média menos de 1.000 hl por ano e dispensa-os das obrigações de controlo da produção e da circulação (CIEC, art. 81.º [@ciec2010]). O enforcement é **reactivo** (queixas de vizinhos, suspeita de venda comercial) não **proactivo** (inspecções domiciliares aleatórias).
 
 **Contexto internacional — União Europeia:**
 
@@ -443,9 +443,9 @@ Segundo estudo 2024 publicado no PMC, 12 países da UE isentam a produção dom�
 
 | País | Limite Vinho Caseiro | Fiscalização |
 | :---- | :---- | :---- |
-| **Portugal** | <10 hl para consumo doméstico (isenção de declaração só para associados de cooperativas) [@ivv2025]; limite geral por confirmar (DL 213/2004) | Reactiva (sem inspecções domiciliárias de rotina) |
+| **Portugal** | <10 hl para consumo doméstico (isenção de declaração só para associados de cooperativas) [@ivv2025]; pequenos produtores <1.000 hl/ano dispensados do controlo de produção e circulação (CIEC, art. 81.º [@ciec2010]) | Reactiva (sem inspecções domiciliárias de rotina) |
 | **Eslovénia** | 600 litros/ano | Isento de impostos |
-| **Holanda** | 90 litros/ano | Isento de impostos |
+| **Holanda** | 90 litros/ano (valor de inquérito a peritos, não da lista legislativa da fonte) | Isento de impostos |
 | **Alemanha** | Sem limite específico para vinho | Apenas 200L cerveja limitados; vinho não especificado |
 | **Malta/Luxemburgo** | Sem informação suficiente na fonte [@pmc2024alcohol] | — |
 
@@ -468,14 +468,14 @@ O autocultivo de cannabis seguirá o mesmo modelo de enforcement reactivo, com u
 | **Controlo potência** | Nenhum — teor alcoólico varia sem controlo | Parcial — genética conhecida permite antecipar a gama de THC; a potência final depende do cultivo |
 | **Rastreabilidade** | Inexistente — uvas de qualquer origem | Da semente ao clube licenciado |
 | **Testes qualidade** | Nenhum obrigatório (pesticidas, metais) | Testes obrigatórios às sementes (ver sistema certificação); o produto cultivado em casa não é testado |
-| **Enforcement comercial** | Venda ilegal = infracção fiscal | Venda/cedência ilegal = tráfico (>20 plantas) |
+| **Enforcement comercial** | Venda ilegal = infracção fiscal | Venda/cedência proibida; >20 plantas = presunção de tráfico (escalões propostos pelos autores, ver abaixo) |
 
 **Modelo de enforcement cannabis:**
 
 * **Enforcement reactivo:** Autoridades actuam mediante denúncias (queixas vizinhos por odor, suspeita de venda) ou indícios de cultivo comercial (consumo eléctrico anómalo, publicidade online)
 * **Sem fiscalização porta-a-porta:** Não haverá inspecções domiciliares aleatórias para verificar número de plantas
-* **Foco em tráfico, não consumo pessoal:** 3 plantas (rendimento ~90-450g/ano) é claramente uso pessoal. Operações acima de 10-20 plantas indicam fins comerciais
-* **Proporcionalidade:** Cultivo de 4-5 plantas = contra-ordenação (coima), não crime. Cultivo >20 plantas = presunção de tráfico (investigação criminal)
+* **Foco em tráfico, não consumo pessoal:** 3 plantas (rendimento ~90-450 g/ano, estimativa dos autores) são uso pessoal; mais de 20 plantas indicia fins comerciais
+* **Proporcionalidade (escalões propostos pelos autores; a lei actual não fixa limiares de plantas):** 4-20 plantas = contra-ordenação graduada (coima proporcional ao excesso), não crime; mais de 20 plantas = presunção de tráfico (investigação criminal)
 
 **Justificação:** Portugal tolera a produção doméstica de vinho (substância psicoactiva cujo risco de transição para dependência ao longo da vida entre utilizadores é de ~15-23%, contra ~9% para a cannabis [@lopezquintero2011; @anthony1994]) sem fiscalização proactiva. Aplicar enforcement proactivo a 3 plantas de cannabis seria, na avaliação dos autores, incoerente com esse tratamento. O modelo reactivo focado no tráfico de grande escala protege a privacidade, e a cannabis tem a vantagem adicional de sementes de origem rastreável.
 
@@ -486,7 +486,7 @@ O autocultivo de cannabis seguirá o mesmo modelo de enforcement reactivo, com u
 
 #### Sistema de Sementes Certificadas
 
-**Modelo híbrido baseado em Alemanha e Suíça** [@bundesgesundheit2024faq; @bagch2024pilots]:
+**Modelo híbrido baseado em Alemanha e Suíça** [@bundesministerium2024; @bagch2024pilots]:
 
 **Distribuição via clubes sociais** (modelo alemão):
 
@@ -501,12 +501,12 @@ Fornecedores de sementes devem obter licença de Infarmed/DGAV com os seguintes 
 
 - **Testes obrigatórios:** Testes a pesticidas, metais pesados, micotoxinas, microorganismos (segundo o laboratório Eurofins, na Alemanha são agora obrigatórios [@eurofins2024]; a frequência por lote é proposta para Portugal)
 - **Rastreabilidade seed-to-sale:** Documentação completa da origem genética ao clube
-- **Cultivo biológico certificado:** Sem pesticidas sintéticos ou fertilizantes químicos (proposta PT; na Suíça o cultivo biológico é pedido "se possível", sem certificação obrigatória — ver acima)
+- **Cultivo biológico certificado:** Sem pesticidas sintéticos ou fertilizantes químicos (como nos pilotos suíços, onde o cultivo segundo as normas biológicas é a regra — art. 8.º BetmPV, ver acima; a certificação formal é proposta PT)
 - **Auditoria anual:** Inspecção de instalações, verificação conformidade, testes aleatórios
 
 **Variedades autorizadas:**
 
-- **THC máximo sementes:** 10% para 18-20 anos (seguindo modelo alemão clubes). Maiores de 21 anos sem restrição THC
+- **Potencial de THC das variedades:** ≤10% para 18-20 anos (seguindo o limite alemão para clubes); maiores de 21 anos sem restrição de THC
 - **Catálogo variedades:** Fornecedores submetem variedades para aprovação (genética estabilizada, THC previsível)
 - **Rotulagem obrigatória:** Cada semente/pacote com THC esperado, CBD, rácio, instruções cultivo
 
@@ -517,7 +517,7 @@ Fornecedores de sementes devem obter licença de Infarmed/DGAV com os seguintes 
 - **Penalidades:** Fornecedores não licenciados = coima €5.000-50.000 + apreensão stock
 - **Reconhecimento:** Impossível eliminar 100% sementes ilegais (tal como produção doméstica vinho ilegal existe), mas sistema reduz risco vs. mercado negro
 
-**Justificação:** Alemanha permite clubes distribuírem 7 sementes/mês de seedbanks UE (sem certificação formal). Suíça exige produtores licenciados com transparência seed-to-sale e, se possível, cultivo biológico [@bagch2024pilots]. Modelo português combina praticabilidade alemã (distribuição via clubes) com rigor suíço (licenciamento produtores + testes qualidade).
+**Justificação:** Alemanha permite clubes distribuírem 7 sementes/mês de seedbanks UE (sem certificação formal). Suíça exige produtores licenciados com transparência seed-to-sale e cultivo segundo as normas biológicas (art. 8.º BetmPV) [@bagch2024pilots; @bag2025pilotversuche]. Modelo português combina praticabilidade alemã (distribuição via clubes) com rigor suíço (licenciamento produtores + testes qualidade).
 
 Para informação sobre o sistema de sementes certificadas proposto, ver Anexo B.
 
@@ -581,7 +581,7 @@ Para evitar concentração de mercado, permitir **máximo 1-2 clubes por produto
 - **Transparência de preços aplica-se:** Publicação obrigatória de custos de produção e preços, excedentes doados a SICAD (como todos os clubes)
 - **Governance rigorosa:** Mesmas obrigações que clubes independentes (auditoria, transparência, whistleblowing)
 
-**Justificação:** No piloto suíço Züri Can (vendas desde Agosto de 2023), os pontos de venda são 10 farmácias, 10 clubes sociais (9 activos) e o centro municipal de informação sobre drogas (DIZ), com um máximo de 3.000 participantes; nenhum produtor opera pontos de venda [@zurican2026stand; @bag2025pilotversuche]. Permitir que produtores licenciados operem clubes é, portanto, proposta própria. Limitar a 1-2 clubes/produtor previne oligopólio, mantendo diversidade de clubes independentes.
+**Justificação:** No piloto suíço Züri Can (vendas desde Agosto de 2023), os pontos de venda são 10 farmácias, 10 clubes sociais (9 activos) e o centro municipal de informação sobre drogas (DIZ), com um máximo de 3.000 participantes [@zurican2026stand]; as fontes não referem pontos de venda operados por produtores. Permitir que produtores licenciados operem clubes é, portanto, proposta própria. Limitar a 1-2 clubes/produtor previne oligopólio, mantendo diversidade de clubes independentes.
 
 #### Opção 3: Parcerias técnicas
 
@@ -609,8 +609,8 @@ Produtores podem **fornecer assistência técnica** a clubes (mediante pagamento
 **Conclusão:** Integrar a indústria licenciada no modelo de clubes tem vantagens (produtores mantêm mercado doméstico; clubes acedem a produto de qualidade controlada; emprego qualificado) e riscos (concentração). A redução da resistência política é uma expectativa dos autores, não um dado. O requisito non-profit e a governance proposta visam impedir que produtores dominem o mercado.
 
 ## Condução {#condução}
-* Limite: 3,5 ng/ml THC no sangue
-* Tolerância zero: menores de 21 e novos condutores
+* Limite: 3,5 ng/ml de THC no soro sanguíneo (cerca de 2 ng/ml em sangue total; conversão no capítulo 4)
+* Condutores novatos (menos de 2 anos de carta) e menores de 21: limiar analítico de 1,0 ng/ml no soro (abaixo de 1,0 ng/ml não há infracção; ver capítulo 4)
 * Proibição absoluta: mistura cannabis + álcool
 * Investimento em tecnologia de testagem antes da implementação
 * Fundamentação e fontes: ver capítulo sobre a ciência (secção condução)
@@ -623,7 +623,7 @@ A proibição da cannabis tem custos para o Estado. Para a Alemanha, Haucap e Kn
 
 **Valores assumidos neste capítulo para Portugal (sem dados orçamentais PT):**
 
-* **Custos actuais de enforcement:** €45-90M/ano (policiamento + judicial + prisional); valor central **€65M/ano**, usado como base única em todos os cálculos abaixo
+* **Custos actuais de enforcement:** €40-80M/ano (soma das três componentes abaixo: policiamento + judicial + prisional); valor central **€60M/ano** (ponto médio), usado como base única em todos os cálculos abaixo
   * PSP/GNR: operações cannabis ~€25-45M/ano
   * Sistema judicial: processos de tráfico ~€10-20M/ano
   * Sistema prisional: reclusos por crimes de cannabis ~€5-15M/ano (a DGRSP não desagrega reclusos por substância; valor assumido)
@@ -638,32 +638,32 @@ O factor de redução face aos €173M "proporcionais" reflecte a descriminaliza
 
 **O que as poupanças dependem de facto:**
 
-A poupança de enforcement só se materializa na medida em que a oferta legal desloque o mercado ilegal. Com 46 clubes (máximo 23.000 membros) e ~180.000 consumidores no último ano em Portugal [@carapinha2024icad], a captura directa máxima dos clubes é ~13% (23.000/180.000). Na [análise de sensibilidade](#sensitivity-roi), assumindo poupanças proporcionais à captura, as poupanças anuais ficam em €3-17M nos três cenários — **abaixo dos custos regulatórios (€15-20M/ano)**. Com estes pressupostos, o modelo de clubes não se autofinancia; o ponto de equilíbrio exigiria uma captura de ~23-31% dos consumidores (ver cálculo adiante).
+A poupança de enforcement só se materializa na medida em que a oferta legal desloque o mercado ilegal. Com 46 clubes (máximo 23.000 membros) e ~180.000 consumidores no último ano em Portugal [@carapinha2024icad], a captura directa máxima dos clubes é ~13% (23.000/180.000). Na [análise de sensibilidade](#sensitivity-roi), assumindo poupanças proporcionais à captura, as poupanças anuais ficam em €3,2-15,5M nos três cenários — **abaixo dos custos regulatórios (€15-20M/ano)**. Com estes pressupostos, o modelo de clubes não se autofinancia; o ponto de equilíbrio exigiria uma captura de 25-33% dos consumidores (ver cálculo adiante).
 
 Parte das poupanças pode ocorrer com a alteração legal em si (fim dos processos por cultivo de 3 plantas e por posse dentro dos limites), independentemente da captura; não a quantificamos por falta de dados sobre esses processos.
 
 **Dotação para prevenção e tratamento (decisão política, não resultado do modelo):**
 
-* Propõe-se **€20-40M/ano** para: serviços de tratamento (reforço do SICAD), prevenção nas escolas, investigação, formação de profissionais de saúde, fiscalização dos clubes e controlo de qualidade
+* Propõe-se **€20-40M/ano** para: serviços de tratamento (reforço do SICAD), prevenção nas escolas, investigação e formação de profissionais de saúde (a fiscalização dos clubes e o controlo de qualidade estão nos custos regulatórios acima, não nesta dotação)
 * Nos cenários calculados, esta dotação **não é coberta** por poupanças de enforcement e teria de vir do Orçamento do Estado. A fracção financiada por poupanças só cresce se a captura ultrapassar o ponto de equilíbrio
 * **Fonte adicional:** Taxas de licenciamento pagas pelos clubes ao regulador (montante a definir). As jóias e quotas dos membros financiam o clube (cost-recovery), não o Estado
 
 **Faseamento do financiamento:**
 
-* **Anos 1-2 (2027-2028, licenciamento nacional):**
+* **Anos 1-2 (2029-2030, licenciamento nacional; cronograma no capítulo 11):**
   * Dotação inicial **€10-15M/ano via Orçamento do Estado** (linha orçamental dedicada)
   * Poupanças de enforcement residuais durante o arranque
   * Análise custo-benefício com dados orçamentais reais para substituir os pressupostos deste capítulo
 
-* **Anos 3-5 (2029-2031, expansão gradual):**
+* **Anos 3-5 (2031-2033, expansão gradual):**
   * Captura estimada de 5-26% dos consumidores conforme cenário ([ver análise do gap de mercado](#gap-mercado))
   * Financiamento maioritariamente OE; poupanças de enforcement verificadas abatem uma parte
   * Ajuste anual com base em dados reais de custos e poupanças
 
-* **Anos 6-10 (2032-2036, regime permanente):**
-  * Dotação de €20-40M/ano, dependente da avaliação de 2029-2030
+* **Anos 6-10 (2034-2038, regime permanente):**
+  * Dotação de €20-40M/ano, dependente da avaliação de 2029-2032
   * Poupanças de enforcement cobrem uma fracção; a maioria continua a vir do OE, salvo se a captura exceder o ponto de equilíbrio
-  * **Se os clubes falharem:** o enforcement mantém-se e os seus custos também; o Estado perde o investimento inicial em licenciamento e supervisão (€30-60M acumulados nos anos 1-2) e continua a gastar como actualmente. O período de avaliação (2-3 anos) permite identificar falhas cedo
+  * **Se os clubes falharem:** o enforcement mantém-se e os seus custos também; o Estado perde o investimento inicial em licenciamento e supervisão (€20-30M acumulados nos anos 1-2) e continua a gastar como actualmente. O período de avaliação (2029-2032) permite identificar falhas cedo
 
 **Reversibilidade:**
 
@@ -674,11 +674,11 @@ Parte das poupanças pode ocorrer com a alteração legal em si (fim dos process
 
 #### Estratégia de Comunicação Pública {#estrategia-comunicacao}
 
-A ausência de uma estratégia media pode comprometer a viabilidade política da proposta. A experiência internacional demonstra que a comunicação é tão importante quanto o conteúdo legislativo.
+A ausência de uma estratégia media pode comprometer a viabilidade política da proposta. Na avaliação dos autores, a comunicação pesa tanto como o conteúdo legislativo.
 
 ##### Lições internacionais
 
-* **Alemanha (2024):** O Ministério Federal da Saúde publica um FAQ oficial sobre a CanG e os seus dados [@bundesgesundheit2024faq]. A cobertura mediática da entrada em vigor foi polarizada; não dispomos de uma avaliação da eficácia da comunicação oficial face a essa cobertura.
+* **Alemanha (2024):** O Ministério Federal da Saúde publica um FAQ oficial sobre a CanG e os seus dados [@bundesministerium2024]. A cobertura mediática da entrada em vigor foi polarizada; não dispomos de uma avaliação da eficácia da comunicação oficial face a essa cobertura.
 * **Canadá (2017-2018):** Public Safety Canada lançou em Dezembro de 2017 a campanha "Don't Drive High", dirigida a jovens de 16-24 anos [@publicsafety2017drivehigh]. Health Canada anunciou mais de $100 milhões em seis anos para educação pública, sensibilização e vigilância, incluindo $62,5 milhões para organizações comunitárias e indígenas via SUAP, e campanhas como "Your Cannabis Questions, Answered. Get the Honest Facts" [@healthcanada2018educ]. A comunicação foi segmentada por públicos (jovens, pais, profissionais de saúde).
 
 ##### Princípios orientadores para Portugal
@@ -687,7 +687,7 @@ A ausência de uma estratégia media pode comprometer a viabilidade política da
 2. **Separar claramente os pilares:** Medicinal (doentes) ≠ recreativo (clubes) ≠ cânhamo (agricultura). A confusão entre pilares é um risco comunicacional frequente.
 3. **Antecipar narrativas adversas:** Preparar respostas factuais para objecções previsíveis (ver Anexo D).
 4. **Comunicação segmentada:**
-   - **Decisores políticos:** Foco em poupanças fiscais, dados internacionais, reversibilidade do modelo
+   - **Decisores políticos:** Foco no custo líquido assumido (não há poupança fiscal nos cenários calculados), na reversibilidade do modelo e nos dados internacionais
    - **Profissionais de saúde:** Foco em harm reduction, evidência clínica, protocolos de prevenção
    - **Público geral:** Foco em segurança, controlo de qualidade, protecção de menores
    - **Jovens:** Foco em riscos reais (não moralização), informação de redução de danos
@@ -708,7 +708,7 @@ A ausência de uma estratégia media pode comprometer a viabilidade política da
 
 Diferentemente de modelos comerciais (Colorado, Canadá), Portugal propõe clubes **sem fins lucrativos** (cost-recovery). O impacto fiscal baseia-se exclusivamente em **poupanças** e **custos**, não em receitas fiscais. Todos os valores abaixo são pressupostos dos autores, sem dados orçamentais do Ministério da Justiça ou da Saúde.
 
-![Balanço fiscal do modelo português (diagrama a actualizar: a versão actual mostra a poupança líquida de €30-65 M/ano calculada antes da correcção do denominador). Com ~180.000 consumidores no último ano e 46 clubes, as poupanças de enforcement estimadas (€3-17 M/ano) ficam abaixo dos custos regulatórios (€15-20 M/ano) em todos os cenários. Fase 3 (condicional e especulativa): €37-63 M/ano de receitas fiscais. Valores assumidos neste capítulo.](assets/diagrams/balanco-fiscal.png){width=70%}
+![Balanço fiscal do modelo português (valores assumidos neste capítulo): com ~180.000 consumidores no último ano e 46 clubes, as poupanças de enforcement estimadas (€3,2-15,5M/ano) ficam abaixo dos custos regulatórios (€15-20M/ano) em todos os cenários; a prevenção e o tratamento (€20-40M/ano) são pagos pelo Orçamento do Estado; uma Fase 3 (condicional e especulativa) daria €39-63M/ano de receitas fiscais.](assets/diagrams/balanco-fiscal.png){width=70%}
 
 ##### Situação Actual (2026) — Proibição
 
@@ -718,15 +718,15 @@ Diferentemente de modelos comerciais (Colorado, Canadá), Portugal propõe clube
 | **Sistema Judicial** (processos tráfico) | €10-20M | Pressuposto dos autores |
 | **Sistema Prisional** (reclusos por crimes de cannabis) | €5-15M | Pressuposto dos autores; a DGRSP não desagrega reclusos por substância |
 | **Custos Saúde Pública** (cannabis ilícita contaminada) | não quantificado | Sem dados PT sobre tratamentos ligados a contaminantes |
-| **TOTAL CUSTOS ACTUAIS** | **€45-90M/ano (central €65M)** | Intervalo assumido; base única usada em todos os cálculos |
+| **TOTAL CUSTOS ACTUAIS** | **€40-80M/ano (central €60M)** | Soma das componentes assumidas; base única usada em todos os cálculos |
 
 **Nota:** Uma análise rigorosa requer dados orçamentais do Ministério da Justiça, PSP, GNR e DGRSP.
 
-##### Situação Proposta (2030+) — Regulação Clubes Sociais
+##### Situação Proposta (2029+) — Regulação Clubes Sociais
 
-Captura de mercado por cenário (ver [análise de sensibilidade](#sensitivity-roi)): pessimista 5,3%, realista 13,8%, optimista 25,9% dos ~180.000 consumidores no último ano. Poupanças de enforcement assumidas proporcionais à captura, sobre a base de €65M/ano.
+Captura de mercado por cenário (ver [análise de sensibilidade](#sensitivity-roi)): pessimista 5,3%, realista 13,8%, optimista 25,9% dos ~180.000 consumidores no último ano. Poupanças de enforcement assumidas proporcionais à captura, sobre a base de €60M/ano.
 
-**Anos 1-2 (Licenciamento Nacional 2027-2028):**
+**Anos 1-2 (Licenciamento Nacional 2029-2030):**
 
 | Categoria | Valor Anual | Impacto OE |
 | :---- | :---- | :---- |
@@ -737,56 +737,58 @@ Captura de mercado por cenário (ver [análise de sensibilidade](#sensitivity-ro
 | Sistemas rastreabilidade/monitorização | €3-4M | Software seed-to-sale, base dados nacional |
 | **Poupanças enforcement** | -€0-5M | Arranque: poucos clubes operacionais |
 | **Dotação prevenção** | +€10-15M | Linha orçamental OE dedicada (decisão política) |
-| **BALANÇO LÍQUIDO ANOS 1-2** | **+€20-30M/ano** | **Aumento gasto OE** (investimento + dotação) |
+| **BALANÇO LÍQUIDO ANOS 1-2** | **+€15-30M/ano** | **Aumento gasto OE** (custos regulatórios €10-15M + dotação €10-15M − poupanças €0-5M) |
 
-**Anos 3-5 (Expansão Gradual 2029-2031):**
+**Anos 3-5 (Expansão Gradual 2031-2033):**
 
 | Categoria | Valor Anual | Impacto OE |
 | :---- | :---- | :---- |
-| **Poupanças enforcement** (captura 5-26%) | -€3-17M | 5,3% × €65M = €3,4M; 25,9% × €65M = €16,8M |
+| **Poupanças enforcement** (captura 5-26%) | -€3,2-15,5M | 5,3% × €60M = €3,2M; 25,9% × €60M = €15,5M |
 | **Custos regulatórios** (escala 18-37 clubes) | +€15-20M | Crescem com escala |
 | **Poupanças saúde pública** (produtos testados) | não quantificado | Plausível, sem dados PT para estimar |
 | **Dotação prevenção** | +€20-40M | Maioritariamente OE |
-| **BALANÇO OPERACIONAL (sem dotação)** | **+€3 a +€12M/ano** | **Custo líquido**: custos regulatórios excedem poupanças |
-| **BALANÇO LÍQUIDO ANOS 3-5** | **+€23 a +€52M/ano** | **Aumento gasto OE** |
+| **BALANÇO OPERACIONAL (sem dotação)** | **+€4,5 a +€11,8M/ano** | **Custo líquido**: custos regulatórios excedem poupanças |
+| **BALANÇO LÍQUIDO ANOS 3-5** | **+€25 a +€52M/ano** | **Aumento gasto OE** |
 
-**Anos 6-10 (Regime Permanente 2032-2036):**
+**Anos 6-10 (Regime Permanente 2034-2038):**
 
 | Categoria | Valor Anual | Impacto OE |
 | :---- | :---- | :---- |
-| **Poupanças enforcement** (captura 5-26%) | -€3-17M | Idem; a captura máxima directa dos clubes é 23.000/180.000 = 12,8% |
+| **Poupanças enforcement** (captura 5-26%) | -€3,2-15,5M | Idem; a captura máxima directa dos clubes é 23.000/180.000 = 12,8% |
 | **Poupanças saúde pública** | não quantificado | — |
 | **Custos regulatórios** (46 clubes) | +€15-20M | Custos fixos fiscalização, testes, monitorização |
 | **Dotação prevenção** | +€20-40M | Maioritariamente OE |
-| **BALANÇO OPERACIONAL (sem dotação)** | **+€3 a +€12M/ano** | **Custo líquido** |
-| **BALANÇO LÍQUIDO ANOS 6-10** | **+€23 a +€52M/ano** | **Aumento gasto OE** |
+| **BALANÇO OPERACIONAL (sem dotação)** | **+€4,5 a +€11,8M/ano** | **Custo líquido** |
+| **BALANÇO LÍQUIDO ANOS 6-10** | **+€25 a +€52M/ano** | **Aumento gasto OE** |
 
 ##### Retorno sobre Investimento (ROI) — Análise 10 anos
 
-**Investimento inicial acumulado (Anos 1-2):** €30-60M (implementação + setup regulatório, excluindo a dotação de prevenção)
+**Investimento inicial acumulado (Anos 1-2):** €20-30M (custos regulatórios de arranque de €10-15M/ano × 2 anos; exclui a dotação de prevenção, que é despesa de política e não investimento no modelo). Nos cálculos a 10 anos usa-se o valor central de **€25M**.
 
 **Poupanças acumuladas (Anos 3-10):**
 
-- Enforcement: €3,4-16,8M/ano × 8 anos = €27-134M
+- Enforcement: €3,2-15,5M/ano × 8 anos = €26-124M
 - Saúde pública: não quantificado
-- **TOTAL POUPANÇAS:** €27-134M
+- **TOTAL POUPANÇAS:** €26-124M
 
 **Custos acumulados (Anos 3-10):**
 
 - Regulatórios: €15-20M/ano × 8 anos = €120-160M
 - **TOTAL CUSTOS OPERACIONAIS:** €120-160M
 
-**BALANÇO 10 ANOS (2027-2036), pares coerentes (pessimista com pessimista, optimista com optimista):**
+**BALANÇO 10 ANOS (2029-2038), por cenário (balanço operacional × 8 anos − investimento de €25M; são os mesmos valores da [análise de sensibilidade](#sensitivity-roi)):**
 
-- **Pessimista:** poupanças €27M − custos €120M − investimento €30M = **−€123M**
-- **Optimista:** poupanças €134M − custos €160M − investimento €60M = **−€86M**
+- **Pessimista:** −€11,8M × 8 − €25M = **−€119M** (poupanças €26M − custos €120M − investimento €25M)
+- **Realista:** −€8,7M × 8 − €25M = **−€95M**
+- **Optimista:** −€4,5M × 8 − €25M = **−€61M** (poupanças €124M − custos €160M − investimento €25M)
+- Com o investimento nos extremos do intervalo (€20-30M), cada balanço desloca-se ±€5M
 - **ROI:** **negativo em todos os cenários** (o investimento inicial não é recuperado e a operação tem custo líquido anual)
 
 **Tempo de payback:** não ocorre no horizonte de 10 anos com estes pressupostos.
 
-**Ponto de equilíbrio:** as poupanças igualam os custos regulatórios quando captura × base = custos, isto é, captura = €15-20M / €65M = **23-31%** dos consumidores (17-44% se a base for €45-90M). O cenário optimista (25,9%) fica no limiar inferior; a captura directa máxima dos 46 clubes (12,8%) fica abaixo. Só o autocultivo em larga escala ou um número de clubes muito superior a 46 permitiriam atingir o equilíbrio.
+**Ponto de equilíbrio:** as poupanças igualam os custos regulatórios quando captura × base = custos, isto é, captura = €15-20M / €60M = **25-33%** dos consumidores (19-50% se a base variar entre €40M e €80M). O cenário optimista (25,9%) fica no limiar inferior; a captura directa máxima dos 46 clubes (12,8%) fica abaixo. Só o autocultivo em larga escala ou um número de clubes muito superior a 46 permitiriam atingir o equilíbrio.
 
-**Leitura:** com os pressupostos deste capítulo, a justificação do modelo de clubes não é fiscal. É de saúde pública e de redução de danos (produto testado, fim da criminalização do consumo e do autocultivo, prevenção obrigatória). O custo operacional líquido estimado (€3-12M/ano) é o preço dessa política.
+**Leitura:** com os pressupostos deste capítulo, a justificação do modelo de clubes não é fiscal. É de saúde pública e de redução de danos (produto testado, fim da criminalização do consumo e do autocultivo, prevenção obrigatória). O custo operacional líquido estimado (€4,5-11,8M/ano) é o preço dessa política.
 
 ##### Benefícios Não-Quantificados (qualitativos)
 
@@ -804,9 +806,9 @@ Impactos positivos **não incluídos** no balanço fiscal acima:
 
 | País/Estado | Modelo | Receitas Fiscais Anuais | Afetação |
 | :---- | :---- | :---- | :---- |
-| **Colorado** (2021) | Comercial: 15% excise (grossista) + 15% imposto especial de venda + 2,9% imposto estadual, mais taxas municipais | $423M no ano civil 2021 (≈€360M à taxa média de 2021); $325M em 2022 [@colorado2022tax] | Afectação definida por lei estadual (percentagens não verificadas na fonte) |
-| **Canadá** (Out 2018-Ago 2025) | Comercial (impostos federais + provinciais) | $5,4B CAD acumulado: $1,2B federal + $4,2B provincial [@cbcnews2025] | Afectação não verificada na fonte |
-| **Portugal** (proposta) | **Não-comercial (cost-recovery)** | **€0 impostos específicos**; regime de IVA das quotas a confirmar (a isenção do art. 9.º n.º 19 do CIVA para associações sem fins lucrativos pode aplicar-se) | **Poupanças enforcement** (não impostos cannabis) |
+| **Colorado** (2021) | Comercial: 15% excise (grossista) + 15% imposto especial de venda a retalho, mais impostos locais (o imposto estadual geral de 2,9% não se aplica ao retalho de cannabis recreativa desde Julho de 2017) | $423M no ano civil 2021 (≈€360M à taxa média de 2021); $325M em 2022 [@colorado2022tax] | Afectação definida por lei estadual (percentagens não analisadas aqui) |
+| **Canadá** (acumulado desde Out 2018) | Comercial (impostos federais + provinciais) | $5,4B CAD acumulado: $1,2B federal + $4,2B provincial [@cbcnews2025] | Afectação não analisada aqui |
+| **Portugal** (proposta) | **Não-comercial (cost-recovery)** | **€0 impostos específicos**; IVA: quotas estatutárias isentas (art. 9.º n.º 19 CIVA), entregas de cannabis sujeitas à taxa normal — ver capítulo 4 | **Poupanças enforcement** (não impostos cannabis) |
 
 **Por que Portugal difere:**
 
@@ -818,29 +820,29 @@ Impactos positivos **não incluídos** no balanço fiscal acima:
 
 **Cenário pessimista: Clubes falham a captar mercado ilegal**
 
-- **Impacto:** O Estado continua a gastar €45-90M/ano em enforcement (status quo) e suporta custos regulatórios de €15M/ano com poupanças de ~€3M/ano
-- **Perda:** Investimento inicial em licenciamento e supervisão (€30-60M) + custo operacional líquido (~€12M/ano)
-- **Mitigação:** O próprio modelo de clubes funciona como fase de avaliação — monitorização nos primeiros 2-3 anos permite identificar falhas e ajustar antes de considerar expansão comercial
-- **Decisão reversível:** Após avaliação 2029-2030, se os dados mostrarem ineficácia, suspender novas licenças e não avançar para modelo comercial
+- **Impacto:** O Estado continua a gastar €40-80M/ano em enforcement (status quo) e suporta custos regulatórios de €15M/ano com poupanças de ~€3M/ano
+- **Perda:** Investimento inicial em licenciamento e supervisão (€20-30M) + custo operacional líquido (~€12M/ano)
+- **Mitigação:** O próprio modelo de clubes funciona como fase de avaliação — a monitorização no período de avaliação (2029-2032) permite identificar falhas e ajustar antes de considerar expansão comercial
+- **Decisão reversível:** Após a avaliação de 2029-2032, se os dados mostrarem ineficácia, suspender novas licenças e não avançar para modelo comercial
 
 **Cenário optimista: 80% dos clubes operacionais e autocultivo popular**
 
-- **Impacto:** Captura ~26% dos consumidores; poupanças de enforcement ~€17M/ano contra custos regulatórios de €20M/ano
-- **Resultado:** Ainda custo líquido (~€3M/ano); perto do ponto de equilíbrio
-- **Sem precedente empírico para mais:** nenhuma jurisdição com modelo de clubes se aproxima de capturas superiores; o Uruguai, com clubes, farmácias e autocultivo, tem ~36% dos consumidores registados e ~24% das compras em canais legais após dez anos [@ircca2025resumen; @talkingdrugs2024]
+- **Impacto:** Captura ~26% dos consumidores; poupanças de enforcement ~€15,5M/ano contra custos regulatórios de €20M/ano
+- **Resultado:** Ainda custo líquido (~€4,5M/ano); perto do ponto de equilíbrio
+- **Sem precedente empírico para mais:** nenhum modelo só de clubes tem dados de captura comparáveis; no Uruguai, com clubes, farmácias e autocultivo, o Observatório Uruguaio de Drogas (2024), citado pelo IRCCA, estima que 46% dos consumidores actuais estão registados; a 31/12/2025 havia 113.548 registados [@ircca2025resumen]
 
-**Conclusão fiscal:** O modelo não-comercial tem risco fiscal limitado e conhecido (investimento inicial reversível e custo operacional líquido de €3-12M/ano), e não oferece ganho fiscal com os pressupostos actuais. A decisão deve assentar nos objectivos de saúde pública, não numa expectativa de poupança.
+**Conclusão fiscal:** O modelo não-comercial tem risco fiscal limitado e estimado (investimento inicial reversível e custo operacional líquido de €4,5-11,8M/ano), e não oferece ganho fiscal com os pressupostos actuais. A decisão deve assentar nos objectivos de saúde pública, não numa expectativa de poupança.
 
 ##### Análise de Sensibilidade: ROI por Cenário {#sensitivity-roi}
 
-Esta secção detalha três cenários para que os decisores avaliem o risco. Todos os parâmetros são pressupostos dos autores, excepto o denominador (consumidores no último ano) e a base de custos actuais, cuja origem se indica. A aritmética é mostrada para que possa ser verificada.
+Esta secção detalha três cenários para que os decisores avaliem o risco. Todos os parâmetros são pressupostos dos autores, excepto o denominador (consumidores no último ano), cuja origem se indica; a base de custos actuais é também um pressuposto. A aritmética é mostrada para que possa ser verificada.
 
 **Pressupostos comuns a todos os cenários:**
 
 - **Denominador:** ~180.000 consumidores de cannabis no último ano (15-74 anos; 179.856 pessoas, 2% da população) [@carapinha2024icad]
-- **Base de custos actuais de enforcement:** €65M/ano (valor central do intervalo assumido €45-90M; ver tabela acima)
-- **Poupança de enforcement:** assumida proporcional à captura (captura × €65M). Este é um pressuposto simplificador: parte das poupanças pode ocorrer com a alteração legal em si, e outra parte (combate ao tráfico) pode não diminuir
-- **Investimento inicial:** €50M (ponto médio do intervalo €30-60M dos anos 1-2)
+- **Base de custos actuais de enforcement:** €60M/ano (valor central do intervalo assumido €40-80M, soma das componentes; ver tabela acima)
+- **Poupança de enforcement:** assumida proporcional à captura (captura × €60M). Este é um pressuposto simplificador: parte das poupanças pode ocorrer com a alteração legal em si, e outra parte (combate ao tráfico) pode não diminuir
+- **Investimento inicial:** €25M (ponto médio dos custos regulatórios de arranque acumulados nos anos 1-2, €20-30M)
 
 **Variáveis-chave e intervalos:**
 
@@ -853,9 +855,9 @@ Esta secção detalha três cenários para que os decisores avaliem o risco. Tod
 | **Autocultivo (adicional)** | 5.000 | 15.000 | 30.000 | Pressuposto; sem dados comparáveis (Uruguai: 10.392 autocultivadores registados, 31/12/2025 [@ircca2025resumen]) |
 | **Total utilizadores legais** | 9.500 | 24.800 | 46.650 | Clubes + autocultivo |
 | **Captura mercado** (de 180.000) | **5,3%** | **13,8%** | **25,9%** | 9.500 / 180.000; 24.800 / 180.000; 46.650 / 180.000 |
-| **Poupança enforcement/ano** | €3,4M | €9,0M | €16,8M | Captura × €65M |
+| **Poupança enforcement/ano** | €3,2M | €8,3M | €15,5M | Captura × €60M |
 | **Custos regulatórios/ano** | €15M | €17M | €20M | Escala com nº clubes (pressuposto) |
-| **Balanço operacional/ano** | **−€11,6M** | **−€8,0M** | **−€3,2M** | Poupança − custos |
+| **Balanço operacional/ano** | **−€11,8M** | **−€8,7M** | **−€4,5M** | Poupança − custos |
 
 **Cenário 1: PESSIMISTA (40% clubes operacionais)**
 
@@ -868,11 +870,11 @@ Esta secção detalha três cenários para que os decisores avaliem o risco. Tod
 | + Autocultivo | 5.000 | Pressuposto |
 | **Total utilizadores legais** | 9.500 | — |
 | Captura mercado | 5,3% | 9.500 / 180.000 |
-| Poupança enforcement/ano | €3,4M | 5,3% × €65M |
+| Poupança enforcement/ano | €3,2M | 5,3% × €60M |
 | Custos regulatórios/ano | €15M | Escala reduzida |
-| **Balanço operacional/ano** | **−€11,6M** | €3,4M − €15M |
-| Investimento inicial | €50M | — |
-| **Balanço 10 anos** (8 anos de operação) | **−€143M** | −€11,6M × 8 − €50M |
+| **Balanço operacional/ano** | **−€11,8M** | €3,2M − €15M |
+| Investimento inicial | €25M | — |
+| **Balanço 10 anos** (8 anos de operação) | **−€119M** | −€11,8M × 8 − €25M |
 | **ROI** | **negativo** | Investimento não recuperado; custo operacional líquido |
 
 **Cenário 2: REALISTA (60% clubes operacionais)**
@@ -886,11 +888,11 @@ Esta secção detalha três cenários para que os decisores avaliem o risco. Tod
 | + Autocultivo | 15.000 | Pressuposto |
 | **Total utilizadores legais** | 24.800 | — |
 | Captura mercado | 13,8% | 24.800 / 180.000 |
-| Poupança enforcement/ano | €9,0M | 13,8% × €65M |
+| Poupança enforcement/ano | €8,3M | 13,8% × €60M |
 | Custos regulatórios/ano | €17M | — |
-| **Balanço operacional/ano** | **−€8,0M** | €9,0M − €17M |
-| Investimento inicial | €50M | — |
-| **Balanço 10 anos** | **−€114M** | −€8,0M × 8 − €50M |
+| **Balanço operacional/ano** | **−€8,7M** | €8,3M − €17M |
+| Investimento inicial | €25M | — |
+| **Balanço 10 anos** | **−€95M** | −€8,7M × 8 − €25M |
 | **ROI** | **negativo** | — |
 
 **Cenário 3: OPTIMISTA (80% clubes operacionais)**
@@ -904,49 +906,49 @@ Esta secção detalha três cenários para que os decisores avaliem o risco. Tod
 | + Autocultivo | 30.000 | Pressuposto |
 | **Total utilizadores legais** | 46.650 | — |
 | Captura mercado | 25,9% | 46.650 / 180.000 |
-| Poupança enforcement/ano | €16,8M | 25,9% × €65M |
+| Poupança enforcement/ano | €15,5M | 25,9% × €60M |
 | Custos regulatórios/ano | €20M | Escala plena |
-| **Balanço operacional/ano** | **−€3,2M** | €16,8M − €20M |
-| Investimento inicial | €50M | — |
-| **Balanço 10 anos** | **−€76M** | −€3,2M × 8 − €50M |
+| **Balanço operacional/ano** | **−€4,5M** | €15,5M − €20M |
+| Investimento inicial | €25M | — |
+| **Balanço 10 anos** | **−€61M** | −€4,5M × 8 − €25M |
 | **ROI** | **negativo** (próximo do equilíbrio operacional) | — |
 
-**Sensibilidade à base de custos:** Com a base máxima assumida (€90M), o cenário optimista passa a poupança de €23,3M/ano contra €20M de custos (balanço +€3,3M/ano, insuficiente para recuperar €50M em 8 anos); com a base mínima (€45M), todos os cenários pioram. O resultado qualitativo (ROI negativo em 10 anos) é robusto dentro do intervalo assumido.
+**Sensibilidade à base de custos:** Com a base máxima assumida (€80M), o cenário optimista passa a poupança de €20,7M/ano contra €20M de custos (balanço +€0,7M/ano, insuficiente para recuperar €25M em 8 anos); com a base mínima (€40M), todos os cenários pioram (pessimista: €2,1M/ano de poupança). O resultado qualitativo (ROI negativo em 10 anos) é robusto dentro do intervalo assumido.
 
-**Ponto de equilíbrio operacional:** captura = custos regulatórios / base = €15-20M / €65M = **23-31%** dos consumidores. A captura directa máxima dos 46 clubes é 23.000 / 180.000 = **12,8%**; o resto teria de vir do autocultivo.
+**Ponto de equilíbrio operacional:** captura = custos regulatórios / base = €15-20M / €60M = **25-33%** dos consumidores. A captura directa máxima dos 46 clubes é 23.000 / 180.000 = **12,8%**; o resto teria de vir do autocultivo.
 
 **Síntese:**
 
 | Cenário | Captura | Balanço operacional/ano | Balanço 10 anos |
 | :---- | :---- | :---- | :---- |
-| **Pessimista** | 5,3% | −€11,6M | −€143M |
-| **Realista** | 13,8% | −€8,0M | −€114M |
-| **Optimista** | 25,9% | −€3,2M | −€76M |
+| **Pessimista** | 5,3% | −€11,8M | −€119M |
+| **Realista** | 13,8% | −€8,7M | −€95M |
+| **Optimista** | 25,9% | −€4,5M | −€61M |
 
 Não atribuímos probabilidades aos cenários nem calculamos um valor "esperado": não há base empírica para o fazer.
 
 **Leitura dos resultados:**
 
-1. **O risco fiscal é limitado e conhecido:** perda máxima de ~€143M em 10 anos (investimento inicial + custo operacional líquido), no cenário pessimista
-2. **Nenhum cenário se autofinancia** com os pressupostos deste capítulo; o modelo de clubes é um custo de política de saúde pública, da ordem de €3-12M/ano em operação
-3. **O que mudaria o resultado:** uma base de custos actuais acima de €65M, poupanças não proporcionais à captura (p. ex. fim dos processos por cultivo e posse independentemente da captura), custos regulatórios abaixo de €15M/ano, ou um número de clubes muito superior a 46. Cada uma destas hipóteses deve ser testada com dados reais na avaliação de 2029-2030
+1. **O risco fiscal é limitado e estimado:** perda máxima de ~€119M em 10 anos (investimento inicial + custo operacional líquido), no cenário pessimista (€114-124M com o investimento no intervalo €20-30M)
+2. **Nenhum cenário se autofinancia** com os pressupostos deste capítulo; o modelo de clubes é um custo de política de saúde pública, da ordem de €4,5-11,8M/ano em operação
+3. **O que mudaria o resultado:** uma base de custos actuais acima de €60M, poupanças não proporcionais à captura (p. ex. fim dos processos por cultivo e posse independentemente da captura), custos regulatórios abaixo de €15M/ano, ou um número de clubes muito superior a 46. Cada uma destas hipóteses deve ser testada com dados reais na avaliação de 2029-2032
 4. **A decisão de prosseguir** deve ser tomada pelos objectivos de saúde pública e de redução de danos, com este custo líquido assumido, e não por uma expectativa de poupança
 
 ##### ROI Análise: Fase 2 (Clubes) vs Fase 3 (Comercial Potencial)
 
 A análise distingue o modelo de clubes standalone (Fase 2) de uma eventual transição comercial futura (Fase 3, condicional a enquadramento jurídico europeu e a dados positivos).
 
-**Fase 2: Clubes Sociais Não-Comerciais (2027-2037, standalone)**
+**Fase 2: Clubes Sociais Não-Comerciais (2029-2038, standalone)**
 
 Todos os valores acima baseiam-se **exclusivamente no modelo de clubes** sem venda comercial:
 
 | Parâmetro | Pessimista | Optimista | Fonte |
 | :---- | :---- | :---- | :---- |
 | **Captura mercado ilegal** | 5,3% | 25,9% | Ver análise de sensibilidade e gap de mercado |
-| **Poupanças enforcement** | €3,4M/ano | €16,8M/ano | Captura × €65M (base assumida) |
+| **Poupanças enforcement** | €3,2M/ano | €15,5M/ano | Captura × €60M (base assumida) |
 | **Custos regulatórios** | €15M/ano | €20M/ano | Pressuposto |
-| **Receitas fiscais directas** | €0 impostos específicos | €0 impostos específicos | Clubes cost-recovery; IVA das quotas a confirmar |
-| **Balanço 10 anos** | −€143M | −€76M | Balanço operacional × 8 anos − investimento inicial |
+| **Receitas fiscais directas** | €0 impostos específicos | €0 impostos específicos | Clubes cost-recovery; IVA: quotas isentas, entregas de cannabis tributadas (ver capítulo 4) |
+| **Balanço 10 anos** | −€119M | −€61M | Balanço operacional × 8 anos − investimento inicial de €25M |
 | **Payback** | não ocorre | não ocorre | — |
 
 **Viabilidade standalone:** A Fase 2 visa os objectivos de redução de danos (produto testado, fim da criminalização do consumo e do autocultivo, prevenção obrigatória) independentemente de uma Fase 3. A quota de mercado que consegue deslocar é limitada pela escala (46 clubes) e é um pressuposto a validar.
@@ -960,17 +962,17 @@ Todos os valores acima baseiam-se **exclusivamente no modelo de clubes** sem ven
 | Parâmetro | Cálculo | Valor Estimado | Notas |
 | :---- | :---- | :---- | :---- |
 | **Volume do mercado ilegal** | 36-58 t/ano | — | Estimativa de Ribeiro [@ribeiro2024economic] |
-| **Valor a preços de rua** | 36-58 t × €5,3-5,6/g | **€190-325M/ano** | Preço de retalho da cannabis herbácea em Portugal [@euda2025ppp]; cálculo dos autores |
-| **Captura comercial** | 78% (Canadá, despesa, 2022) [@hammond2025] | ~78% | Único ponto de referência comparável; modelo comercial com rede ampla |
-| **Vendas legais tributáveis** | €190-325M × 78% | €150-250M/ano | — |
-| **Taxa fiscal específica** | 25% (pressuposto dos autores) | 25% | Colorado: 15% excise grossista + 15% imposto especial de venda + 2,9% imposto estadual [@colorado2022tax] |
-| **RECEITAS FISCAIS** | €150-250M × 25% | **€37-63M/ano** | Ribeiro projecta €52,7-70,8M (conservador) a €151,3M (optimista) [@ribeiro2024economic] |
+| **Valor a preços de rua** | 36-58 t × €5,58/g | **€201-324M/ano** | Preço médio de retalho da cannabis herbácea em Portugal em 2023 (€5,36-5,82 em 2019-2023) [@euda2025ppp]; cálculo dos autores |
+| **Captura comercial** | 78% (Canadá, despesa, 2022) [@hammond2025] | ~78% | Principal ponto de referência comparável; modelo comercial com rede ampla |
+| **Vendas legais tributáveis** | €201-324M × 78% | €157-252M/ano | — |
+| **Taxa fiscal específica** | 25% (pressuposto dos autores) | 25% | Colorado: 15% excise grossista + 15% imposto especial de venda a retalho, mais impostos locais [@colorado2022tax] |
+| **RECEITAS FISCAIS** | €157-252M × 25% | **€39-63M/ano** | €38-66M/ano com o preço entre €5,36 e €5,82; Ribeiro projecta €52,7-70,8M (conservador) a €151,3M (optimista) [@ribeiro2024economic] |
 
 **Balanço combinado Fase 2 + Fase 3 (hipotético):**
 
-- **Balanço operacional Fase 2:** −€3 a −€12M/ano
-- **Receitas fiscais Fase 3:** +€37-63M/ano
-- **TOTAL:** +€25-60M/ano, só se a Fase 3 se concretizar
+- **Balanço operacional Fase 2:** −€4,5 a −€11,8M/ano
+- **Receitas fiscais Fase 3:** +€39-63M/ano
+- **TOTAL:** +€27 a +€59M/ano, só se a Fase 3 se concretizar
 
 **A Fase 3 pode nunca acontecer:**
 
@@ -980,13 +982,13 @@ Todos os valores acima baseiam-se **exclusivamente no modelo de clubes** sem ven
 
 **Estratégia fiscal prudente:**
 
-1. **Planear com base na Fase 2 standalone**, assumindo o seu custo líquido (€3-12M/ano) como custo de uma política de saúde pública
+1. **Planear com base na Fase 2 standalone**, assumindo o seu custo líquido (€4,5-11,8M/ano) como custo de uma política de saúde pública
 2. **Não prometer receitas fiscais comerciais** — dependem de factores externos fora do controlo de Portugal
 3. **Tratar a Fase 3 como hipótese condicional** — se acontecer, as receitas permitem financiar prevenção e tratamento; se não acontecer, os objectivos de redução de danos da Fase 2 mantêm-se
 
 **Mensagem política:**
 
-*"O modelo de clubes (Fase 2) é uma política de saúde pública com custo líquido estimado de €3-12 milhões/ano, não uma fonte de poupança. Testa produto, acaba com a criminalização do consumo e do autocultivo, e impõe prevenção obrigatória. Não depende de venda comercial futura (Fase 3), e não prometemos receitas que não controlamos."*
+*"O modelo de clubes (Fase 2) é uma política de saúde pública com custo líquido estimado de €4,5-11,8 milhões/ano, não uma fonte de poupança. Testa produto, acaba com a criminalização do consumo e do autocultivo, e impõe prevenção obrigatória. Não depende de venda comercial futura (Fase 3), e não prometemos receitas que não controlamos."*
 
 #### Estimativa de Clubes Necessários: Distribuição Geográfica Nacional
 
@@ -1038,14 +1040,14 @@ Distribuição indicativa dos autores, considerando densidade populacional e ace
 4. **Regiões autónomas:** Madeira e Açores (isolamento geográfico) recebem 1 clube cada independentemente do rácio estrito
 5. **Equidade acesso:** Evitar "desertos" sem clubes num raio >50km
 
-**Implementação — licenciamento nacional desde o dia 1 (2027+):**
+**Implementação — licenciamento nacional desde o dia 1 (2029, ver cronograma no capítulo 11):**
 
-O licenciamento de clubes sociais é aberto a nível nacional desde o início, em qualquer município. Não há restrição geográfica a Lisboa/Porto — o próprio modelo de clubes constitui a fase de avaliação (2-3 anos) antes de qualquer decisão sobre venda comercial. Critério de distribuição: cobertura mínima em todos os distritos.
+O licenciamento de clubes sociais é aberto a nível nacional desde o início, em qualquer município. Não há restrição geográfica a Lisboa/Porto — o próprio modelo de clubes constitui a fase de avaliação (2029-2032) antes de qualquer decisão sobre venda comercial. Critério de distribuição: cobertura mínima em todos os distritos.
 
-- **Fase Licenciamento (2027-2028):** Abertura de candidaturas a nível nacional — clubes licenciados à medida que cumprem critérios (cobertura geográfica equilibrada conforme tabela de distribuição acima)
-- **Fase Consolidação (2029-2031):** Expansão orgânica até ~46 clubes, saturação progressiva de distritos com menor densidade — prioridade a regiões sem cobertura
-- **Fase Avaliação (2029-2030):** Avaliação rigorosa do modelo de clubes — dados de impacto no mercado negro, consumo juvenil, saúde pública
-- **Decisão Comercial (2031+):** Com base em dados positivos da avaliação, considerar transição para modelo comercial regulado (Pilar 2). Se dados negativos, ajustar modelo de clubes sem expandir para venda comercial
+- **Fase Licenciamento (2029-2030):** Abertura de candidaturas a nível nacional — clubes licenciados à medida que cumprem critérios (cobertura geográfica equilibrada conforme tabela de distribuição acima)
+- **Fase Consolidação (2031-2033):** Expansão orgânica até ~46 clubes, saturação progressiva de distritos com menor densidade — prioridade a regiões sem cobertura
+- **Fase Avaliação (2029-2032):** Avaliação rigorosa do modelo de clubes — dados de impacto no mercado negro, consumo juvenil, saúde pública
+- **Decisão Comercial (2033+):** Com base em dados positivos da avaliação, considerar transição para modelo comercial regulado (Fase 3, equivalente ao 2.º pilar alemão). Se dados negativos, ajustar modelo de clubes sem expandir para venda comercial
 
 **Escala:** 46 clubes × 500 membros máx. = **23.000 utilizadores registados** (0,21% da população total; 23.000 / 180.000 = **12,8%** dos consumidores no último ano [@carapinha2024icad])
 
@@ -1054,7 +1056,7 @@ O licenciamento de clubes sociais é aberto a nível nacional desde o início, e
 | País/Estado | População | Clubes | Rácio | Modelo |
 | :---- | :---- | :---- | :---- | :---- |
 | **Alemanha** (Nov 2025) | 84M | 357 (de 791 pedidos) | 1:235k | Associações de cultivo, KCanG §§11-26 [@bcav2025] |
-| **Espanha** (estimativas) | 47M | ~800-1.200 (sem registo nacional; estimativas variam) | 1:39-59k | Sem regulação nacional (tolerados) [@pardal2020mapping] |
+| **Espanha** (estimativas) | 47M | ~800-1.000 (sem registo nacional nem estimativas fiáveis) | 1:47-59k | Sem regulação nacional (tolerados) [@pardal2020mapping] |
 | **Uruguai** (31/12/2025) | 3,4M | 557 (19.589 sócios) | 1:6,1k | Clubes de membresía regulados pela Lei 19.172 (máx. 45 sócios) [@ircca2025resumen] |
 | **Portugal** (proposta) | 10,75M | 46 | 1:234k | Rácio alemão aplicado por construção |
 
@@ -1077,21 +1079,21 @@ Assumindo 46 clubes × 400 membros activos médios = **18.400 utilizadores** (ne
 | Jurisdição | Modelo | Métrica de captura legal (anos após legalização) | Notas |
 | :---- | :---- | :---- | :---- |
 | **Canadá** (comercial) | Dispensários + online | ~78% da **despesa** em cannabis de fontes legais (12 meses até Set 2022, ~4 anos) [@hammond2025]; ~30% da despesa ainda não licenciada em 2024 [@statcan2025cannabis]; 3% dos **consumidores** indicam fonte habitual ilegal [@healthcanada2024] | Modelo comercial com ampla rede de retalho |
-| **Uruguai** (misto) | Clubes + farmácias + autocultivo | ~36% dos **consumidores registados** (90.000 de ~250.000) e ~24% das **compras** em canais legais, 10 anos após a lei [@talkingdrugs2024]; 557 clubes, 10.392 autocultivadores e 83.567 adquirentes em farmácia registados a 31/12/2025 [@ircca2025resumen] | Limites de THC baixos nas farmácias nos primeiros anos; registo obrigatório |
-| **Alemanha** (clubes) | Associações de cultivo + autocultivo | Inquérito representativo: 50,7% dos consumidores com alguma **fonte legal**, procura "sobretudo satisfeita por fontes ilegais" [@manthey2025germany]; inquérito online auto-seleccionado KonCanG (n=11.471): 88,4% dos inquiridos obtêm geralmente cannabis de fontes legais, incluindo autocultivo de amigos [@internationalcbc2025]; relatório intercalar oficial: deslocação do mercado ilegal ainda não significativa [@ekocan2025] | Dados ainda limitados (associações só desde Julho de 2024) |
+| **Uruguai** (misto) | Clubes + farmácias + autocultivo | 46% dos **consumidores actuais registados** (Observatório Uruguaio de Drogas, 2024, citado pelo IRCCA), dez anos após a lei; a 31/12/2025, 113.548 registados: 19.589 sócios de 557 clubes, 10.392 autocultivadores e 83.567 adquirentes em farmácia [@ircca2025resumen] | Limites de THC baixos nas farmácias nos primeiros anos; registo obrigatório |
+| **Alemanha** (clubes) | Associações de cultivo + autocultivo | Inquérito ponderado em painel online: 50,7% dos consumidores com alguma **fonte legal**, procura "sobretudo satisfeita por fontes ilegais" [@manthey2025germany]; inquérito online auto-seleccionado KonCanG (n=11.471): 88,4% dos inquiridos obtêm geralmente cannabis de fontes legais, incluindo autocultivo de amigos [@internationalcbc2025]; relatório intercalar oficial: deslocação do mercado ilegal ainda não significativa [@ekocan2025] | Dados ainda limitados (associações só desde Julho de 2024) |
 
 **Premissas da projecção de captura (clubes + autocultivo):**
 
 1. **Clubes directos:** 10,2% (18.400 membros activos / 180.000 consumidores); máximo 12,8% com lotação plena
 2. **Autocultivo (3 plantas):** 5.000 a 30.000 pessoas conforme cenário (2,8% a 16,7% dos consumidores) — **sem dados comparáveis fiáveis**; no Uruguai, 10.392 autocultivadores registados [@ircca2025resumen] correspondem a cerca de 4% dos ~250.000 consumidores
 3. **Partilha no agregado familiar:** Membros podem partilhar com o círculo próximo — pressuposto não quantificado nem comprovado; não entra nos cálculos
-4. **Preço:** Para competir, o preço dos clubes tem de ser competitivo com os €5,3-5,6/g do mercado ilegal [@euda2025ppp], não com valores superiores. Isto enfraquece a margem para absorver custos de testes e prevenção e é um risco para a viabilidade dos clubes
+4. **Preço:** Para competir, o preço dos clubes tem de ser competitivo com os ~€5,6/g do mercado ilegal (média de 2023: €5,58/g [@euda2025ppp]), não com valores superiores. Isto enfraquece a margem para absorver custos de testes e prevenção e é um risco para a viabilidade dos clubes
 
 **Incerteza:**
 
-- A captura de 26% (cenário optimista) é o limite superior plausível, não a baseline. O Uruguai, com clubes, farmácias e autocultivo, chegou a ~36% de consumidores registados e ~24% das compras em dez anos
+- A captura de 26% (cenário optimista) é o limite superior plausível, não a baseline. O Uruguai, com clubes, farmácias e autocultivo, chegou a 46% de consumidores actuais registados em dez anos (Observatório Uruguaio de Drogas, 2024 [@ircca2025resumen])
 - O Canadá atingiu 78% da despesa, mas com modelo **comercial** — não comparável directamente
-- A Alemanha tem dados limitados; o inquérito representativo e o relatório intercalar apontam para deslocação ainda parcial
+- A Alemanha tem dados limitados; o inquérito ponderado e o relatório intercalar apontam para deslocação ainda parcial
 - **Cenário pessimista:** ~5% em 5 anos (clubes com arranque lento, autocultivo residual)
 - **Cenário optimista:** ~26% em 10 anos, se preço e qualidade forem competitivos desde o início (lição uruguaia: a oferta legal tem de ser competitiva em potência e preço)
 
@@ -1107,6 +1109,6 @@ Assumindo 46 clubes × 400 membros activos médios = **18.400 utilizadores** (ne
 - Estigma residual: o registo em base de dados pode dissuadir consumidores
 - Capacidade produtiva: 46 clubes não têm escala para mais de 12,8% dos consumidores
 - Qualidade: clubes novos podem não ter experiência de cultivo imediata
-- Preço: competir com €5,3-5,6/g cobrindo testes e prevenção pode não ser viável
+- Preço: competir com ~€5,6/g cobrindo testes e prevenção pode não ser viável
 
-**Conclusão:** A captura de 5-26% do mercado ilegal é o intervalo plausível com 46 clubes; valores superiores exigiriam mais clubes ou adesão massiva ao autocultivo. O período de avaliação do modelo de clubes (2027-2029) é o mecanismo para testar esta premissa antes de decidir sobre expansão comercial. Se os dados mostrarem captura inferior a 5%, a estratégia deve ser reavaliada.
+**Conclusão:** A captura de 5-26% do mercado ilegal é o intervalo plausível com 46 clubes; valores superiores exigiriam mais clubes ou adesão massiva ao autocultivo. O período de avaliação do modelo de clubes (2029-2032, ver capítulo 11) é o mecanismo para testar esta premissa antes de decidir sobre expansão comercial. Se os dados mostrarem captura inferior a 5%, a estratégia deve ser reavaliada.
