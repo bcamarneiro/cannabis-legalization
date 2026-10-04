@@ -25,8 +25,8 @@
 
 **Dados internacionais de redução do mercado negro:**
 
-* **Uruguai (2013, modelo clubes):** Após 10 anos, mercado legal captura **cerca de 24-40% dos utilizadores** [@dankreports2024uruguay; @talkingdrugs2024uruguay]. Factores apontados pelas fontes (registo biométrico obrigatório [@talkingdrugs2024uruguay]; variedade e THC limitados, distribuição desigual [@cdays2025]) podem contribuir para a captura moderada, mas a causalidade não está demonstrada
-* **Canadá (2018, modelo comercial):** Progressão rápida — mercado ilegal **cerca de 22% (2022, [@sciencedirect2025canada]) → cerca de 5% (2024, [@born2invest2024canada])**
+* **Uruguai (2013, modelo clubes):** Após 10 anos, cerca de 36% dos consumidores estão registados (90.000 de ~250.000) e cerca de 24% das compras são legais; as estimativas divergem [@dankreports2024uruguay; @talkingdrugs2024uruguay]. Factores apontados pelas fontes (registo biométrico obrigatório [@talkingdrugs2024uruguay]; variedade e THC limitados, distribuição desigual [@cdays2025]) podem contribuir para a captura moderada, mas a causalidade não está demonstrada
+* **Canadá (2018, modelo comercial):** Progressão rápida — mercado ilegal **cerca de 22% (2022, [@sciencedirect2025canada]) → cerca de 3% (2024, [@healthcanada2024])**
 * **Colorado (2014, modelo comercial):** Mercado ilegal estimado em **27% do gasto total em 2017** [@arcview2017colorado]
 
 **Expectativa realista para Portugal (modelo clubes sem registo biométrico):**
@@ -69,13 +69,13 @@
 O modelo de cultivo indoor dominante no mercado negro (e em alguns mercados legais) é **ambientalmente insustentável:**
 
 * **Emissões de carbono indoor:** Cultivo indoor gera **2.283-5.184 kg CO₂-equivalente por kg de flor seca** [@summers2021cannabis]; estimativa anterior de cerca de 4.600 kg CO₂/kg de produto final [@mills2021cannabis]
-* **Comparação apropriada:** Tomates em estufa climatizada geram cerca de 1,7 kg CO₂e/kg (mediana) [@sciencedirect2025tomato]. Cannabis indoor é **ordens de grandeza superior** (cerca de mil vezes)
+* **Comparação apropriada:** Tomates em estufa climatizada geram cerca de 1,7 kg CO₂e/kg (mediana) [@sciencedirect2025tomato]. Cannabis indoor é **ordens de grandeza superior** (mais de mil vezes)
 * **Consumo energético:** Instalações indoor consomem tanta electricidade quanto data centers [@motherjones2021carbon]
 * **Impacto grid energético:** Estas estimativas reflectem a rede eléctrica dos EUA [@nature2021cannabis], não a portuguesa; o efeito de energia 100% renovável em Portugal não está quantificado nas fontes citadas
 
 **Alternativa sustentável — energias renováveis obrigatórias:**
 
-* **Cannabis outdoor:** Redução de emissões de cerca de **96% vs. indoor** (cerca de 42% em estufa) [@nature2021cannabis]
+* **Cannabis outdoor:** Estimativas que consideram apenas a electricidade: cerca de 22,7 kg CO₂/kg em outdoor e 326,6 kg em estufa, muito abaixo do indoor (2.283-5.184 kg CO₂e/kg) [@nature2021cannabis]
 * **Shift to outdoor:** Uma transição para outdoor poderia reduzir as emissões do sector em até 76% [@marijuanamoment2024outdoor]
 * **Cânhamo captura carbono:** **8-15 toneladas CO₂/hectare** segundo investigador de Cambridge, consoante o método de cultivo [@cambridge2022hemp; @carboncredits2024hemp]; outra fonte refere **8-22 t CO₂/ha/ano** e tolerância a temperaturas até 35°C [@lampoon2024hemp]. Não há estimativa específica para Portugal
 * **Co-benefícios outdoor:** Regeneração de solos, biodiversidade, economia rural, sem electricidade intensiva

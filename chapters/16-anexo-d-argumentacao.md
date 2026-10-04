@@ -226,7 +226,7 @@ A comparticipação selectiva, combinada com acesso regulado (autocultivo/clubes
 * **Canadá:** Statistics Canada refere que as indicações preliminares (early indications) sugerem que o consumo juvenil não aumentou, sem inferência causal [@statcan2019youth]. Dados contraditórios: survey NCS 2019 (15-17 anos) mostrou queda inicial; survey CCS 2024 (16-19 anos) mostra aumento de 36%→41-43%. Health Canada conclui: "não há tendência clara" — evidência mais honesta que cherry-picking de um único ano
 * **Colorado:** Consumo em adolescentes **desceu de 22% (2011) para 12,8% (2023)** — redução de 42% (Healthy Kids Colorado Survey, CDPHE) [@mpp2024colorado] — **nota:** tendência nacional EUA similar (-38%), pelo que a causalidade exclusiva da legalização não é demonstrável
 * **Meta-análise (Addiction, 2018):** Leis de cannabis medicinal **não se associaram a aumento do consumo juvenil** nos EUA (não abrange legalização recreativa) [@sarvet2018jama]
-* **Coley et al. (2024, Boston College):** Estudo longitudinal 2011-2021 encontrou, em 47 estados dos EUA, associações modestas e mistas entre legalização recreativa e consumo juvenil (sem aumento líquido global) [@coley2024]
+* **Coley et al. (2024, Boston College):** Estudo transversal repetido 2011-2021 encontrou, em 47 estados dos EUA, associações modestas e mistas entre legalização recreativa e consumo juvenil (sem aumento líquido global) [@coley2024]
 * **Alemanha:** Clubes sociais incluem medidas específicas de protecção juvenil; o consumo juvenil continuou a descer no primeiro ano (dados preliminares) [@marijuanamoment2025]
 
 **Interpretação honesta:** Não se pode afirmar que a legalização *protege* jovens (causalidade não demonstrada), mas **não há evidência de que provoque o aumento de consumo que opositores prevêem**. A regulação oferece mecanismos de controlo (verificação idade, educação, financiamento prevenção) inexistentes no mercado negro."
@@ -299,7 +299,7 @@ Por fim, permita-me uma pergunta: prefere que as pessoas cultivem em casa com se
 
 **Resposta curta (30s):**
 
-"No Canadá, a fonte legal passou de 37% (2019) para 72% (2024) dos consumidores, e as compras ilegais caíram de 28% (2018) para 3% [@healthcanada2024]. Na Baviera, os crimes relacionados com cannabis caíram 56% em 2024, em boa parte porque condutas de consumo deixaram de ser crime [@businesscannabis2025a]. Há evidência, embora parte dela seja preliminar."
+"No Canadá, a fonte legal passou de 37% (2019) para 72% (2024) dos consumidores, e as compras ilegais caíram de 28% (2018) para 3% [@healthcanada2024]. Na Baviera, os crimes relacionados com cannabis caíram 56% em 2024, coincidindo com o fim da criminalização da posse [@businesscannabis2025a]; a fonte não estabelece a causa. Há evidência, embora parte dela seja preliminar."
 
 **Resposta desenvolvida (2min):**
 

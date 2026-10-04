@@ -51,8 +51,8 @@ Um estudo publicado na ResearchGate estima o mercado ilegal português de cannab
 
 **Nota sobre receitas fiscais:** O modelo de clubes sociais sem fins lucrativos proposto neste documento (inspirado na Alemanha) não visa gerar receitas fiscais significativas — os clubes cobrem apenas custos operacionais. O objectivo principal é **reduzir o mercado negro** através de acesso legal regulado, com foco em saúde pública e não em comercialização.
 
-## Prevalência de consumo: abaixo da média europeia {#prevalência-de-consumo-abaixo-da-média-europeia}
-Os dados do V Inquérito Nacional (SICAD, 2022) mostram que Portugal mantém taxas de consumo abaixo da média europeia:
+## Prevalência de consumo {#prevalência-de-consumo-abaixo-da-média-europeia}
+Os dados do V Inquérito Nacional (SICAD, 2022) caracterizam o consumo de cannabis em Portugal:
 
 * **Prevalência ao longo da vida (15-74 anos):** 10,5% (PT) [@sicad2022]
 * **Consumo último ano (15-74 anos):** ~2% (PT) [@carapinha2024icad]. A comparação com a média da UE carece de fonte verificada neste documento
@@ -117,9 +117,9 @@ A Lei 30/2000 descriminalizou o consumo pessoal. Os resultados em 25 anos são n
 Os dados comprovam que tratar consumo como questão de saúde (e não criminal) salva vidas:
 
 * Redução de mais de 98% nos diagnósticos de HIV relacionado com drogas injectadas [@transform2016pt]
-* Consumo e mortes por drogas na população geral situam-se muito abaixo da média europeia [@transform2016pt]
+* As mortes por overdose situam-se muito abaixo da média europeia [@transform2016pt]
 * Portugal tem agora uma das taxas mais baixas de mortalidade por drogas na Europa (6 por milhão vs. 23,7 média UE, 2019) [@transform2016pt]
-* **Consumo não aumentou após descriminalização** — Portugal mantém taxas de consumo abaixo da média europeia [@transform2016pt]. **Nota metodológica:** Impossível provar causalidade (múltiplos factores confundidos: tendências europeias, mudanças culturais, políticas prevenção). A conclusão defensável é que a descriminalização **não causou a epidemia temida** pelos opositores [@greenwald2009; @springer2021pt] (Greenwald cobre cerca de oito anos de dados e é um documento de política pública, não revisto por pares)
+* **Consumo não aumentou após descriminalização** — Entre os estudantes, o consumo mantém-se abaixo da média europeia [@transform2016pt]; para a população geral não dispomos de comparação verificada. **Nota metodológica:** Impossível provar causalidade (múltiplos factores confundidos: tendências europeias, mudanças culturais, políticas prevenção). A conclusão defensável é que a descriminalização **não causou a epidemia temida** pelos opositores [@greenwald2009; @springer2021pt] (Greenwald usa dados até 2007 e é um documento de política pública, não revisto por pares)
 
 **2\. O sistema judicial tornou-se mais eficaz e humano**
 
