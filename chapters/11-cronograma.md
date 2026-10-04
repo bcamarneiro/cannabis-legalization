@@ -1,12 +1,12 @@
 \newpage
 
-# CRONOGRAMA
+# CRONOGRAMA {#cronograma}
 
 ## Análise de Precedentes Legislativos em Portugal {#precedentes-legislativos}
 
 Para estabelecer expectativas realistas, é essencial analisar o tempo que legislação controversa demorou a ser aprovada em Portugal:
 
-### Lei 30/2000 (Descriminalização) — O Precedente Mais Relevante
+### Lei 30/2000 (Descriminalização) — O Precedente Mais Relevante {#lei-302000-descriminalização-o-precedente-mais-relevante}
 
 | Fase | Período | Duração | Notas |
 | :---- | :---- | :---- | :---- |
@@ -18,7 +18,7 @@ Para estabelecer expectativas realistas, é essencial analisar o tempo que legis
 
 **Factores que facilitaram:** Consenso médico-científico sólido; apoio cross-party (PS maioritário + PSD colaborativo); recomendação de comissão de especialistas; contexto de "crise da heroína" que criou urgência.
 
-### Outras Legislações Controversas em Portugal
+### Outras Legislações Controversas em Portugal {#outras-legislações-controversas-em-portugal}
 
 | Lei | Proposta | Aprovação | Duração | Observações |
 | :---- | :---- | :---- | :---- | :---- |
@@ -27,11 +27,11 @@ Para estabelecer expectativas realistas, é essencial analisar o tempo que legis
 | **Eutanásia** | 2018 (BE) | 2023 (promulgação final) | ~5 anos | 4 vetos presidenciais, TC, reformulações |
 | **Cannabis medicinal** | 2018 (BE/PAN) | Jun 2018 | ~6 meses | Consenso amplo, baixa controvérsia |
 
-### Diferenças Críticas: 2000 vs. 2026
+### Diferenças Críticas: 2000 vs. 2026 {#diferenças-críticas-2000-vs.-2026}
 
 | Factor | Lei 30/2000 | Proposta Cannabis Recreativa 2026 |
 | :---- | :---- | :---- |
-| Consenso cross-party | ✅ PS + PSD + médicos | ❌ LIVRE minoritário, PS/PSD incertos |
+| Consenso cross-party | ✅ PS + PSD + médicos | ❌ Posições partidárias divididas (ver anexo E) |
 | Maioria parlamentar | ✅ PS maioritário | ❌ Sem maioria garantida |
 | Precedente internacional | ❌ Portugal foi pioneiro | ✅ Alemanha, Uruguai, Canadá |
 | Recomendação comissão especialistas | ✅ Comissão Estratégia | ⚠️ A criar (proposto neste documento) |
@@ -44,7 +44,7 @@ A proposta segue uma lógica pragmática: **cada fase valida a seguinte**, come�
 
 > **Princípio fundamental:** Os três **pilares** (Medicinal, Recreativo, Cânhamo) descrevem *o que* propomos. As três **fases** descrevem *quando e em que ordem* implementamos. Um pilar pode abranger múltiplas fases (ex: o Medicinal começa na Fase 1 e continua a evoluir). Uma fase contém elementos de múltiplos pilares.
 
-### Fase 1 (imediata): Cânhamo Industrial + Revisão Cannabis Medicinal
+### Fase 1 (imediata): Cânhamo Industrial + Revisão Cannabis Medicinal {#fase-1-imediata-cânhamo-industrial-revisão-cannabis-medicinal}
 
 **Porquê começar aqui:**
 - **Cânhamo industrial** não depende de nenhum outro pilar — é agricultura, não gera controvérsia ideológica, é legal na UE (THC<0,3%), e pode avançar imediatamente
@@ -52,17 +52,17 @@ A proposta segue uma lógica pragmática: **cada fase valida a seguinte**, come�
 - Ambas as frentes podem tramitar **em paralelo** e ser aprovadas rapidamente (6-12 meses)
 - **Quick wins:** SNS co-payment, prescrição simplificada, programa piloto cânhamo 1000ha, parcerias universitárias
 
-### Fase 2 (após Fase 1 mostrar resultados): Clubes Sociais + Autocultivo Recreativo
+### Fase 2 (após Fase 1 mostrar resultados): Clubes Sociais + Autocultivo Recreativo {#fase-2-após-fase-1-mostrar-resultados-clubes-sociais-autocultivo-recreativo}
 
 **Porquê sequenciar:**
 - A Fase 1 demonstra capacidade regulatória e gera resultados tangíveis (emprego rural, acesso a doentes)
 - Constrói confiança institucional e pública para o debate mais difícil
-- Permite ao LIVRE e parceiros parlamentares apresentar a regulação recreativa com track record de competência
+- Permite a quem apresente a regulação recreativa com track record de competência
 - **O que inclui:** Licenciamento nacional de clubes sociais, autocultivo 3 plantas para adultos, idade 21+
 - **Período de avaliação:** 2-3 anos de recolha de dados sobre impacto no mercado negro, consumo juvenil, saúde pública
 - **Condição:** Fase 1 demonstra viabilidade política e resultados positivos
 
-### Fase 3 (condicional, se dados da Fase 2 forem positivos): Venda Comercial Regulada
+### Fase 3 (condicional, se dados da Fase 2 forem positivos): Venda Comercial Regulada {#fase-3-condicional-se-dados-da-fase-2-forem-positivos-venda-comercial-regulada}
 
 **Esta é um horizonte, não um compromisso — decisão puramente baseada em dados:**
 - **O que inclui:** Venda comercial licenciada (dispensários ou modelo similar), se o modelo de clubes provar eficácia
@@ -77,13 +77,13 @@ A proposta segue uma lógica pragmática: **cada fase valida a seguinte**, come�
 
 ## Cronograma Proposto — Três Cenários {#cronograma-cenarios}
 
-### Cenário Optimista (Fase 1: 6-9 meses; Fase 2: 18-24 meses; Fase 3: horizonte 2033+) — Probabilidade: 20-30%
+### Cenário Optimista (Fase 1: 6-9 meses; Fase 2: 18-24 meses; Fase 3: horizonte 2033+) — Probabilidade: 20-30% {#cenário-optimista-fase-1-6-9-meses-fase-2-18-24-meses-fase-3-horizonte-2033-probabilidade-20-30}
 
 **Condições necessárias:** Apoio PS em 2026-2027; consenso técnico rápido; sem eleições intercalares.
 
 | Prazo | Acção | Fase |
 | :---- | :---- | :---- |
-| Fev-Mar 2026 | Aprovação interna LIVRE (CTs + Coordenação) | — |
+| Fev-Mar 2026 | Pedido de posições oficiais aos partidos (anexo E) | — |
 | Abr-Jun 2026 | Propostas cânhamo + revisão medicinal (consenso transversal) | **Fase 1** |
 | **Q3-Q4 2026** | **Aprovação cânhamo + medicinal** | **Fase 1** |
 | Q4 2026 - Q1 2027 | Programa piloto cânhamo (3-5 regiões); medicinal operacional | **Fase 1** |
@@ -95,7 +95,7 @@ A proposta segue uma lógica pragmática: **cada fase valida a seguinte**, come�
 | 2029-2032 | Período de avaliação: recolha de dados sobre clubes | **Fase 2** |
 | **2033+** | **Decisão sobre venda comercial regulada** (condicional a dados positivos + coordenação UE) | **Fase 3** (horizonte) |
 
-### Cenário Realista (Fase 1: 9-12 meses; Fase 2: 24-36 meses; Fase 3: horizonte 2034+) — Probabilidade: 40-50%
+### Cenário Realista (Fase 1: 9-12 meses; Fase 2: 24-36 meses; Fase 3: horizonte 2034+) — Probabilidade: 40-50% {#cenário-realista-fase-1-9-12-meses-fase-2-24-36-meses-fase-3-horizonte-2034-probabilidade-40-50}
 
 **Condições:** Fase 1 aprovada sem dificuldades; resistência parlamentar ao recreativo; PS eventualmente apoia versão moderada.
 
@@ -110,7 +110,7 @@ A proposta segue uma lógica pragmática: **cada fase valida a seguinte**, come�
 | 2030-2032 | Avaliação modelo clubes (2-3 anos de dados) | **Fase 2** |
 | **2034+** | **Decisão sobre venda comercial** (se dados positivos + coordenação UE resolvida) | **Fase 3** (horizonte) |
 
-### Cenário Conservador (48-60+ meses) — Probabilidade: 20-30%
+### Cenário Conservador (48-60+ meses) — Probabilidade: 20-30% {#cenário-conservador-48-60-meses-probabilidade-20-30}
 
 **Condições:** Fase 1 aprovada mas recreativo enfrenta oposição forte PSD/CDS; mudança de governo; bloqueios institucionais.
 
@@ -127,9 +127,11 @@ A proposta segue uma lógica pragmática: **cada fase valida a seguinte**, come�
 
 **Nota importante:** Mesmo no cenário conservador, a **Fase 1 avança e produz resultados** (cânhamo em produção, doentes com acesso medicinal). O bloqueio do recreativo não invalida os ganhos da Fase 1. E mesmo que a Fase 3 nunca aconteça, os objectivos de harm reduction são atingidos na Fase 2.
 
-## Cronograma Base (Cenário Realista)
+## Cronograma Base (Cenário Realista) {#cronograma-base-cenário-realista}
 
-### Fase 1: Cânhamo Industrial + Revisão Cannabis Medicinal (imediata)
+![Cronograma base no cenário realista: Fase 1 em 2026-2027, aprovação do regime de clubes em 2028, clubes licenciados em 2029, avaliação em 2030-2032 e decisão sobre venda comercial em 2033 ou depois.](assets/diagrams/cronograma-implementacao.png){width=100%}
+
+### Fase 1: Cânhamo Industrial + Revisão Cannabis Medicinal (imediata) {#fase-1-cânhamo-industrial-revisão-cannabis-medicinal-imediata}
 
 | PRAZO | ACÇÃO | CONTINGÊNCIA |
 | :---- | :---- | :---- |
@@ -142,7 +144,7 @@ A proposta segue uma lógica pragmática: **cada fase valida a seguinte**, come�
 | **Q3-Q4 2026** | **Proposta simplificação regulatória cânhamo industrial** (THC<0,3%, regime notificação) | Menor resistência política — avança em paralelo com medicinal |
 | **Q4 2026 - Q1 2027** | **Aprovação cânhamo + medicinal; programa piloto cânhamo inicia** (3-5 regiões, ISA/UTAD, incentivos PAC) | Se atrasos no cânhamo: medicinal avança independentemente |
 
-### Fase 2: Clubes Sociais + Autocultivo Recreativo (após resultados Fase 1)
+### Fase 2: Clubes Sociais + Autocultivo Recreativo (após resultados Fase 1) {#fase-2-clubes-sociais-autocultivo-recreativo-após-resultados-fase-1}
 
 | PRAZO | ACÇÃO | CONTINGÊNCIA |
 | :---- | :---- | :---- |
@@ -153,7 +155,7 @@ A proposta segue uma lógica pragmática: **cada fase valida a seguinte**, come�
 | **Q3-Q4 2029** | **Licenciamento nacional clubes sociais cannabis recreativa** — abertura a qualquer município | Se atrasos: iniciar apenas com autocultivo |
 | **2030-2032** | **Período de avaliação** — recolha de dados, relatórios públicos anuais | Monitorização rigorosa: mercado negro, consumo juvenil, saúde pública |
 
-### Fase 3: Venda Comercial Regulada (horizonte condicional)
+### Fase 3: Venda Comercial Regulada (horizonte condicional) {#fase-3-venda-comercial-regulada-horizonte-condicional}
 
 | PRAZO | ACÇÃO | CONTINGÊNCIA |
 | :---- | :---- | :---- |
@@ -165,7 +167,7 @@ A proposta segue uma lógica pragmática: **cada fase valida a seguinte**, come�
 
 ## Bottlenecks Identificados e Contingências {#bottlenecks}
 
-### 1. Regulamentação Secundária (INFARMED/SICAD/IVV)
+### 1. Regulamentação Secundária (INFARMED/SICAD/IVV) {#regulamentação-secundária-infarmedsicadivv}
 
 **Risco:** Adição de 12-24 meses após aprovação parlamentar.
 
@@ -175,7 +177,7 @@ A proposta segue uma lógica pragmática: **cada fase valida a seguinte**, come�
 - Reutilizar frameworks existentes (cannabis medicinal, álcool) onde possível
 - Contratar consultoria internacional (Alemanha, Malta) para acelerar
 
-### 2. Capacidade Laboratorial (Testes ISO 17025)
+### 2. Capacidade Laboratorial (Testes ISO 17025) {#capacidade-laboratorial-testes-iso-17025}
 
 **Risco:** Inexistência de laboratórios acreditados para testes cannabis em PT.
 
@@ -184,7 +186,7 @@ A proposta segue uma lógica pragmática: **cada fase valida a seguinte**, come�
 - Antecipar investimento ou subcontratação internacional (Eurofins, Fundación CANNA)
 - Acreditação ISO 17025 demora 12-18 meses — **iniciar processo em 2027**
 
-### 3. Eleições Intercalares
+### 3. Eleições Intercalares {#eleições-intercalares}
 
 **Risco:** Mudança de governo invalida trabalho legislativo.
 
@@ -193,7 +195,7 @@ A proposta segue uma lógica pragmática: **cada fase valida a seguinte**, come�
 - Documentar processo de forma que novo governo possa continuar
 - Versão "mínima viável" pronta para aprovação rápida se janela política surgir
 
-### 4. Resistência Municipal
+### 4. Resistência Municipal {#resistência-municipal}
 
 **Risco:** Câmaras conservadoras bloqueiam clubes via zonamento/licenciamento.
 
@@ -202,7 +204,7 @@ A proposta segue uma lógica pragmática: **cada fase valida a seguinte**, come�
 - Limitar poder municipal a aspectos urbanísticos (não ao mérito da actividade)
 - Recurso administrativo eficaz contra bloqueios arbitrários
 
-## Nota sobre Realismo do Cronograma
+## Nota sobre Realismo do Cronograma {#nota-sobre-realismo-do-cronograma}
 
 **Honestidade intelectual:** A estratégia em três fases mitiga o principal risco político. A **Fase 1** (cânhamo + medicinal) tem precedentes de aprovação rápida em Portugal — a Lei 33/2018 (cannabis medicinal) foi aprovada em ~6 meses com consenso amplo. O cânhamo, sendo agricultura sem controvérsia ideológica, pode seguir timeline similar.
 

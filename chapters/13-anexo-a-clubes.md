@@ -1,12 +1,12 @@
 \newpage
 
-# PARTE III — ANEXOS
+# PARTE III — ANEXOS {#parte-iii-anexos}
 
 \newpage
 
-# ANEXO A: Funcionamento dos Clubes Sociais de Cannabis — Modelo Alemão
+# ANEXO A: Funcionamento dos Clubes Sociais de Cannabis — Modelo Alemão {#anexo-a-funcionamento-dos-clubes-sociais-de-cannabis-modelo-alemão}
 
-## O que são os Cannabis Social Clubs (Anbauvereinigungen)?
+## O que são os Cannabis Social Clubs (Anbauvereinigungen)? {#o-que-são-os-cannabis-social-clubs-anbauvereinigungen}
 
 Os Cannabis Social Clubs (CSCs), oficialmente designados *Anbauvereinigungen* (associações de cultivo), são associações privadas sem fins lucrativos cujo único propósito é o cultivo colectivo e distribuição de cannabis aos membros para consumo pessoal. Não são lojas, dispensários ou coffee shops — são cooperativas agrícolas especializadas.
 
@@ -18,7 +18,7 @@ Os Cannabis Social Clubs (CSCs), oficialmente designados *Anbauvereinigungen* (a
 * Financiados por quotas de associados (que cobrem apenas custos operacionais)
 * Sem margens de lucro — o preço por grama reflecte apenas custos de produção e gestão
 
-## Requisitos de Adesão
+## Requisitos de Adesão {#requisitos-de-adesão}
 
 | Requisito | Especificação |
 | :---- | :---- |
@@ -30,15 +30,15 @@ Os Cannabis Social Clubs (CSCs), oficialmente designados *Anbauvereinigungen* (a
 
 A regra de exclusividade e o período mínimo de residência previnem acumulação de quantidades acima do legal e turismo cannábico.
 
-### Prevenção de Turismo Cannabis: Lições de Amsterdam e Barcelona
+### Prevenção de Turismo Cannabis: Lições de Amsterdam e Barcelona {#prevenção-de-turismo-cannabis-lições-de-amsterdam-e-barcelona}
 
 **Problema identificado:**
 
 O turismo cannabis cria problemas documentados em cidades europeias:
 
-* **Amsterdam:** 58% dos turistas internacionais visitam especificamente para consumir drogas; 3 milhões de turistas/ano frequentam coffee shops. A autarca descreveu o fenómeno como "a blight on the city, fostering crime and public disorder" [@natgeo2024amsterdam; @schengen2024amsterdam]. Apesar de propostas para implementar critério de residência (i-criterium), Amsterdam não conseguiu aplicar a medida por receio de expansão do mercado negro.
+* **Amsterdam:** a autarca propôs proibir a entrada de estrangeiros nos coffee shops [@natgeo2024amsterdam] e foi introduzida a proibição de fumar na rua no Bairro da Luz Vermelha [@schengen2024amsterdam].
 
-* **Barcelona:** Em 2024, o município ordenou encerramento de 30 clubes por violações e turismo cannabis. Supremo Tribunal Espanhol (2021-2023) estabeleceu que clubes que operam como negócios, aceitam turistas ou fazem publicidade constituem **tráfico de drogas**. Inspeções regulares resultaram em encerramentos e acusações criminais [@medium2024barcelona; @greendream2024spain].
+* **Barcelona:** Em 2024, o município ordenou encerramento de 30 clubes por violações e turismo cannabis. Supremo Tribunal Espanhol (2021-2023) estabeleceu que clubes que operam como negócios, aceitam turistas ou fazem publicidade constituem **tráfico de drogas**. As inspeções resultaram em ordens de encerramento (30 clubes em julho de 2024) [@medium2024barcelona; @greendream2024spain].
 
 **Política portuguesa proposta:**
 
@@ -73,14 +73,14 @@ Diferentemente de Amsterdam (que falhou implementação por lobby), Portugal ter
 * Auditorias SICAD/Infarmed regulares com poder revogação imediata
 * Nenhuma indústria turística cannabis pré-existente a defender status quo
 
-## Limites de Distribuição aos Membros
+## Limites de Distribuição aos Membros {#limites-de-distribuição-aos-membros}
 
 | Idade | Limite diário | Limite mensal | Limite THC |
 | :---- | :---- | :---- | :---- |
 | 21+ anos | 25g | 50g | Sem limite |
 | 18 - 21 anos | 25g | 30g | Máximo 10% |
 
-## Regras de Funcionamento
+## Regras de Funcionamento {#regras-de-funcionamento}
 
 **Produtos permitidos:**
 
@@ -101,7 +101,7 @@ Diferentemente de Amsterdam (que falhou implementação por lobby), Portugal ter
 * Distância mínima de 200m de escolas/instalações para jovens
 * Licença válida por 7 anos, renovável
 
-## Obrigações de Saúde Pública
+## Obrigações de Saúde Pública {#obrigações-de-saúde-pública}
 
 Cada clube deve:
 
@@ -110,22 +110,22 @@ Cada clube deve:
 * **Rastreabilidade Total** — Documentação de cada etapa: sementeira → colheita → distribuição → entrega a cada membro
 * **Recursos Educativos** — Informação sobre riscos e encaminhamento para apoio
 
-## Governance e Prevenção de Desvios Comerciais
+## Governance e Prevenção de Desvios Comerciais {#governance-e-prevenção-de-desvios-comerciais}
 
-**Contexto:** A Alemanha implementa fiscalização através de documentação obrigatória (§26 KCanG) [@kcang2024], inspecções aleatórias das autoridades regionais, e princípio cost-recovery (§§24-25 KCanG) [@kcang2024] que proíbe lucro. **Contudo**, Espanha demonstrou que tolerância de clubes sem regulação nacional rigorosa permite desvios comerciais, exploração, e ligações a crime organizado.
+**Contexto:** A Alemanha implementa fiscalização através de documentação obrigatória (§26 KCanG) [@kcang2024], inspecções aleatórias das autoridades regionais, e restrições ao lucro das associações. **Contudo**, Espanha demonstrou que tolerância de clubes sem regulação nacional rigorosa permite desvios comerciais, exploração, e ligações a crime organizado.
 
 **Para evitar repetir o cenário espanhol**, Portugal deve ir além do modelo alemão base, adicionando mecanismos de enforcement específicos ausentes tanto na Alemanha como em Espanha:
 
 **Safeguards adicionais propostos para Portugal:**
 
-### 1. Auditoria Financeira Independente
+### 1. Auditoria Financeira Independente {#auditoria-financeira-independente}
 
 * **Frequência:** Anual, conduzida por auditor externo certificado (não membro do clube)
 * **Transparência:** Relatório completo publicado no site do clube e submetido a SICAD
 * **Conteúdo:** Receitas, despesas detalhadas, custos por grama, pagamentos a direcção/funcionários, doações de excedentes
 * **Consequência:** Recusa de publicação resulta em suspensão imediata da licença até compliance
 
-### 2. Transparência de Preços (em vez de tecto rígido)
+### 2. Transparência de Preços (em vez de tecto rígido) {#transparência-de-preços-em-vez-de-tecto-rígido}
 
 * **Princípio:** Cada clube define os seus preços com base nos custos reais de produção, qualidade do produto, e situação financeira — **sem tecto de preço rígido**
 * **Obrigações de transparência:**
@@ -136,7 +136,7 @@ Cada clube deve:
 * **Objectivo:** Manter competitividade com mercado negro (~€5-8/g) sem impor rigidez que comprometa viabilidade de clubes com custos operacionais mais elevados
 * **Fiscalização:** Auditoria trimestral de preços vs. custos declarados — desvios significativos sem justificação desencadeiam inspecção aprofundada
 
-### 3. Transparência Financeira Mensal
+### 3. Transparência Financeira Mensal {#transparência-financeira-mensal}
 
 * **Obrigação:** Divulgação pública mensal de:
   - Total de vendas (€)
@@ -146,21 +146,21 @@ Cada clube deve:
 * **Formato:** Dashboard online acessível a todos os membros e autoridades
 * **Objectivo:** Permitir detecção precoce de anomalias (ex: vendas > custos + margem razoável)
 
-### 4. Proibição de Retenção de Excedentes
+### 4. Proibição de Retenção de Excedentes {#proibição-de-retenção-de-excedentes}
 
 * **Regra:** Qualquer surplus financeiro (receitas > custos + reserva operacional 10%) é **automaticamente doado** a SICAD para financiar prevenção e tratamento
 * **Transferência:** Automática ao fim de cada trimestre fiscal
 * **Proibição absoluta:** Distribuição de lucros a membros, direcção, ou funcionários (só salários compatíveis com mercado)
 * **Penalidade:** Retenção ilícita resulta em revogação permanente da licença + coima
 
-### 5. Programa de Whistleblowing (Denúncia Protegida)
+### 5. Programa de Whistleblowing (Denúncia Protegida) {#programa-de-whistleblowing-denúncia-protegida}
 
 * **Canal confidencial:** Membros podem reportar suspeitas de desvios comerciais (revenda, manipulação de preços, não-compliance) anonimamente a SICAD
 * **Protecção:** Denunciante protegido contra retaliação (expulsão do clube resulta em investigação automática)
 * **Recompensa:** Denúncias comprovadas que levem a revogação de licença resultam em reembolso de quotas ao denunciante
 * **Investigação:** Todas as denúncias investigadas dentro de 30 dias
 
-### 6. Inspecções Surpresa
+### 6. Inspecções Surpresa {#inspecções-surpresa}
 
 * **Frequência:** 10% dos clubes auditados trimestralmente, selecção aleatória
 * **Âmbito:** Verificação física de stocks, documentação de distribuições, conformidade com limites de membros, rastreabilidade
@@ -169,7 +169,7 @@ Cada clube deve:
 
 **Contraste com Espanha:** Estes mecanismos estão ausentes em muitos clubes espanhóis, permitindo operação comercial disfarçada. **Portugal aprende com erros alheios**, não os replica.
 
-## Licenciamento
+## Licenciamento {#licenciamento}
 
 O processo de licenciamento é conduzido pelas autoridades de cada Land (estado federal) e inclui:
 
@@ -180,7 +180,7 @@ O processo de licenciamento é conduzido pelas autoridades de cada Land (estado 
 
 **Estado actual (Novembro 2025):** 791 candidaturas submetidas, 357 licenças aprovadas a nível nacional (fonte: BCAv - Associação Federal Alemã de Associações de Cultivo).
 
-## Modelo de Custos — Exemplo Real
+## Modelo de Custos — Exemplo Real {#modelo-de-custos-exemplo-real}
 
 O Cannabis Social Club Ganderkesee (Baixa Saxónia), primeiro a distribuir cannabis em 2 de Novembro de 2024:
 
@@ -188,9 +188,9 @@ O Cannabis Social Club Ganderkesee (Baixa Saxónia), primeiro a distribuir canna
 * **Quota mensal:** €50–500 (funciona como crédito para compras)
 * **Produtos:** 6 variedades disponíveis (9–25% THC)
 
-## Modelo Económico Detalhado: Estrutura de Custos e Financiamento
+## Modelo Económico Detalhado: Estrutura de Custos e Financiamento {#modelo-económico-detalhado-estrutura-de-custos-e-financiamento}
 
-### Estrutura de Custos Operacionais (clube 300-500 membros)
+### Estrutura de Custos Operacionais (clube 300-500 membros) {#estrutura-de-custos-operacionais-clube-300-500-membros}
 
 #### 1. Custos de Cultivo (50-60% do total)
 
@@ -242,7 +242,7 @@ Nota: Rácio pessoal-membros conservador (1:66-111), garantindo atendimento pers
 * **Finalidade:** Cobrir imprevistos (quebras colheita, reparações urgentes, flutuações procura)
 * **Regra:** Acumulação máxima 10% custos anuais; excedente doado SICAD
 
-### CUSTO TOTAL CLUBE (400 membros médio)
+### CUSTO TOTAL CLUBE (400 membros médio) {#custo-total-clube-400-membros-médio}
 
 | Categoria | Valor Anual |
 | :---- | :---- |
@@ -255,7 +255,7 @@ Nota: Rácio pessoal-membros conservador (1:66-111), garantindo atendimento pers
 | **Custo/membro/ano** | **€702 - €982** |
 | **Custo/membro/mês** | **€58 - €82** |
 
-### Modelo de Financiamento e Regulação de Preços
+### Modelo de Financiamento e Regulação de Preços {#modelo-de-financiamento-e-regulação-de-preços}
 
 #### Opção 1: Sistema de Quotas Mensais Fixas (modelo alemão predominante)
 
@@ -289,7 +289,7 @@ Nota: Rácio pessoal-membros conservador (1:66-111), garantindo atendimento pers
   - Cannabis: 20g × €4 = €80
   - **Total: €110/mês** (vs €200-300 mercado negro)
 
-### Comparação Preços: Clube vs Mercado Negro vs Comercial
+### Comparação Preços: Clube vs Mercado Negro vs Comercial {#comparação-preços-clube-vs-mercado-negro-vs-comercial}
 
 | Modelo | Preço/grama | Markup | Finalidade lucro |
 | :---- | :---- | :---- | :---- |
@@ -300,7 +300,7 @@ Nota: Rácio pessoal-membros conservador (1:66-111), garantindo atendimento pers
 
 **Vantagem competitiva clubes:** Preço 40-60% inferior ao mercado negro, mantendo qualidade testada superior. Suficiente para capturar utilizadores racionais, sem comercialização excessiva.
 
-### Viabilidade Económica: Ponto de Equilíbrio
+### Viabilidade Económica: Ponto de Equilíbrio {#viabilidade-económica-ponto-de-equilíbrio}
 
 #### Clube Pequeno (200 membros)
 
@@ -488,7 +488,7 @@ Artigo XX — Acesso a Serviços Financeiros
 
 #### 5. Parcerias com Indústria Cannabis Medicinal {#parcerias-medicinal}
 
-**Contexto:** Portugal tem **37 empresas licenciadas** para cannabis medicinal, com infraestrutura, know-how, e excesso de capacidade após queda preços internacionais.
+**Contexto:** Portugal tem **dezenas de empresas licenciadas** para cannabis medicinal, com infraestrutura, know-how, e excesso de capacidade após queda preços internacionais.
 
 **Modelo de parceria:**
 
@@ -534,9 +534,9 @@ Internacionalmente, empresas e associações ligadas à cannabis enfrentam restr
 
 **O problema:**
 
-* **EUA:** Cannabis permanece ilegal federalmente (Schedule I), o que impede bancos federais de oferecer serviços. Resultado: >70% dos negócios de cannabis operam maioritariamente em cash, criando riscos de segurança [@cuna2025]. O SAFE Banking Act, proposto repetidamente desde 2019, ainda não foi aprovado.
+* **EUA:** Cannabis permanece ilegal federalmente (Schedule I), o que impede bancos federais de oferecer serviços. Resultado: os negócios de cannabis operam quase inteiramente em numerário, criando riscos de segurança [@cuna2025]. O SAFE Banking Act, proposto repetidamente desde 2019, ainda não foi aprovado.
 * **Europa:** O risco é menor (sem conflito federal/estadual), mas bancos europeus aplicam frequentemente políticas de *de-risking*, recusando clientes do sector cannabis por receio de compliance com regulação anti-branqueamento.
-* **Reino Unido:** Empresas de CBD e cannabis medicinal reportam recusas sistemáticas de bancos comerciais, recorrendo a cooperativas financeiras como a Co-Op [@healtheuropa2022].
+* **Reino Unido:** Empresas de CBD e cannabis medicinal reportam encerramento de contas por alguns bancos britânicos (p. ex. Metro Bank), com algumas a recorrer à Co-Op [@healtheuropa2022].
 
 **Situação em Portugal:**
 

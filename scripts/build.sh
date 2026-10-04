@@ -15,6 +15,7 @@ fi
 # Parse argumentos
 BUILD_PDF=false
 BUILD_DOCX=false
+BUILD_SITE=false
 
 if [[ $# -eq 0 ]]; then
     # Sem argumentos: build ambos
@@ -30,13 +31,17 @@ else
             docx)
                 BUILD_DOCX=true
                 ;;
+            site)
+                BUILD_SITE=true
+                ;;
             *)
-                echo "Uso: $0 [--with-reversion] [pdf] [docx]"
+                echo "Uso: $0 [--with-reversion] [pdf] [docx] [site]"
                 echo ""
                 echo "Exemplos:"
                 echo "  $0           # Build PDF e DOCX"
                 echo "  $0 pdf       # Build apenas PDF"
                 echo "  $0 docx      # Build apenas DOCX"
+                echo "  $0 site      # Build apenas o site"
                 echo "  $0 pdf docx  # Build ambos"
                 echo "  $0 --with-reversion pdf  # Build PDF with automatic rollback on failure"
                 exit 1
@@ -54,7 +59,12 @@ echo ""
 if [[ "$USE_REVERSION" == true ]]; then
     echo "🔄 Reversion logic enabled - automatic rollback on failure"
     echo ""
-    
+
+    if [[ "$BUILD_SITE" == true ]]; then
+        echo "❌ 'site' não suporta --with-reversion" >&2
+        exit 1
+    fi
+
     # Determine build type argument
     BUILD_TYPE="both"
     if [[ "$BUILD_PDF" == true && "$BUILD_DOCX" == false ]]; then
@@ -79,6 +89,12 @@ else
     if [[ "$BUILD_DOCX" == true ]]; then
         echo "🔨 Building DOCX..."
         bash "$SCRIPT_DIR/build-docx.sh"
+        echo ""
+    fi
+
+    if [[ "$BUILD_SITE" == true ]]; then
+        echo "🔨 Building site..."
+        bash "$SCRIPT_DIR/build-site.sh"
         echo ""
     fi
 

@@ -41,16 +41,21 @@ jobs:
           echo "version=${NEW_VERSION}" >> $GITHUB_OUTPUT
           echo "Bumped to version: ${NEW_VERSION}"
 
-      - name: Commit version bump
+      - name: Commit version bump and heading lock
         run: |
+          python3 scripts/heading_ids.py check
+          python3 scripts/heading_ids.py lock
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add VERSION
+          git add VERSION docs/heading-ids.lock
           git commit -m "chore: Bump version to ${{ steps.version.outputs.version }} (${{ github.event.inputs.bump_type }})"
           git push
 
       - name: Build PDF and DOCX
         run: bash scripts/build.sh
+
+      - name: Generate documento.md (release asset)
+        run: bash scripts/merge-chapters.sh
 
       - name: Determine release type label
         id: release_type
@@ -77,11 +82,12 @@ jobs:
             ${{ github.event.inputs.release_notes != '' && format('### 📝 Notas da Release\n\n{0}\n', github.event.inputs.release_notes) || '' }}
 
             ### 📦 Ficheiros disponíveis:
-            - 📄 `documento.pdf` - Versão PDF completa
-            - 📝 `documento.docx` - Versão Word editável
+            - 📄 `Regulacao_Cannabis_Portugal.pdf` - Versão PDF completa
+            - 📝 `Regulacao_Cannabis_Portugal.docx` - Versão Word editável
+            - 🧾 `documento.md` - Texto fonte concatenado (Markdown)
 
             ### 🔗 Links úteis:
-            - [Ver documento fonte](../../blob/main/build/documento.md)
+            - [Ver documento fonte](../../tree/main/chapters)
             - [Ver referências bibliográficas](../../blob/main/references.bib)
             - [Ver todas as releases](../../releases)
 
@@ -90,5 +96,16 @@ jobs:
           files: |
             output/Regulacao_Cannabis_Portugal.pdf
             output/Regulacao_Cannabis_Portugal.docx
+            build/documento.md
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  site:
+    needs: manual-release
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    uses: ./.github/workflows/site.yml
+    with:
+      ref: main

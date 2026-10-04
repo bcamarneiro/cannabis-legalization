@@ -1,0 +1,12 @@
+{
+  "theme": "base",
+  "themeVariables": {
+    "fontFamily": "Helvetica Neue, Arial, sans-serif",
+    "taskBkgColor": "#4a86c5", "taskBorderColor": "#1c5d99", "taskTextColor": "#ffffff",
+    "taskTextDarkColor": "#10243a", "taskTextOutsideColor": "#10243a",
+    "sectionBkgColor": "#eef3f8", "altSectionBkgColor": "#ffffff", "sectionBkgColor2": "#eef3f8",
+    "edgeLabelBackground": "#ffffff", "gridColor": "#c9d3de", "titleColor": "#10243a"
+  },
+  "flowchart": { "wrappingWidth": 420, "padding": 14, "nodeSpacing": 40, "rankSpacing": 50 },
+  "gantt": { "barHeight": 24, "fontSize": 14, "leftPadding": 250, "sectionFontSize": 14 }
+}

@@ -1,58 +1,29 @@
-graph TD
-    start["🇩🇪 Modelo Alemão<br/>Cannabis Act 2024"]
-
-    subgraph pillar1["PILLAR 1 - Implementado ✅"]
+flowchart TB
+    DE["Alemanha · Cannabis Act (CanG)<br/>em vigor desde 1 de abril de 2024"]
+    subgraph S1["Pillar 1 · em vigor"]
         direction TB
-        P1A["🏠 Autocultivo<br/>Até 3 plantas"]
-        P1B["🤝 Clubes sem fins lucrativos<br/>Máx. 500 membros"]
-        P1C["🌱 Distribuição aos membros<br/>Máx. 50g/mês"]
-        P1D["🚫 Proibição de publicidade"]
-
-        P1A ~~~ P1B ~~~ P1C ~~~ P1D
+        A1["Autocultivo: até 3 plantas por adulto"]
+        A2["Clubes sem fins lucrativos: máx. 500 membros<br/>25 g/dia e 50 g/mês por membro"]
+        A3["Situação (nov. 2025): 357 clubes aprovados,<br/>~190 operacionais; ~2 % dos consumidores elegíveis (abr. 2025)"]
     end
-
-    subgraph pillar2["PILLAR 2 - Adiado ⏸️"]
+    subgraph S2["Pillar 2 · bloqueado"]
         direction TB
-        P2A["🏪 Venda comercial<br/>Dispensários licenciados"]
-        P2B["🏙️ Programas-piloto<br/>Cidades selecionadas"]
-        P2C["📊 Monitorização rigorosa<br/>Dados científicos"]
-        P2D["⏱️ Avaliação após 5 anos"]
-
-        P2A ~~~ P2B ~~~ P2C ~~~ P2D
+        B1["Venda comercial regulada<br/>em cidades-piloto"]
+        B2["Obstáculo: direito da UE / Schengen<br/>sem avanço desde 2025"]
     end
-
-    subgraph avaliacao["AVALIAÇÃO - Ano 3"]
+    subgraph PT["Portugal"]
         direction TB
-        A1["📈 Indicadores de sucesso:<br/>• Redução mercado negro<br/>• Acesso seguro<br/>• Sem aumento uso jovens"]
-        A2{"Pillar 1<br/>bem-sucedido?"}
-        A3["✅ Avançar para Pillar 2"]
-        A4["🔄 Manter/Ajustar Pillar 1"]
-
-        A1 --> A2
-        A2 -->|Sim| A3
-        A2 -->|Não| A4
+        C1["Fase 2 ≈ Pillar 1<br/>prioritário e viável agora"]
+        C2["Fase 3 ≈ Pillar 2<br/>condicional, sem promessa ao eleitor"]
     end
+    DE --> S1
+    DE --> S2
+    S1 --> C1
+    S2 --> C2
 
-    subgraph portugal["🇵🇹 Recomendação Portugal"]
-        direction TB
-        R1["Adoptar apenas PILLAR 1<br/>inicialmente"]
-        R2["Avaliação obrigatória<br/>após 3 anos"]
-        R3["Decisão data-driven<br/>sobre Pillar 2"]
-
-        R1 --> R2 --> R3
-    end
-
-    start --> pillar1
-    start --> pillar2
-    pillar1 --> avaliacao
-    avaliacao --> portugal
-
-    classDef implemented fill:#51cf66,stroke:#2f9e44,color:#fff,stroke-width:3px
-    classDef postponed fill:#ffd43b,stroke:#fab005,color:#000
-    classDef decision fill:#ff6b6b,stroke:#c92a2a,color:#fff
-    classDef recommend fill:#4dabf7,stroke:#1971c2,color:#fff
-
-    class pillar1,P1A,P1B,P1C,P1D implemented
-    class pillar2,P2A,P2B,P2C,P2D postponed
-    class avaliacao,A1,A2,A3,A4 decision
-    class portugal,R1,R2,R3 recommend
+    classDef ok fill:#e4f4e8,stroke:#2b7a3d,color:#10301a
+    classDef blocked fill:#fff6dc,stroke:#a07800,color:#3a2e00
+    classDef pt fill:#e7f0fa,stroke:#1c5d99,color:#10243a
+    class A1,A2,A3 ok
+    class B1,B2 blocked
+    class C1,C2 pt

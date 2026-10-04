@@ -2,7 +2,10 @@
 set -euo pipefail
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
-PROJECT_DIR="$(dirname "$SCRIPT_DIR")"
+# shellcheck source=common.sh
+source "$SCRIPT_DIR/common.sh"
+
+gather_sources
 
 # Create build directory if it doesn't exist
 mkdir -p "$PROJECT_DIR/build"
@@ -12,6 +15,6 @@ mkdir -p "$PROJECT_DIR/build"
   echo "<!-- Fonte de verdade: chapters/*.md -->"
   echo "<!-- Regenerar com: bash scripts/merge-chapters.sh -->"
   echo ""
-  cat "$PROJECT_DIR"/chapters/*.md
+  concat_chapters
 } > "$PROJECT_DIR/build/documento.md"
 echo "✅ build/documento.md regenerated from chapters/"

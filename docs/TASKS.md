@@ -152,6 +152,23 @@ Todas as tarefas BAIXA concluídas.
 
 ---
 
+### Auditoria de citações (2026-10-03)
+
+- [x] Auditoria de 608 citações tratada em 2026-10-04: texto corrigido, suavizado ou retirado onde a fonte não apoiava (ver [auditoria-citacoes.md](auditoria-citacoes.md)); bib limpo (duplicados, entradas não citadas, títulos). **Atenção:** os agentes corrigiram sobretudo com base na evidência do auditor e só abriram algumas fontes; falta uma revisão humana por amostragem.
+- [ ] Números sem fonte, a decidir (marcados no texto como estimativa dos autores ou "por verificar"): mercado ilegal de €100M e captura de 80% (cap. 08); ROI e poupanças de enforcement (€40-80M, €174M); €16 mil milhões de comparticipação universal e €350/mês de CBD (cap. 16); 5.000 doentes a €120/mês e "Pacientes ativos" por país (cap. 07); estimativa de 36-58 t de mercado ilegal (`ribeiro2024`, página 403); CO₂ por hectare do cânhamo e 23.000 ha em França (cap. 09); Zurique ">90% compraram só legal" (cap. 15).
+- [ ] Sem fonte: "59% dos portugueses apoiam a regulação" (ficou o 55% europeu da Hanway); prevalência de uso Portugal vs UE; córtex pré-frontal "até aos ~25 anos" (cap. 04); sanções de condução em Colorado/Canadá (cap. 04).
+- [ ] Coerência: o "6,5x" de uso de risco juvenil (0,2%→1,3%) foi retirado dos cap. 02 e 16 mas pode subsistir no cap. 05 via `espad2023`; confirmar. Corrigir entradas do bib `suraev2020insomnia` (é Bhagavan 2020), `sarvet2018jama` (revista Addiction), `lei2024` (URL e ano 2018), `malta2021` (URL e limites).
+- [ ] Objecção do Goulão ao autocultivo vs proposta de 3 plantas (`cannareporter2020`; tratar nos capítulos 08 e 10).
+
+### Plano da iniciativa (2026-10-04, ver [PLANO-INICIATIVA.md](PLANO-INICIATIVA.md))
+
+- [ ] Neutralizar o texto: iniciativa independente. Rever referências ao LIVRE em `CONTRIBUTING.md`, capítulo 10 ("Posição LIVRE na Assembleia") e restantes capítulos.
+- [ ] Recrutar grupo jurídico pro bono (UE/ONU, constitucional, penal, regulação, redacção) e co-maintainers (direito, economia, saúde pública, técnico); definir em `CONTRIBUTING.md` a perda de estatuto por inactividade.
+- [ ] Criar o registo público de afirmações (afirmação, fonte, grau de confiança, data).
+- [ ] Pedidos de dados oficiais (SICAD, Infarmed, AT, Ministério da Justiça, INE) e registo das respostas.
+- [ ] Parecer UE/Constituição antes do articulado da Fase 2; articulado da Fase 1 em paralelo.
+- [ ] Verificar limiares de ILC e petição, lei-travão e composição do Parlamento antes de fixar datas.
+
 ## ✅ CONCLUÍDAS
 
 ### Red-Team Vulnerabilities (CRÍTICO 1-5)

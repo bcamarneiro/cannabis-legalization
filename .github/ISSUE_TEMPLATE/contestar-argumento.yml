@@ -1,0 +1,27 @@
+name: Contestar um argumento
+description: Discordas do raciocínio ou das conclusões de uma secção.
+title: "[CONTESTAÇÃO] "
+labels: ["contestação", "triagem"]
+body:
+  - type: input
+    id: section
+    attributes:
+      label: Secção
+      description: ID da secção (o site preenche isto por ti).
+    validations:
+      required: true
+  - type: textarea
+    id: argumento
+    attributes:
+      label: Que argumento contestas
+    validations:
+      required: true
+  - type: textarea
+    id: contra
+    attributes:
+      label: Contra-argumento e evidência
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: "Este pedido fica **público** no GitHub. Podes usar a tua conta GitHub, mesmo sob pseudónimo; isto não conta como apoio ao documento. Alterações ao texto (PRs) exigem nome real: ver CONTRIBUTING."

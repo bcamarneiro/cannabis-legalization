@@ -1,10 +1,10 @@
 \newpage
 
-# CONTEXTO HISTÓRICO
+# CONTEXTO HISTÓRICO {#contexto-histórico}
 
-## Pré-Proibição: Cannabis antes dos Tratados Internacionais (até 1970)
+## Pré-Proibição: Cannabis antes dos Tratados Internacionais (até 1970) {#pré-proibição-cannabis-antes-dos-tratados-internacionais-até-1970}
 
-### O Cânhamo na História Marítima Portuguesa
+### O Cânhamo na História Marítima Portuguesa {#o-cânhamo-na-história-marítima-portuguesa}
 
 **Cannabis/cânhamo foi central para os Descobrimentos portugueses.** Durante séculos, o cânhamo industrial foi cultivado extensivamente em Portugal (principalmente vales do Tejo e Mondego) para produção de fibras têxteis — as mais resistentes fibras naturais conhecidas, superiores ao algodão.
 
@@ -18,23 +18,23 @@
 
 * **Cristóvão Colombo (1492):** Navegou para América com **80 toneladas** de velas e cordas de cânhamo
 * **Fernão de Magalhães (séc. XVI):** Circum-navegou globo usando velas e enxárcia de cânhamo
-* **Chegada ao Brasil (1500):** Caravelas portuguesas tinham cordas e velas de cânhamo [@releaf2023; @jodope2024; @topshelfhemp2024]
+* **Era dos Descobrimentos:** Os navios dos Descobrimentos usavam cordas e velas de cânhamo [@releaf2023]
 
-### Cultivo Obrigatório: Política Régia de Cânhamo
+### Cultivo Obrigatório: Política Régia de Cânhamo {#cultivo-obrigatório-política-régia-de-cânhamo}
 
 **Portugal não apenas permitia, mas EXIGIA cultivo de cânhamo:**
 
 * **D. João IV (séc. XVI):** Tornou **obrigatório** o cultivo de cânhamo em território português para restaurar navios após guerra com Espanha
 * **D. João V:** Emitiu decreto encorajando produção de cânhamo
-* **Estado Novo (até 1961):** Cultivo de cânhamo **continuou obrigatório** em certas áreas do país para indústria têxtil [@releaf2023]
+* **Estado Novo:** Cultivo de cânhamo manteve-se em certas áreas do país para indústria têxtil (fonte histórica por indicar)
 
 **Ironia histórica brutal:** Cânhamo foi obrigatório até 1961, proibido em 1970 — **apenas 9 anos** separam mandato régio de criminalização. Portugal eliminou por pressão externa uma planta essencial à sua história nacional.
 
-### Uso Medicinal Tradicional
+### Uso Medicinal Tradicional {#uso-medicinal-tradicional}
 
 Além do uso industrial, cannabis foi registada em **farmacopeias europeias desde século XIX** como planta medicinal para várias condições (dor, insónia, espasmos). O uso recreativo existia mas era marginal e não criminalizado.
 
-### Mudança de Paradigma Global (1960-1970s)
+### Mudança de Paradigma Global (1960-1970s) {#mudança-de-paradigma-global-1960-1970s}
 
 Nos anos 1960-1970, sob pressão política dos EUA (Richard Nixon lançou a "War on Drugs" em 1971), a Organização das Nações Unidas promoveu três convenções internacionais que estabeleceram o regime proibicionista moderno:
 
@@ -44,9 +44,9 @@ Nos anos 1960-1970, sob pressão política dos EUA (Richard Nixon lançou a "War
 
 Estes tratados estabeleceram um **regime legal vinculativo** para Estados signatários, pressionando países a adoptarem legislação proibicionista mesmo sem evidência científica de necessidade.
 
-## A Proibição em Portugal: Decreto-Lei 420/70 (1970-1983)
+## A Proibição em Portugal: Decreto-Lei 420/70 (1970-1983) {#a-proibição-em-portugal-decreto-lei-42070-1970-1983}
 
-Portugal implementou a proibição da cannabis através do **Decreto-Lei n.º 420/70, de 3 de Setembro de 1970**, a primeira lei moderna de fiscalização de estupefacientes e substâncias psicotrópicas [@camara2015].
+Portugal implementou a proibição da cannabis através do **Decreto-Lei n.º 420/70, de 3 de Setembro de 1970**, que actualizou o regime anterior de fiscalização de estupefacientes [@camara2015].
 
 **Contexto político:**
 
@@ -61,7 +61,7 @@ Portugal implementou a proibição da cannabis através do **Decreto-Lei n.º 42
 
 **Resultado:** Durante quase **30 anos (1970-2000)**, Portugal manteve um regime plenamente **criminalizador** do consumo, posse e tráfico de cannabis, alinhado com os tratados internacionais mas sem adaptação à realidade nacional.
 
-## Descriminalização 2000: Portugal Desafia o Consenso Internacional
+## Descriminalização 2000: Portugal Desafia o Consenso Internacional {#descriminalização-2000-portugal-desafia-o-consenso-internacional}
 
 Em **2000-2001**, Portugal tornou-se pioneiro global ao **descriminalizar** (não legalizar) o consumo e posse de todas as drogas através da **Lei 30/2000, de 29 de Novembro**.
 
@@ -84,7 +84,7 @@ Em **2000-2001**, Portugal tornou-se pioneiro global ao **descriminalizar** (nã
 * **Abordagem de saúde pública:** Transferir resposta de sistema judicial para sistema de saúde (Comissões para a Dissuasão da Toxicodependência)
 * **Pragmatismo:** Reconhecimento que criminalizar consumidores era ineficaz e contraproducente
 
-**Resultado histórico:** Lei entrou em vigor **Julho 2001**. Vinte e cinco anos depois (2026), o modelo português é **referência mundial** [@parlamento2000lei30; @springer2021pt; @transform2016pt]:
+**Resultado histórico:** Lei entrou em vigor **Julho 2001** [@parlamento2000lei30]. Vinte e cinco anos depois (2026), o modelo português é **internacionalmente reconhecido**, embora com contradições e limites apontados na literatura [@springer2021pt; @transform2016pt]:
 
 * Consumo de drogas **não aumentou** (previsão catastrofista da oposição nunca se concretizou)
 * Mortes relacionadas com drogas **reduziram 80%** (2001-2012)
@@ -92,7 +92,7 @@ Em **2000-2001**, Portugal tornou-se pioneiro global ao **descriminalizar** (nã
 
 **Lição estratégica para 2026:** Portugal **já desafiou com sucesso** o consenso internacional proibicionista uma vez. A descriminalização de 2000 era igualmente controversa, enfrentou oposição similar, mas provou que **pragmatismo baseado em evidência** supera dogmatismo punitivo.
 
-## Cannabis Medicinal 2018: O Paradoxo Moderno
+## Cannabis Medicinal 2018: O Paradoxo Moderno {#cannabis-medicinal-2018-o-paradoxo-moderno}
 
 Em **2018**, Portugal legalizou o **uso medicinal da cannabis** através da **Lei n.º 33/2018, de 18 de Julho**.
 
@@ -111,19 +111,19 @@ Em **2018**, Portugal legalizou o **uso medicinal da cannabis** através da **Le
 
 **O paradoxo actual (2024-2026):**
 
-* **Exportações:** Portugal é o **2.º maior exportador mundial** — 32.558 kg em 2024, ultrapassados nos primeiros 8 meses de 2025 [@infarmed2024; @euronews2024]
-* **Prescrições internas:** Apenas **1.157 prescrições** em 2023 (~17 kg), representando **0,05% da produção** [@eco2024; @cannareporter2024]
-* **Uso recreativo:** Estimativa **540.000-900.000 utilizadores** em Portugal, 95% via mercado negro [@sicad2022prevalence; @cannareporter2025medicinal]
-* **Criminalização persistente:** 75% dos processos por drogas (CDT) envolvem consumidores ocasionais de cannabis [@sicad2018condenacoes; @dn2020condenacoes]
+* **Exportações:** Portugal é o **2.º maior exportador mundial** — 32.558 kg em 2024 [@eco2024; @cannareporter2024]
+* **Prescrições internas:** Apenas **1.157 prescrições** (embalagens) em 2023 [@infarmed2024; @cannareporter2024]; 17 kg vendidos no mercado interno, ~0,14% dos 11.973 kg exportados [@cannabislaw2024export]
+* **Uso recreativo:** O inquérito nacional de 2022 indica prevalência recente de qualquer droga de 3% (15-74 anos) [@sicad2022prevalence]; não há estimativa verificada do número de utilizadores de cannabis nem da proporção obtida no mercado ilegal
+* **Criminalização persistente:** em 2018, 84% dos processos nas CDT envolveram apenas cannabis [@sicad2018condenacoes]; em 2021, 75% dos condenados por consumo foram-no por canábis [@dn2020condenacoes]
 
 **Contradição legal absurda:**
 
 * Legal: Produzir 32+ toneladas para exportação (lucro privado)
 * Legal: Prescrever cannabis a doentes (acesso restrito, €150/mês sem comparticipação SNS)
-* Ilegal: Adulto consumir cannabis recreativamente (mercado negro descontrolado, 95% dos utilizadores)
+* Ilegal: Adulto consumir cannabis recreativamente (mercado ilegal, sem controlo de qualidade)
 * Criminalizado: Consumidores ocasionais (75% dos processos por drogas — CDT)
 
-## Conclusão: Hora de Resolver a Contradição
+## Conclusão: Hora de Resolver a Contradição {#conclusão-hora-de-resolver-a-contradição}
 
 A história mostra **quatro momentos decisivos** que revelam o absurdo da proibição:
 
@@ -140,7 +140,7 @@ A história mostra **quatro momentos decisivos** que revelam o absurdo da proibi
 * **Ironia histórica:** Planta que alimentou Descobrimentos (obrigatória até 1961) é criminalizada 9 anos depois por pressão externa
 * **Evidência científica:** Se cannabis tem valor medicinal reconhecido (2018), não pode estar na Schedule I da ONU (1961: "sem valor medicinal")
 * **Precedente de sucesso:** Se descriminalização (2000) foi eficaz reduzindo danos, regulação completa pode ser ainda mais eficaz
-* **Hipocrisia económica:** Se Portugal exporta 99,95% da produção (2024), proibir consumo interno é indefensável
-* **Falha de saúde pública:** Se 95% dos utilizadores compram no mercado negro, estamos a falhar protecção de centenas de milhares de portugueses
+* **Hipocrisia económica:** Se Portugal exporta mais de 99% da produção (2024), proibir consumo interno é indefensável
+* **Falha de saúde pública:** Se quem consome só tem o mercado ilegal, estamos a falhar a protecção de quem consome
 
 **Portugal já provou duas vezes (Descobrimentos, descriminalização 2000) que pragmatismo português supera dogmatismos externos.** A regulação proposta é o próximo passo dessa mesma lógica histórica — recuperar soberania nacional sobre uma planta que sempre foi parte da nossa história.

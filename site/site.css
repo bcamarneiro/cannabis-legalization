@@ -1,0 +1,16 @@
+:root { --texto: #1c1c1c; --fundo: #fff; --ligacao: #0b5cad; --suave: #666; }
+* { box-sizing: border-box; }
+body { margin: 0; font: 18px/1.65 Georgia, "Times New Roman", serif; color: var(--texto); background: var(--fundo); }
+a { color: var(--ligacao); }
+.site-header, .site-footer { padding: 0.75rem 1.25rem; border-bottom: 1px solid #ddd; }
+.site-footer { border-top: 1px solid #ddd; border-bottom: 0; color: var(--suave); font-size: 0.85rem; }
+.site-header { display: flex; gap: 1rem; align-items: center; flex-wrap: wrap; justify-content: space-between; }
+.site-title { font-weight: bold; text-decoration: none; color: var(--texto); }
+#content { max-width: 46rem; margin: 0 auto; padding: 1.5rem 1.25rem 3rem; }
+#content table { display: block; overflow-x: auto; border-collapse: collapse; }
+#content th, #content td { border: 1px solid #ccc; padding: 0.3rem 0.6rem; }
+.section-actions { display: flex; gap: 0.9rem; flex-wrap: wrap; margin: -0.4rem 0 1rem; font: 0.8rem/1.2 system-ui, sans-serif; }
+.section-actions a { color: var(--suave); }
+.section-actions .issue-label { color: var(--suave); }
+nav#TOC ul { list-style: none; padding-left: 1rem; }
+@media print { .site-header, .site-footer, .section-actions { display: none; } }

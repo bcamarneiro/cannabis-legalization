@@ -1,0 +1,33 @@
+name: Propor alteração
+description: Sugerir uma melhoria, um acrescento ou uma mudança de proposta.
+title: "[PROPOSTA] "
+labels: ["proposta", "triagem"]
+body:
+  - type: input
+    id: section
+    attributes:
+      label: Secção
+      description: ID da secção (o site preenche isto por ti).
+    validations:
+      required: true
+  - type: textarea
+    id: proposta
+    attributes:
+      label: O que propões
+    validations:
+      required: true
+  - type: textarea
+    id: justificacao
+    attributes:
+      label: Porquê
+      description: Argumentos e evidência. Toda a alteração factual precisa de fonte.
+    validations:
+      required: true
+  - type: input
+    id: expertise
+    attributes:
+      label: Área de especialidade (opcional)
+      description: Direito, saúde, economia, activismo, etc.
+  - type: markdown
+    attributes:
+      value: "Este pedido fica **público** no GitHub. Podes usar a tua conta GitHub, mesmo sob pseudónimo; isto não conta como apoio ao documento. Alterações ao texto (PRs) exigem nome real: ver CONTRIBUTING."

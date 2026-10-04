@@ -1,200 +1,34 @@
-# Diagramas - Proposta Cannabis
+# Diagramas
 
-Diagramas Mermaid criados para visualizar a estrutura da proposta.
+Fonte Mermaid (`.mmd`) mais PNG pré-renderizado, que é o que PDF, DOCX e site embebem. Cada diagrama está inserido no capítulo indicado.
 
-## Ficheiros Disponíveis
+| Ficheiro | Capítulo | O que mostra |
+| :---- | :---- | :---- |
+| `estrutura-proposta` | 01 Sumário executivo | Três pilares (o que) e três fases (quando); a Fase 3 é condicional |
+| `cronograma-implementacao` | 11 Cronograma | Gantt do cenário base (realista) |
+| `modelo-alemao-pillars` | 05 Modelos internacionais | CanG: Pillar 1 em vigor, Pillar 2 bloqueado; correspondência com as fases portuguesas |
+| `balanco-fiscal` | 08 Pilar recreativo | Fase 2: poupança líquida de enforcement; Fase 3: receitas fiscais especulativas |
 
-### 1. Cronograma de Implementação
-**Ficheiro:** `cronograma-implementacao.mmd` / `cronograma-implementacao.png`
+Terminologia: "Pilares" (Medicinal, Recreativo, Cânhamo) dizem *o que*; "Fases 1-3" dizem *quando*; "Pillar 1/2" são os pilares da lei alemã.
 
-Timeline mostrando fases de implementação 2026-2030+.
+## Editar e regenerar
 
-**Como usar no documento:**
-```markdown
-# CAPÍTULO 8: CRONOGRAMA
-
-A implementação será faseada ao longo de 4 anos:
-
-![Cronograma de Implementação](assets/diagrams/cronograma-implementacao.png)
-```
-
----
-
-### 2. Estrutura da Proposta em 3 Partes
-**Ficheiro:** `estrutura-proposta.mmd` / `estrutura-proposta.png`
-
-Flowchart mostrando as 3 partes independentes (Medicinal, Recreativa, Cânhamo) e suas relações.
-
-**Como usar no documento:**
-```markdown
-# SECÇÃO II: PROPOSTA EM 3 PARTES
-
-A proposta está organizada em 3 partes independentes mas complementares:
-
-![Estrutura da Proposta](assets/diagrams/estrutura-proposta.png)
-
-## PARTE I: Cannabis Medicinal
-**Prioridade: 2026 | Status: Urgente**
-...
-```
-
----
-
-### 3. Modelo Alemão (Pillar 1 e 2)
-**Ficheiro:** `modelo-alemao-pillars.mmd` / `modelo-alemao-pillars.png`
-
-Diagrama explicando o modelo alemão de 2 pilares e recomendação para Portugal.
-
-**Como usar no documento:**
-```markdown
-### 3.1.5 Abordagem Faseada: Modelo Alemão
-
-A Alemanha adoptou uma abordagem em dois pilares, implementando apenas
-o primeiro inicialmente:
-
-![Modelo Alemão - Pillar 1 e 2](assets/diagrams/modelo-alemao-pillars.png)
-
-**Pillar 1 (Implementado desde abril 2024):**
-- Autocultivo (até 3 plantas)
-- Clubes sem fins lucrativos (máx. 500 membros)
-
-**Pillar 2 (Adiado):**
-- Venda comercial em cidades-piloto
-- Avaliação rigorosa antes de implementação nacional
-
-**Recomendação para Portugal:** Adoptar apenas Pillar 1 inicialmente,
-com avaliação obrigatória após 3 anos antes de decidir sobre Pillar 2.
-```
-
----
-
-### 4. Receitas Fiscais (Modestas vs Comercial)
-**Ficheiro:** `receitas-fiscais.mmd` / `receitas-fiscais.png`
-
-Comparação entre modelo comercial (Canadá) e modelo de clubes (Portugal),
-clarificando que receitas são modestas.
-
-**Como usar no documento:**
-```markdown
-## 2.4 Análise Custo-Benefício
-
-### 2.4.3 Receitas Fiscais: Expectativas Realistas
-
-É crucial clarificar que o modelo de clubes sem fins lucrativos
-gera receitas fiscais **modestas**, não comparáveis ao modelo
-comercial canadiano:
-
-![Comparação de Receitas Fiscais](assets/diagrams/receitas-fiscais.png)
-
-**Portugal (modelo de clubes):** €2-5 milhões/ano
-- Taxas licenciamento clubes
-- IVA sementes/equipamento
-- Taxas agência reguladora
-
-**Canadá (modelo comercial):** CAD $5.4 mil milhões/ano
-- Dispensários privados
-- Mercado massivo
-
-⚠️ **O benefício principal do modelo português é a REDUÇÃO de custos
-(sistema judicial, saúde pública), não a arrecadação de receitas.**
-```
-
----
-
-## Editar Diagramas
-
-Para modificar um diagrama:
-
-1. Edita o ficheiro `.mmd` correspondente
-2. Regenera a imagem:
+1. Edita o `.mmd`.
+2. Regenera o PNG a partir desta pasta (mermaid-cli v12, sem `-w/-H`):
    ```bash
-   mmdc -i arquivo.mmd -o arquivo.png -b transparent -w 1200 -H 800
+   echo '{"args":["--no-sandbox"]}' > /tmp/pp.json   # só necessário em contentores
+   npx -y @mermaid-js/mermaid-cli -q -i X.mmd -o X.png -c mermaid-config.json -p /tmp/pp.json -b white -s 2
    ```
-3. A imagem atualiza automaticamente no documento
+3. Faz commit do `.mmd` e do `.png`.
 
-### Exemplo: Adicionar fase ao cronograma
+`mermaid-config.json` fixa o tema, o tipo de letra e as larguras para os quatro diagramas ficarem coerentes.
 
-Edita `cronograma-implementacao.mmd`:
-```mermaid
-timeline
-    title Cronograma de Implementação
+## Build
 
-    section 2026
-        Q1 : Nova fase aqui
-        Q2-Q4 : Cannabis Medicinal
+PDF, DOCX e site usam `--resource-path=".:assets/diagrams"`. `scripts/build-site.sh` copia `assets/diagrams/*.png` para `output/site/assets/diagrams/`.
 
-    section 2027-2029
-        ...
-```
+## Convenções
 
-Regenera:
-```bash
-mmdc -i cronograma-implementacao.mmd -o cronograma-implementacao.png -b transparent -w 1200 -H 800
-```
-
----
-
-## Incluir no Build
-
-Os diagramas são incluídos automaticamente no DOCX via Pandoc:
-
-```bash
-bash scripts/build.sh
-```
-
-O script usa `--resource-path=".:assets/diagrams"` para encontrar as imagens.
-
----
-
-## Cores Usadas
-
-- **Vermelho** (`#ff6b6b`): Urgente / Crítico
-- **Azul** (`#4dabf7`): Médio prazo / Recomendação
-- **Verde** (`#51cf66`): Paralelo / Implementado
-- **Amarelo** (`#ffd43b`): Aviso / Adiado
-
----
-
-## Tipos de Diagrama Disponíveis
-
-Mermaid suporta vários tipos:
-
-### Timeline (Cronograma)
-```mermaid
-timeline
-    title Título
-    section Período
-        Evento 1
-        Evento 2
-```
-
-### Flowchart (Fluxograma)
-```mermaid
-graph TB
-    A[Início] --> B{Decisão}
-    B -->|Sim| C[Acção]
-    B -->|Não| D[Outra]
-```
-
-### Gantt (Diagrama de Gantt)
-```mermaid
-gantt
-    title Projeto
-    section Fase 1
-        Tarefa 1 :a1, 2026-01-01, 30d
-        Tarefa 2 :a2, after a1, 20d
-```
-
-### Mindmap (Mapa Mental)
-```mermaid
-mindmap
-    root((Cannabis))
-        Medicinal
-            THC
-            CBD
-        Recreativa
-            Clubes
-            Autocultivo
-```
-
-Mais exemplos: https://mermaid.js.org/
+- Azul: elementos da proposta; borda tracejada: condicional ou especulativo.
+- Sem emojis; texto em português europeu.
+- Os números vêm dos capítulos; se mudarem lá, actualizar aqui.

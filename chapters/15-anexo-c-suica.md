@@ -1,14 +1,14 @@
 \newpage
 
-# ANEXO C: O Modelo Suíço de Pilotos Científicos Cannabis (2023-2025)
+# ANEXO C: O Modelo Suíço de Pilotos Científicos Cannabis (2023-2025) {#anexo-c-o-modelo-suíço-de-pilotos-científicos-cannabis-2023-2025}
 
-## Overview dos Pilotos Suíços
+## Overview dos Pilotos Suíços {#overview-dos-pilotos-suíços}
 
 A Suíça implementou em 2021 uma alteração à Lei Federal de Estupefacientes que permite **pilotos científicos municipais** para testar modelos de venda regulada de cannabis a adultos, mantendo proibição nacional enquanto coleta dados rigorosos para decisão futura sobre legalização federal.
 
 **Framework legal único:** Artigo 8a LStup (Lei de Estupefacientes) permite cantões/cidades proporem estudos científicos com fornecimento legal cannabis a participantes registados, sob supervisão do Gabinete Federal de Saúde Pública (OFSP/BAG) [@bagch2024pilots].
 
-### Pilotos Aprovados e Operacionais (2023-2025)
+### Pilotos Aprovados e Operacionais (2023-2025) {#pilotos-aprovados-e-operacionais-2023-2025}
 
 **7 pilotos municipais autorizados**, ~7.000 participantes totais (Junho 2024):
 
@@ -22,11 +22,11 @@ A Suíça implementou em 2021 uma alteração à Lei Federal de Estupefacientes 
 | **Biel** | — | 2024 | ~300 | 2024-2027 | Modelo misto |
 | **Lucerna** | — | 2024 | ~300 | 2024-2027 | Farmácias |
 
-**Total investimento:** ~CHF 7,5M retirados do mercado negro nos primeiros 18 meses (estimativa oficial) [@businessofcannabis2024zurican].
+**Total investimento:** ~CHF 7,5M retirados do mercado negro nos primeiros 18 meses (valor reportado pela imprensa; a confirmar no relatório do estudo da cidade de Zurique) [@businessofcannabis2024zurican].
 
-## Framework Regulatório Suíço
+## Framework Regulatório Suíço {#framework-regulatório-suíço}
 
-### Critérios de Elegibilidade
+### Critérios de Elegibilidade {#critérios-de-elegibilidade}
 
 **Participantes devem cumprir:**
 - Idade 18+ anos
@@ -37,7 +37,7 @@ A Suíça implementou em 2021 uma alteração à Lei Federal de Estupefacientes 
 
 **Exclusões:** Gravidez, condições psiquiátricas graves, dependência outras substâncias.
 
-### Padrões de Qualidade Produto
+### Padrões de Qualidade Produto {#padrões-de-qualidade-produto}
 
 **Exigências rigorosas cannabis vendida pilotos:**
 
@@ -48,13 +48,13 @@ A Suíça implementou em 2021 uma alteração à Lei Federal de Estupefacientes 
 * **Rastreabilidade seed-to-sale:** Transparência completa cadeia produção
 * **Embalagem:** Rotulagem obrigatória com teor THC/CBD, avisos saúde, proibição marketing atrativo
 
-### Preços e Tributação
+### Preços e Tributação {#preços-e-tributação}
 
 **Preço médio:** CHF 8-12/grama (~€8,50-12,50), ligeiramente abaixo mercado negro CHF 10-15/g
 
 **Tributação:** Modelo cost-recovery (pontos não-comerciais) ou lucro limitado (lojas licenciadas), sem impostos específicos cannabis (apenas IVA standard 7,7%)
 
-### Modelos de Distribuição Testados
+### Modelos de Distribuição Testados {#modelos-de-distribuição-testados}
 
 Os pilotos suíços testam deliberadamente **3 modelos distintos** para comparar eficácia:
 
@@ -98,12 +98,12 @@ Os pilotos suíços testam deliberadamente **3 modelos distintos** para comparar
 
 **Desvantagens:** Risco normalização excessiva, marketing pode incentivar consumo
 
-## Resultados Preliminares (2023-2024)
+## Resultados Preliminares (2023-2024) {#resultados-preliminares-2023-2024}
 
-### Impacto Mercado Negro
+### Impacto Mercado Negro {#impacto-mercado-negro}
 
 **Züri Can (Zurique):**
-- **>90% participantes** compraram cannabis exclusivamente de fontes legais piloto após registo [@businessofcannabis2024zurican]
+- Proporção de participantes que compraram exclusivamente em fontes legais piloto após registo: dado não verificado (a confirmar no relatório do estudo)
 - **CHF 7,5M retirados mercado negro** em 18 meses (estimativa oficial)
 - **Zero leakage detectado:** Nenhum caso documentado de revenda cannabis piloto mercado ilegal
 
@@ -111,7 +111,7 @@ Os pilotos suíços testam deliberadamente **3 modelos distintos** para comparar
 - **94% satisfação participantes** (inquérito 2024)
 - Redução significativa contacto dealers ilegais
 
-### Padrões Consumo e Saúde
+### Padrões Consumo e Saúde {#padrões-consumo-e-saúde}
 
 **Observações preliminares (dados parciais 2024):**
 
@@ -122,7 +122,7 @@ Os pilotos suíços testam deliberadamente **3 modelos distintos** para comparar
 
 **Importante:** Resultados saúde mental/comportamental completos requerem 3-5 anos dados (estudos ongoing até 2027-2028).
 
-### Segurança Pública
+### Segurança Pública {#segurança-pública}
 
 **Consensus autoridades suíças (OFSP report Junho 2024):**
 
@@ -130,15 +130,15 @@ Os pilotos suíços testam deliberadamente **3 modelos distintos** para comparar
 * **Colaboração exemplar** entre autoridades, polícia, pontos venda
 * **Nenhuma crítica significativa** comunidades locais (contrasta com NIMBY fears)
 
-## Legislação Federal: Cannabis Products Act (2025-2026)
+## Legislação Federal: Cannabis Products Act (2025-2026) {#legislação-federal-cannabis-products-act-2025-2026}
 
-### Transição Pilotos → Legalização Nacional
+### Transição Pilotos → Legalização Nacional {#transição-pilotos-legalização-nacional}
 
-Em **Agosto 2025**, governo suíço abriu **consulta pública sobre Lei de Produtos Cannabis** (Cannabis Products Act), permitindo comentários até Dezembro 2025 [@cannabisregulations2025switzerland].
+Em **Agosto 2025**, governo suíço abriu **consulta pública sobre Lei de Produtos Cannabis** (Cannabis Products Act; lançada pela comissão SGK-N do Conselho Nacional, segundo outras fontes), permitindo comentários até Dezembro 2025 [@cannabisregulations2025switzerland].
 
 **Objetivo:** Expandir fornecimento cannabis adultos 18+ para além de trials científicos, permitindo **venda comercial regulada a nível nacional** (mantendo opt-out cantonal).
 
-### Proposta Legislativa Principal
+### Proposta Legislativa Principal {#proposta-legislativa-principal}
 
 **Framework proposto (draft 2025):**
 
@@ -159,7 +159,7 @@ Em **Agosto 2025**, governo suíço abriu **consulta pública sobre Lei de Produ
 
 **Probabilidade aprovação:** Moderada-alta. Pilotos demonstraram viabilidade, opinião pública favorável (~55-60% apoio segundo sondagens 2024), mas resistência cantões conservadores pode exigir compromissos.
 
-## Comparação Modelo Suíço vs Modelo Português Proposto
+## Comparação Modelo Suíço vs Modelo Português Proposto {#comparação-modelo-suíço-vs-modelo-português-proposto}
 
 | Aspecto | Suíça (2023-2025) | Portugal (Proposta 2026) |
 | :---- | :---- | :---- |
@@ -176,9 +176,9 @@ Em **Agosto 2025**, governo suíço abriu **consulta pública sobre Lei de Produ
 | **Duração avaliação** | 3-5 anos por piloto | Modelo clubes = fase avaliação (2-3 anos, 2027-2030) antes de decisão comercial |
 | **Leakage mercado ilegal** | Zero detectado (~90% captura participantes) | Expectativa 30-45% captura nacional (modelo clubes — ver análise gap mercado) |
 
-## Lições Aprendidas: O Que Portugal Pode Importar do Modelo Suíço
+## Lições Aprendidas: O Que Portugal Pode Importar do Modelo Suíço {#lições-aprendidas-o-que-portugal-pode-importar-do-modelo-suíço}
 
-### 1. Rigor Científico Como Legitimação Política
+### 1. Rigor Científico Como Legitimação Política {#rigor-científico-como-legitimação-política}
 
 **Suíça:** Pilotos desenhados como **estudos científicos peer-reviewed**, não "legalização disfarçada". Isto despolitizou debate, shift para evidência vs ideologia.
 
@@ -188,7 +188,7 @@ Em **Agosto 2025**, governo suíço abriu **consulta pública sobre Lei de Produ
 - Publicação resultados em journals internacionais (aumenta credibilidade)
 - Advisory board científico independente (não apenas SICAD)
 
-### 2. Testes Múltiplos Modelos Distribuição
+### 2. Testes Múltiplos Modelos Distribuição {#testes-múltiplos-modelos-distribuição}
 
 **Suíça:** 3 modelos paralelos (farmácias, clubes, lojas) permitem comparação direta eficácia, satisfação participantes, impacto saúde pública.
 
@@ -200,13 +200,13 @@ Em **Agosto 2025**, governo suíço abriu **consulta pública sobre Lei de Produ
 
 Comparar outcomes 2028-2030 informa expansão/refinement.
 
-### 3. Preços Competitivos Mercado Negro Essenciais
+### 3. Preços Competitivos Mercado Negro Essenciais {#preços-competitivos-mercado-negro-essenciais}
 
 **Suíça:** CHF 8-12/g (~€8,50-12,50) consegue >90% captura participantes registados porque **marginalmente abaixo mercado negro** CHF 10-15/g.
 
 **Portugal:** Mercado negro €10-15/g, proposta clubes €3-8/g (cost-recovery, sem tecto rígido). **Vantagem competitiva enorme** — mas risk: se custos compliance aumentam (labs, pessoal, facilities), preços devem poder ajustar-se. **Lição:** Monitorizar custos reais dos clubes licenciados, garantir transparência de preços e custos de produção. Preço de referência indicativo (não vinculativo) publicado por SICAD permite acompanhamento sem rigidez que comprometa viabilidade. Até €8-9/g ainda competitivo face ao mercado negro.
 
-### 4. Zero Leakage É Possível Mas Requer Enforcement Inteligente
+### 4. Zero Leakage É Possível Mas Requer Enforcement Inteligente {#zero-leakage-é-possível-mas-requer-enforcement-inteligente}
 
 **Suíça:** Nenhum caso documentado revenda cannabis pilotos para mercado ilegal. **Como?**
 
@@ -217,27 +217,27 @@ Comparar outcomes 2028-2030 informa expansão/refinement.
 
 **Portugal:** Proposta já inclui registo nacional, limites mensais (50g), embalagens QR. **Adicionar:** Auditorias aleatórias clubes (SICAD), mystery shoppers testar compliance, penalties claras para clubes que toleram revenda.
 
-### 5. Destigmatização Requer Integração Sistema Saúde
+### 5. Destigmatização Requer Integração Sistema Saúde {#destigmatização-requer-integração-sistema-saúde}
 
 **Suíça:** Modelo farmácias especialmente eficaz em normalizar cannabis como questão saúde, não crime/moral issue. 78% participantes valorizam aconselhamento profissional.
 
 **Portugal:** Oficial de Prevenção nos clubes cumpre função similar. **Reforçar:** Integração com CATs (Centros Apoio Toxicodependentes), permitir Oficiais Prevenção referenciarem não apenas psiquiatria/addiction mas também primary care SNS para check-ups gerais. Mensagem: "Cannabis legal integra sistema saúde pública, não paralelo."
 
-### 6. Opt-Out Cantonal Reduz Resistência Política
+### 6. Opt-Out Cantonal Reduz Resistência Política {#opt-out-cantonal-reduz-resistência-política}
 
 **Suíça:** Lei Federal proposta 2025-2026 permite cantões conservadores (Schwyz, Uri, Appenzell) opt-out implementação local. Isto **neutraliza oposição cantões rurais católicos** que bloqueriam Lei a nível nacional.
 
 **Portugal:** Sistema centralizado sem equivalente cantonal, mas **pode aplicar conceito a municípios**: Lei nacional permite clubes, mas câmaras municipais podem recusar licenciar clubes em território (zoning veto). **Trade-off:** Reduz resistência PSD/CDS (autarcas conservadores protegidos), mas cria desigualdade acesso geográfica (Lisboa/Porto têm clubes, Trás-os-Montes não). **Mitigação:** Autocultivo sempre permitido nacionalmente (não depende município), garantindo acesso mínimo.
 
-### 7. Timeline Realista: 3-5 Anos Dados Antes Legalização Nacional
+### 7. Timeline Realista: 3-5 Anos Dados Antes Legalização Nacional {#timeline-realista-3-5-anos-dados-antes-legalização-nacional}
 
 **Suíça:** Pilotos iniciados 2023, Lei Federal proposta apenas 2025-2026 (2-3 anos após). **Mensagem política:** "Não legalizamos cegamente, testamos primeiro."
 
 **Portugal:** Proposta já prevê 2027-2030 como período de avaliação (Fase 2: clubes) antes de decisão sobre Fase 3 (venda comercial). **Importante:** Comunicar claramente que o **modelo de clubes (Fase 2) é a própria fase de avaliação** — licenciamento nacional desde o dia 1, mas com monitorização rigorosa durante 2-3 anos antes de qualquer decisão sobre venda comercial. Decisão final 2030+ baseada em dados. Isto reduz ansiedade conservadores ("podemos reverter se falhar") e aumenta credibilidade científica.
 
-## Obstáculos Suíços vs Obstáculos Portugueses
+## Obstáculos Suíços vs Obstáculos Portugueses {#obstáculos-suíços-vs-obstáculos-portugueses}
 
-### Obstáculos Suíços (Resolvidos/Mitigados)
+### Obstáculos Suíços (Resolvidos/Mitigados) {#obstáculos-suíços-resolvidosmitigados}
 
 **Obstáculo 1 — Federalismo:** Cantões podem bloquear implementação.
 **Solução:** Opt-out cantonal na Lei Federal proposta, pilotos municipais permitem progresso mesmo sem consensus nacional.
@@ -248,7 +248,7 @@ Comparar outcomes 2028-2030 informa expansão/refinement.
 **Obstáculo 3 — Schengen/EU:** Suíça NÃO é membro UE, mas é Schengen.
 **Solução:** Nenhuma objeção formal Comissão Europeia aos pilotos suíços (contraste com bloqueio Alemanha Pillar 2 comercial). **Possível razão:** Pilotos são temporários e científicos, não permanent retail. Lei Federal 2026 pode enfrentar objeções UE similares a Alemanha — ainda unclear.
 
-### Obstáculos Portugueses (Não Resolvidos por Modelo Suíço)
+### Obstáculos Portugueses (Não Resolvidos por Modelo Suíço) {#obstáculos-portugueses-não-resolvidos-por-modelo-suíço}
 
 **Obstáculo PT-1 — Comissão Europeia Bloqueou Alemanha Pillar 2:**
 Suíça pode avançar com Lei Federal 2025-2026 porque **Schengen mas não UE** (menor jurisdição Comissão). Portugal é membro pleno UE, venda comercial (Fase 3) requer coordenação multilateral ou challenge Schengen interpretation. **Modelo suíço não resolve.**
@@ -259,7 +259,7 @@ Suíça teve apoio bipartisan para pilotos (consenso harm reduction). Portugal 2
 **Obstáculo PT-3 — Banking Access:**
 Pilotos suíços aparentemente têm acesso banca (190 clubes operacionais), mas sem dados públicos sobre como. Portugal pode enfrentar recusa bancos portugueses (mesmo com Lei nacional) se cannabis tecnicamente ilegal EU-level. **Modelo suíço não documenta solução banking publicly.**
 
-## Conclusão: Modelo Suíço Como Benchmark Rigor Científico
+## Conclusão: Modelo Suíço Como Benchmark Rigor Científico {#conclusão-modelo-suíço-como-benchmark-rigor-científico}
 
 **Principais takeaways para Portugal:**
 

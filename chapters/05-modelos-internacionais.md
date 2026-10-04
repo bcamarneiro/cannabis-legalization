@@ -1,14 +1,16 @@
 \newpage
 
-# MODELOS INTERNACIONAIS
-## Alemanha (2024): o modelo de clubes sociais
-**A Cannabis Act (CanG)** entrou em vigor a 1 de abril de 2024\. É o modelo mais relevante para Portugal por várias razões [@bundesministerium2024; @wikipedia2025]:
+# MODELOS INTERNACIONAIS {#modelos-internacionais}
+## Alemanha (2024): o modelo de clubes sociais {#alemanha-2024-o-modelo-de-clubes-sociais}
+**A Cannabis Act (CanG)** entrou em vigor a 1 de abril de 2024\. É, na opinião deste documento, o modelo mais relevante para Portugal por várias razões [@bundesministerium2024; @wikipedia2025]:
 
 * Contexto europeu similar
 * Compatibilidade com tratados internacionais
 * Abordagem de saúde pública (não comercial)
 
-### Regras principais
+![Modelo alemão: o Pillar 1 (autocultivo e clubes) está em vigor; o Pillar 2 (venda comercial em cidades-piloto) está bloqueado pelo direito da UE. A Fase 2 portuguesa corresponde ao Pillar 1 e a Fase 3 ao Pillar 2.](assets/diagrams/modelo-alemao-pillars.png){width=100%}
+
+### Regras principais {#regras-principais}
 | Aspecto | Regra |
 | :---- | :---- |
 | Posse em público | Até 25g |
@@ -19,7 +21,7 @@
 | Clubes sociais | Máx. 500 membros, 25g/dia, 50g/mês |
 | Distância de escolas | 200 metros (clubes e consumo proibido) |
 
-### Como funcionam os clubes sociais na Alemanha
+### Como funcionam os clubes sociais na Alemanha {#como-funcionam-os-clubes-sociais-na-alemanha}
 **Processo de criação:**
 
 * Registo como associação sem fins lucrativos
@@ -52,7 +54,7 @@
 * Avisos de saúde
 * Códigos de rastreamento
 
-### Estado actual da implementação (Janeiro 2026)
+### Estado actual da implementação (Janeiro 2026) {#estado-actual-da-implementação-janeiro-2026}
 | Indicador | Valor |
 | :---- | :---- |
 | Candidaturas submetidas | 791 (Nov 2025) |
@@ -66,18 +68,18 @@
 **Disparidades regionais:**
 
 * **Líderes:** Renânia do Norte-Vestefália (96 clubes), Baixa Saxónia (68 clubes) — juntas representam \>45% das licenças [@mmjdaily2025]
-* **Bloqueio efectivo:** Baviera (0 clubes operacionais até Abril 2025; apenas 3 aprovados depois, com restrições de zonamento severas) [@businesscannabis2025b]
+* **Bloqueio efectivo:** Baviera (de 44 pedidos, 8 licenças de cultivo e nenhum clube com local atribuído segundo a fonte, com restrições de zonamento severas) [@businesscannabis2025b]
 
-### Avaliação da implementação alemã (Janeiro 2026)
+### Avaliação da implementação alemã (Janeiro 2026) {#avaliação-da-implementação-alemã-janeiro-2026}
 **Dados de saúde pública:**
 
 * Cannabis é 2ª causa de tratamento de dependências na Alemanha (após álcool) — **tendência de 20 anos, anterior à legalização**: casos em tratamento subiram de 7,1% (2001) para 19,9% (2021) do total [@manthey2024]
-* Consumo juvenil (12-17 anos) **diminuiu** de 6,7% (2023) para 6,1% (2024) [@marijuanamoment2025]
+* Consumo juvenil (12-17 anos) **continuou a diminuir** após a lei, segundo a fonte (valores percentuais não verificados) [@marijuanamoment2025]
 
 **Impacto no sistema judicial:**
 
-* ~100.000 processos criminais evitados desde a legalização [@businesscannabis2025a]
-* Crimes relacionados com cannabis: \-56% na Baviera [@businesscannabis2025a]
+* ~100.000 processos criminais evitados nos meses seguintes à legalização parcial, segundo a SPIEGEL (valor contestado pelo Ministério do Interior) [@businesscannabis2025a]
+* Crimes relacionados com cannabis: \-56% na Baviera, em grande parte porque condutas de consumo deixaram de ser crime (o Ministério do Interior contesta a leitura como redução real) [@businesscannabis2025a]
 
 **Acesso ao mercado legal:**
 
@@ -86,7 +88,7 @@
 
 **Efeitos negativos NÃO detectados:**
 
-* Sem aumento de acidentes rodoviários relacionados com cannabis [@marijuanamoment2025]
+* Sem alterações significativas na condução sob efeito auto-reportada; dados de acidentes não avaliados nesta fonte [@marijuanamoment2025]
 * Sem aumento de consumo juvenil [@marijuanamoment2025]
 
 ### Análise Crítica: Taxa de Operacionalização 53% — Causas e Mitigações para Portugal {#alemanha-taxa-operacional}
@@ -148,51 +150,51 @@ Mesmo assumindo dificuldades semelhantes às alemãs, o modelo continua viável:
 | Regulação | 16 Länder, interpretações diversas | SICAD centralizado, regras uniformes |
 | Cultura cannabis | Criminalização total até 2024 | 25 anos descriminalização |
 | Abordagem | 791 candidaturas simultâneas | Licenciamento nacional com critérios rigorosos desde dia 1 |
-| Indústria existente | Limitada | 37 empresas cannabis medicinal (infraestrutura, know-how) |
+| Indústria existente | Limitada | dezenas de empresas de cannabis medicinal (infraestrutura, know-how) |
 
 **Conclusão:** A "taxa de 47% de falha" alemã reflecte dores de crescimento normais de um sistema com <12 meses de operação, sem apoio estatal, com obstrução política activa (Baviera), e sem programa piloto. Portugal propõe corrigir cada uma destas lacunas. A avaliação definitiva do modelo alemão só será possível após 2-3 anos de operação estabilizada.
 
-## Canadá (2018): lições do modelo comercial
-* **Quota de mercado legal:** de 4% (2018) para **72%** (2024, segundo o Canadian Cannabis Survey). Compras ilegais: 28% → 3% [@healthcanada2024]
+## Canadá (2018): lições do modelo comercial {#canadá-2018-lições-do-modelo-comercial}
+* **Quota de mercado legal:** de 37% (2019) para **72%** (2024, segundo o Canadian Cannabis Survey). Compras ilegais: 28% (2018) → 3% (2024) [@healthcanada2024]
 * **Receitas fiscais:** $5,4 mil milhões CAD desde outubro 2018 (federal: $1,2B; províncias: $4,2B) [@cbcnews2025]
-* **Consumo juvenil:** Permaneceu estável (16-19 anos: ~41%) — sem aumento atribuível à legalização [@healthcanada2024]
+* **Consumo juvenil:** 16-19 anos (uso não médico, 12 meses): 36% (2018), 44% (2019), 41% (2024); estável desde 2019, sem que se estabeleça relação causal [@healthcanada2024]
 
-**Alerta:** Crise de excesso de oferta levou a múltiplas falências e processos de reestruturação em 2024-2025 (BZAM, Heritage, Delta 9, Tokyo Smoke, entre outros) [@insolvency2025].
+**Alerta:** Crise de excesso de oferta levou a múltiplas falências e processos de reestruturação em 2024-2025 (nomeadamente Fire & Flower e Atlas, entre outros) [@insolvency2025].
 
 **Lição para Portugal:** Regular oferta desde o início; não permitir proliferação excessiva de licenças.
 
-## Uruguai (2013): lições de uma década
+## Uruguai (2013): lições de uma década {#uruguai-2013-lições-de-uma-década}
 **Sucesso:** Idade média de primeiro uso subiu de 18 para 20 anos [@cdays2025]. Uso problemático estável em 2,1% desde 2011\. Consumo global desceu de 14,6% (2018) para 12,3% (2024) [@cdays2025].
 
-**Problema:** Apenas 37% acedem via canais legais (2024) [@cdays2025]. Os limites iniciais de THC (2-9% entre 2017-2022) afastaram consumidores para o mercado negro — só após introdução de variedades com 15% (2022) e 20% THC (2024) o mercado legal ganhou competitividade [@latinamerica2024; @softsecrets2025].
+**Problema:** Apenas 37% acedem via canais legais (2024) [@cdays2025]. Os limites de THC subiram de 9% para 15% (2022) e 20% (2024) [@latinamerica2024]. A variedade de 20% foi criada para atrair consumidores do mercado negro [@softsecrets2025]; a leitura de que os limites iniciais afastaram consumidores e de que só depois o mercado legal ganhou competitividade é interpretação deste documento, não estabelecida pelas fontes.
 
 **Lição para Portugal:** Qualquer modelo deve oferecer produto competitivo com o mercado negro em potência, qualidade e preço desde o início.
 
-Estudos sobre preferências de consumidores confirmam que a escolha entre mercado legal e ilegal depende de múltiplos factores — qualidade, preço, conveniência e potência — e não apenas da legalidade [@autor2024]. Qualquer modelo regulatório deve considerar estes factores para ser competitivo face ao mercado negro.
+É plausível que a escolha entre mercado legal e ilegal dependa de múltiplos factores — qualidade, preço, conveniência e potência — e não apenas da legalidade (afirmação sem fonte verificada). Qualquer modelo regulatório deve considerar estes factores para ser competitivo face ao mercado negro.
 
-## Espanha: o risco da não-regulação
-Espanha não legalizou cannabis, mas tolera ~800-1.000 clubes sociais numa "área cinzenta legal" baseada em jurisprudência sobre consumo partilhado [@tni2018; @transform2018].
+## Espanha: o risco da não-regulação {#espanha-o-risco-da-não-regulação}
+Espanha não legalizou cannabis, mas tolera centenas de clubes sociais (pelo menos 500 associações segundo o TNI em 2015; cerca de 400 segundo a Transform em 2018) numa "área cinzenta legal" baseada em jurisprudência sobre consumo partilhado [@tni2018; @transform2018].
 
 **Problemas documentados:**
 
 * Fragmentação regulatória (Barcelona tolerante vs. Madrid restritivo)
 * Exploração comercial e "turismo cannábico"
-* Ligações a crime organizado e exportação ilegal para Europa [@transform2018]
-* Em 2024, Barcelona ordenou encerramento de 30 clubes [@hightimes2024]
+* Preocupações com deriva comercial e turismo canábico [@transform2018]
+* Em 2025, pelo menos 30 clubes de Barcelona enfrentavam ordens de encerramento [@hightimes2024]
 
 **Lição para Portugal:** A ausência de regulação nacional clara não elimina o mercado — apenas o empurra para zona cinzenta com menos controlo e mais riscos. O modelo alemão oferece alternativa superior: regras explícitas, limites definidos, proibição de turismo cannábico, e segurança jurídica. **Portugal aprende com os erros espanhóis**, implementando governance rigorosa ausente em Espanha: auditorias anuais obrigatórias, transparência financeira mensal, transparência obrigatória de preços e custos de produção (com preço de referência indicativo publicado por SICAD), proibição de retenção de excedentes (doados automaticamente a SICAD), programa de whistleblowing protegido, e inspecções surpresa trimestrais (10% dos clubes) — ver detalhes em Anexo A.
 
 ## Tailândia (2022–2026): o chicote político {#tailandia-chicote}
 
-A Tailândia oferece o exemplo mais dramático de como **não** fazer uma legalização. Em Junho de 2022, o Ministro da Saúde Pública Anutin Charnvirakul — líder do partido Bhumjai Thai, com base eleitoral nos agricultores do nordeste — removeu a cannabis da lista de narcóticos e distribuiu pessoalmente **1 milhão de mudas gratuitas** num comício em Buriram, prometendo benefícios económicos para "cultivadores individuais, agricultores comunitários e empreendedores". Mais de 350.000 famílias registaram-se como cultivadoras [@apnews2022thailand].
+A Tailândia oferece o exemplo mais dramático de como **não** fazer uma legalização. Em Junho de 2022, o Ministro da Saúde Pública Anutin Charnvirakul — líder do partido Bhumjai Thai, com base eleitoral nos agricultores do nordeste — removeu a cannabis da lista de narcóticos e lançou um plano de distribuição de **1 milhão de mudas gratuitas** num comício em Buriram (onde foram entregues as primeiras 100), prometendo benefícios económicos para "cultivadores individuais, agricultores comunitários e empreendedores". Mais de 350.000 famílias registaram-se como cultivadoras [@apnews2022thailand].
 
-**O problema:** Apesar de o governo insistir que "apenas a cannabis medicinal foi legalizada", não existiam planos de monitorização séria do cultivo e venda a pequena escala [@apnews2022thailand]. Este vácuo regulatório criou uma legalização recreativa *de facto*, sem qualquer enquadramento legal para a sustentar.
+**O problema:** Apesar de o governo insistir que "apenas a cannabis medicinal foi legalizada", os críticos apontavam a ausência de monitorização séria do cultivo e venda a pequena escala [@apnews2022thailand]. Este vácuo regulatório criou uma legalização recreativa *de facto*, sem qualquer enquadramento legal para a sustentar.
 
 **A bolha:** Em menos de dois anos, mais de 20.000 dispensários e lojas de cannabis proliferaram pelo país, muitos em zonas cinzentas com controlos mínimos [@lexology2026thailand]. O sector atraiu investimento massivo de pequenos empreendedores e agricultores.
 
-**O retrocesso:** O governo seguinte inverteu o rumo. Uma nova regulação ministerial restringiu a venda comercial exclusivamente a contextos médicos — hospitais, farmácias, clínicas de medicina tradicional — eliminando o modelo de dispensário recreativo [@bangkokpost2025cannabis; @lexology2026thailand]. Das 8.636 licenças expiradas em 2025, apenas 1.339 (15,5%) foram renovadas; **7.297 lojas encerraram**. O número total caiu de ~20.000 para ~11.000 — e continua em queda acentuada [@nationthailand2026].
+**O retrocesso:** O governo seguinte inverteu o rumo. Um projecto de nova regulação ministerial (entrada em vigor não confirmada pela fonte) restringiria a venda comercial a contextos médicos — hospitais, farmácias, clínicas de medicina tradicional — eliminando o modelo de dispensário recreativo [@bangkokpost2025cannabis; @lexology2026thailand]. Das 8.636 licenças expiradas em 2025, apenas 1.339 (15,5%) foram renovadas; **7.297 lojas encerraram**. O número total caiu de ~20.000 para ~11.000 — e continua em queda acentuada [@nationthailand2026].
 
-**Impacto humano:** "Convidaram-nos a plantar as sementes, investimos as nossas vidas, e agora estão a queimar o campo" — desabafo viral de um empreendedor tailandês [@lexology2026thailand]. Para milhares de pequenos agricultores e empresários que responderam ao incentivo estatal, o retrocesso regulatório representou ruína financeira.
+**Impacto humano:** Para milhares de pequenos agricultores e empresários que responderam ao incentivo estatal, o retrocesso regulatório representou, em muitos casos, perdas financeiras.
 
 **Lição para Portugal:** A Tailândia ilustra o perigo simétrico ao da Espanha. Se Espanha mostra o custo da **ausência** de regulação, a Tailândia mostra o custo da **inconsistência** — liberalizar sem regulamentar, incentivar investimento privado sem enquadramento jurídico estável, e depois reverter sob pressão política. Qualquer modelo português deve garantir **estabilidade regulatória** e **previsibilidade** para todos os actores envolvidos — exactamente o que o modelo faseado proposto neste documento procura assegurar.
 
@@ -200,15 +202,15 @@ A Tailândia oferece o exemplo mais dramático de como **não** fazer uma legali
 
 **Evidência internacional — declínios generalizados pós-legalização:**
 
-* **Colorado:** Consumo juvenil caiu **42%** (de 22% em 2011 para 12,8% em 2023) — dados do Healthy Kids Colorado Survey [@cdphe2024]. Perceção de fácil acesso caiu 14 pontos percentuais.
-* **EUA geral:** MPP reporta que uso juvenil diminuiu em **19 de 21 estados** que legalizaram, com queda média de 35% nos primeiros estados [@marijuanapolicy2025].
-* **Alemanha:** Consumo juvenil (12-17) caiu de 6,7% para 6,1% no primeiro ano pós-legalização [@marijuanamoment2025].
+* **Colorado:** Consumo juvenil caiu de 22% (2011) para 12,8% (2023), segundo o MPP a citar o Healthy Kids Colorado Survey [@mpp2024colorado]; o CDPHE reporta 13% de consumo no último mês em 2023, sem alteração face a 2021, e 40% a considerar fácil obter marijuana, também sem alteração [@cdphe2024].
+* **EUA geral:** MPP reporta que uso juvenil diminuiu em **19 de 21 estados** que legalizaram, com quedas superiores a 35% no Washington e no Colorado (os dois estados mais antigos); fonte interessada, associação não causal [@marijuanapolicy2025].
+* **Alemanha:** Consumo juvenil (12-17) continuou a diminuir no primeiro ano pós-legalização, segundo a fonte (valores não verificados) [@marijuanamoment2025].
 
 **Contexto crítico — tendência nacional, não apenas estados legalizados:**
 
 É uma simplificação que não reflecte a evidência disponível atribuir estes declínios exclusivamente à legalização. **Consumo juvenil de cannabis declinou nos EUA como um todo** entre 2011-2023, incluindo estados sem legalização:
 
-* **Monitoring the Future (Univ. Michigan):** Declínio nacional de **38% nos 8º e 10º anos, 13% no 12º ano** entre 2013-2023 [@monitoringthefuture2023] — padrão semelhante ao Colorado
+* **Monitoring the Future (Univ. Michigan):** Declínio nacional do consumo juvenil entre 2013-2023 [@monitoringthefuture2023] (percentagens exactas por verificar) — padrão semelhante ao Colorado
 * **Confounds não mencionados:** Mudanças geracionais nas atitudes face a drogas, campanhas anti-tabagismo/vaping (que também afectam cannabis), aumento do financiamento de prevenção a nível nacional, mudanças metodológicas nos surveys pós-COVID-19
 * **Canadá (contra-exemplo parcial):** Também viu declínio (15-17 anos: 19,8%→10,4%), mas magnitude diferente sugere factores locais além da legalização [@statcan2019youth]
 
@@ -217,8 +219,8 @@ A Tailândia oferece o exemplo mais dramático de como **não** fazer uma legali
 Não podemos isolar o efeito causal da legalização vs. tendências nacionais. **O que podemos concluir:**
 
 1. **Legalização não causou o aumento que opositores previam** — declínio ocorreu, não aumento
-2. **Verificação de idade funciona:** Vendedores licenciados perdem licença se venderem a menores; traficantes não têm desincentivo [@marijuanapolicy2025]
+2. **Verificação de idade:** Vendedores licenciados podem perder a licença se venderem a menores; traficantes não têm esse desincentivo (mecanismo proposto, sem evidência de eficácia nas fontes verificadas)
 3. **Múltiplos factores protectores:** Regulação (verificação idade, educação, produto testado) + tendências culturais + prevenção financiada = declínio sustentado
-4. **Portugal actual (proibição):** Consumo de risco juvenil **aumentou 6,5x** entre 2012-2022 (0,2%→1,3%) — proibição claramente não protege [@espad2023]
+4. **Portugal actual (venda proibida):** o mercado ilícito não tem verificação de idade nem controlo de qualidade; os dados de tendência juvenil (ESPAD) carecem de verificação antes de serem usados como argumento [@espad2023]
 
-**Conclusão:** Regulação não é panaceia. A evidência disponível — incluindo o estudo longitudinal de Coley et al. (2024, Boston College), que analisou dados 2011-2021 e encontrou **associações limitadas** entre legalização recreativa e consumo juvenil [@coley2024] — sugere que a regulação **não provocou os aumentos de consumo que opositores previam**. Contudo, os declínios observados são parcialmente atribuíveis a tendências nacionais pré-existentes (ver contexto crítico acima), pelo que afirmações de causalidade devem ser cautelosas. O que é claro: a regulação cria mecanismos protectores (verificação idade, educação, financiamento prevenção) inexistentes no mercado negro.
+**Conclusão:** Regulação não é panaceia. A evidência disponível — incluindo o estudo transversal repetido de Coley et al. (2024; YRBS 2011-2021, 47 estados dos EUA), que não encontrou aumento líquido do consumo juvenil, com reduções modestas associadas à legalização recreativa e maior frequência de consumo entre quem já consumia após o início das vendas retalhistas [@coley2024] — sugere que a regulação **não provocou os aumentos de consumo que opositores previam**. Contudo, os declínios observados são parcialmente atribuíveis a tendências nacionais pré-existentes (ver contexto crítico acima), pelo que afirmações de causalidade devem ser cautelosas. O que é claro: a regulação cria mecanismos protectores (verificação idade, educação, financiamento prevenção) inexistentes no mercado negro.

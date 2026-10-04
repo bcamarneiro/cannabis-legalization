@@ -1,8 +1,8 @@
 \newpage
 
-# ANEXO B: Sistema de Sementes Certificadas
+# ANEXO B: Sistema de Sementes Certificadas {#anexo-b-sistema-de-sementes-certificadas}
 
-## Enquadramento Legal
+## Enquadramento Legal {#enquadramento-legal}
 
 Desde 1 de Abril de 2024, sementes de cannabis são legais na Alemanha. Podem ser:
 
@@ -10,7 +10,7 @@ Desde 1 de Abril de 2024, sementes de cannabis são legais na Alemanha. Podem se
 * Importadas de outros países da UE
 * Utilizadas para autocultivo (até 3 plantas por adulto)
 
-## Canais de Aquisição Legal
+## Canais de Aquisição Legal {#canais-de-aquisição-legal}
 
 | Canal | Descrição |
 | :---- | :---- |
@@ -18,7 +18,7 @@ Desde 1 de Abril de 2024, sementes de cannabis são legais na Alemanha. Podem se
 | Importação UE | Compra de seedbanks noutros países da UE (Espanha, Países Baixos, Portugal) |
 | Cannabis Social Clubs | Clubes podem distribuir sementes e estacas aos membros |
 
-## Tipos de Sementes
+## Tipos de Sementes {#tipos-de-sementes}
 
 | Tipo | Características | Indicação |
 | :---- | :---- | :---- |
@@ -27,7 +27,7 @@ Desde 1 de Abril de 2024, sementes de cannabis são legais na Alemanha. Podem se
 | Regulares | 50% macho/fêmea, requer identificação de sexo | Criadores/breeders |
 | CBD-dominantes | Alto CBD, THC <0.2% | Fins terapêuticos, uso diurno |
 
-## Critérios de Qualidade
+## Critérios de Qualidade {#critérios-de-qualidade}
 
 O que procurar em sementes certificadas:
 
@@ -37,7 +37,7 @@ O que procurar em sementes certificadas:
 * **Rastreabilidade** — Origem documentada
 * **Embalagem selada** — Protecção contra humidade e luz
 
-## Modelo de Certificação Proposto para Portugal
+## Modelo de Certificação Proposto para Portugal {#modelo-de-certificação-proposto-para-portugal}
 
 Baseado no modelo alemão e na posição de Portugal como exportador de cannabis medicinal, propomos:
 
@@ -54,7 +54,7 @@ Baseado no modelo alemão e na posição de Portugal como exportador de cannabis
 * Análise laboratorial completa
 * Rastreabilidade semente-a-venda
 
-## Oportunidade Económica para Portugal
+## Oportunidade Económica para Portugal {#oportunidade-económica-para-portugal}
 
 Portugal já possui:
 
