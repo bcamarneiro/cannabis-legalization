@@ -5,6 +5,8 @@
 
 Proposta de enquadramento legal e regulatório da cannabis em Portugal, abrangendo uso medicinal, recreativo e industrial. É uma iniciativa independente de qualquer partido, desenvolvida de forma aberta e colaborativa; as posições oficiais dos partidos são registadas à parte (anexo E).
 
+**Origem e independência.** O documento começou em Janeiro de 2026 como trabalho no contexto do LIVRE. Desde Outubro de 2026 é mantido de forma independente: nenhum partido tem controlo editorial, todos os partidos com representação parlamentar recebem as mesmas perguntas e são registados pelas mesmas regras (anexo E), e todas as correcções ficam públicas no histórico do repositório.
+
 Licença: o ficheiro [LICENSE](LICENSE) indica CC BY-SA 4.0; a licença definitiva do conteúdo está por decidir (ver [ADR 0001](docs/adr/0001-fonte-unica-pdf-e-site.md), perguntas em aberto).
 
 ## Documento

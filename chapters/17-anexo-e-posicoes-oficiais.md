@@ -4,7 +4,7 @@
 
 ## Finalidade e regras {#finalidade-e-regras-do-registo}
 
-Este documento é independente de qualquer partido. Este anexo regista, para todos os partidos com representação parlamentar e pela mesma ordem, o que cada um defende oficialmente, para que o leitor possa comparar posições sem depender de interpretações.
+Este documento é independente de qualquer partido. Começou em Janeiro de 2026 como trabalho no contexto do LIVRE; desde Outubro de 2026 é mantido de forma independente, sem controlo editorial de nenhum partido, e o LIVRE é registado pelas mesmas regras e recebe as mesmas perguntas que os restantes. Este anexo regista, para todos os partidos com representação parlamentar e pela mesma ordem, o que cada um defende oficialmente, para que o leitor possa comparar posições sem depender de interpretações.
 
 Regras do registo:
 
