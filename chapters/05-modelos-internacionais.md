@@ -61,7 +61,7 @@ Na lei alemã chamam-se *Anbauvereinigungen* (associações de cultivo) [@kcang2
 | :---- | :---- |
 | Candidaturas submetidas | 791 (Nov 2025) [@bcav2025] |
 | Candidaturas rejeitadas | 42 (Nov 2025) [@bcav2025] |
-| Licenças emitidas | 357 (Nov 2025) [@bcav2025]; 494 de 916 candidaturas a 1 Out 2026 (dados de alguns Länder de Ago-Set 2026) [@bcav2026] |
+| Licenças emitidas | 357 (Nov 2025) [@bcav2025]; 494 de 916 candidaturas a 1 Out 2026 (dados de alguns Länder de Jul-Set 2026) [@bcav2026] |
 | Clubes a distribuir cannabis | Sem contagem oficial; a BCAv não publica este dado [@bcav2026] |
 | Primeiro clube a distribuir | Ganderkesee, Baixa Saxónia (2 Nov 2024) [@zdf2024ganderkesee] |
 
@@ -189,7 +189,7 @@ Espanha não legalizou cannabis, mas tolera centenas de clubes sociais sem regis
 
 ## Tailândia (2022–2026): liberalização e reversão {#tailandia-chicote}
 
-A Tailândia ilustra os custos de liberalizar sem regulamentar e reverter depois. Em Junho de 2022, o Ministro da Saúde Pública Anutin Charnvirakul — líder do partido Bhumjai Thai, com base eleitoral nos agricultores do nordeste — removeu a cannabis da lista de narcóticos e lançou um plano de distribuição de **1 milhão de mudas gratuitas** num comício em Buriram (onde foram entregues as primeiras 100), prometendo benefícios económicos para "cultivadores individuais, agricultores comunitários e empreendedores". Mais de 350.000 famílias registaram-se como cultivadoras, segundo a AP [@apnews2022thailand].
+A Tailândia ilustra os custos de liberalizar sem regulamentar e reverter depois. Em Junho de 2022, o Ministro da Saúde Pública Anutin Charnvirakul — líder do partido Bhumjai Thai, com base eleitoral nos agricultores do nordeste — removeu a cannabis da lista de narcóticos e lançou um plano de distribuição de **1 milhão de mudas gratuitas** num comício em Buriram (onde foram entregues as primeiras 100), prometendo benefícios económicos para "cultivadores individuais, agricultores comunitários e empreendedores". Segundo o partido de Anutin, citado pela AP, mais de 350.000 famílias tinham-se registado como cultivadoras [@apnews2022thailand].
 
 **O problema:** Apesar de o governo insistir que "apenas a cannabis medicinal foi legalizada", a AP notava que não havia planos de monitorização séria do cultivo e da venda a pequena escala [@apnews2022thailand]. Na leitura deste documento, este vácuo regulatório resultou numa legalização recreativa *de facto*, sem qualquer enquadramento legal para a sustentar.
 
@@ -215,7 +215,7 @@ A Tailândia ilustra os custos de liberalizar sem regulamentar e reverter depois
 
 * **Monitoring the Future (Univ. Michigan):** em 2023, o uso de cannabis no último ano foi de 8,3% (8.º ano), 17,8% (10.º) e 29,0% (12.º), estável desde 2021 e abaixo dos níveis pré-pandemia; o declínio desde o final dos anos 1990 é nacional, em estados com e sem legalização [@nida2023mtf; @monitoringthefuture2023]
 * **Factores de confusão a considerar:** Mudanças geracionais nas atitudes face a drogas, campanhas anti-tabagismo/vaping (que também afectam cannabis), aumento do financiamento de prevenção a nível nacional, mudanças metodológicas nos surveys pós-COVID-19
-* **Canadá (sem declínio):** o inquérito NCS registou uma queda pontual nos 15-17 anos (19,8%→10,4%, 4.º trimestre de 2018→2019; estimativa trimestral, e a fonte assinala em geral amostras modestas), que não se sustentou; o Canadian Cannabis Survey mostra 36% (2018) → 41% (2024) nos 16-19 anos [@statcan2019youth; @healthcanada2024]. O Canadá não é exemplo de declínio juvenil após a legalização.
+* **Canadá (sem declínio):** o inquérito NCS registou uma queda pontual nos 15-17 anos (19,8%→10,4%, entre os 1.º-3.º trimestres de 2018, antes da legalização, e os quatro trimestres de 2019; a fonte assinala que as amostras trimestrais do NCS são modestas), que não se sustentou; o Canadian Cannabis Survey mostra 36% (2018) → 41% (2024) nos 16-19 anos [@statcan2019youth; @healthcanada2024]. O Canadá não é exemplo de declínio juvenil após a legalização.
 
 **Interpretação:**
 

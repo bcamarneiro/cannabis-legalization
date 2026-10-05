@@ -11,9 +11,9 @@ Para estabelecer expectativas realistas, é essencial analisar o tempo que legis
 | Fase | Período | Duração | Notas |
 | :---- | :---- | :---- | :---- |
 | Comissão para a Estratégia Nacional de Combate à Droga | Fev 1998 – Out 1998 | ~8 meses | Constituída pelo Governo Guterres a 16-2-1998 (Despacho n.º 3229/98) [@dr1998despacho3229]; relatório entregue a 2-10-1998; a Estratégia Nacional, que recomendou a descriminalização, foi aprovada pela RCM n.º 46/99 (Abr-Mai 1999) [@rcm1999estrategia] |
-| Proposta de Lei n.º 31/VIII | 1 Jun 2000 | — | Aprovada em Conselho de Ministros e apresentada à Assembleia da República pelo Governo PS [@parlamento2000ppl31] |
-| Debate e aprovação | Jun – Out 2000 | ~4,5 meses | Votação final global a 6-7-2000: a favor PS, PCP, BE e PEV; contra PSD e CDS-PP. Nova votação do Decreto n.º 25/VIII a 19-10-2000, em que o PSD tentou condicionar a entrada em vigor a um referendo nacional [@parlamento2000ppl31; @tsf2000lei] |
-| Promulgação e publicação | Nov 2000 | — | Promulgada a 14-11-2000; publicada a 29-11-2000 como Lei n.º 30/2000 [@parlamento2000ppl31] |
+| Proposta de Lei n.º 31/VIII | 1 Jun 2000 | — | Proposta do Governo PS; entrada na Assembleia da República [@parlamento2000ppl31] |
+| Debate e aprovação | Jun – Out 2000 | ~4,5 meses | Votação final global a 6-7-2000 (Decreto n.º 25/VIII): a favor PS, PCP, BE e PEV; contra PSD e CDS-PP. Veto do Presidente da República (lido a 27-7-2000); depois de ouvidas as assembleias legislativas regionais, reapreciação e nova aprovação a 19-10-2000 (Decreto n.º 39/VIII, com alteração ao art. 29.º), em que o PSD tentou condicionar a entrada em vigor a um referendo nacional [@parlamento2000ppl31; @tsf2000lei] |
+| Promulgação e publicação | Nov 2000 | — | Promulgada a 14-11-2000 (Decreto n.º 39/VIII); publicada a 29-11-2000 como Lei n.º 30/2000, em vigor a 1-7-2001 (art. 29.º) [@parlamento2000ppl31; @parlamento2000lei30] |
 | Implementação | Dez 2000 – Jul 2001 | ~7 meses | Em vigor a 1-7-2001; regulamentação, formação das CDT, recursos |
 | **Total proposta → operação** | **Jun 2000 – Jul 2001** | **~13 meses** | Com maioria parlamentar à esquerda e recomendação prévia de uma comissão de peritos |
 
@@ -25,7 +25,7 @@ Para estabelecer expectativas realistas, é essencial analisar o tempo que legis
 | :---- | :---- | :---- | :---- | :---- |
 | **IVG/Aborto** | Referendo 1998 (rejeição) | 2007 (2.º referendo; Lei 16/2007) | 9 anos | Requereu 2.º referendo e mudança de governo |
 | **Casamento igualitário** | Proposta de Lei do Governo PS, Dez 2009 | Votação final global 11 Fev 2010; Lei 9/2010 | ~2 meses | Governo PS minoritário (97 de 230 deputados após as eleições de 2009) [@rtp2009eleicoes]; a favor PS (menos dois deputados), BE, PCP, PEV; contra PSD (com seis abstenções) e CDS-PP [@parlamento2010casamento] |
-| **Eutanásia** | 2018 (primeiros projectos) | Mai 2023 (Lei 22/2023) | ~5 anos | Quatro vetos presidenciais — dois após declarações de inconstitucionalidade do TC (Mar 2021, Fev 2023) e dois políticos (Nov 2021, Abr 2023) — e promulgação a 16-5-2023 após confirmação parlamentar [@rr2023eutanasia; @rtp2025eutanasia] |
+| **Eutanásia** | 2018 (primeiros projectos) | Mai 2023 (Lei 22/2023) | ~5 anos | Quatro vetos presidenciais — dois após declarações de inconstitucionalidade do TC (Mar 2021, Jan 2023) e dois políticos (Nov 2021, Abr 2023) — e promulgação a 16-5-2023 após confirmação parlamentar [@rr2023eutanasia; @rtp2025eutanasia] |
 | **Cannabis medicinal** | Jan 2018 (PJL 726/XIII do BE, entrada 5-1-2018; projecto do PAN em paralelo) | 15 Jun 2018 (votação final global); Lei 33/2018 | ~5-6 meses | Votação alargada (PSD, PS, BE, PCP, PEV e PAN a favor; CDS abstenção) [@parlamento2018pjl726; @publico2018b] |
 
 ### Diferenças Críticas: 2000 vs. 2026 {#diferenças-críticas-2000-vs.-2026}
@@ -216,7 +216,7 @@ Os três cenários não têm probabilidades quantificadas: não existe método n
 
 **A Fase 3** (venda comercial) é deliberadamente apresentada como horizonte condicional. Depende de factores externos (clarificação jurídica europeia, dados dos clubes) e pode nunca acontecer. Esta honestidade protege a credibilidade da proposta.
 
-**Lição da eutanásia:** A legislação sobre eutanásia demorou ~5 anos (2018-2023): duas declarações de inconstitucionalidade do Tribunal Constitucional e quatro vetos presidenciais (dois decorrentes do TC, dois políticos) obrigaram a reformulações sucessivas [@rr2023eutanasia; @rtp2025eutanasia]. A cannabis recreativa enfrenta objecções de outra natureza (segurança pública, tratados internacionais); não há sondagem citada neste documento que permita comparar o grau de divisão moral dos dois temas.
+**Lição da eutanásia:** A legislação sobre eutanásia demorou ~5 anos (2018-2023): duas declarações de inconstitucionalidade do Tribunal Constitucional e quatro vetos presidenciais (dois decorrentes do TC, dois políticos) obrigaram a reformulações sucessivas [@rr2023eutanasia; @rtp2025eutanasia]. O próprio precedente da Lei 30/2000 teve um veto presidencial (Julho de 2000), ultrapassado em menos de três meses com a audição das regiões autónomas e uma alteração ao art. 29.º [@parlamento2000ppl31]. A cannabis recreativa enfrenta objecções de outra natureza (segurança pública, tratados internacionais); não há sondagem citada neste documento que permita comparar o grau de divisão moral dos dois temas.
 
 **Expectativa calibrada:** A Fase 1 pode ser aprovada em **2027**. Para a Fase 2, o cenário intermédio prevê aprovação em **2028** com clubes operacionais em **2029** — uma timeline de 24-36 meses. A Fase 3 depende de dados 2029-2032 e contexto europeu — horizonte **2033+**, se alguma vez acontecer. Apresentar 12-18 meses para o recreativo como expectativa primária seria irrealista e prejudicaria credibilidade da proposta.
 

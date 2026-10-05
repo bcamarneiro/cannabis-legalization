@@ -38,7 +38,7 @@ O **Decreto-Lei n.º 420/70, de 3 de Setembro de 1970**, actualizou o regime de 
 **Contexto político:**
 
 * **Estado Novo (1933-1974):** a lei foi aprovada nos últimos anos da ditadura
-* **Pressão internacional:** Portugal aderiu à Convenção Única de 1961 em **Dezembro de 1971** [@untc1961], pouco depois da entrada em vigor do DL 420/70
+* **Pressão internacional:** Portugal ratificou a Convenção Única de 1961 em **Dezembro de 1971** (assinara-a em Março de 1961) [@untc1961], pouco depois da entrada em vigor do DL 420/70
 * **EUA:** a "War on Drugs" de Nixon foi declarada em Junho de 1971; não há fonte conhecida que documente pressão directa dos EUA sobre a legislação portuguesa de 1970
 
 **Evolução legislativa pós-tratados:**
@@ -63,7 +63,7 @@ Em **2000-2001**, Portugal **descriminalizou** (não legalizou) o consumo e a po
 
 * **Oposição do CDS-PP e do PSD**, que votaram contra. O CDS-PP fez campanha contra a "legalização das drogas" (termo incorrecto — a lei descriminalizava o consumo pessoal, não legalizava qualquer substância)
 * **Basílio Horta (CDS-PP)** exigiu um referendo: "não admitiremos a introdução desse sistema sem um referendo aos portugueses sobre se o consumo de drogas é ou não socialmente tolerável" [@tsf2000horta]
-* **Votação:** a Proposta de Lei n.º 31/VIII, aprovada pelo Governo a 1 de Junho de 2000, teve votação final global a 6 de Julho de 2000, com os votos do PS, PCP, PEV e BE contra PSD e CDS-PP; devolvida pelo Presidente da República por não terem sido ouvidas as regiões autónomas, foi novamente aprovada a 19 de Outubro com o mesmo sentido de voto, promulgada a 14 de Novembro e publicada a 29 de Novembro [@parlamento2000lei30; @tsf2000lei]; o PS não tinha votos suficientes sozinho
+* **Votação:** a Proposta de Lei n.º 31/VIII, que deu entrada na Assembleia a 1 de Junho de 2000, teve votação final global a 6 de Julho de 2000, com os votos do PS, PCP, PEV e BE contra PSD e CDS-PP; o Presidente da República, Jorge Sampaio, devolveu o decreto sem o promulgar (veto lido em plenário a 27 de Julho) e, depois de ouvidas as assembleias legislativas regionais, a lei foi novamente aprovada a 19 de Outubro com o mesmo sentido de voto, promulgada a 14 de Novembro e publicada a 29 de Novembro [@parlamento2000ppl31; @parlamento2000lei30; @tsf2000lei]; o PS não tinha votos suficientes sozinho
 
 **Fundamentação da mudança:**
 
@@ -116,7 +116,7 @@ A história recente pode resumir-se em **quatro momentos datados**:
 
 1. **Séculos XVII-XX:** o cânhamo foi cultura regulada e fomentada pela Coroa (Torre de Moncorvo, 1617-1656) e manteve-se em Portugal até meados do século XX [@rebanda2022moncorvo]
 
-2. **1923-1970:** os estupefacientes passaram a estar sob controlo comercial e fiscal (1923, 1926) e, em 1970, o consumo foi incriminado pelo DL 420/70, antes da adesão formal de Portugal à Convenção de 1961 (Dezembro de 1971) [@cej2020punibilidade; @coelho2023jurismat; @untc1961]
+2. **1923-1970:** os estupefacientes passaram a estar sob controlo comercial e fiscal (1923, 1926) e, em 1970, o consumo foi incriminado pelo DL 420/70, antes da ratificação da Convenção de 1961 por Portugal (Dezembro de 1971) [@cej2020punibilidade; @coelho2023jurismat; @untc1961]
 
 3. **2000:** Portugal descriminalizou o consumo de todas as drogas; o aumento de consumo previsto pela oposição não se verificou, e o modelo tornou-se um caso de estudo internacional, com limites documentados [@transform2016pt; @springer2021pt]
 

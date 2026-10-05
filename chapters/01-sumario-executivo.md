@@ -98,7 +98,7 @@ Evidência internacional sobre impacto:
 
 ## Cronograma proposto {#cronograma-proposto}
 
-**Calendário baseado em processos legislativos comparáveis:** Portugal descriminalização (proposta de lei aprovada pelo Governo em Junho de 2000; votação final global na Assembleia da República a 6 de Julho de 2000, confirmada a 19 de Outubro após devolução presidencial; publicada em Novembro; em vigor em Julho de 2001 — cerca de 13 meses da proposta à entrada em vigor) [@parlamento2000lei30], Alemanha CanG (cerca de 18 meses entre o Eckpunktepapier de Outubro de 2022 e a entrada em vigor em Abril de 2024, apenas na 1.ª fase, sem mercado comercial) [@lancet2024germany].
+**Calendário baseado em processos legislativos comparáveis:** Portugal descriminalização (proposta de lei submetida à Assembleia da República em Junho de 2000; votação final global a 6 de Julho de 2000; veto do Presidente da República em Julho; nova aprovação a 19 de Outubro; publicada em Novembro; em vigor em Julho de 2001 — cerca de 13 meses da proposta à entrada em vigor) [@parlamento2000lei30], Alemanha CanG (cerca de 18 meses entre o Eckpunktepapier de Outubro de 2022 e a entrada em vigor em Abril de 2024, apenas na 1.ª fase, sem mercado comercial) [@lancet2024germany].
 
 Marcos principais (calendário detalhado, cenários e contingências no capítulo 11):
 
@@ -124,7 +124,7 @@ Marcos principais (calendário detalhado, cenários e contingências no capítul
 **Os ganhos de cada fase são permanentes, independentemente de a seguinte avançar:**
 * Fase 1 → doentes com acesso medicinal, cânhamo em produção, emprego rural (estimativa indicativa no capítulo 09)
 * Fase 2 → consumidores protegidos, parte do mercado negro deslocada, fim dos processos por consumo e autocultivo (a um custo líquido assumido de €4,5-11,8M/ano)
-* Fase 3 → captura adicional do mercado negro, receitas fiscais estimadas em €39-63M/ano (cenário especulativo do capítulo 08; se algum dia implementada)
+* Fase 3 → captura adicional do mercado negro, receitas fiscais estimadas em €37-60M/ano (cenário especulativo do capítulo 08; se algum dia implementada)
 
 **Esta abordagem maximiza viabilidade política:** Não compromete quem a adopte com promessas dependentes de factores externos (mudanças lei UE), mas mantém ambição estratégica de longo prazo condicional a dados e coordenação europeia.
 

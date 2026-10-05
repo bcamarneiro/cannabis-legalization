@@ -177,7 +177,7 @@ Comparar resultados no período de avaliação (2029-2032) para informar a expan
 
 **Suíça:** os preços são fixados ao nível do mercado ilegal local por imposição regulamentar [@bagfaq2025pilots]. Mesmo assim, a maioria dos participantes passou a abastecer-se sobretudo no canal legal — por segurança e fiabilidade do produto — mas o preço mais baixo do mercado ilegal (descontos de quantidade) é a principal razão para a parte residual de compras ilegais, sobretudo entre consumidores diários [@bag2025pilotversuche].
 
-**Portugal:** preço do mercado ilegal €5,58/g (média de 2023) [@euda2025ppp]; a proposta de clubes aponta para €3-8/g em recuperação de custos. A vantagem de preço não está garantida: depende dos custos reais de conformidade (laboratórios, pessoal, instalações). **Lição:** monitorizar os custos dos clubes licenciados e exigir transparência de preços e custos; um preço de referência indicativo (não vinculativo) publicado pelo SICAD permite acompanhamento sem rigidez. A qualidade testada, e não só o preço, é um motivo de adesão documentado na Suíça.
+**Portugal:** preço do mercado ilegal €5,33/g (média de 2023) [@icad2024anexo]; a proposta de clubes aponta para €3-8/g em recuperação de custos. A vantagem de preço não está garantida: depende dos custos reais de conformidade (laboratórios, pessoal, instalações). **Lição:** monitorizar os custos dos clubes licenciados e exigir transparência de preços e custos; um preço de referência indicativo (não vinculativo) publicado pelo SICAD permite acompanhamento sem rigidez. A qualidade testada, e não só o preço, é um motivo de adesão documentado na Suíça.
 
 ### 4. Desvio para o mercado ilegal: não referido, não medido {#zero-leakage-é-possível-mas-requer-enforcement-inteligente}
 

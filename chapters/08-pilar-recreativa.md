@@ -277,10 +277,10 @@ Os clubes devem implementar **rastreabilidade completa** da cannabis cultivada, 
 
 **Safeguards adicionais propostos para Portugal:**
 
-Em Espanha, sem regulação nacional e com fiscalização desigual, a literatura descreve uma variação muito grande de dimensão e profissionalização entre clubes (de 6 a 5.000 membros), e os autores admitem a existência de clubes "mais comerciais" [@pardal2020mapping]. Para reduzir esse risco, Portugal deve adicionar mecanismos ausentes na Alemanha e em Espanha:
+Em Espanha, sem regulação nacional e com fiscalização desigual, os clubes são muito heterogéneos; no inquérito europeu de Pardal et al. (81 clubes em 13 países), o mais pequeno tinha 6 membros e o maior 5.000 [@pardal2020mapping]. Para reduzir o risco de funcionamento de facto comercial, Portugal deve adicionar mecanismos ausentes na Alemanha e em Espanha:
 
 - **Auditoria externa independente anual:** Obrigatória para todos os clubes, conduzida por auditor certificado não-membro, relatório publicado online e submetido a SICAD — recusa de publicação resulta em suspensão imediata da licença
-- **Transparência de preços:** Clubes definem preços com base nos custos reais de produção, qualidade do produto e situação financeira — sem tecto rígido. Obrigatória a publicação de custos de produção por grama e a afixação visível de preços. Preço de referência indicativo (não vinculativo) publicado anualmente por SICAD com base em custos médios dos clubes licenciados. Objectivo: competitividade com o mercado ilegal (preço médio de retalho da cannabis herbácea em Portugal: €5,58/g em 2023, entre €5,36 e €5,82 em 2019-2023, EUDA [@euda2025ppp]) sem impor rigidez que comprometa viabilidade
+- **Transparência de preços:** Clubes definem preços com base nos custos reais de produção, qualidade do produto e situação financeira — sem tecto rígido. Obrigatória a publicação de custos de produção por grama e a afixação visível de preços. Preço de referência indicativo (não vinculativo) publicado anualmente por SICAD com base em custos médios dos clubes licenciados. Objectivo: competitividade com o mercado ilegal (preço médio da liamba em Portugal: €5,33/g em 2023, entre €5,27 e €5,64 em 2019-2023, segundo os dados policiais compilados pelo ICAD [@icad2024anexo]) sem impor rigidez que comprometa viabilidade
 - **Proibição absoluta retenção excedentes:** Qualquer surplus (receitas > custos + reserva operacional 10%) é automaticamente doado a SICAD trimestralmente para financiar prevenção/tratamento — distribuição de lucros a membros/direcção resulta em revogação permanente
 - **Dashboard mensal online público:** Divulgação a membros + SICAD de vendas totais (€), custos operacionais agregados, pagamentos direcção/funcionários, número membros activos
 
@@ -289,7 +289,7 @@ Em Espanha, sem regulação nacional e com fiscalização desigual, a literatura
 As autoridades regionais (Länder) conduzem [@cannabis420eu2024]:
 
 - **Inspeções e controlos aleatórios:** Verificação física de stocks, distribuições registadas, proteção menores, conformidade limites
-- **Análises laboratoriais:** Testes de THC e contaminantes (pesticidas, metais pesados, fungos) no âmbito do controlo de qualidade exigido pela lei (§21 KCanG [@kcang2024]); a fonte secundária refere inspecções no local e análises laboratoriais
+- **Análises laboratoriais (proposta para Portugal):** Testes de THC e contaminantes (pesticidas, metais pesados, fungos). O KCanG não impõe análises laboratoriais aos clubes: o §21 exige a indicação do teor médio de THC e de CBD em cada entrega e proíbe misturas, e o §17 remete para as boas práticas e para limites máximos a fixar por regulamento [@kcang2024]; a fonte secundária refere inspecções no local e análises laboratoriais
 - **Verificação documental:** Auditoria de registos de distribuição e conformidade com limites legais
 - **Acesso a registos:** Autoridades podem inspecionar documentação (§26 KCanG) [@kcang2024] a qualquer momento
 
@@ -344,7 +344,7 @@ Evidência científica sobre exposição THC (estudos pequenos; valores quantita
 - **Sem penalização:** A ACOG apoia a referenciação para tratamento e critica políticas punitivas; daí decorre, de forma indirecta, que grávidas que auto-reportem uso de cannabis não devam ser penalizadas legalmente (evitar sub-reporte)
 - **Redução de danos:** Se cessação completa impossível, reduzir para menor quantidade possível [@sogc2022cannabis]
 
-**Justificação:** As guidelines ACOG 2025 descrevem um risco de resultados adversos que aumenta de forma dose-dependente (baixo peso ao nascer, NICU, mortalidade perinatal). CDC e AAP recomendam cessação durante a amamentação. A Alemanha enfrenta desafio similar pós-legalização (Abril 2024) — um inquérito de 2025 a parteiras e médicos (N=284, Maio-Outubro de 2024) aponta necessidade de formação dos profissionais de saúde [@pmc2024midwives]. Portugal pode implementar estas protecções desde o início.
+**Justificação:** As guidelines ACOG 2025 descrevem um risco de resultados adversos que aumenta de forma dose-dependente (baixo peso ao nascer, NICU, mortalidade perinatal). CDC e AAP recomendam cessação durante a amamentação. A Alemanha enfrenta desafio similar pós-legalização (Abril 2024) — um estudo de 2025 (análise das 143 parteiras de um inquérito a 284 parteiras e médicos, realizado entre Maio e Outubro de 2024) aponta necessidade de formação dos profissionais de saúde [@pmc2024midwives]. Portugal pode implementar estas protecções desde o início.
 
 #### Controlo de Qualidade e Segurança dos Produtos
 
@@ -377,7 +377,7 @@ O mesmo preprint (50 amostras ilícitas e 50 licenciadas) refere também que 20%
 
 ##### Solução: Testes Obrigatórios em Clubes Sociais
 
-Modelo alemão KCanG 2024 (adoptado como base para PT): a lei exige controlo de qualidade (§21 KCanG [@kcang2024]); a lista de testes abaixo segue a descrição do laboratório Eurofins [@eurofins2024] e é proposta para Portugal:
+Modelo alemão KCanG 2024 (adoptado como base para PT): a lei exige que cada entrega indique o teor médio de THC e de CBD e proíbe misturas (§21 KCanG [@kcang2024]), mas não impõe análises laboratoriais; a lista de testes abaixo segue a descrição do laboratório Eurofins [@eurofins2024] e é proposta para Portugal:
 
 **Testes obrigatórios antes de distribuição aos membros:**
 
@@ -418,14 +418,14 @@ Modelo alemão KCanG 2024 (adoptado como base para PT): a lei exige controlo de 
 Cannabis de autocultivo (3 plantas) com **sementes de origem e genética conhecidas** reduz a incerteza face ao mercado negro, mas não a elimina:
 
 - **Sementes testadas (proposta para Portugal):** Fornecedores licenciados obrigados a testar lotes de sementes (pesticidas, metais, microorganismos) antes da distribuição. Testar sementes **não** controla pesticidas, fungos ou metais no produto cultivado em casa — depende do cultivador
-- **Cultivo biológico:** Nos pilotos suíços, a cannabis vendida tem de ser cultivada na Suíça segundo as normas da agricultura biológica (regra do art. 8.º BetmPV, com derrogação apenas para produtos fitofarmacêuticos autorizados em agricultura biológica; o art. 9.º fixa os requisitos de qualidade do produto) [@bag2025pilotversuche; @bagch2024pilots]
+- **Cultivo biológico:** Nos pilotos suíços, a cannabis tem de ser cultivada na Suíça (art. 7.º BetmPV) segundo as normas da agricultura biológica e as boas práticas agrícolas GACP (art. 8.º, n.º 1); só a título excepcional, quando não há produção biológica suficiente, se admite cultivo convencional ou importação (arts. 7.º, n.º 2, e 8.º, n.º 2), e mesmo então apenas com produtos fitofarmacêuticos admitidos em agricultura biológica; o art. 9.º fixa os requisitos de qualidade do produto [@bag2025pilotversuche; @bagch2024pilots]
 - **Potência esperada:** Sementes de genética estabilizada permitem antecipar a gama de THC (variedades ≤10% para 18-20 anos); o THC final depende também das condições de cultivo, pelo que a potência real só se conhece com teste ao produto
 
 **Conclusão:** A regulação com testes obrigatórios transforma a cannabis de substância de composição desconhecida (mercado negro: 94% das amostras com pesticidas, 73% com fungos acima dos limites, metais pesados mais prevalentes [@sciety2025illicit]) em produto testado, com falhas residuais documentadas mesmo em mercados regulados (20% das amostras legais acima dos limites microbianos no mesmo preprint). Esta é uma das justificações de saúde pública para a regulação — não é possível garantir a segurança de produtos ilícitos.
 
 ## Autocultivo regulado *(proposta de compromisso)* {#autocultivo-regulado-proposta-de-compromisso}
 * Até 3 plantas por adulto
-* **Sementes apenas de fornecedores autorizados** (potencial de THC da variedade conhecido; o teor final depende do cultivo — nenhuma jurisdição certifica um "THC máximo" por semente)
+* **Sementes apenas de fornecedores autorizados** (potencial de THC da variedade conhecido; o teor final depende do cultivo — não conhecemos jurisdição que certifique um "THC máximo" por semente)
 * Plantas seguras e inacessíveis a menores
 * Proibida venda ou cedência
 
@@ -517,7 +517,7 @@ Fornecedores de sementes devem obter licença de Infarmed/DGAV com os seguintes 
 - **Penalidades:** Fornecedores não licenciados = coima €5.000-50.000 + apreensão stock
 - **Reconhecimento:** Impossível eliminar 100% sementes ilegais (tal como produção doméstica vinho ilegal existe), mas sistema reduz risco vs. mercado negro
 
-**Justificação:** Alemanha permite clubes distribuírem 7 sementes/mês de seedbanks UE (sem certificação formal). Suíça exige produtores licenciados com transparência seed-to-sale e cultivo segundo as normas biológicas (art. 8.º BetmPV) [@bagch2024pilots; @bag2025pilotversuche]. Modelo português combina praticabilidade alemã (distribuição via clubes) com rigor suíço (licenciamento produtores + testes qualidade).
+**Justificação:** Alemanha permite clubes distribuírem 7 sementes/mês de seedbanks UE (sem certificação formal). Suíça exige produtores licenciados com transparência seed-to-sale e cultivo biológico como regra (art. 8.º BetmPV, com excepções) [@bagch2024pilots; @bag2025pilotversuche]. Modelo português combina praticabilidade alemã (distribuição via clubes) com rigor suíço (licenciamento produtores + testes qualidade).
 
 Para informação sobre o sistema de sementes certificadas proposto, ver Anexo B.
 
@@ -708,7 +708,7 @@ A ausência de uma estratégia media pode comprometer a viabilidade política da
 
 Diferentemente de modelos comerciais (Colorado, Canadá), Portugal propõe clubes **sem fins lucrativos** (cost-recovery). O impacto fiscal baseia-se exclusivamente em **poupanças** e **custos**, não em receitas fiscais. Todos os valores abaixo são pressupostos dos autores, sem dados orçamentais do Ministério da Justiça ou da Saúde.
 
-![Balanço fiscal do modelo português (valores assumidos neste capítulo): com ~180.000 consumidores no último ano e 46 clubes, as poupanças de enforcement estimadas (€3,2-15,5M/ano) ficam abaixo dos custos regulatórios (€15-20M/ano) em todos os cenários; a prevenção e o tratamento (€20-40M/ano) são pagos pelo Orçamento do Estado; uma Fase 3 (condicional e especulativa) daria €39-63M/ano de receitas fiscais.](assets/diagrams/balanco-fiscal.png){width=70%}
+![Balanço fiscal do modelo português (valores assumidos neste capítulo): com ~180.000 consumidores no último ano e 46 clubes, as poupanças de enforcement estimadas (€3,2-15,5M/ano) ficam abaixo dos custos regulatórios (€15-20M/ano) em todos os cenários; a prevenção e o tratamento (€20-40M/ano) são pagos pelo Orçamento do Estado; uma Fase 3 (condicional e especulativa) daria €37-60M/ano de receitas fiscais.](assets/diagrams/balanco-fiscal.png){width=70%}
 
 ##### Situação Actual (2026) — Proibição
 
@@ -724,7 +724,7 @@ Diferentemente de modelos comerciais (Colorado, Canadá), Portugal propõe clube
 
 ##### Situação Proposta (2029+) — Regulação Clubes Sociais
 
-Captura de mercado por cenário (ver [análise de sensibilidade](#sensitivity-roi)): pessimista 5,3%, realista 13,8%, optimista 25,9% dos ~180.000 consumidores no último ano. Poupanças de enforcement assumidas proporcionais à captura, sobre a base de €60M/ano.
+Captura de mercado por cenário (ver [análise de sensibilidade](#sensitivity-roi)): pessimista 5,3%, realista 13,8%, optimista 25,9% dos ~180.000 consumidores no último ano. Poupanças de enforcement assumidas proporcionais à captura, sobre a base de €60M/ano. Nas tabelas seguintes, o sinal mede o efeito na despesa do Orçamento do Estado: + é despesa adicional, − é poupança.
 
 **Anos 1-2 (Licenciamento Nacional 2029-2030):**
 
@@ -747,7 +747,7 @@ Captura de mercado por cenário (ver [análise de sensibilidade](#sensitivity-ro
 | **Custos regulatórios** (escala 18-37 clubes) | +€15-20M | Crescem com escala |
 | **Poupanças saúde pública** (produtos testados) | não quantificado | Plausível, sem dados PT para estimar |
 | **Dotação prevenção** | +€20-40M | Maioritariamente OE |
-| **BALANÇO OPERACIONAL (sem dotação)** | **+€4,5 a +€11,8M/ano** | **Custo líquido**: custos regulatórios excedem poupanças |
+| **DESPESA OPERACIONAL LÍQUIDA DO OE (sem dotação)** | **+€4,5 a +€11,8M/ano** | **Custo líquido** (balanço operacional de −€4,5 a −€11,8M): custos regulatórios excedem poupanças |
 | **BALANÇO LÍQUIDO ANOS 3-5** | **+€25 a +€52M/ano** | **Aumento gasto OE** |
 
 **Anos 6-10 (Regime Permanente 2034-2038):**
@@ -758,7 +758,7 @@ Captura de mercado por cenário (ver [análise de sensibilidade](#sensitivity-ro
 | **Poupanças saúde pública** | não quantificado | — |
 | **Custos regulatórios** (46 clubes) | +€15-20M | Custos fixos fiscalização, testes, monitorização |
 | **Dotação prevenção** | +€20-40M | Maioritariamente OE |
-| **BALANÇO OPERACIONAL (sem dotação)** | **+€4,5 a +€11,8M/ano** | **Custo líquido** |
+| **DESPESA OPERACIONAL LÍQUIDA DO OE (sem dotação)** | **+€4,5 a +€11,8M/ano** | **Custo líquido** (balanço operacional de −€4,5 a −€11,8M) |
 | **BALANÇO LÍQUIDO ANOS 6-10** | **+€25 a +€52M/ano** | **Aumento gasto OE** |
 
 ##### Retorno sobre Investimento (ROI) — Análise 10 anos
@@ -962,17 +962,17 @@ Todos os valores acima baseiam-se **exclusivamente no modelo de clubes** sem ven
 | Parâmetro | Cálculo | Valor Estimado | Notas |
 | :---- | :---- | :---- | :---- |
 | **Volume do mercado ilegal** | 36-58 t/ano | — | Estimativa de Ribeiro [@ribeiro2024economic] |
-| **Valor a preços de rua** | 36-58 t × €5,58/g | **€201-324M/ano** | Preço médio de retalho da cannabis herbácea em Portugal em 2023 (€5,36-5,82 em 2019-2023) [@euda2025ppp]; cálculo dos autores |
+| **Valor a preços de rua** | 36-58 t × €5,33/g | **€192-309M/ano** | Preço médio da liamba em Portugal em 2023 (€5,27-5,64 em 2019-2023), segundo os dados policiais compilados pelo ICAD [@icad2024anexo]; cálculo dos autores |
 | **Captura comercial** | 78% (Canadá, despesa, 2022) [@hammond2025] | ~78% | Principal ponto de referência comparável; modelo comercial com rede ampla |
-| **Vendas legais tributáveis** | €201-324M × 78% | €157-252M/ano | — |
+| **Vendas legais tributáveis** | €192-309M × 78% | €150-241M/ano | — |
 | **Taxa fiscal específica** | 25% (pressuposto dos autores) | 25% | Colorado: 15% excise grossista + 15% imposto especial de venda a retalho, mais impostos locais [@colorado2022tax] |
-| **RECEITAS FISCAIS** | €157-252M × 25% | **€39-63M/ano** | €38-66M/ano com o preço entre €5,36 e €5,82; Ribeiro projecta €52,7-70,8M (conservador) a €151,3M (optimista) [@ribeiro2024economic] |
+| **RECEITAS FISCAIS** | €150-241M × 25% | **€37-60M/ano** | €37-64M/ano com o preço entre €5,27 e €5,64; Ribeiro projecta €52,7-70,8M (conservador) a €151,3M (optimista) [@ribeiro2024economic] |
 
 **Balanço combinado Fase 2 + Fase 3 (hipotético):**
 
 - **Balanço operacional Fase 2:** −€4,5 a −€11,8M/ano
-- **Receitas fiscais Fase 3:** +€39-63M/ano
-- **TOTAL:** +€27 a +€59M/ano, só se a Fase 3 se concretizar
+- **Receitas fiscais Fase 3:** +€37-60M/ano
+- **TOTAL:** +€26 a +€56M/ano, só se a Fase 3 se concretizar
 
 **A Fase 3 pode nunca acontecer:**
 
@@ -1087,7 +1087,7 @@ Assumindo 46 clubes × 400 membros activos médios = **18.400 utilizadores** (ne
 1. **Clubes directos:** 10,2% (18.400 membros activos / 180.000 consumidores); máximo 12,8% com lotação plena
 2. **Autocultivo (3 plantas):** 5.000 a 30.000 pessoas conforme cenário (2,8% a 16,7% dos consumidores) — **sem dados comparáveis fiáveis**; no Uruguai, 10.392 autocultivadores registados [@ircca2025resumen] correspondem a cerca de 4% dos ~250.000 consumidores
 3. **Partilha no agregado familiar:** Membros podem partilhar com o círculo próximo — pressuposto não quantificado nem comprovado; não entra nos cálculos
-4. **Preço:** Para competir, o preço dos clubes tem de ser competitivo com os ~€5,6/g do mercado ilegal (média de 2023: €5,58/g [@euda2025ppp]), não com valores superiores. Isto enfraquece a margem para absorver custos de testes e prevenção e é um risco para a viabilidade dos clubes
+4. **Preço:** Para competir, o preço dos clubes tem de ser competitivo com os ~€5,3/g do mercado ilegal (média de 2023: €5,33/g [@icad2024anexo]), não com valores superiores. Isto enfraquece a margem para absorver custos de testes e prevenção e é um risco para a viabilidade dos clubes
 
 **Incerteza:**
 

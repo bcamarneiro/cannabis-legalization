@@ -133,7 +133,7 @@ Cada clube deve:
   - Afixação visível dos preços praticados nas instalações e plataforma digital do clube
   - Justificação documentada de variações superiores a 20% face ao preço de referência
 * **Preço de referência indicativo:** SICAD publica anualmente um preço de referência (não vinculativo) baseado nos custos médios dos clubes licenciados — serve como benchmark, não como limite legal
-* **Objectivo:** Manter competitividade com o mercado ilegal (€5,58/g em 2023, preço médio de retalho da cannabis herbácea [@euda2025ppp]) sem impor rigidez que comprometa viabilidade de clubes com custos operacionais mais elevados
+* **Objectivo:** Manter competitividade com o mercado ilegal (€5,33/g em 2023, preço médio da liamba segundo os dados policiais compilados pelo ICAD [@icad2024anexo]) sem impor rigidez que comprometa viabilidade de clubes com custos operacionais mais elevados
 * **Fiscalização:** Auditoria trimestral de preços vs. custos declarados — desvios significativos sem justificação desencadeiam inspecção aprofundada
 
 ### 3. Transparência Financeira Mensal {#transparência-financeira-mensal}
@@ -287,13 +287,13 @@ Nota: Rácio pessoal-membros conservador (1:66-111), garantindo atendimento pers
 * **Exemplo consumidor médio (20g/mês):**
   - Quota: €30
   - Cannabis: 20g × €4 = €80
-  - **Total: €110/mês** — ou seja, ao nível do mercado ilegal (20 g a €5,58/g ≈ €112 [@euda2025ppp]); para este perfil de consumidor a vantagem do clube está na qualidade testada e na segurança jurídica, não no preço
+  - **Total: €110/mês** — ou seja, praticamente ao nível do mercado ilegal (20 g a €5,33/g ≈ €107 [@icad2024anexo]); para este perfil de consumidor a vantagem do clube está na qualidade testada e na segurança jurídica, não no preço
 
 ### Comparação Preços: Clube vs Mercado Negro vs Comercial {#comparação-preços-clube-vs-mercado-negro-vs-comercial}
 
 | Modelo | Preço/grama | Finalidade lucro |
 | :---- | :---- | :---- |
-| **Mercado ilegal PT** | €5,58 (média de 2023) [@euda2025ppp] | Lucro, sem custos de conformidade nem controlo de qualidade |
+| **Mercado ilegal PT** | €5,33 (média de 2023) [@icad2024anexo] | Lucro, sem custos de conformidade nem controlo de qualidade |
 | **Clube social (proposta PT)** | €3 - €8 (estimativa dos autores, conforme custos reais) | Recuperação de custos, sem fins lucrativos, preços transparentes |
 | **Farmácia PT (medicinal)** | ~€10/g (€150 por 15 g, preço legal Tilray) [@euronews2024] | Medicinal, prescrição obrigatória |
 

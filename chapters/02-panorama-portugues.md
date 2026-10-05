@@ -39,7 +39,7 @@ O acesso legal à cannabis medicinal enfrenta obstáculos significativos:
 * **Falta de formação médica:** Os médicos carecem de formação sobre canabinóides [@euronews2024]
 * **Receio profissional:** Médicos não se sentem confortáveis a prescrever por falta de conhecimento [@euronews2024]
 * **Indicações restritas:** A flor só pode ser prescrita para sete condições específicas, e só depois de as terapêuticas convencionais terem falhado [@euronews2024]
-* **Custo:** ~€150 por embalagem de 15 g, sem comparticipação [@euronews2024], é um preço legal (~€10/g) acima do praticado no mercado ilegal — €5,58/g em 2023, preço médio de retalho da cannabis herbácea em Portugal (€5,36-5,82 em 2019-2023) [@euda2025ppp]
+* **Custo:** ~€150 por embalagem de 15 g, sem comparticipação [@euronews2024], é um preço legal (~€10/g) acima do praticado no mercado ilegal — €5,33/g em 2023, preço médio da liamba segundo os dados policiais compilados pelo ICAD (€5,27-5,64 em 2019-2023) [@icad2024anexo]
 
 Estas barreiras fundamentam as propostas de simplificação do acesso e de comparticipação pelo SNS apresentadas no capítulo 07.
 
