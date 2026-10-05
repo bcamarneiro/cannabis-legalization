@@ -14,7 +14,7 @@ Portugal encontra-se numa posição paradoxal: é um dos maiores exportadores mu
 - **Canabinóides sintéticos** em circulação, descritos por uma página informativa norte-americana sem fonte primária como 2 a 800 vezes mais potentes que o THC [@oasas2024synthetic] (ver capítulo 06)
 - **Potência** sem rotulagem nem controlo
 - **Sem controlo ambiental:** o cultivo clandestino não está sujeito a qualquer regra energética ou ambiental; como ordem de grandeza, o cultivo indoor legal nos EUA emite 2.283-5.184 kg CO₂e por kg de flor seca [@nature2021cannabis]; não há medição para o cultivo ilegal em Portugal
-- **Sanções persistentes:** em 2018, 75% dos 10.445 processos nas CDT envolveram apenas cannabis [@sicad2018condenacoes]; em 2021, 424 pessoas foram condenadas em tribunal por consumo, 75% delas por cannabis [@dn2023condenacoes]
+- **Sanções persistentes:** os processos nas CDT só com cannabis foram 83% dos 10.445 de 2018 e 75% dos 6.378 de 2021 [@icad2024anexo; @sicad2021relatorio]; em 2021 houve 475 condenações em tribunal por consumo (valor definitivo; três quartos por cannabis nos dados provisórios) [@icad2024anexo; @sicad2021relatorio]; desde então, com a Lei n.º 55/2023, de 8 de Setembro, a detenção para consumo próprio passou a ser contra-ordenação independentemente da quantidade [@tc2025acordao347]; o cultivo continua a ser crime (art. 40.º do DL 15/93) [@icad2024anexo]
 
 ## O que propomos: três pilares, três fases {#o-que-propomos-três-pilares-três-fases}
 
@@ -60,12 +60,12 @@ Os pilares descrevem a substância de cada proposta. As fases descrevem a sequê
 * Cânhamo **pode e deve avançar imediatamente**, independentemente do debate recreativo
 * **Quick wins:** Comparticipação SNS, prescrição simplificada, programa piloto cânhamo 1000ha, parcerias universitárias
 
-#### Fase 2 (após Fase 1 mostrar resultados): Clubes Sociais + Autocultivo Recreativo {#sumário-fase-2}
+#### Fase 2 (após a aprovação da Fase 1): Clubes Sociais + Autocultivo Recreativo {#sumário-fase-2}
 
 * Clubes: máx. 500 membros, sem fins lucrativos, restrições de potência e quantidade para os 18-20 anos (ver capítulo 08)
 * Autocultivo: 3 plantas, sementes certificadas
 * Produtos testados obrigatoriamente
-* **Condição:** Fase 1 demonstra viabilidade política e resultados positivos
+* **Condição:** Fase 1 aprovada e em execução; a votação final da Fase 2 tem em conta os resultados da Fase 1 já disponíveis (os do piloto de cânhamo só existirão a partir de 2029)
 * **Período de avaliação:** 2029-2032, com 2-3 anos de dados completos (calendário no capítulo 11)
 
 Evidência internacional sobre impacto:
@@ -105,7 +105,7 @@ Marcos principais (calendário detalhado, cenários e contingências no capítul
 | Prazo | Acção | Fase |
 |------|-------|------|
 | **2026-2027** | Pedido de posições oficiais aos partidos (anexo E); propostas de revisão da cannabis medicinal (comparticipação SNS) e de simplificação regulatória do cânhamo; aprovação e arranque do programa piloto de cânhamo (3-5 regiões, ISA/UTAD, incentivos PAC) | **Fase 1** |
-| **Q3-Q4 2027** | Proposta legislativa clubes sociais + autocultivo, a apresentar aos partidos com posição favorável documentada no anexo E (ver capítulo 10) — após resultados da Fase 1 | **Fase 2** |
+| **Q3-Q4 2027** | Proposta legislativa clubes sociais + autocultivo, a apresentar aos partidos com posição favorável documentada no anexo E (ver capítulo 10) — na sequência da aprovação da Fase 1 | **Fase 2** |
 | **Q2-Q4 2028** | Aprovação parlamentar do regime de clubes sociais + autocultivo | **Fase 2** |
 | **Q3-Q4 2029** | Licenciamento nacional de clubes sociais — abertura a qualquer município | **Fase 2** |
 | **2029-2032** | Período de avaliação, do arranque do licenciamento à avaliação formal: recolha de dados, relatórios públicos anuais | **Fase 2** |

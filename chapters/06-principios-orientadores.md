@@ -15,9 +15,9 @@ O objectivo da regulação do uso recreativo, tal como aqui proposta, não é pr
 **Dados sobre o regime actual (SICAD):**
 
 * Desde a Lei 30/2000 o consumo é contra-ordenação; os processos nas Comissões para a Dissuasão da Toxicodependência (CDT) são administrativos e não geram registo criminal. Em 2021 foram abertos **6.378 processos** de contra-ordenação por consumo, 48% abaixo do máximo de 2017 [@sicad2021relatorio]
-* **75% desses processos envolvem apenas cannabis** e 3% cannabis com outras drogas (2018 e 2021) [@sicad2018condenacoes; @sicad2021relatorio]
+* **83% desses processos envolviam apenas cannabis em 2018 e 75% em 2021**, mais 3% com cannabis e outras drogas em 2021 [@icad2024anexo; @sicad2021relatorio]
 * **86% dos indiciados em 2021** foram classificados como não toxicodependentes [@sicad2021relatorio; @cannareporter2023legalization]
-* O cultivo e a posse acima de 10 doses diárias continuam a ser crime; em 2021 houve 424 pessoas condenadas em tribunal por consumo, 75% por cannabis, segundo um artigo de opinião do Diário de Notícias (2023) [@dn2023condenacoes]
+* O cultivo continua a ser crime (art. 40.º do DL 15/93) [@icad2024anexo]; a detenção para consumo próprio passou a ser contra-ordenação independentemente da quantidade com a Lei n.º 55/2023, de 8 de Setembro, que o Tribunal Constitucional não declarou inconstitucional [@tc2025acordao347]. Em 2021, antes dessa lei, houve 475 condenações em tribunal por consumo (valor definitivo; três quartos por cannabis nos dados provisórios) [@icad2024anexo; @sicad2021relatorio]
 * Não existe mercado legal para uso recreativo: o consumo recreativo abastece-se no mercado ilegal (sem estimativa quantitativa da quota)
 * Mercado ilegal estimado em **36-58 toneladas/ano** (working paper, não revisto por pares) [@ribeiro2024economic]
 
@@ -111,7 +111,7 @@ O cultivo indoor, dominante em vários mercados legais e presente na produção 
 
 **3. Redução de custos sociais:**
 
-* **Menos processos administrativos nas CDT:** 75% dos processos por consumo envolvem apenas cannabis [@sicad2018condenacoes; @sicad2021relatorio]
+* **Menos processos administrativos nas CDT:** 75% dos processos por consumo envolviam apenas cannabis em 2021 (83% em 2018) [@icad2024anexo; @sicad2021relatorio]
 * **Menos urgências hospitalares:** hipótese (produtos testados vs. sintéticos não declarados), não demonstrada
 * **Recursos policiais libertados:** menos ocorrências por consumo remetidas às CDT (a GNR é a principal fonte de remessas [@sicad2021relatorio])
 * **Menos processos-crime por cultivo e posse** acima de 10 doses para consumo próprio (o consumo em si já não gera registo criminal desde 2001)
@@ -143,7 +143,7 @@ A política portuguesa de drogas assenta na **redução de danos** (Lei 30/2000)
 
 - **Proteger quem já consome** (os consumidores recreativos, que hoje só dispõem do mercado ilegal)
 - **Reduzir danos:** produtos testados em vez de produtos de composição desconhecida, por vezes adulterados com canabinóides sintéticos potentes [@euda2025nps]
-- **Reduzir processos administrativos:** 75% dos processos CDT envolvem apenas cannabis [@sicad2018condenacoes; @sicad2021relatorio]
+- **Reduzir processos administrativos:** 75% dos processos CDT envolviam apenas cannabis em 2021 (83% em 2018) [@icad2024anexo; @sicad2021relatorio]
 - **Controlar potência:** THC rotulado vs. produto ilegal não rotulado; a resina apreendida na UE tem em média 24,8% THC (2022) [@euda2024cannabis]
 - **Financiar prevenção e tratamento:** €20-40M/ano do Orçamento do Estado, com linha orçamental dedicada e obrigatória (não financiados por poupanças de enforcement)
 - **Retirar rendimento ao crime:** mercado ilegal estimado em 36-58 toneladas/ano [@ribeiro2024economic]

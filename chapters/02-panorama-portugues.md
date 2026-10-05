@@ -28,7 +28,7 @@ Contudo, o mercado interno permanece residual: em 2023, apenas **1.157 prescriç
 A limitada oferta de cannabis medicinal resulta de múltiplas barreiras regulatórias e económicas:
 
 * **Regulação restritiva:** Requisitos rigorosos de certificação GACP e EU-GMP
-* **Burocracia complexa:** O processo de autorização é demorado (em Abril de 2025, cerca de 150 pedidos — contados por actividade: cultivo, fabrico e comércio por grosso — tinham aptidão documental e aguardavam autorização final do Infarmed [@eco2024])
+* **Licenciamento exigente:** em Abril de 2025, cerca de 150 pedidos — 92 de cultivo, 38 de fabrico e 19 de comércio por grosso — tinham «decisão de aptidão documental»; segundo o Infarmed, a vistoria final só ocorre quando os requerentes a pedirem e cumprirem as boas práticas aplicáveis [@eco2024]
 * **Falta de incentivos:** Mercado interno pequeno (1.157 prescrições, contadas em embalagens, em 2023) [@infarmed2024] não justifica investimento em diversidade
 * **Enquadramento legal fragmentado:** O CBD encontra-se numa zona cinzenta entre o Infarmed (substância controlada) e a DGAV ("novel food" não autorizado), e o cânhamo industrial (THC\<0,3%) tem regulamentação distinta da cannabis medicinal.
 
@@ -46,7 +46,7 @@ Estas barreiras fundamentam as propostas de simplificação do acesso e de compa
 ## O mercado negro: a realidade que a proibição não elimina {#o-mercado-negro-a-realidade-que-a-proibição-não-elimina}
 Um working paper divulgado na ResearchGate estima o mercado ilegal português de cannabis recreativa em **36-58 toneladas anuais** [@ribeiro2024economic]; é um documento de trabalho não revisto por pares, usado neste documento com reserva (ver análise do gap de mercado no capítulo 08).
 
-**O problema da proibição:** Este mercado opera sem qualquer regulação — não verifica idades, não paga impostos, não oferece controlo de qualidade ou potência. A proibição não eliminou o consumo; deixou-o sem qualquer controlo.
+**O problema da proibição:** Este mercado opera sem qualquer regulação — não verifica idades, não paga impostos, não oferece controlo de qualidade ou potência. A proibição não eliminou o consumo; deixou-o sem controlo de qualidade, de idade ou de potência.
 
 **Nota sobre receitas fiscais:** O modelo de clubes sociais sem fins lucrativos proposto neste documento (inspirado na Alemanha) não visa gerar receitas fiscais significativas — os clubes cobrem apenas custos operacionais. O objectivo principal é **reduzir o mercado negro** através de acesso legal regulado, com foco em saúde pública e não em comercialização.
 
@@ -57,7 +57,7 @@ Os dados do V Inquérito Nacional (SICAD, 2022) caracterizam o consumo de cannab
 * **Consumo último ano (15-74 anos):** ~2%, ou seja, ~180.000 pessoas (179.856 na projecção do ICAD sobre a população residente) [@carapinha2024icad]
 * **Comparação europeia (15-64 anos, último ano):** 2,8% em Portugal contra uma média de 5,7% em 30 países europeus, 24.ª posição, segundo a comparação do próprio INPG 2022 com dados do OEDT [@balsa2023inpgnota]
 
-**Dado relevante:** O consumo de risco moderado/elevado em 15-34 anos, medido pelo Cannabis Abuse Screening Test (CAST), era de 1,3% em 2012 e em 2022, com um pico intermédio em 2017 [@carapinha2024icad].
+**Dado relevante:** O consumo de risco moderado/elevado em 15-34 anos, medido pelo Cannabis Abuse Screening Test (CAST), era de 1,3% em 2012 e em 2022 (1,2% em 2017); o pico de 2017 verificou-se nos indicadores de frequência (consumo nos últimos 12 meses: 5,1%, 8,0% e 4,9%) [@carapinha2024icad].
 
 ### Consumo problemático: novos dados ICAD 2025 {#consumo-problemático-novos-dados-icad-2024}
 
@@ -96,7 +96,7 @@ Estes dados reforçam a necessidade de:
 3. **Harm reduction direccionado:** Um sistema de clubes com responsável de prevenção pode identificar padrões problemáticos precocemente e referenciar para tratamento — algo que o mercado ilegal não faz
 4. **Protecção de jovens vulneráveis:** acesso aos clubes só a partir dos 18 anos, com restrições de potência e quantidade até aos 20 anos e limites mensais (parâmetros no capítulo 08), para travar a escalada de frequência (efeito a avaliar)
 
-**Contexto importante:** O consumo de risco moderado/elevado em 15-34 anos foi de 1,3% em 2012 e em 2022 [@carapinha2024icad]; o mesmo relatório mostra uma subida entre 2012 e 2017 e uma descida entre 2017 e 2022. Neste período, após os cortes orçamentais da austeridade, o IDT foi extinto e integrado no SICAD [@transform2016pt; @open2013]. A relação entre o desinvestimento e a evolução do consumo não está estabelecida. A leitura dos autores é que a regulação permitiria controlo de potência e programas de prevenção financiados de forma estável.
+**Contexto importante:** O consumo de risco moderado/elevado em 15-34 anos foi de 1,3% em 2012 e em 2022 [@carapinha2024icad]; o mesmo relatório mostra que o consumo, sobretudo o frequente, subiu entre 2012 e 2017 e desceu entre 2017 e 2022, enquanto o consumo de risco oscilou pouco. Neste período, após os cortes orçamentais da austeridade, o IDT foi extinto e integrado no SICAD [@transform2016pt; @open2013]. A relação entre o desinvestimento e a evolução do consumo não está estabelecida. A leitura dos autores é que a regulação permitiria controlo de potência e programas de prevenção financiados de forma estável.
 
 ## A descriminalização de 2001: 25 anos de resultados {#a-descriminalização-de-2001-resultados-comprovados}
 A Lei 30/2000 descriminalizou o consumo pessoal. Os indicadores em 25 anos:

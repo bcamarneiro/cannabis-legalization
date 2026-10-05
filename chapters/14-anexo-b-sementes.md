@@ -62,7 +62,7 @@ A certificação incidiria sobre a variedade e o seu potencial de THC/CBD, não 
 
 Portugal já possui:
 
-* Infra-estrutura de cultivo licenciada para cannabis medicinal, com exportações de 32.558 kg em 2024 e cerca de 150 empresas com decisão de aptidão documental a aguardar vistoria do Infarmed [@eco2024]
+* Infra-estrutura de cultivo licenciada para cannabis medicinal, com exportações de 32.558 kg em 2024 e cerca de 150 pedidos com decisão de aptidão documental, a aguardar que os requerentes peçam a vistoria do Infarmed [@eco2024]
 * Know-how técnico em genética e cultivo controlado nessas empresas
 * Regime de certificação biológica UE estabelecido
 * Clima favorável ao cultivo outdoor

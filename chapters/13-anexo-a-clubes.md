@@ -489,7 +489,7 @@ Artigo XX — Acesso a Serviços Financeiros
 
 #### 5. Parcerias com Indústria Cannabis Medicinal {#parcerias-medicinal}
 
-**Contexto:** Portugal tem dezenas de empresas licenciadas para cannabis medicinal — exportou 32.558 kg em 2024 e cerca de 150 empresas com decisão de aptidão documental aguardavam vistoria do Infarmed [@eco2024] — com infra-estrutura e know-how orientados para exportação. A existência de capacidade disponível para parcerias com clubes é um pressuposto dos autores.
+**Contexto:** Portugal tem dezenas de empresas licenciadas para cannabis medicinal — exportou 32.558 kg em 2024 e cerca de 150 pedidos tinham decisão de aptidão documental, a aguardar que os requerentes pedissem a vistoria do Infarmed [@eco2024] — com infra-estrutura e know-how orientados para exportação. A existência de capacidade disponível para parcerias com clubes é um pressuposto dos autores.
 
 **Modelo de parceria:**
 

@@ -185,10 +185,10 @@ Itália ilustra o potencial de recuperação de uma indústria histórica:
 | Hectares cultivados | 1.000 | 3.000 | 5.000 | Programa piloto e expansão (secção anterior) |
 | Palha produzida (t) | 7.000–8.000 | 21.000–24.000 | 35.000–40.000 | 7–8 t/ha de palha seca, testemunho de produtor publicado pela InterChanvre [@interchanvre2024culture] |
 | Fibra após transformação industrial (t) | ~1.200 | ~3.600 | ~6.000 | ~1,2 t de fibra/ha, pressuposto conservador dos autores, sem fonte estável |
-| Receita bruta ao agricultor (M€) | 0,6–1,2 | 1,8–3,6 | 3–6 | €600–1.200/ha pela palha e semente (tabela acima; pressuposto dos autores) |
+| Receita bruta ao agricultor (M€) | 0,6–1,2 | 1,8–3,6 | 3–6 | €600–1.200/ha (valor da linha «Fibra» da tabela acima, usado como aproximação da receita da palha; exclui a semente; pressuposto dos autores) |
 | Empregos directos | 50–100 | 150–300 | 250–500 | 1 emprego por 10–20 ha, pressuposto dos autores |
 
-*Nota: cenário ilustrativo dos autores, não uma previsão. Não inclui CBD nem valor acrescentado na transformação, que dependem de fileira industrial ainda inexistente em Portugal; o rendimento de fibra é o parâmetro menos seguro. Todos os parâmetros devem ser substituídos pelos dados dos ensaios piloto.*
+*Nota: cenário ilustrativo dos autores, não uma previsão. Não inclui a semente, o CBD nem o valor acrescentado na transformação, que dependem de fileira industrial ainda inexistente em Portugal; o rendimento de fibra é o parâmetro menos seguro. Todos os parâmetros devem ser substituídos pelos dados dos ensaios piloto.*
 
 ### Subsídios PAC Disponíveis {#subsídios-pac-disponíveis}
 

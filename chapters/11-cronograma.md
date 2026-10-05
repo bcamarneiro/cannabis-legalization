@@ -53,7 +53,7 @@ A proposta segue uma lógica pragmática: **cada fase valida a seguinte**, come�
 - Ambas as frentes podem tramitar **em paralelo** e ser aprovadas rapidamente (6-12 meses)
 - **Quick wins:** SNS co-payment, prescrição simplificada, programa piloto cânhamo 1000ha, parcerias universitárias
 
-### Fase 2 (após Fase 1 mostrar resultados): Clubes Sociais + Autocultivo Recreativo {#fase-2-após-fase-1-mostrar-resultados-clubes-sociais-autocultivo-recreativo}
+### Fase 2 (após a aprovação da Fase 1): Clubes Sociais + Autocultivo Recreativo {#fase-2-após-fase-1-mostrar-resultados-clubes-sociais-autocultivo-recreativo}
 
 **Porquê sequenciar:**
 - A Fase 1 demonstra capacidade regulatória e gera resultados tangíveis (emprego rural, acesso a doentes)
@@ -61,7 +61,7 @@ A proposta segue uma lógica pragmática: **cada fase valida a seguinte**, come�
 - Permite a quem apresente a regulação recreativa com track record de competência
 - **O que inclui:** Licenciamento nacional de clubes sociais e autocultivo para adultos (idade mínima, plantas, quantidades e THC: ver capítulo 8)
 - **Período de avaliação:** 2029-2032 — do arranque do licenciamento à avaliação formal, com 2-3 anos de dados completos sobre impacto no mercado negro, consumo juvenil e saúde pública
-- **Condição:** Fase 1 demonstra viabilidade política e resultados positivos
+- **Condição:** Fase 1 aprovada e em execução; a votação final da Fase 2 tem em conta os resultados da Fase 1 já disponíveis (os do piloto de cânhamo só existirão a partir de 2029)
 
 ### Fase 3 (condicional, se dados da Fase 2 forem positivos): Venda Comercial Regulada {#fase-3-condicional-se-dados-da-fase-2-forem-positivos-venda-comercial-regulada}
 
