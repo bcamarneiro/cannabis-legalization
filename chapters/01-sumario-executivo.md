@@ -4,6 +4,8 @@
 
 > **TL;DR (30 segundos):** Portugal exportou 32.558 kg de cannabis medicinal em 2024 mas apenas 1.157 prescrições (embalagens) foram emitidas internamente em 2023. O consumo recreativo não tem mercado legal: quem consome compra no mercado ilegal, sem controlo de qualidade. Propomos três pilares — (1) revisão cannabis medicinal com comparticipação SNS, (2) clubes sociais + autocultivo para adultos (modelo alemão 2024), (3) cânhamo industrial — implementados em três fases: Fase 1 (imediata: cânhamo + medicinal), Fase 2 (clubes + autocultivo, após resultados), Fase 3 (venda comercial, horizonte condicional). Evidência internacional sobre consumo juvenil: mista — nos EUA não se observou o aumento previsto; no Canadá a série dos 16-19 anos está acima do nível de 2018. Balanço económico: com os pressupostos dos autores (sem dados orçamentais oficiais), as poupanças de enforcement não cobrem os custos regulatórios; o modelo de clubes é um custo líquido de saúde pública de €4,5-11,8M/ano, não uma poupança (capítulo 08). **Não é modelo comercial** — é redução de danos para quem já consome.
 
+> **Origem e independência:** o documento começou em Janeiro de 2026 como trabalho no contexto do LIVRE; desde Outubro de 2026 é mantido de forma independente. Nenhum partido tem controlo editorial e todos recebem as mesmas perguntas (ver anexo E).
+
 ---
 
 ## O paradoxo português {#o-paradoxo-português}
