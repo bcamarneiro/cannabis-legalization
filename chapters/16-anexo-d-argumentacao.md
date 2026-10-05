@@ -10,7 +10,7 @@ Este manual organiza os principais contra-argumentos que enfrentarão em debate,
 2. **Responder com evidência científica e dados internacionais**
 3. **Reforçar que a proposta inclui salvaguardas** (controlo de qualidade, verificação de idade, prevenção)
 
-**Princípio orientador:** O estatuto legal parece pesar pouco na prevalência do consumo — a descriminalização portuguesa não produziu aumentos importantes [@hughes2010portugal] e, nos países que legalizaram, o consumo juvenil não disparou (ver capítulo 5) —, mas a proibição elimina a possibilidade de controlo de qualidade, de idade e de informação. A regulação permite proteger quem consome e reduzir danos sociais, mas não é isenta de riscos — e este guia deve reconhecê-los.
+**Princípio orientador:** A descriminalização portuguesa não produziu aumentos importantes do consumo [@hughes2010portugal] e, nos países que legalizaram, o consumo juvenil não disparou, embora o consumo no último ano entre maiores de 16 anos tenha subido no Canadá (22% em 2018, 26% em 2024 [@healthcanada2024]; ver capítulo 5); a proibição, por seu lado, elimina a possibilidade de controlo de qualidade, de idade e de informação. A regulação permite proteger quem consome e reduzir danos sociais, mas não é isenta de riscos — e este guia deve reconhecê-los.
 
 ## Táctica Geral de Debate {#táctica-geral-de-debate}
 
@@ -476,7 +476,7 @@ A 'normalização' que preocupa não se traduziu, até agora, numa explosão de 
 **Dados de suporte:**
 
 * Prevalência PT: 10,5% já experimentaram cannabis (15-74 anos) [@sicad2022]
-* O estatuto legal pesa pouco na prevalência do consumo (descriminalização PT sem aumentos importantes [@hughes2010portugal]; ver capítulo 5), e a proibição impede o controlo de qualidade, idade e informação
+* A descriminalização PT não produziu aumentos importantes do consumo [@hughes2010portugal]; nos países que legalizaram, a evidência sobre a prevalência é mista (ver capítulo 5); a proibição impede o controlo de qualidade, idade e informação
 * Colorado: consumo juvenil 19,7% → 12,8% (2013-2023), em linha com a descida nacional [@cdphe2024]
 * Alemanha: consumo juvenil continuou a descer (dados preliminares) [@marijuanamoment2025]
 * Canadá 16-19 anos: 36% (2018) → 37-44% nos anos seguintes, 41% em 2024 [@healthcanada2024]; frequência de consumo mais alta entre consumidores em estados legais [@coley2024; @zellers2023addiction]

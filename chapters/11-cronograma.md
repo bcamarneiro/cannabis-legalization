@@ -11,7 +11,7 @@ Para estabelecer expectativas realistas, é essencial analisar o tempo que legis
 | Fase | Período | Duração | Notas |
 | :---- | :---- | :---- | :---- |
 | Comissão para a Estratégia Nacional de Combate à Droga | Fev 1998 – Out 1998 | ~8 meses | Constituída pelo Governo Guterres a 16-2-1998 (Despacho n.º 3229/98) [@dr1998despacho3229]; relatório entregue a 2-10-1998; a Estratégia Nacional, que recomendou a descriminalização, foi aprovada pela RCM n.º 46/99 (Abr-Mai 1999) [@rcm1999estrategia] |
-| Proposta de Lei n.º 31/VIII | 1 Jun 2000 | — | Proposta do Governo PS; entrada na Assembleia da República [@parlamento2000ppl31] |
+| Proposta de Lei n.º 31/VIII | 1-6 Jun 2000 | — | Proposta do Governo PS datada de 1-6-2000; entrada na Assembleia da República a 6-6-2000 [@parlamento2000ppl31] |
 | Debate e aprovação | Jun – Out 2000 | ~4,5 meses | Votação final global a 6-7-2000 (Decreto n.º 25/VIII): a favor PS, PCP, BE e PEV; contra PSD e CDS-PP. Veto do Presidente da República (lido a 27-7-2000); depois de ouvidas as assembleias legislativas regionais, reapreciação e nova aprovação a 19-10-2000 (Decreto n.º 39/VIII, com alteração ao art. 29.º), em que o PSD tentou condicionar a entrada em vigor a um referendo nacional [@parlamento2000ppl31; @tsf2000lei] |
 | Promulgação e publicação | Nov 2000 | — | Promulgada a 14-11-2000 (Decreto n.º 39/VIII); publicada a 29-11-2000 como Lei n.º 30/2000, em vigor a 1-7-2001 (art. 29.º) [@parlamento2000ppl31; @parlamento2000lei30] |
 | Implementação | Dez 2000 – Jul 2001 | ~7 meses | Em vigor a 1-7-2001; regulamentação, formação das CDT, recursos |

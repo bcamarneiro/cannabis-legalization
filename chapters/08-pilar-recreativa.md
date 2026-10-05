@@ -848,7 +848,7 @@ Esta secção detalha três cenários para que os decisores avaliem o risco. Tod
 
 | Variável | Pessimista | Realista | Optimista | Fonte/Justificação |
 | :---- | :---- | :---- | :---- | :---- |
-| **Taxa operacional clubes** | 40% | 60% | 80% | Alemanha: 337 aprovações em 759 pedidos (44%) no fim de Outubro de 2025, 16 meses após a abertura [@bcav2025]; pressuposto |
+| **Taxa operacional clubes** | 40% | 60% | 80% | Alemanha: 337 aprovações em 759 pedidos (44%) em Outubro de 2025 (dados dos Länder até 8 de Outubro), cerca de 15 meses após a abertura [@bcav2025]; pressuposto |
 | **Clubes operacionais** (de 46) | 18 | 28 | 37 | 46 × taxa |
 | **Membros por clube** (média) | 250 | 350 | 450 | Máximo legal 500; pressuposto |
 | **Total membros clubes** | 4.500 | 9.800 | 16.650 | Clubes × membros |
@@ -994,13 +994,13 @@ Todos os valores acima baseiam-se **exclusivamente no modelo de clubes** sem ven
 
 **Referência inicial — Alemanha:**
 
-No fim de Outubro de 2025 a Alemanha tinha 337 associações de cultivo aprovadas, em 759 pedidos (44%), para ~84 milhões de habitantes = 1 associação por ~250.000 habitantes [@bcav2025]; a 1 de Outubro de 2026 eram 494, em 916 pedidos (1 por ~170.000) [@bcav2026]. Este rácio é um instantâneo de um processo administrativo lento (o número continuava a crescer em 2026), não uma medida de procura; usamo-lo apenas como referência inicial.
+Em Outubro de 2025 (dados dos Länder até 8 de Outubro) a Alemanha tinha 337 associações de cultivo aprovadas, em 759 pedidos (44%), para ~84 milhões de habitantes = 1 associação por ~250.000 habitantes [@bcav2025]; a 1 de Outubro de 2026 eram 494, em 916 pedidos (1 por ~170.000) [@bcav2026]. Este rácio é um instantâneo de um processo administrativo lento (o número continuava a crescer em 2026), não uma medida de procura; usamo-lo apenas como referência inicial.
 
 **Aplicação a Portugal:**
 
 População residente em Portugal (31 de Dezembro de 2024): **10.749.635 habitantes** [@ine2024pop]
 
-**Ponto de partida:** **46 clubes** a nível nacional (pressuposto dos autores), dentro do intervalo dado pelo rácio alemão aplicado a Portugal: cerca de 43 clubes com os dados do fim de Outubro de 2025 (10.749.635 / 249.258) e cerca de 63 com os de Outubro de 2026 (10.749.635 / 170.040). A procura efectiva pode exigir mais (ver análise do gap de mercado).
+**Ponto de partida:** **46 clubes** a nível nacional (pressuposto dos autores), dentro do intervalo dado pelo rácio alemão aplicado a Portugal: cerca de 43 clubes com os dados de Outubro de 2025 (10.749.635 / 249.258) e cerca de 63 com os de Outubro de 2026 (10.749.635 / 170.040). A procura efectiva pode exigir mais (ver análise do gap de mercado).
 
 ##### Distribuição Geográfica Proposta (Escala Completa)
 
@@ -1087,7 +1087,7 @@ Assumindo 46 clubes × 400 membros activos médios = **18.400 utilizadores** (ne
 1. **Clubes directos:** 10,2% (18.400 membros activos / 180.000 consumidores); máximo 12,8% com lotação plena
 2. **Autocultivo (3 plantas):** 5.000 a 30.000 pessoas conforme cenário (2,8% a 16,7% dos consumidores) — **sem dados comparáveis fiáveis**; no Uruguai, 10.392 autocultivadores registados [@ircca2025resumen] correspondem a cerca de 4% dos ~250.000 consumidores
 3. **Partilha no agregado familiar:** Membros podem partilhar com o círculo próximo — pressuposto não quantificado nem comprovado; não entra nos cálculos
-4. **Preço:** No modelo de custos do Anexo A (pressupostos dos autores), o custo por grama dos clubes, com testes e prevenção incluídos, é de €2,40-4,80 se cada membro consumir em média 15-30 g/mês, abaixo do preço médio do mercado ilegal (€5,33/g em 2023 [@icad2024anexo]); com consumos médios menores, menos membros ou custos no limite alto, aproxima-se dele ou ultrapassa-o — é esse o risco para a viabilidade dos clubes
+4. **Preço:** No modelo de custos do Anexo A (pressupostos dos autores), o custo por grama dos clubes, com testes e prevenção incluídos, é de €2,40-4,80 se cada membro consumir em média 15-30 g/mês; com o IVA de 23% sobre as entregas de cannabis (cenário base do capítulo 4), o preço pago pode chegar a €2,95-5,90, contra €5,33/g em média no mercado ilegal em 2023 [@icad2024anexo]. Com consumos médios menores, menos membros ou custos no limite alto, aproxima-se do preço ilegal ou ultrapassa-o — é esse o risco para a viabilidade dos clubes
 
 **Incerteza:**
 
@@ -1109,6 +1109,6 @@ Assumindo 46 clubes × 400 membros activos médios = **18.400 utilizadores** (ne
 - Estigma residual: o registo em base de dados pode dissuadir consumidores
 - Capacidade produtiva: 46 clubes não têm escala para mais de 12,8% dos consumidores
 - Qualidade: clubes novos podem não ter experiência de cultivo imediata
-- Preço: o custo de €2,40-4,80/g do Anexo A só fica abaixo dos ~€5,3/g do mercado ilegal se o consumo médio e a adesão corresponderem aos pressupostos
+- Preço: o custo de €2,40-4,80/g sem IVA do Anexo A (até €2,95-5,90 com IVA) só fica abaixo dos ~€5,3/g do mercado ilegal se o consumo médio e a adesão corresponderem aos pressupostos
 
 **Conclusão:** A captura de 5-26% do mercado ilegal é o intervalo plausível com 46 clubes; valores superiores exigiriam mais clubes ou adesão massiva ao autocultivo. O período de avaliação do modelo de clubes (2029-2032, ver capítulo 11) é o mecanismo para testar esta premissa antes de decidir sobre expansão comercial. Se os dados mostrarem captura inferior a 5%, a estratégia deve ser reavaliada.

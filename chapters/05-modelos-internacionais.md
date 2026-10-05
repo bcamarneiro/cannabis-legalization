@@ -59,9 +59,9 @@ Na lei alemã chamam-se *Anbauvereinigungen* (associações de cultivo) [@kcang2
 ### Estado actual da implementação (Outubro 2026) {#estado-actual-da-implementação-janeiro-2026}
 | Indicador | Valor |
 | :---- | :---- |
-| Candidaturas submetidas | 759 (fim de Out 2025) [@bcav2025]; 916 (1 Out 2026) [@bcav2026] |
-| Candidaturas rejeitadas | 42 (Nov 2025) [@bcav2025] |
-| Licenças emitidas | 337 (fim de Out 2025) [@bcav2025]; 494 de 916 candidaturas a 1 Out 2026 (dados de alguns Länder de Jul-Set 2026) [@bcav2026] |
+| Candidaturas submetidas | 759 (Out 2025) [@bcav2025]; 916 (1 Out 2026) [@bcav2026] |
+| Candidaturas rejeitadas | 33 (Out 2025) [@bcav2025]; 94 (1 Out 2026) [@bcav2026] |
+| Licenças emitidas | 337 (Out 2025) [@bcav2025]; 494 de 916 candidaturas a 1 Out 2026 (dados de alguns Länder de Jul-Set 2026) [@bcav2026] |
 | Clubes a distribuir cannabis | Sem contagem oficial; a BCAv não publica este dado [@bcav2026] |
 | Primeiro clube a distribuir | Ganderkesee, Baixa Saxónia (2 Nov 2024) [@zdf2024ganderkesee] |
 
@@ -97,7 +97,7 @@ Na lei alemã chamam-se *Anbauvereinigungen* (associações de cultivo) [@kcang2
 
 ### Análise Crítica: implementação lenta dos clubes alemães — causas e mitigações para Portugal {#alemanha-taxa-operacional}
 
-**Contexto numérico:** No fim de Outubro de 2025 havia 337 licenças emitidas para 759 candidaturas [@bcav2025]; em Outubro de 2026, 494 para 916 [@bcav2026]. Não existe contagem oficial dos clubes que já distribuem cannabis aos membros — a BCAv publica apenas candidaturas, licenças, recusas e desistências [@bcav2026]. O que se sabe sobre a distribuição efectiva vem de um inquérito populacional (Nov 2024-Jan 2025): a procura continuava maioritariamente satisfeita por fontes ilegais [@manthey2025germany], e o relatório intercalar oficial conclui que as associações de cultivo ainda não contribuem de forma relevante para deslocar o mercado negro [@ekocan2025]. Três factores de calendário ajudam a ler estes valores:
+**Contexto numérico:** Na contagem da BCAv arquivada a 30 de Outubro de 2025 (respostas dos Länder entre 30 de Julho e 8 de Outubro) havia 337 licenças emitidas para 759 candidaturas [@bcav2025]; em Outubro de 2026, 494 para 916 [@bcav2026]. Não existe contagem oficial dos clubes que já distribuem cannabis aos membros — a BCAv publica apenas candidaturas, licenças, recusas e desistências [@bcav2026]. O que se sabe sobre a distribuição efectiva vem de um inquérito populacional (Nov 2024-Jan 2025): a procura continuava maioritariamente satisfeita por fontes ilegais [@manthey2025germany], e o relatório intercalar oficial conclui que as associações de cultivo ainda não contribuem de forma relevante para deslocar o mercado negro [@ekocan2025]. Três factores de calendário ajudam a ler estes valores:
 
 * O primeiro clube alemão só distribuiu cannabis a **2 de Novembro de 2024** [@zdf2024ganderkesee]
 * Cultivo indoor demora **3-5 meses** desde semente até colheita (estimativa dos autores)
@@ -107,7 +107,7 @@ Na lei alemã chamam-se *Anbauvereinigungen* (associações de cultivo) [@kcang2
 
 | Problema identificado | Impacto | Fonte |
 | :---- | :---- | :---- |
-| **Sem apoio financeiro estatal** | A lei impõe o princípio de cobertura de custos: os clubes financiam-se exclusivamente pelas quotas dos membros, o que dificulta o arranque (cultivo, instalações, segurança) | KCanG §24 (quotas fixadas nos estatutos) [@kcang2024] |
+| **Sem apoio financeiro estatal** | A lei não prevê apoio público e proíbe o patrocínio dos clubes; os custos são cobertos, em princípio, pelas quotas dos membros fixadas nos estatutos, o que dificulta o arranque (cultivo, instalações, segurança) | KCanG §§6 e 24 [@kcang2024] |
 | **Licenciamento a cargo dos Länder** | Autoridades e ritmos diferentes em cada Land; dispersão visível nas estatísticas de licenças por Land | [@bcav2026] |
 | **Bloqueio político regional** (Baviera) | 44 pedidos, 8 licenças, nenhum clube com local de cultivo atribuído à data da fonte; restrições de zonamento | [@businesscannabis2025b] |
 | **Cultivo indoor** (clima continental) | Dependência de cultivo interior durante todo o ano, com custos de energia mais elevados (pressuposto dos autores; sem comparação de preços verificada) | — |
@@ -129,7 +129,7 @@ As medidas seguintes visam mitigar as dificuldades alemãs; a sua eficácia ter�
 
 **Cenário para Portugal — análise de sensibilidade (cenários ilustrativos):**
 
-Os parâmetros seguintes são pressupostos dos autores (os mesmos da [análise de sensibilidade](#sensitivity-roi) do capítulo 8): 46 clubes licenciados na primeira vaga e 250-450 membros por clube activo. A única referência externa é a taxa de aprovação alemã — 337 licenças em 759 pedidos (44%) 16 meses após a abertura [@bcav2025] —, que mede licenciamento, não clubes a operar.
+Os parâmetros seguintes são pressupostos dos autores (os mesmos da [análise de sensibilidade](#sensitivity-roi) do capítulo 8): 46 clubes licenciados na primeira vaga e 250-450 membros por clube activo. A única referência externa é a taxa de aprovação alemã — 337 licenças em 759 pedidos (44%) cerca de 15 meses após a abertura [@bcav2025] —, que mede licenciamento, não clubes a operar.
 
 | Cenário | Taxa operacional (pressuposto) | Clubes activos (de 46) | Membros servidos | Captura (com autocultivo, de ~180.000 consumidores) |
 | :---- | :---- | :---- | :---- | :---- |

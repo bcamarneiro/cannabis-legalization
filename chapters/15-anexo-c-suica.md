@@ -143,7 +143,7 @@ O anteprojecto não fixa, no comunicado, taxas de imposto nem número de plantas
 | **Autocultivo** | Não permitido nos pilotos; previsto no anteprojecto CanPG | Permitido desde o início (3 plantas) |
 | **Venda comercial** | Anteprojecto CanPG prevê venda sem fins lucrativos | Condicional, Fase 3 (depende de dados e de coordenação UE) |
 | **Qualidade produto** | Produção suíça controlada, rastreabilidade, THC ≤20% | Laboratórios ISO 17025, testes obrigatórios |
-| **Preço** | Orientado pelo preço do mercado ilegal local, por regra | €2,40-4,80/g no modelo de custos do Anexo A (recuperação de custos; depende do consumo médio) |
+| **Preço** | Orientado pelo preço do mercado ilegal local, por regra | €2,40-4,80/g sem IVA no modelo de custos do Anexo A (recuperação de custos; depende do consumo médio) |
 | **Tributação** | IVA 8,1%; sem imposto do tabaco; taxa de orientação proposta no CanPG | Sem impostos específicos na Fase 2; IVA: quotas estatutárias isentas (art. 9.º, n.º 19, CIVA) e entregas de cannabis a 23% (ver cap. 4) |
 | **Coordenação federal** | BAG autoriza e supervisiona; análise comparativa independente | SICAD supervisão, INFARMED licenciamento |
 | **Duração avaliação** | 5 anos por ensaio, prorrogáveis uma vez até 2 anos | Fase de clubes = fase de avaliação (2029-2032; ver cap. 11) |
@@ -177,7 +177,7 @@ Comparar resultados no período de avaliação (2029-2032) para informar a expan
 
 **Suíça:** os preços são fixados ao nível do mercado ilegal local por imposição regulamentar [@bagfaq2025pilots]. Mesmo assim, a maioria dos participantes passou a abastecer-se sobretudo no canal legal — por segurança e fiabilidade do produto — mas o preço mais baixo do mercado ilegal (descontos de quantidade) é a principal razão para a parte residual de compras ilegais, sobretudo entre consumidores diários [@bag2025pilotversuche].
 
-**Portugal:** preço do mercado ilegal €5,33/g (média de 2023) [@icad2024anexo]; o modelo de custos do Anexo A dá €2,40-4,80/g em recuperação de custos, se o consumo médio por membro for de 15-30 g/mês. A vantagem de preço não está garantida: depende dos custos reais de conformidade (laboratórios, pessoal, instalações) e do consumo efectivo dos membros. **Lição:** monitorizar os custos dos clubes licenciados e exigir transparência de preços e custos; um preço de referência indicativo (não vinculativo) publicado pelo SICAD permite acompanhamento sem rigidez. A qualidade testada, e não só o preço, é um motivo de adesão documentado na Suíça.
+**Portugal:** preço do mercado ilegal €5,33/g (média de 2023) [@icad2024anexo]; o modelo de custos do Anexo A dá €2,40-4,80/g sem IVA em recuperação de custos, se o consumo médio por membro for de 15-30 g/mês. A vantagem de preço não está garantida: depende dos custos reais de conformidade (laboratórios, pessoal, instalações) e do consumo efectivo dos membros. **Lição:** monitorizar os custos dos clubes licenciados e exigir transparência de preços e custos; um preço de referência indicativo (não vinculativo) publicado pelo SICAD permite acompanhamento sem rigidez. A qualidade testada, e não só o preço, é um motivo de adesão documentado na Suíça.
 
 ### 4. Desvio para o mercado ilegal: não referido, não medido {#zero-leakage-é-possível-mas-requer-enforcement-inteligente}
 

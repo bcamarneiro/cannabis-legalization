@@ -178,7 +178,7 @@ O processo de licenciamento é conduzido pelas autoridades de cada Land (estado 
 * Plano de protecção de menores e saúde pública
 * Verificação de localização (200m de escolas)
 
-**Estado actual (contagem da BCAv com respostas das autoridades dos Länder datadas entre 25 de Julho e 1 de Outubro de 2026):** 916 candidaturas submetidas e 494 licenças aprovadas a nível nacional [@bcav2026]; no fim de Outubro de 2025 eram 759 candidaturas e 337 licenças (captura de arquivo da mesma página) [@bcav2025]. São licenças aprovadas: o número de clubes efectivamente a distribuir é inferior e não é publicado oficialmente.
+**Estado actual (contagem da BCAv com respostas das autoridades dos Länder datadas entre 25 de Julho e 1 de Outubro de 2026):** 916 candidaturas submetidas e 494 licenças aprovadas a nível nacional [@bcav2026]; em Outubro de 2025 (respostas dos Länder até 8 de Outubro; captura de arquivo de 30-10-2025 da mesma página) eram 759 candidaturas e 337 licenças [@bcav2025]. São licenças aprovadas: o número de clubes efectivamente a distribuir é inferior e não é publicado oficialmente.
 
 ## Modelo de Custos — Exemplo Real {#modelo-de-custos-exemplo-real}
 
@@ -270,10 +270,10 @@ Nota: Rácio pessoal-membros conservador (1:66-111), garantindo atendimento pers
 
 #### Opção 2: Pagamento por Grama Consumido (cost-recovery puro)
 
-* **Preço/grama:** conforme custos reais do clube, sem tecto rígido (≈ €2,40-4,80 no exemplo abaixo)
+* **Preço/grama:** conforme custos reais do clube, sem tecto rígido (≈ €1,40-3,45 sem IVA no exemplo abaixo; ≈ €2,40-4,80 sem IVA se não houver quota base)
 * **Quota base:** €20 - €30/mês (administrativa, cobrir fixos)
 * **Cálculo:** Custos totais / produção anual estimada
-* **Exemplo:** €344.000 de custos / 72.000-144.000 g de produção (400 membros × 15-30 g/mês) ≈ €2,40-4,80/grama
+* **Exemplo:** (€344.000 de custos − €96.000-144.000 de quotas base) / 72.000-144.000 g de produção (400 membros × 15-30 g/mês) ≈ €1,40-3,45/grama; sem quota base, ≈ €2,40-4,80/grama
 * **Vantagens:**
   - Transparência absoluta (preço = custo)
   - Flexibilidade para consumidores ocasionais
@@ -287,17 +287,17 @@ Nota: Rácio pessoal-membros conservador (1:66-111), garantindo atendimento pers
 * **Exemplo consumidor médio (20g/mês):**
   - Quota: €30
   - Cannabis: 20g × €2,10 ≈ €42
-  - **Total: ≈ €72/mês** (igual à quota necessária de um clube de 400 membros), abaixo do mercado ilegal (20 g a €5,33/g ≈ €107 [@icad2024anexo]); a vantagem do clube está também na qualidade testada e na segurança jurídica
+  - **Total: ≈ €72/mês sem IVA** (igual à quota necessária de um clube de 400 membros); com o IVA de 23% sobre a parte paga por grama (cenário base do capítulo 4), até ≈ €82/mês — ainda abaixo do mercado ilegal (20 g a €5,33/g ≈ €107 [@icad2024anexo]); a vantagem do clube está também na qualidade testada e na segurança jurídica
 
 ### Comparação Preços: Clube vs Mercado Negro vs Comercial {#comparação-preços-clube-vs-mercado-negro-vs-comercial}
 
 | Modelo | Preço/grama | Finalidade lucro |
 | :---- | :---- | :---- |
 | **Mercado ilegal PT** | €5,33 (média de 2023) [@icad2024anexo] | Lucro, sem custos de conformidade nem controlo de qualidade |
-| **Clube social (proposta PT)** | €1,95 - €5,66 no modelo de custos deste anexo (400 membros, 15-30 g/mês por membro; €2,40-4,80 no ponto médio); mais alto se o consumo médio for menor (estimativa dos autores) | Recuperação de custos, sem fins lucrativos, preços transparentes |
+| **Clube social (proposta PT)** | €1,95 - €5,66, sem IVA, no modelo de custos deste anexo (400 membros, 15-30 g/mês por membro; €2,40-4,80 no ponto médio); mais alto se o consumo médio for menor (estimativa dos autores) | Recuperação de custos, sem fins lucrativos, preços transparentes |
 | **Farmácia PT (medicinal)** | ~€10/g (€150 por 15 g, preço legal Tilray) [@euronews2024] | Medicinal, prescrição obrigatória |
 
-**Vantagem competitiva dos clubes:** no modelo de custos deste anexo, o custo por grama (€2,40-4,80 no ponto médio) fica abaixo do preço do mercado ilegal (€5,33/g em 2023 [@icad2024anexo]) se o consumo médio por membro for de 15-30 g/mês; com consumos menores ou custos no limite alto aproxima-se dele ou ultrapassa-o. A experiência suíça mostra que a fiabilidade do produto atrai utilizadores mesmo a preços iguais aos do mercado ilegal, mas que o preço (descontos de quantidade) é a principal razão para compras ilegais residuais [@bag2025pilotversuche]. O argumento para os clubes é a qualidade testada e a redução de riscos; a vantagem de preço depende do consumo médio efectivo dos membros.
+**Vantagem competitiva dos clubes:** no modelo de custos deste anexo, o custo por grama (€2,40-4,80 no ponto médio, sem IVA) fica abaixo do preço do mercado ilegal (€5,33/g em 2023 [@icad2024anexo]) se o consumo médio por membro for de 15-30 g/mês; com o IVA de 23% sobre as entregas (cenário base do capítulo 4), pode chegar a €2,95-5,90/g e, com consumos menores ou custos no limite alto, aproxima-se do preço ilegal ou ultrapassa-o. A experiência suíça mostra que a fiabilidade do produto atrai utilizadores mesmo a preços iguais aos do mercado ilegal, mas que o preço (descontos de quantidade) é a principal razão para compras ilegais residuais [@bag2025pilotversuche]. O argumento para os clubes é a qualidade testada e a redução de riscos; a vantagem de preço depende do consumo médio efectivo dos membros.
 
 ### Viabilidade Económica: Ponto de Equilíbrio {#viabilidade-económica-ponto-de-equilíbrio}
 
@@ -348,7 +348,7 @@ Nota: Rácio pessoal-membros conservador (1:66-111), garantindo atendimento pers
 | :---- | :---- | :---- | :---- |
 | **Uruguai** (desde 2014) | ~460 registados em 2024; 557 no fim de 2025 (máx. 45 sócios e 99 plantas em floração cada) | Nenhum | [@ircca2025resumen; @elplanteo2025uruguay] |
 | **Espanha** (não regulada) | 212 só em Barcelona (Jul 2024); não há contagem nacional oficial | Nenhum | [@ara2024barcelona] |
-| **Alemanha** (2024-2026) | 337 licenças aprovadas em 759 pedidos (fim de Out 2025); 494 em 916 (Out 2026); nº a operar não publicado | Nenhum | [@bcav2025; @bcav2026] |
+| **Alemanha** (2024-2026) | 337 licenças aprovadas em 759 pedidos (Out 2025); 494 em 916 (Out 2026); nº a operar não publicado | Nenhum | [@bcav2025; @bcav2026] |
 | **Portugal** (proposta) | 46 (projecção) | €50-100k/clube | Este documento |
 
 Não há dados publicados sobre taxas de sobrevivência ou estrutura de financiamento destes clubes.
