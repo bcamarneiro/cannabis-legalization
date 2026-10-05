@@ -10,7 +10,7 @@ Este manual organiza os principais contra-argumentos que enfrentarão em debate,
 2. **Responder com evidência científica e dados internacionais**
 3. **Reforçar que a proposta inclui salvaguardas** (controlo de qualidade, verificação de idade, prevenção)
 
-**Princípio orientador:** A proibição reduz pouco o consumo (ver capítulo 5 e [@hughes2010portugal]) e elimina a possibilidade de controlo de qualidade, de idade e de informação. A regulação permite proteger quem consome e reduzir danos sociais, mas não é isenta de riscos — e este guia deve reconhecê-los.
+**Princípio orientador:** O estatuto legal parece pesar pouco na prevalência do consumo — a descriminalização portuguesa não produziu aumentos importantes [@hughes2010portugal] e, nos países que legalizaram, o consumo juvenil não disparou (ver capítulo 5) —, mas a proibição elimina a possibilidade de controlo de qualidade, de idade e de informação. A regulação permite proteger quem consome e reduzir danos sociais, mas não é isenta de riscos — e este guia deve reconhecê-los.
 
 ## Táctica Geral de Debate {#táctica-geral-de-debate}
 
@@ -115,7 +115,7 @@ Em Portugal, cerca de 10% da população (15-74 anos) já experimentou cannabis 
 **O problema português — Lei 33/2018 extremamente restritiva:**
 
 * Em 2023, Portugal **exportou 99,85% das quantidades vendidas**: 11.973 kg exportados vs. apenas **17 kg vendidos localmente** [@cannabislaw2024export; @cannabisesaude2024portugal; @infarmed2024]
-* **32.558 kg exportados em 2024** (aumento de 172%) — um dos maiores exportadores mundiais, apontado pelo Infarmed e pela imprensa especializada como 2.º, sem ranking internacional oficial [@eco2024; @cannareporter2024]
+* **32.558 kg exportados em 2024** (aumento de 172%) — um dos maiores exportadores mundiais, apontado pela imprensa especializada, a partir dos dados de exportação publicados pelo Infarmed, como 2.º a seguir ao Canadá; não existe um ranking internacional oficial [@eco2024; @cannareporter2024; @infarmed2024]
 * Apenas **1.157 embalagens de produtos autorizados em 2023** [@infarmed2024]
 * **Custo elevado:** ~€150 por 15 g, **sem comparticipação** [@euronews2024]
 * Prescrição **só após falha de tratamentos convencionais** [@lei332018]
@@ -139,7 +139,7 @@ Em Portugal, cerca de 10% da população (15-74 anos) já experimentou cannabis 
 
 **Resposta curta (30s):**
 
-"Pode haver poupanças, mas não estão quantificadas: a evidência de que a cannabis reduz o uso de opiáceos é mista [@campbell2018lancet], e o risco de morte por toxicidade directa é negligenciável [@rock2022deaths]. Por isso propomos comparticipação selectiva, avaliação económica prévia e limite orçamental anual. A questão não é se as pessoas vão usar — é se usam produto regulado com acompanhamento médico, ou continuam no mercado negro."
+"Pode haver poupanças, mas não estão quantificadas: a evidência de que a cannabis reduz o uso de opiáceos é mista — estudos observacionais com resultados contraditórios e uma coorte prospectiva sem efeito poupador [@bradford2018opioids; @shover2019opioids; @campbell2018lancet] —, e o risco de morte por toxicidade directa é negligenciável [@rock2022deaths]. Por isso propomos comparticipação selectiva, avaliação económica prévia e limite orçamental anual. A questão não é se as pessoas vão usar — é se usam produto regulado com acompanhamento médico, ou continuam no mercado negro."
 
 **Resposta desenvolvida (2min):**
 
@@ -171,7 +171,7 @@ A comparticipação tem de ser selectiva por uma razão simples de escala:
 
 * **Prevalência dor crónica em Portugal:** **37% da população adulta** (36,7%; inquérito de 2007-2008) [@azevedo2012chronic]
 * **Custo por doente:** da ordem de algumas centenas de euros por mês (pressuposto ilustrativo dos autores, sem fonte de preço; os €150 por 15 g da flor Tilray em farmácia [@euronews2024] dão a ordem de grandeza)
-* **Ordem de grandeza:** comparticipar todos os adultos com dor crónica custaria, por hipótese extrema e não realista, um valor da ordem do orçamento da saúde (37% de ~8,6 milhões de adultos ≈ 3,2 milhões de doentes × €300/mês × 12 ≈ €11 mil milhões/ano, contra €17,3 mil milhões de orçamento da saúde em 2026 [@publico2025oe2026]). Ninguém propõe esse cenário; serve apenas para mostrar porque é que a comparticipação tem de ter critérios clínicos
+* **Ordem de grandeza:** comparticipar todos os adultos com dor crónica custaria, por hipótese extrema e não realista, um valor da ordem do orçamento da saúde (37% de ~9 milhões de adultos ≈ 3,3 milhões de doentes × €300/mês × 12 ≈ €12 mil milhões/ano, contra €17,3 mil milhões de orçamento da saúde em 2026 [@ine2024pop; @publico2025oe2026]). Ninguém propõe esse cenário; serve apenas para mostrar porque é que a comparticipação tem de ter critérios clínicos
 * **Conclusão:** A comparticipação só é sustentável se for selectiva e com limite orçamental anual
 
 **Por isso, a proposta é estratificada:**
@@ -285,7 +285,7 @@ Quarto ponto sobre enforcement: seguimos a lógica da produção doméstica de v
 
 **Resposta desenvolvida (2min):**
 
-"Compreendo a preocupação, e é por isso que a nossa proposta aborda directamente esse ponto. Propomos que o autocultivo seja permitido apenas com sementes de fornecedores autorizados (medida portuguesa, distinta da regra alemã). A genética da variedade condiciona o teor máximo de THC, mas as condições de cultivo influenciam o resultado final; o sistema de sementes certificadas (Anexo B) certifica a variedade e dá informação sobre o potencial da planta, não um teor garantido. A analogia com sementes certificadas de tomate ou trigo é imperfeita: nessas culturas certifica-se a variedade e a sanidade, não o teor de um metabolito secundário. Nenhuma jurisdição certifica um 'THC máximo' por semente.
+"Compreendo a preocupação, e é por isso que a nossa proposta aborda directamente esse ponto. Propomos que o autocultivo seja permitido apenas com sementes de fornecedores autorizados (medida portuguesa, distinta da regra alemã). A genética da variedade condiciona o teor máximo de THC, mas as condições de cultivo influenciam o resultado final; o sistema de sementes certificadas (Anexo B) certifica a variedade e dá informação sobre o potencial da planta, não um teor garantido. A analogia com sementes certificadas de tomate ou trigo é imperfeita: nessas culturas certifica-se a variedade e a sanidade, não o teor de um metabolito secundário. Não conhecemos jurisdição de uso adulto que certifique um 'THC máximo' por semente; o precedente mais próximo é o cânhamo industrial, cuja semente certificada na UE tem de provir de variedades do catálogo comum com teor de THC não superior a 0,3% (ver Anexo B).
 
 Além disso, na Alemanha, onde o autocultivo é permitido (sem este sistema de sementes), o consumo juvenil continuou a descer após a legalização [@marijuanamoment2025]. Não há indicação, nestes dados preliminares, de que o autocultivo agrave os problemas.
 
@@ -294,7 +294,7 @@ Por fim, há três cenários a comparar, não dois: a proibição actual, em que
 **Dados de suporte:**
 
 * Alemanha: sementes importáveis da UE ou cedidas por associações de cultivo (até 7 sementes/5 estacas por mês a não membros), sem certificação oficial de THC máximo [@bundesministerium2024]; a exigência de fornecedor autorizado é proposta portuguesa
-* Genética condiciona o potencial de THC; cultivo, maturação e colheita influenciam o teor final (nenhuma jurisdição certifica um "THC máximo" por semente; o Anexo B certifica variedade e potencial)
+* Genética condiciona o potencial de THC; cultivo, maturação e colheita influenciam o teor final (não conhecemos jurisdição de uso adulto que certifique um "THC máximo" por semente; no cânhamo industrial a UE só certifica semente de variedades com THC ≤0,3%; o Anexo B certifica variedade e potencial)
 * Alemanha: autocultivo permitido, consumo juvenil continuou a descer (dados preliminares) [@marijuanamoment2025]
 * Comparação: sementes certificadas (potencial de THC conhecido) vs. mercado negro (potência desconhecida, possível adulteração)
 * Portugal: pequenos produtores de vinho (<1.000 hl/ano) dispensados de controlo de produção e circulação pelo CIEC, art. 81.º [@ciec2010]; fiscalização reactiva (ver capítulo 8)
@@ -304,11 +304,11 @@ Por fim, há três cenários a comparar, não dois: a proibição actual, em que
 
 **Resposta curta (30s):**
 
-"No Canadá, a fonte legal passou de 37% (2019) para 72% (2024) dos consumidores, e os que indicam uma fonte habitual ilegal caíram de 28% (2018) para 3% [@healthcanada2024]; medido em despesa, cerca de 22% (2022) a 30% (2024) do mercado continua não licenciado [@hammond2025; @statcan2025cannabis]. Na Alemanha, o relatório intercalar oficial diz que, aos 18 meses, a lei ainda não deslocou significativamente o mercado negro [@marijuanamoment2025]. A evidência canadiana é consistente; a alemã é preliminar e, para já, não confirma."
+"No Canadá, a fonte legal passou de 37% (2019) para 72% (2024) dos consumidores, e os que indicam uma fonte habitual ilegal caíram de 28% (2018) para 3% [@healthcanada2024]; medido em despesa, a parte não licenciada era de cerca de 22% nos 12 meses até Setembro de 2022, numa estimativa do lado da procura [@hammond2025], e de cerca de 30% em 2024 nas contas nacionais, que para 2022 davam ~36% [@statcan2025cannabis]; são métodos diferentes, que não formam uma série. Na Alemanha, o relatório intercalar oficial diz que, aos 18 meses, a lei ainda não deslocou significativamente o mercado negro [@marijuanamoment2025]. A evidência canadiana é consistente; a alemã é preliminar e, para já, não confirma."
 
 **Resposta desenvolvida (2min):**
 
-"Permita-me discordar em parte. A evidência existe, mas é desigual. No Canadá, em 2019 (primeiro ano após a legalização), 37% dos consumidores usavam fontes legais. Segundo o Canadian Cannabis Survey de 2024, **72% dos consumidores compram em canais legais** e só 3% indicam uma fonte habitual ilegal [@healthcanada2024]. Medido em despesa, porém, cerca de 22% (12 meses até Setembro de 2022) a 30% (2024) do mercado continua não licenciado [@hammond2025; @statcan2025cannabis]: a deslocação é grande, não total.
+"Permita-me discordar em parte. A evidência existe, mas é desigual. No Canadá, em 2019 (primeiro ano após a legalização), 37% dos consumidores usavam fontes legais. Segundo o Canadian Cannabis Survey de 2024, **72% dos consumidores compram em canais legais** e só 3% indicam uma fonte habitual ilegal [@healthcanada2024]. Medido em despesa, porém, uma parte relevante do mercado continua não licenciada — cerca de 22% nos 12 meses até Setembro de 2022 na estimativa de Hammond et al. [@hammond2025]; nas contas nacionais, ~36% em 2022 e ~30% em 2024 [@statcan2025cannabis]: a deslocação é grande, não total.
 
 Na Alemanha, o relatório intercalar oficial encomendado pelo Ministério da Saúde (Setembro de 2025) conclui que a lei 'ainda não deu um contributo significativo para a deslocação do mercado negro' pretendida pelo legislador [@marijuanamoment2025]; o Ministério do Interior diz o mesmo [@businesscannabis2025a]. No Uruguai, dez anos depois, cerca de 46% dos consumidores actuais estão registados no sistema legal (Observatório Uruguaio de Drogas, 2024, citado pelo IRCCA) e a maioria continua a comprar fora do circuito legal [@ircca2025resumen; @talkingdrugs2024]. Ou seja: o mercado legal pode absorver uma parte substancial da procura, mas depende do desenho (preço, acesso, oferta) e leva anos.
 
@@ -319,7 +319,7 @@ Posso concordar que devemos investir mais em prevenção e tratamento — é por
 **Dados de suporte:**
 
 * Canadá fonte legal: 37% (2019) → 72% (2024) (Health Canada) [@healthcanada2024]
-* Canadá, consumidores com fonte habitual ilegal: 28% (2018) → 3% (2024) [@healthcanada2024]; em despesa, ~22% (2022) a ~30% (2024) do mercado ainda não licenciado (métrica diferente) [@hammond2025; @statcan2025cannabis]
+* Canadá, consumidores com fonte habitual ilegal: 28% (2018) → 3% (2024) [@healthcanada2024]; em despesa (métrica diferente), ~22% não licenciado nos 12 meses até Set. 2022 (estimativa do lado da procura) [@hammond2025]; contas nacionais: ~36% (2022) → ~30% (2024) [@statcan2025cannabis]
 * Uruguai: ~46% dos consumidores actuais registados dez anos após a lei; a maioria continua a comprar fora do circuito legal [@ircca2025resumen; @talkingdrugs2024]
 * Alemanha: relatório intercalar oficial — deslocação do mercado negro "ainda não significativa" aos 18 meses [@marijuanamoment2025]; Ministério do Interior sem evidência de redução [@businesscannabis2025a]
 * Alemanha (Baviera): crimes de cannabis -56% em 2024 por descriminalização de condutas de consumo; ~100.000 processos evitados (valor reportado, contestado) — poupança de enforcement, não medida de tráfico [@businesscannabis2025a]
@@ -336,7 +336,7 @@ Posso concordar que devemos investir mais em prevenção e tratamento — é por
 "A condução sob influência de cannabis é uma preocupação séria que levamos a sério. A nossa proposta inclui salvaguardas rigorosas baseadas no modelo alemão:
 
 * **Limite de 3,5 ng/ml de THC no soro sanguíneo** (não comparável com limites em sangue total; ver capítulo 4) — estabelecido com base em recomendação de um grupo interdisciplinar de peritos liderado pelo Ministério dos Transportes alemão [@bundesministerium2024]
-* **Limiar reduzido para condutores novatos e menores de 21 anos** (ver capítulo 4); a Alemanha proíbe a cannabis a condutores em período probatório [@bundesministerium2024]
+* **Limiar reduzido para condutores novatos e menores de 21 anos** (ver capítulo 4); a Alemanha proíbe a cannabis ao volante aos condutores em período probatório e aos menores de 21 anos (§24c StVG) [@bundesministerium2024; @stvg2024para24c]
 * **Proibição absoluta** de mistura cannabis + álcool [@bundesministerium2024]
 * **Investimento em tecnologia de testagem adequada** — aprender com os desafios alemães
 * **Formação das forças de segurança** para aplicação efectiva
@@ -349,7 +349,7 @@ A Alemanha enfrentou desafios iniciais com os testes rápidos disponíveis — o
 
 * Limite alemão: 3,5 ng/ml THC no soro sanguíneo [@bundesministerium2024]
 * Limite no trânsito em vigor desde 22/08/2024 (Lei da cannabis desde 1/04/2024) [@bundesministerium2024]
-* Alemanha: proibição de cannabis para condutores em período probatório [@bundesministerium2024]; proposta PT: limiar reduzido para novatos e menores de 21 (ver capítulo 4)
+* Alemanha: proibição de cannabis ao volante para condutores em período probatório e menores de 21 anos (§24c StVG) [@bundesministerium2024; @stvg2024para24c]; proposta PT: limiar reduzido de 1,0 ng/ml para os mesmos grupos (ver capítulo 4)
 * Proibição: cannabis + álcool [@bundesministerium2024]
 * Dados alemães preliminares 2024-2025: sem alteração significativa em mortos/feridos nem na condução sob influência auto-reportada; monitorização em curso [@marijuanamoment2025; @businesscannabis2025traffic]
 * Risco individual: conduzir sob efeito de cannabis aumenta o risco de acidente (OR 1,27, evidência convincente) [@solmi2023bmj]
@@ -439,7 +439,7 @@ A proibição não está a reduzir esse consumo de risco. A nossa proposta inclu
 
 * A mortalidade por overdose era, em 2019, de **6 por milhão (15-64 anos)**, contra 23,7 de média da UE [@transform2016pt]
 * Os novos diagnósticos de HIV em consumidores de drogas injectadas caíram **mais de 98%** — de 1.287 (2001) para 16 (2019) [@transform2016pt]
-* E o consumo manteve-se baixo — a prevalência de consumo recente de cannabis entre os 15-34 anos é de 4,9% em Portugal (2022) contra cerca de 15% na média UE estimada pela EUDA (inquéritos nacionais de 2013-2023) [@euda2024gps; @euda2024cannabis]. Não podemos provar que a descriminalização *causou* isso (muitos factores envolvidos), mas certamente **não causou a epidemia** que os críticos previam
+* E o consumo manteve-se baixo — a prevalência de consumo recente de cannabis entre os 15-34 anos é de 4,9% em Portugal (2022) contra cerca de 15% na média UE estimada pela EUDA a partir dos inquéritos nacionais mais recentes [@euda2024gps; @euda2024cannabis]. Não podemos provar que a descriminalização *causou* isso (muitos factores envolvidos), mas certamente **não causou a epidemia** que os críticos previam
 
 A avaliação académica mais citada (Hughes e Stevens, 2010) é cautelosa: resultados globalmente positivos, sem aumentos importantes do consumo e com reduções nos danos, mas com factores de confusão e dados a interpretar com cuidado [@hughes2010portugal]. O white paper do Cato Institute (think tank libertário americano, autor Glenn Greenwald) foi mais longe, falando de 'sucesso retumbante' [@greenwald2009]; preferimos a leitura académica.
 
@@ -476,7 +476,7 @@ A 'normalização' que preocupa não se traduziu, até agora, numa explosão de 
 **Dados de suporte:**
 
 * Prevalência PT: 10,5% já experimentaram cannabis (15-74 anos) [@sicad2022]
-* A proibição reduz pouco o consumo (ver capítulo 5; [@hughes2010portugal]) e impede o controlo de qualidade, idade e informação
+* O estatuto legal pesa pouco na prevalência do consumo (descriminalização PT sem aumentos importantes [@hughes2010portugal]; ver capítulo 5), e a proibição impede o controlo de qualidade, idade e informação
 * Colorado: consumo juvenil 19,7% → 12,8% (2013-2023), em linha com a descida nacional [@cdphe2024]
 * Alemanha: consumo juvenil continuou a descer (dados preliminares) [@marijuanamoment2025]
 * Canadá 16-19 anos: 36% (2018) → 37-44% nos anos seguintes, 41% em 2024 [@healthcanada2024]; frequência de consumo mais alta entre consumidores em estados legais [@coley2024; @zellers2023addiction]
@@ -492,7 +492,7 @@ A 'normalização' que preocupa não se traduziu, até agora, numa explosão de 
 
 **Resposta:** É verdade que há um conflito jurídico, e não vale a pena negá-lo. O Órgão Internacional de Controlo de Estupefacientes (INCB) declarou que a legalização canadiana do uso não médico 'é incompatível com as obrigações jurídicas' dos Estados Partes e 'uma violação de disposições fundamentais da Convenção Única de 1961' [@incb2018canada], e reiterou-a no relatório anual de 2023, considerando as medidas que permitem o uso não médico de cannabis incompatíveis com as convenções de 1961, 1971 e 1988 [@incb2024report]. Não houve sanções, mas houve declarações públicas reiteradas de incumprimento. Canadá, Uruguai, Malta, Luxemburgo e Alemanha regularam apesar disso; a Alemanha abandonou o plano inicial de venda em lojas licenciadas e limitou-se a posse, autocultivo e clubes, porque o comércio de cannabis para uso recreativo poderia violar os tratados internacionais e europeus [@lancet2024germany].
 
-Em Dezembro de 2020, a cannabis foi removida do Anexo IV da Convenção de 1961 da ONU (27-25-1), por recomendação da OMS, reconhecendo o seu potencial terapêutico [@unnews2020]. A cannabis permanece no Anexo I: a remoção do Anexo IV (reservado a drogas "sem vantagens terapêuticas substanciais") facilita o uso medicinal, mas não resolve a questão do uso adulto. A compatibilidade de uma venda comercial com o art. 71.º da Convenção de Aplicação de Schengen e com as convenções da ONU é contestada e carece de parecer jurídico [@lancet2024germany]; é também por isso que a proposta privilegia autocultivo e clubes sem fins lucrativos.
+Em Dezembro de 2020, a cannabis foi removida do Anexo IV da Convenção de 1961 da ONU (27-25-1), por recomendação da OMS, reconhecendo o seu potencial terapêutico [@unnews2020]. A cannabis permanece no Anexo I: a remoção do Anexo IV (reservado a drogas "sem vantagens terapêuticas substanciais") facilita o uso medicinal, mas não resolve a questão do uso adulto. A compatibilidade de uma venda comercial com o art. 71.º da Convenção de Aplicação de Schengen e com as convenções da ONU é contestada — foi o risco de violar os tratados internacionais e europeus que levou a Alemanha a abandonar a venda em lojas [@lancet2024germany] — e carece de parecer jurídico; é também por isso que a proposta privilegia autocultivo e clubes sem fins lucrativos.
 
 ### "Isto deveria ser tratado como questão técnico-científica, não política" {#isto-deveria-ser-tratado-como-questão-técnico-científica-não-política}
 
@@ -529,7 +529,7 @@ Estamos de acordo que isto deve ser técnico-científico? Então propomos uma co
 
 'Estudar mais' é uma objecção razoável: o relatório final alemão só sai em 2028, e a evidência sobre deslocação do mercado negro e consumo juvenil é, como reconhecemos neste guia, mista. O custo de esperar também existe: entretanto o mercado ilegal continua a vender produto de potência desconhecida, sem verificar idades e sem pagar impostos.
 
-O debate parlamentar sobre a legalização do uso adulto arrancou em 2018 e não produziu, que saibamos, nenhum estudo público português sobre os efeitos de uma regulação. Em vez de escolher entre 'agir já' e 'esperar por 2028', propomos uma fase-piloto com avaliação independente, à maneira alemã e suíça, que gere dados portugueses e permita decidir com base neles."
+As iniciativas parlamentares para legalizar o uso adulto existem pelo menos desde 2009, quando o BE apresentou um projecto para legalizar o consumo e o cultivo pessoal [@esquerda2009cannabis], e repetiram-se desde 2018 (projectos do BE e do PAN chumbados em Janeiro de 2019 [@rtp2019chumbo]); nenhuma produziu, que saibamos, um estudo oficial — do Parlamento ou do Governo — sobre os efeitos de uma regulação em Portugal (o único estudo português que conhecemos é um working paper académico, não revisto por pares, sobre o impacto fiscal [@ribeiro2024economic]). Em vez de escolher entre 'agir já' e 'esperar por 2028', propomos uma fase-piloto com avaliação independente, à maneira alemã e suíça, que gere dados portugueses e permita decidir com base neles."
 
 **Dados de suporte:**
 
@@ -566,7 +566,7 @@ Prevenção e regulação não são opostos — são complementares. A regulaç�
 
 * Custos actuais de enforcement assumidos em €40-80M/ano (valor central €60M); poupanças de €3,2M / €8,3M / €15,5M por ano para capturas de 5,3% / 13,8% / 25,9%, contra custos regulatórios de €15M / €17M / €20M por ano — balanço operacional de −€11,8M a −€4,5M/ano; estimativa própria dos autores, sem dados orçamentais oficiais ([ver método no capítulo de financiamento](#financiamento))
 * Proposta faseada: €10-15M/ano nos Anos 1-2 → €20-40M/ano a partir do Ano 3, sempre via Orçamento do Estado, condicionada à avaliação
-* Risco conhecido e limitado: perda máxima de ~€119M em 10 anos no cenário pessimista (investimento inicial de €20-30M + custo operacional líquido; ver capítulo 8); se os clubes falharem, o enforcement mantém-se com os custos actuais
+* Risco conhecido e limitado: perda de ~€119M em 10 anos no cenário pessimista (€114-124M conforme o investimento inicial de €20-30M, mais o custo operacional líquido; ver capítulo 8); se os clubes falharem, o enforcement mantém-se com os custos actuais
 * Consumo de risco jovens 15-34 anos (sob proibição): 1,3%, estável entre 2012 e 2022 [@carapinha2024icad]
 * Modelo actual: prevenção compete com hospitais/escolas/pensões por Orçamento de Estado, sem dotação obrigatória
 * Modelo proposto: dotação obrigatória do OE, com oficiais de prevenção nos clubes; possíveis taxas de licenciamento, ainda não estimadas
@@ -592,7 +592,7 @@ Agora não estamos a ser pioneiros. Estamos a **seguir** países que já têm an
 
 Temos **mais evidência disponível hoje** do que tínhamos em 2001 sobre descriminalização. Não é toda num só sentido — o Canadá mostra subida do consumo juvenil, a Alemanha ainda não deslocou o mercado negro — mas a maior parte aponta para que a regulação com salvaguardas é gerível e avaliável.
 
-Portugal é hoje um dos maiores exportadores mundiais de cannabis medicinal — apontado pelo Infarmed e pela imprensa especializada como o 2.º, a seguir ao Canadá, embora não exista um ranking internacional oficial [@eco2024; @cannareporter2024]. Quando mais países europeus legalizarem, a indústria exportadora terá concorrência directa. Regular o mercado interno poderia dar aos produtores licenciados um mercado doméstico (ver capítulo 8, integração da indústria), mas o efeito na posição exportadora não está estimado."
+Portugal é hoje um dos maiores exportadores mundiais de cannabis medicinal — a imprensa especializada, com base nos dados de exportação do Infarmed, aponta-o como o 2.º, a seguir ao Canadá, embora não exista um ranking internacional oficial [@eco2024; @cannareporter2024]. Quando mais países europeus legalizarem, a indústria exportadora terá concorrência directa. Regular o mercado interno poderia dar aos produtores licenciados um mercado doméstico (ver capítulo 8, integração da indústria), mas o efeito na posição exportadora não está estimado."
 
 **Dados de suporte:**
 
@@ -602,6 +602,6 @@ Portugal é hoje um dos maiores exportadores mundiais de cannabis medicinal — 
 * EUA: vários estados legalizaram, Colorado com mais de 10 anos de dados [@cdphe2024]
 * Europa: Malta, Luxemburgo e Alemanha (legalização parcial) [@bundesministerium2024]
 * Portugal como seguidor, não pioneiro — mais evidência disponível que em 2001, embora mista em pontos relevantes (consumo juvenil no Canadá, mercado negro na Alemanha)
-* Cannabis medicinal: um dos maiores exportadores mundiais (2.º segundo o Infarmed e a imprensa especializada; sem ranking internacional oficial) [@eco2024; @cannareporter2024]
+* Cannabis medicinal: um dos maiores exportadores mundiais (2.º segundo a imprensa especializada, a partir dos dados do Infarmed; sem ranking internacional oficial) [@eco2024; @cannareporter2024]
 * Efeito da regulação interna na posição exportadora: não estimado (ver capítulo 8)
 * **Princípio:** Seguir a evidência de vários países, com as suas limitações, e avaliar a nossa própria experiência não é ser cobaia

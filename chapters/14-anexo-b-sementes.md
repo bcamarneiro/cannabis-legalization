@@ -56,7 +56,7 @@ Critérios propostos pelo autor para uma futura certificação, parcialmente ins
 * Análise laboratorial completa
 * Rastreabilidade semente-a-venda
 
-A certificação incidiria sobre a variedade e o seu potencial de THC/CBD, não sobre um teor garantido: o teor final depende também das condições de cultivo, e nenhuma jurisdição certifica um «THC máximo» por semente (ver Anexo D). A viabilidade jurídica de certificar sementes de variedades com THC acima de 0,3% depende da lei que criar o regime de clubes e autocultivo; não cabe no actual quadro agrícola da UE.
+A certificação incidiria sobre a variedade e o seu potencial de THC/CBD, não sobre um teor garantido: o teor final depende também das condições de cultivo, e não conhecemos jurisdição de uso adulto que certifique um «THC máximo» por semente; no cânhamo industrial, a UE só certifica semente de variedades com THC ≤0,3% (ver Anexo D). A viabilidade jurídica de certificar sementes de variedades com THC acima de 0,3% depende da lei que criar o regime de clubes e autocultivo; não cabe no actual quadro agrícola da UE.
 
 ## Oportunidade Económica para Portugal {#oportunidade-económica-para-portugal}
 

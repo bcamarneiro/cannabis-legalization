@@ -425,7 +425,7 @@ Cannabis de autocultivo (3 plantas) com **sementes de origem e genética conheci
 
 ## Autocultivo regulado *(proposta de compromisso)* {#autocultivo-regulado-proposta-de-compromisso}
 * Até 3 plantas por adulto
-* **Sementes apenas de fornecedores autorizados** (potencial de THC da variedade conhecido; o teor final depende do cultivo — não conhecemos jurisdição que certifique um "THC máximo" por semente)
+* **Sementes apenas de fornecedores autorizados** (potencial de THC da variedade conhecido; o teor final depende do cultivo — não conhecemos jurisdição de uso adulto que certifique um "THC máximo" por semente)
 * Plantas seguras e inacessíveis a menores
 * Proibida venda ou cedência
 
