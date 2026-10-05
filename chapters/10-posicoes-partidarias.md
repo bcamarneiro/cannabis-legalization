@@ -71,7 +71,7 @@ O Governo alemão anunciou o pilar 2 antes de ter base legal e de ter esclarecid
 
 | Aspecto | Alemanha (2024-2025) | Portugal Proposta 2026 |
 | :---- | :---- | :---- |
-| **Pilar 1 (clubes)** | Em vigor desde Abril de 2024; 357 associações autorizadas em 791 pedidos (Nov. 2025) e 494 em 916 pedidos (1 Out. 2026), segundo a contagem da associação do sector (BCAv) junto das autoridades estaduais; não existe contagem oficial das que já distribuem [@bcav2025; @bcav2026] | **Prioritário, viável agora** |
+| **Pilar 1 (clubes)** | Em vigor desde Abril de 2024; 337 associações autorizadas em 759 pedidos (fim de Out. 2025) e 494 em 916 pedidos (1 Out. 2026), segundo a contagem da associação do sector (BCAv) junto das autoridades estaduais; não existe contagem oficial das que já distribuem [@bcav2025; @bcav2026] | **Prioritário, viável agora** |
 | **Pilar 2 (comercial)** | Anunciado; sem lei habilitante; primeiro piloto recusado pela BLE em Set. 2025 [@sanitygroup2025ble] | **Condicional; sem promessas aos eleitores** |
 | **Timeline comercial** | Prometido para 2024-2025; não cumprido | **Sem promessas firmes** — depende de parecer jurídico e coordenação europeia |
 | **Viabilidade standalone** | Pilar 1 apresentado como etapa; relatório intercalar: associações ainda sem contributo relevante para deslocar o mercado negro [@ekocan2025] | **Pilar 1 desenhado para funcionar sozinho**; a quota de mercado que pode captar é um pressuposto a validar (ver [análise *gap de mercado*](#gap-mercado)) |

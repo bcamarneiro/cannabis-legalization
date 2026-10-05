@@ -289,7 +289,7 @@ Em Espanha, sem regulação nacional e com fiscalização desigual, os clubes s�
 As autoridades regionais (Länder) conduzem [@cannabis420eu2024]:
 
 - **Inspeções e controlos aleatórios:** Verificação física de stocks, distribuições registadas, proteção menores, conformidade limites
-- **Análises laboratoriais (proposta para Portugal):** Testes de THC e contaminantes (pesticidas, metais pesados, fungos). O KCanG não impõe análises laboratoriais aos clubes: o §21 exige a indicação do teor médio de THC e de CBD em cada entrega e proíbe misturas, e o §17 remete para as boas práticas e para limites máximos a fixar por regulamento [@kcang2024]; a fonte secundária refere inspecções no local e análises laboratoriais
+- **Análises laboratoriais (proposta para Portugal):** Testes de THC e contaminantes (pesticidas, metais pesados, fungos). O KCanG obriga os clubes a recolher e analisar amostras regularmente para verificar a qualidade e a conformidade do cannabis (§18(2)), sem fixar a lista de testes nem exigir laboratórios acreditados; os teores máximos de contaminantes ficam para regulamento (§17(4)) e o §21(2) exige a indicação do teor médio de THC e de CBD em cada entrega [@kcang2024]; a fonte secundária refere inspecções no local e análises laboratoriais
 - **Verificação documental:** Auditoria de registos de distribuição e conformidade com limites legais
 - **Acesso a registos:** Autoridades podem inspecionar documentação (§26 KCanG) [@kcang2024] a qualquer momento
 
@@ -377,7 +377,7 @@ O mesmo preprint (50 amostras ilícitas e 50 licenciadas) refere também que 20%
 
 ##### Solução: Testes Obrigatórios em Clubes Sociais
 
-Modelo alemão KCanG 2024 (adoptado como base para PT): a lei exige que cada entrega indique o teor médio de THC e de CBD e proíbe misturas (§21 KCanG [@kcang2024]), mas não impõe análises laboratoriais; a lista de testes abaixo segue a descrição do laboratório Eurofins [@eurofins2024] e é proposta para Portugal:
+Modelo alemão KCanG 2024 (adoptado como base para PT): a lei obriga os clubes a recolher e analisar amostras regularmente (§18(2) KCanG) e a indicar em cada entrega o teor médio de THC e de CBD (§21(2)) [@kcang2024], mas não fixa a lista de testes; a lista abaixo segue a descrição do laboratório Eurofins [@eurofins2024] e é proposta para Portugal:
 
 **Testes obrigatórios antes de distribuição aos membros:**
 
@@ -848,7 +848,7 @@ Esta secção detalha três cenários para que os decisores avaliem o risco. Tod
 
 | Variável | Pessimista | Realista | Optimista | Fonte/Justificação |
 | :---- | :---- | :---- | :---- | :---- |
-| **Taxa operacional clubes** | 40% | 60% | 80% | Alemanha: 357 aprovações em 791 pedidos (45%) 16 meses após abertura [@bcav2025]; pressuposto |
+| **Taxa operacional clubes** | 40% | 60% | 80% | Alemanha: 337 aprovações em 759 pedidos (44%) no fim de Outubro de 2025, 16 meses após a abertura [@bcav2025]; pressuposto |
 | **Clubes operacionais** (de 46) | 18 | 28 | 37 | 46 × taxa |
 | **Membros por clube** (média) | 250 | 350 | 450 | Máximo legal 500; pressuposto |
 | **Total membros clubes** | 4.500 | 9.800 | 16.650 | Clubes × membros |
@@ -994,13 +994,13 @@ Todos os valores acima baseiam-se **exclusivamente no modelo de clubes** sem ven
 
 **Referência inicial — Alemanha:**
 
-Em Novembro de 2025 a Alemanha tinha 357 associações de cultivo aprovadas, em 791 pedidos (45%), para ~84 milhões de habitantes = 1 associação por ~235.000 habitantes [@bcav2025]. Este rácio é um instantâneo de um processo administrativo lento (o número continuava a crescer em 2026), não uma medida de procura; usamo-lo apenas como referência inicial.
+No fim de Outubro de 2025 a Alemanha tinha 337 associações de cultivo aprovadas, em 759 pedidos (44%), para ~84 milhões de habitantes = 1 associação por ~250.000 habitantes [@bcav2025]; a 1 de Outubro de 2026 eram 494, em 916 pedidos (1 por ~170.000) [@bcav2026]. Este rácio é um instantâneo de um processo administrativo lento (o número continuava a crescer em 2026), não uma medida de procura; usamo-lo apenas como referência inicial.
 
 **Aplicação a Portugal:**
 
 População residente em Portugal (31 de Dezembro de 2024): **10.749.635 habitantes** [@ine2024pop]
 
-**Ponto de partida:** 10.749.635 / 235.294 = **~46 clubes** a nível nacional. Este número é, por construção, o rácio alemão aplicado a Portugal; a procura efectiva pode exigir mais (ver análise do gap de mercado).
+**Ponto de partida:** **46 clubes** a nível nacional (pressuposto dos autores), dentro do intervalo dado pelo rácio alemão aplicado a Portugal: cerca de 43 clubes com os dados do fim de Outubro de 2025 (10.749.635 / 249.258) e cerca de 63 com os de Outubro de 2026 (10.749.635 / 170.040). A procura efectiva pode exigir mais (ver análise do gap de mercado).
 
 ##### Distribuição Geográfica Proposta (Escala Completa)
 
@@ -1055,12 +1055,12 @@ O licenciamento de clubes sociais é aberto a nível nacional desde o início, e
 
 | País/Estado | População | Clubes | Rácio | Modelo |
 | :---- | :---- | :---- | :---- | :---- |
-| **Alemanha** (Nov 2025) | 84M | 357 (de 791 pedidos) | 1:235k | Associações de cultivo, KCanG §§11-26 [@bcav2025] |
+| **Alemanha** (Out 2025 / Out 2026) | 84M | 337 (de 759 pedidos) / 494 (de 916) | 1:249k / 1:170k | Associações de cultivo, KCanG §§11-26 [@bcav2025; @bcav2026] |
 | **Espanha** (estimativas) | 47M | ~800-1.000 (sem registo nacional nem estimativas fiáveis) | 1:47-59k | Sem regulação nacional (tolerados) [@pardal2020mapping] |
 | **Uruguai** (31/12/2025) | 3,4M | 557 (19.589 sócios) | 1:6,1k | Clubes de membresía regulados pela Lei 19.172 (máx. 45 sócios) [@ircca2025resumen] |
-| **Portugal** (proposta) | 10,75M | 46 | 1:234k | Rácio alemão aplicado por construção |
+| **Portugal** (proposta) | 10,75M | 46 | 1:234k | Pressuposto dos autores, próximo do rácio alemão |
 
-**Nota:** O rácio PT (1:234k) é igual ao alemão por construção. É muito inferior, per capita, ao de Espanha e ao do Uruguai — que tem ~38 vezes mais clubes por habitante, embora com clubes muito mais pequenos (máximo 45 sócios contra 500). A proposta portuguesa é, portanto, de escala reduzida face a ambos.
+**Nota:** O rácio PT (1:234k) fica entre os valores alemães de 2025 e de 2026. É muito inferior, per capita, ao de Espanha e ao do Uruguai — que tem ~38 vezes mais clubes por habitante, embora com clubes muito mais pequenos (máximo 45 sócios contra 500). A proposta portuguesa é, portanto, de escala reduzida face a ambos.
 
 ##### Impacto no Mercado Ilegal
 
@@ -1087,7 +1087,7 @@ Assumindo 46 clubes × 400 membros activos médios = **18.400 utilizadores** (ne
 1. **Clubes directos:** 10,2% (18.400 membros activos / 180.000 consumidores); máximo 12,8% com lotação plena
 2. **Autocultivo (3 plantas):** 5.000 a 30.000 pessoas conforme cenário (2,8% a 16,7% dos consumidores) — **sem dados comparáveis fiáveis**; no Uruguai, 10.392 autocultivadores registados [@ircca2025resumen] correspondem a cerca de 4% dos ~250.000 consumidores
 3. **Partilha no agregado familiar:** Membros podem partilhar com o círculo próximo — pressuposto não quantificado nem comprovado; não entra nos cálculos
-4. **Preço:** Para competir, o preço dos clubes tem de ser competitivo com os ~€5,3/g do mercado ilegal (média de 2023: €5,33/g [@icad2024anexo]), não com valores superiores. Isto enfraquece a margem para absorver custos de testes e prevenção e é um risco para a viabilidade dos clubes
+4. **Preço:** No modelo de custos do Anexo A (pressupostos dos autores), o custo por grama dos clubes, com testes e prevenção incluídos, é de €2,40-4,80 se cada membro consumir em média 15-30 g/mês, abaixo do preço médio do mercado ilegal (€5,33/g em 2023 [@icad2024anexo]); com consumos médios menores, menos membros ou custos no limite alto, aproxima-se dele ou ultrapassa-o — é esse o risco para a viabilidade dos clubes
 
 **Incerteza:**
 
@@ -1109,6 +1109,6 @@ Assumindo 46 clubes × 400 membros activos médios = **18.400 utilizadores** (ne
 - Estigma residual: o registo em base de dados pode dissuadir consumidores
 - Capacidade produtiva: 46 clubes não têm escala para mais de 12,8% dos consumidores
 - Qualidade: clubes novos podem não ter experiência de cultivo imediata
-- Preço: competir com ~€5,6/g cobrindo testes e prevenção pode não ser viável
+- Preço: o custo de €2,40-4,80/g do Anexo A só fica abaixo dos ~€5,3/g do mercado ilegal se o consumo médio e a adesão corresponderem aos pressupostos
 
 **Conclusão:** A captura de 5-26% do mercado ilegal é o intervalo plausível com 46 clubes; valores superiores exigiriam mais clubes ou adesão massiva ao autocultivo. O período de avaliação do modelo de clubes (2029-2032, ver capítulo 11) é o mecanismo para testar esta premissa antes de decidir sobre expansão comercial. Se os dados mostrarem captura inferior a 5%, a estratégia deve ser reavaliada.

@@ -84,7 +84,7 @@ Diferentemente de Amsterdam, onde a regra de residentes não obteve maioria loca
 
 **Produtos permitidos:**
 
-* Flores (marijuana) e haxixe (resina) não processados — ambos incluídos na definição legal de cannabis (§1 KCanG) e os únicos produtos que as associações podem entregar (§19(1) KCanG)
+* Flores (marijuana) e haxixe (resina) não processados — ambos incluídos na definição legal de cannabis (§1 KCanG) e as únicas formas de cannabis que as associações podem entregar (§19(1) KCanG)
 * Sementes e estacas para autocultivo dos membros: máximo 7 sementes ou 5 estacas por membro e por mês (ou 5 no total, se combinados) (§20 KCanG) [@kcang2024]
 
 **Produtos proibidos:**
@@ -178,11 +178,11 @@ O processo de licenciamento é conduzido pelas autoridades de cada Land (estado 
 * Plano de protecção de menores e saúde pública
 * Verificação de localização (200m de escolas)
 
-**Estado actual (1 de Outubro de 2026):** 916 candidaturas submetidas e 494 licenças aprovadas a nível nacional, segundo a contagem da associação federal de clubes junto das autoridades dos Länder [@bcav2026]; em Novembro de 2025 eram 791 candidaturas e 357 licenças [@bcav2025]. São licenças aprovadas: o número de clubes efectivamente a distribuir é inferior e não é publicado oficialmente.
+**Estado actual (contagem da BCAv com respostas das autoridades dos Länder datadas entre 25 de Julho e 1 de Outubro de 2026):** 916 candidaturas submetidas e 494 licenças aprovadas a nível nacional [@bcav2026]; no fim de Outubro de 2025 eram 759 candidaturas e 337 licenças (captura de arquivo da mesma página) [@bcav2025]. São licenças aprovadas: o número de clubes efectivamente a distribuir é inferior e não é publicado oficialmente.
 
 ## Modelo de Custos — Exemplo Real {#modelo-de-custos-exemplo-real}
 
-O Cannabis Social Club Ganderkesee (Baixa Saxónia), primeiro a distribuir cannabis em 2 de Novembro de 2024 [@zdf2024ganderkesee], descreve o seu modelo assim [@cscganderkesee2025]:
+O Cannabis Social Club Ganderkesee (Baixa Saxónia), presumivelmente o primeiro a distribuir cannabis, em 2 de Novembro de 2024 [@zdf2024ganderkesee], descreve o seu modelo assim [@cscganderkesee2025]:
 
 * **Adesão:** sem taxa de inscrição nem quota anual; quota estatutária simbólica de €1/mês
 * **Contribuições:** de montante livre, funcionam como crédito de compra, com bónus de até 30% de crédito extra consoante a regularidade
@@ -214,7 +214,7 @@ O Cannabis Social Club Ganderkesee (Baixa Saxónia), primeiro a distribuir canna
 | **Encargos sociais** (23,75% PT) | — | — | €28.600 - €35.500 |
 | **TOTAL PESSOAL** | — | **4,5 FTE** | **€149.100 - €185.000** |
 
-Nota: Rácio pessoal-membros conservador (1:66-111), garantindo atendimento personalizado e monitorização adequada.
+Nota: Rácio pessoal-membros conservador (1:66-111), garantindo atendimento personalizado e monitorização adequada. Neste ponto a proposta portuguesa afasta-se da lei alemã: na Alemanha o cultivo tem de ser feito pelos próprios membros, que nele participam activamente; tarefas directamente ligadas ao cultivo ou à entrega só podem ser pagas a membros com contrato de pequena dimensão (*Minijob*), e o restante pessoal remunerado só pode fazer outras tarefas (§17(1)-(2) KCanG [@kcang2024]); o modelo de custos português prevê um cultivador e um assistente de distribuição remunerados.
 
 #### 3. Custos de Qualidade e Compliance (10-15% do total)
 
@@ -224,7 +224,7 @@ Nota: Rácio pessoal-membros conservador (1:66-111), garantindo atendimento pers
 | **Auditoria financeira** | €3.000 - €5.000 | Auditor certificado externo, relatório anual |
 | **Sistemas rastreabilidade** | €2.000 - €4.000 | Software seed-to-sale, manutenção base dados |
 | **Seguros** | €4.000 - €6.000 | Responsabilidade civil, produtos, instalações |
-| **TOTAL COMPLIANCE** | **€27.000 - €58.200** | ~€90-195/membro/ano |
+| **TOTAL COMPLIANCE** | **€27.000 - €58.200** | ~€90-195/membro/ano (clube de 300) |
 
 #### 4. Custos Fixos e Administrativos (5-10% do total)
 
@@ -270,7 +270,7 @@ Nota: Rácio pessoal-membros conservador (1:66-111), garantindo atendimento pers
 
 #### Opção 2: Pagamento por Grama Consumido (cost-recovery puro)
 
-* **Preço/grama:** €3 - €8 (conforme custos reais clube, sem tecto rígido)
+* **Preço/grama:** conforme custos reais do clube, sem tecto rígido (≈ €2,40-4,80 no exemplo abaixo)
 * **Quota base:** €20 - €30/mês (administrativa, cobrir fixos)
 * **Cálculo:** Custos totais / produção anual estimada
 * **Exemplo:** €344.000 de custos / 72.000-144.000 g de produção (400 membros × 15-30 g/mês) ≈ €2,40-4,80/grama
@@ -282,22 +282,22 @@ Nota: Rácio pessoal-membros conservador (1:66-111), garantindo atendimento pers
 #### Opção 3: Modelo Híbrido (proposta Portugal)
 
 * **Quota administrativa:** €30/mês (cobrir salários, fixos, compliance)
-* **Preço cannabis:** €3 - €5/grama (conforme custos cultivo + testes)
+* **Preço cannabis:** o necessário para cobrir os custos não cobertos pela quota (≈ €2,10/grama com 20 g/mês no modelo deste anexo)
 * **Transparência obrigatória:** Publicação de custos de produção e preços praticados (sem tecto rígido — preço de referência indicativo publicado por SICAD)
 * **Exemplo consumidor médio (20g/mês):**
   - Quota: €30
-  - Cannabis: 20g × €4 = €80
-  - **Total: €110/mês** — ou seja, praticamente ao nível do mercado ilegal (20 g a €5,33/g ≈ €107 [@icad2024anexo]); para este perfil de consumidor a vantagem do clube está na qualidade testada e na segurança jurídica, não no preço
+  - Cannabis: 20g × €2,10 ≈ €42
+  - **Total: ≈ €72/mês** (igual à quota necessária de um clube de 400 membros), abaixo do mercado ilegal (20 g a €5,33/g ≈ €107 [@icad2024anexo]); a vantagem do clube está também na qualidade testada e na segurança jurídica
 
 ### Comparação Preços: Clube vs Mercado Negro vs Comercial {#comparação-preços-clube-vs-mercado-negro-vs-comercial}
 
 | Modelo | Preço/grama | Finalidade lucro |
 | :---- | :---- | :---- |
 | **Mercado ilegal PT** | €5,33 (média de 2023) [@icad2024anexo] | Lucro, sem custos de conformidade nem controlo de qualidade |
-| **Clube social (proposta PT)** | €3 - €8 (estimativa dos autores, conforme custos reais) | Recuperação de custos, sem fins lucrativos, preços transparentes |
+| **Clube social (proposta PT)** | €1,95 - €5,66 no modelo de custos deste anexo (400 membros, 15-30 g/mês por membro; €2,40-4,80 no ponto médio); mais alto se o consumo médio for menor (estimativa dos autores) | Recuperação de custos, sem fins lucrativos, preços transparentes |
 | **Farmácia PT (medicinal)** | ~€10/g (€150 por 15 g, preço legal Tilray) [@euronews2024] | Medicinal, prescrição obrigatória |
 
-**Vantagem competitiva dos clubes:** o preço do clube é comparável ao do mercado ilegal — inferior só se os custos ficarem no limite baixo da estimativa. A experiência suíça mostra que a fiabilidade do produto atrai utilizadores mesmo a preços iguais aos do mercado ilegal, mas que o preço (descontos de quantidade) é a principal razão para compras ilegais residuais [@bag2025pilotversuche]. O argumento para os clubes é a qualidade testada e a redução de riscos, não um preço 40-60% inferior.
+**Vantagem competitiva dos clubes:** no modelo de custos deste anexo, o custo por grama (€2,40-4,80 no ponto médio) fica abaixo do preço do mercado ilegal (€5,33/g em 2023 [@icad2024anexo]) se o consumo médio por membro for de 15-30 g/mês; com consumos menores ou custos no limite alto aproxima-se dele ou ultrapassa-o. A experiência suíça mostra que a fiabilidade do produto atrai utilizadores mesmo a preços iguais aos do mercado ilegal, mas que o preço (descontos de quantidade) é a principal razão para compras ilegais residuais [@bag2025pilotversuche]. O argumento para os clubes é a qualidade testada e a redução de riscos; a vantagem de preço depende do consumo médio efectivo dos membros.
 
 ### Viabilidade Económica: Ponto de Equilíbrio {#viabilidade-económica-ponto-de-equilíbrio}
 
@@ -338,7 +338,7 @@ Nota: Rácio pessoal-membros conservador (1:66-111), garantindo atendimento pers
 
 #### O Gap de Capital: Análise Realista {#gap-capital}
 
-**Problema identificado:** O documento propõe subsídio estatal €50.000-100.000 (30-40% do necessário). O **gap restante de €68.000-152.000** levanta questões legítimas sobre viabilidade.
+**Problema identificado:** O documento propõe subsídio estatal €50.000-100.000 (30-40% do necessário). O **gap restante de €68.000-202.000** (€118.000-152.000 se o subsídio acompanhar a dimensão do investimento) levanta questões legítimas sobre viabilidade.
 
 **Crítica legítima:** Assumir que 200-300 pessoas pagam €500-1.000 **antes do clube existir** é irrealista — fundadores precisam ver licença aprovada antes de investir quantias significativas.
 
@@ -348,7 +348,7 @@ Nota: Rácio pessoal-membros conservador (1:66-111), garantindo atendimento pers
 | :---- | :---- | :---- | :---- |
 | **Uruguai** (desde 2014) | ~460 registados em 2024; 557 no fim de 2025 (máx. 45 sócios e 99 plantas em floração cada) | Nenhum | [@ircca2025resumen; @elplanteo2025uruguay] |
 | **Espanha** (não regulada) | 212 só em Barcelona (Jul 2024); não há contagem nacional oficial | Nenhum | [@ara2024barcelona] |
-| **Alemanha** (2024-2026) | 357 licenças aprovadas em 791 pedidos (Nov 2025); 494 em 916 (1 Out 2026); nº a operar não publicado | Nenhum | [@bcav2025; @bcav2026] |
+| **Alemanha** (2024-2026) | 337 licenças aprovadas em 759 pedidos (fim de Out 2025); 494 em 916 (Out 2026); nº a operar não publicado | Nenhum | [@bcav2025; @bcav2026] |
 | **Portugal** (proposta) | 46 (projecção) | €50-100k/clube | Este documento |
 
 Não há dados publicados sobre taxas de sobrevivência ou estrutura de financiamento destes clubes.
@@ -412,7 +412,7 @@ Para mitigar o risco de "pagar antes de ver", propõe-se modelo em 3 fases:
 **Justificação política:**
 
 * **O subsídio financia infra-estrutura de redução de riscos:** produto testado, monitorização, dados para avaliação e referenciação para tratamento
-* **Comparação:** segundo o pressuposto deste documento (cap. 8), Portugal gasta €40-80M/ano (valor central €60M) em enforcement de cannabis. Custos de licenciamento e supervisão são proporcionais ao número de clubes — subsídio de €50-100k por clube representa uma fracção mínima do gasto anual em enforcement
+* **Comparação:** segundo o pressuposto deste documento (cap. 8), Portugal gasta €40-80M/ano (valor central €60M) em enforcement de cannabis. Custos de licenciamento e supervisão são proporcionais ao número de clubes; o subsídio de arranque (€50-100k por clube, pago uma vez) somaria €2,3-4,6M para os 46 clubes projectados, o equivalente a 3-12% de um ano desse gasto (4-8% do valor central)
 * **Contrapartida:** Dados detalhados para avaliação (tracking anonimizado, relatórios SICAD, auditorias)
 
 **Mecanismo proposto:**

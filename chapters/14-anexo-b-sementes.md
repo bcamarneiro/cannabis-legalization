@@ -14,7 +14,7 @@ Canais lícitos na Alemanha desde Abril de 2024 (§4 e §20 KCanG) [@kcang2024]:
 
 | Canal | Descrição |
 | :---- | :---- |
-| Lojas online | Vendedores que expedem para a Alemanha; não existe registo ou certificação oficial destes vendedores |
+| Lojas online | Vendedores na Alemanha ou noutro Estado-membro da UE (a importação de sementes de fora da UE para cultivo é proibida, §4(2) KCanG); não existe registo ou certificação oficial destes vendedores |
 | Importação UE | Compra a vendedores de sementes noutros Estados-membros (p. ex. Espanha, Países Baixos) para cultivo próprio |
 | Cannabis Social Clubs | Cedência aos membros de até 7 sementes ou 5 estacas por mês (§20 KCanG) |
 
@@ -31,7 +31,7 @@ Descrição geral da oferta do mercado de sementes (terminologia comercial, sem 
 
 ## Critérios de Qualidade {#critérios-de-qualidade}
 
-Critérios propostos pelo autor para uma futura certificação, parcialmente inspirados nos requisitos aplicados às sementes de cânhamo (germinação, identidade varietal, rastreabilidade) [@eurlex2002dir57]; o perfil de canabinóides e a embalagem são acréscimos dos autores:
+Critérios propostos pelos autores para uma futura certificação, parcialmente inspirados nos requisitos aplicados às sementes de cânhamo (germinação, identidade varietal, rastreabilidade) [@eurlex2002dir57]; o perfil de canabinóides e a embalagem são acréscimos dos autores:
 
 * **Genética estabilizada** — consistência entre plantas da mesma variedade
 * **Taxa de germinação** — testada e declarada no rótulo
@@ -41,7 +41,7 @@ Critérios propostos pelo autor para uma futura certificação, parcialmente ins
 
 ## Modelo de Certificação Proposto para Portugal {#modelo-de-certificação-proposto-para-portugal}
 
-**Não existe precedente:** nem a Alemanha nem outro Estado-membro certifica sementes de cannabis para consumo adulto. O que se segue é uma proposta de desenho dos autores, que adapta o regime de certificação de sementes de cânhamo da UE [@eurlex2002dir57] e aproveita a posição de Portugal como produtor licenciado de cannabis medicinal [@eco2024].
+**Não conhecemos precedente:** a Alemanha não certifica sementes de cannabis para consumo adulto e não conhecemos outro Estado-membro que o faça. O que se segue é uma proposta de desenho dos autores, que adapta o regime de certificação de sementes de cânhamo da UE [@eurlex2002dir57] e aproveita a posição de Portugal como produtor licenciado de cannabis medicinal [@eco2024].
 
 **Nível 1 — Certificação Base:**
 
