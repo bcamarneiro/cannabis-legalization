@@ -264,7 +264,12 @@ Todas as tarefas BAIXA concluídas.
 
 **Última atualização:** 2026-01-26 (BAIXA 5-10 concluídas, TODAS tarefas refinamento completas): BAIXA 5 L751 secção cânhamo movida após medicinal (estrutura lógica: consenso→não-controverso→experimental), BAIXA 6 L71-76+L1680-1686 cânhamo integrado cronogramas (Q4 2026 proposta regulatória → Q2-Q3 2027 aprovação piloto → Q4 2027-2028 implementação ISA/UTAD → 2028-2030 avaliação), BAIXA 7 L2585-2750 modelo económico detalhado Anexo A (5 categorias custos clube €280k-393k/ano = €58-82/mês, 3 modelos financiamento, break-even 400 membros €70/mês optimal, investimento inicial €168k-252k, payback 12-18 meses), BAIXA 8 L1737-1740+L2222-2225 "Resposta ao Chega" simplificada (reduzido ~60 palavras defensivas para ~20 palavras directas "factos falam por si"), BAIXA 9 análise completa comparações álcool (whataboutism já removido BAIXA 8, mantidas referências apropriadas: Lancet científico L484-497, coerência regulatória L1697, backing científico L2244/L2253), BAIXA 10 L71-76+L1680-1686 timeline caveats adicionados (3 cenários: optimista 12 meses Q2 2027, realista 15-18 meses Q3-Q4 2027, conservador 24+ meses 2028+; nota precedente alemão implementação técnica +3-6 meses; timeline já realista baseado Lei 30/2000 PT + CanG Alemanha ambos ~18 meses). **Prioridades: CRÍTICO 5/5 ✅, ALTA 7/7 ✅, MÉDIA 16/16 ✅, BAIXA 10/10 ✅ — DOCUMENTO COMPLETO**
 
-## Auditoria factual e retórica, rondas 3-4 (2026-10-04)
+## Auditoria factual e retórica, rondas 3-6 (2026-10-04/05)
+
+Rondas 5-6 (2026-10-05): sete verificadores independentes reabriram as fontes de tudo o que a ronda 4 mudou, sem tratar como verdade os factos fixados pelas rondas anteriores; um oitavo verificou as próprias correcções da ronda 6. Resultado: oito dos dez factos fixados confirmados; corrigidos o veto presidencial de 2000, que estava omitido (Lei 30/2000: proposta datada de 1-6-2000, entrada na AR a 6-6-2000, veto lido a 27-7-2000, Decreto 39/VIII), o preço do mercado ilegal (passa a ICAD, €5,33/g em 2023; Fase 3 €37-60M/ano), os processos CDT (83% só cannabis em 2018, 75% em 2021) e as condenações de 2021 (475, valor definitivo), a Lei 55/2023 (detenção para consumo é contra-ordenação independentemente da quantidade; o cultivo continua a ser crime), o §18(2) do KCanG (amostragem obrigatória), a contagem alemã verificável (337/759, Outubro de 2025), o preço por grama do Anexo A (€2,40-4,80 sem IVA, até €2,95-5,90 com IVA) e cerca de 60 correcções pontuais. Lição: um verificador também erra (duas correcções da ronda 6 vinham de leituras erradas e foram desfeitas); as afirmações legais e as negativas universais confirmam-se sempre na fonte primária antes de entrar no texto.
+
+### Rondas 3-4
+
 
 Ronda 3: oito verificadores independentes, sem acesso aos relatórios anteriores, reabriram as fontes do texto corrigido na ronda 2. Encontraram erros que a própria ronda 2 tinha propagado: residência de 6 meses no KCanG (é lei), INCB 1988 sobre o Canadá (só 1961), três vetos à eutanásia (foram quatro), votação final global da Lei 30/2000 (6-7-2000, não 19-10), preço EUDA (€5,58/g em 2023, não €5,3-5,6). Encontraram também a aritmética do cap. 08 incoerente. Ronda 4: sete agentes corrigiram tudo, com o cap. 08 como referência única da economia (base €40-80M, poupanças €3,2-15,5M/ano, custos €15-20M/ano, custo líquido €4,5-11,8M/ano, −€61M a −€119M a 10 anos, Fase 3 €39-63M/ano), aritmética reverificada por script. Bibliografia: 19 chaves duplicadas fundidas, 9 órfãs removidas, notas de trabalho retiradas dos campos que aparecem na lista de referências, autores inventados corrigidos (pmc2024midwives). Diagramas regenerados (cronograma, estrutura, modelo alemão, balanço fiscal). `heading_ids.py check` passa a detectar colisões entre IDs automáticos e explícitos. Falta a ronda 5 (verificação independente do diff da ronda 4).
 
@@ -272,9 +277,21 @@ Pendências que ficaram por resolver (fontes inacessíveis ou decisões):
 
 ### Para o Bruno (só manualmente)
 
-- EUDA Statistical Bulletin 2025, tabela PPP-02-1-1-2-3: o robots.txt da EUDA proíbe acesso automático; confirmar no browser que Portugal mostra €5,58/g em 2023 (base da receita da Fase 3).
+- (Opcional) EUDA Statistical Bulletin 2025, tabela PPP-02-1-1-2-3: o robots.txt da EUDA proíbe acesso automático. O documento passou a citar o ICAD (€5,33/g em 2023); a série atribuída à EUDA (€5,58) não coincide com o ICAD e só deve voltar se for confirmada no browser.
+- Textos integrais atrás de paywall ou login: Manthey et al. 2025 (valores retirados sobre membros de clubes), Pardal et al. 2020 (estimativa de 800-1.000 clubes em Espanha), Anthony et al. 1994, Nutt et al. 2010 (pp. 1563-1564), relatório anual do INCB de 2023 (§§181-185).
 - sicad.pt (Relatório Anual 2018, condenações e processos CDT) e cdphe.colorado.gov (HKCS 2023) estão bloqueados ao acesso automático; guardar os PDFs e indicar páginas.
 - europarl (ep2019cannabis) devolve 202 ao acesso automático; confirmar a resolução P8_TA(2019)0113.
+
+
+### Pendências das rondas 5-6
+
+- 13:49 — prova dos 6 meses de residência: o Cartão de Cidadão não prova a duração nem serve a estrangeiros residentes; definir o meio de prova.
+- 14:9 — art. 4.º, n.º 4, do Regulamento (UE) 2021/2115 (THC ≤0,3%) não confirmado no EUR-Lex; confirmar à mão.
+- 08 e 13 — o modelo português prevê cultivador e assistente de distribuição remunerados, o que se afasta do §17 do KCanG (cultivo pelos membros); decidir se se mantém.
+- 08 — os 46 clubes são pressuposto dos autores (o rácio alemão dá ~43 com os dados de Outubro de 2025 e ~63 com os de Outubro de 2026); a economia não foi recalculada.
+- 04 e 08 — IVA de 23% sobre as entregas de cannabis e isenção das quotas são o cenário base dos autores; falta parecer da AT.
+- 16:442 — média UE de ~15% (15-34 anos) da EUDA sem o intervalo de anos dos inquéritos confirmado.
+- 10:110 e 16:493 — enumeração das convenções (1961, 1971, 1988) no relatório do INCB de 2023 confirmada só em cobertura secundária e nos §§182-184 citados.
 
 ### Cap. 01-03 e 12
 
@@ -302,7 +319,6 @@ Pendências que ficaram por resolver (fontes inacessíveis ou decisões):
 
 ### Cap. 08
 
-- Pressuposto dos 46 clubes: usa o rácio alemão de Novembro de 2025 (84M/357). Com os dados de 1-10-2026 (494 licenças) seriam cerca de 63 clubes. Decidir se se actualiza (muda toda a análise de sensibilidade e os números canónicos).
 - 08:127 — DDN 2022 (álcool e tabaco aos 18): valores retirados; repor só com o PDF do relatório.
 - 08:355-370 — sciety2025illicit é preprint; substituir pela versão publicada (J Cannabis Res, 2026, DOI 10.1186/s42238-026-00414-y) depois de a confirmar.
 - 08:977 — consultas informais Alemanha–Comissão (2022-23) e fim da coligação: acrescentar citação (o cap. 05 cita INCB §182; os caps. 10 e 11 citam mitmischen2024ampel).
@@ -317,7 +333,6 @@ Pendências que ficaram por resolver (fontes inacessíveis ou decisões):
 
 ### Anexos A-C
 
-- 13:181, 13:351 — bcav2025 (791/357, Nov 2025): a página só mostra o estado a 1-10-2026; arquivar ou citar notícia datada.
 - 13:223-322 — modelo de custos do Anexo A é pressuposto dos autores (aritmética corrigida: testes €18.000-43.200/ano; total €280.600-407.200 para 400 membros); consumo médio de 15-30 g/mês sem fonte própria.
 - 15:13, 15:24 — CanLeg autorizado em Junho de 2026: falta uma fonte datada na entrada bib.
 - 15:217 — "sem medidas formais" do INCB contra esses países: afirmação por ausência.
