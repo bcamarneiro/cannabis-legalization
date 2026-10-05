@@ -4,71 +4,75 @@
 
 ## Enquadramento Legal {#enquadramento-legal}
 
-Desde 1 de Abril de 2024, sementes de cannabis são legais na Alemanha. Podem ser:
+**Alemanha.** Desde 1 de Abril de 2024, o KCanG permite a adultos a posse de sementes de cannabis e o autocultivo de até 3 plantas (§9(1)), e permite a aquisição de sementes a partir de outros Estados-membros da UE para cultivo próprio (§4(2)) [@kcang2024]. As associações de cultivo (*Anbauvereinigungen*) podem ceder aos membros material de propagação: no máximo 7 sementes ou 5 estacas por membro e por mês (§20 KCanG) [@kcang2024]. A lei não cria um sistema de certificação nem um registo oficial de vendedores de sementes de cannabis para consumo.
 
-* Adquiridas em território nacional
-* Importadas de outros países da UE
-* Utilizadas para autocultivo (até 3 plantas por adulto)
+**União Europeia.** O único regime de certificação de sementes de *Cannabis sativa* existente na UE é o do cânhamo agrícola: a Directiva 2002/57/CE regula a comercialização de sementes de plantas oleaginosas e fibrosas, incluindo o cânhamo, exigindo certificação oficial das categorias de semente [@eurlex2002dir57; @ec2024]; as variedades têm de constar do Catálogo Comum de variedades (Directiva 2002/53/CE); e, para efeitos de apoios da PAC, o teor de THC das variedades não pode exceder 0,3% (art. 4.º, n.º 4, do Regulamento (UE) 2021/2115; em 2024 constavam do catálogo 116 variedades de cânhamo) [@eurlex2021reg2115; @ec2024]. Este regime não cobre sementes de cannabis destinadas a consumo adulto.
 
 ## Canais de Aquisição Legal {#canais-de-aquisição-legal}
 
+Canais lícitos na Alemanha desde Abril de 2024 (§4 e §20 KCanG) [@kcang2024]:
+
 | Canal | Descrição |
 | :---- | :---- |
-| Lojas online alemãs | Seedbanks registados na Alemanha (ex: Mr. Hanf, Sensiseeds.de) |
-| Importação UE | Compra de seedbanks noutros países da UE (Espanha, Países Baixos, Portugal) |
-| Cannabis Social Clubs | Clubes podem distribuir sementes e estacas aos membros |
+| Lojas online | Vendedores na Alemanha ou noutro Estado-membro da UE (a importação de sementes de fora da UE para cultivo é proibida, §4(2) KCanG); não existe registo ou certificação oficial destes vendedores |
+| Importação UE | Compra a vendedores de sementes noutros Estados-membros (p. ex. Espanha, Países Baixos) para cultivo próprio |
+| Cannabis Social Clubs | Cedência aos membros de até 7 sementes ou 5 estacas por mês (§20 KCanG) |
 
 ## Tipos de Sementes {#tipos-de-sementes}
 
+Descrição geral da oferta do mercado de sementes (terminologia comercial, sem fonte regulatória):
+
 | Tipo | Características | Indicação |
 | :---- | :---- | :---- |
-| Feminizadas | Garantia de plantas fêmeas (produzem flores) | Cultivadores iniciantes |
-| Autoflowering | Floração automática após 2-4 semanas, ciclo de 8-12 semanas | Iniciantes, colheitas múltiplas/ano |
-| Regulares | 50% macho/fêmea, requer identificação de sexo | Criadores/breeders |
-| CBD-dominantes | Alto CBD, THC <0.2% | Fins terapêuticos, uso diurno |
+| Feminizadas | Plantas fêmea (produzem flores) | Cultivadores iniciantes |
+| Autoflorescentes | Floração automática após 2-4 semanas, ciclo de 8-12 semanas | Iniciantes, várias colheitas por ano |
+| Regulares | Proporção aproximada 50% macho/fêmea, requer identificação do sexo | Criadores |
+| CBD-dominantes | Alto CBD, THC baixo; o limite de 0,3% THC aplica-se às variedades de cânhamo do catálogo UE [@eurlex2021reg2115], não a sementes de cannabis para consumo | Fins terapêuticos, uso diurno |
 
 ## Critérios de Qualidade {#critérios-de-qualidade}
 
-O que procurar em sementes certificadas:
+Critérios propostos pelos autores para uma futura certificação, parcialmente inspirados nos requisitos aplicados às sementes de cânhamo (germinação, identidade varietal, rastreabilidade) [@eurlex2002dir57]; o perfil de canabinóides e a embalagem são acréscimos dos autores:
 
-* **Genética estabilizada** — Consistência entre plantas da mesma variedade
-* **Taxa de germinação** — Fornecedores credíveis garantem >90%
-* **Informação completa** — Perfil de canabinóides, tempo de floração, altura esperada
-* **Rastreabilidade** — Origem documentada
-* **Embalagem selada** — Protecção contra humidade e luz
+* **Genética estabilizada** — consistência entre plantas da mesma variedade
+* **Taxa de germinação** — testada e declarada no rótulo
+* **Informação completa** — perfil de canabinóides esperado, tempo de floração, altura esperada
+* **Rastreabilidade** — origem documentada
+* **Embalagem selada** — protecção contra humidade e luz
 
 ## Modelo de Certificação Proposto para Portugal {#modelo-de-certificação-proposto-para-portugal}
 
-Baseado no modelo alemão e na posição de Portugal como exportador de cannabis medicinal, propomos:
+**Não conhecemos precedente:** a Alemanha não certifica sementes de cannabis para consumo adulto e não conhecemos outro Estado-membro que o faça. O que se segue é uma proposta de desenho dos autores, que adapta o regime de certificação de sementes de cânhamo da UE [@eurlex2002dir57] e aproveita a posição de Portugal como produtor licenciado de cannabis medicinal [@eco2024].
 
 **Nível 1 — Certificação Base:**
 
 * Origem documentada
 * Taxa de germinação testada
-* Embalagem com informação obrigatória (THC/CBD estimado, tempo floração)
+* Embalagem com informação obrigatória (THC/CBD estimado, tempo de floração)
 
-**Nível 2 — Certificação Premium (Orgânico EU):**
+**Nível 2 — Certificação Premium (Biológico UE):**
 
 * Cultivo sem pesticidas/herbicidas sintéticos
-* Certificação EU-Organic
+* Certificação biológica UE
 * Análise laboratorial completa
 * Rastreabilidade semente-a-venda
+
+A certificação incidiria sobre a variedade e o seu potencial de THC/CBD, não sobre um teor garantido: o teor final depende também das condições de cultivo, e não conhecemos jurisdição de uso adulto que certifique um «THC máximo» por semente; no cânhamo industrial, a UE só certifica semente de variedades com THC ≤0,3% (ver Anexo D). A viabilidade jurídica de certificar sementes de variedades com THC acima de 0,3% depende da lei que criar o regime de clubes e autocultivo; não cabe no actual quadro agrícola da UE.
 
 ## Oportunidade Económica para Portugal {#oportunidade-económica-para-portugal}
 
 Portugal já possui:
 
-* Infra-estrutura de cultivo licenciada para cannabis medicinal
-* Know-how técnico em genética e cultivo controlado
-* Regime de certificação orgânica UE estabelecido
-* Clima favorável para cultivo outdoor
+* Infra-estrutura de cultivo licenciada para cannabis medicinal, com exportações de 32.558 kg em 2024 e cerca de 150 pedidos com decisão de aptidão documental, a aguardar que os requerentes peçam a vistoria do Infarmed [@eco2024]
+* Know-how técnico em genética e cultivo controlado nessas empresas
+* Regime de certificação biológica UE estabelecido
+* Clima favorável ao cultivo outdoor
 
-**Proposta:** Permitir que produtores licenciados portugueses vendam sementes certificadas para:
+**Proposta:** permitir que produtores licenciados portugueses vendam sementes certificadas para:
 
 * Clubes sociais (quando legalizados)
 * Autocultivo pessoal
-* Exportação para outros mercados europeus legalizados
+* Exportação para outros mercados europeus que o permitam
 
-Isto criaria uma cadeia de valor totalmente nacional, desde a genética até ao consumidor final.
+Isto criaria uma cadeia de valor nacional, desde a genética até ao consumidor final. A capacidade disponível dos produtores para esta actividade é um pressuposto dos autores, não um dado apurado.
 
 \newpage

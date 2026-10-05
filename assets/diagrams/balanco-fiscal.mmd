@@ -1,16 +1,18 @@
 flowchart TB
-    subgraph F2["Fase 2 · clubes sem fins lucrativos (base do argumento)"]
+    subgraph F2["Fase 2 · clubes sem fins lucrativos e autocultivo (valores assumidos)"]
         direction LR
-        S["Poupança líquida de enforcement<br/>€30-65 M/ano"] --> U["Afectação proposta: 50-70 %<br/>a prevenção e tratamento<br/>€20-40 M/ano"]
-        C["Custos regulatórios novos<br/>€10-15 M/ano<br/>(já descontados na poupança líquida)"]
-        R["Receitas fiscais: sem imposto específico<br/>sobre cannabis; IVA de 23 % sobre as quotas"]
+        S["Poupança de enforcement<br/>€3,2-15,5 M/ano<br/>(5-26 % dos consumidores no circuito legal)"] --> B["Balanço operacional<br/>−€4,5 a −€11,8 M/ano<br/>(custo líquido em todos os cenários)"]
+        C["Custos regulatórios<br/>€15-20 M/ano"] --> B
+        P["Prevenção e tratamento<br/>€20-40 M/ano<br/>pagos pelo Orçamento do Estado"]
     end
-    subgraph F3["Fase 3 · venda comercial (condicional e especulativo)"]
-        T["Receitas fiscais ≈ €20 M/ano<br/>mercado €100 M × captura 80 % × taxa 25 %"]
+    subgraph F3["Fase 3 · venda comercial (condicional e especulativa)"]
+        T["Receita fiscal €37-60 M/ano<br/>36-58 t × €5,33/g × captura 78 % × taxa 25 %"]
     end
     F2 -. "só se a Fase 3 avançar" .-> F3
 
     classDef base fill:#e7f0fa,stroke:#1c5d99,color:#10243a
+    classDef neg fill:#fbe9e7,stroke:#a33a2a,color:#3a1009
     classDef cond fill:#fff6dc,stroke:#a07800,color:#3a2e00,stroke-dasharray:5 3
-    class R,C,S,U base
+    class S,C,P base
+    class B neg
     class T cond

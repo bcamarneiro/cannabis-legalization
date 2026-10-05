@@ -6,8 +6,8 @@ Fonte Mermaid (`.mmd`) mais PNG pré-renderizado, que é o que PDF, DOCX e site 
 | :---- | :---- | :---- |
 | `estrutura-proposta` | 01 Sumário executivo | Três pilares (o que) e três fases (quando); a Fase 3 é condicional |
 | `cronograma-implementacao` | 11 Cronograma | Gantt do cenário base (realista) |
-| `modelo-alemao-pillars` | 05 Modelos internacionais | CanG: Pillar 1 em vigor, Pillar 2 bloqueado; correspondência com as fases portuguesas |
-| `balanco-fiscal` | 08 Pilar recreativo | Fase 2: poupança líquida de enforcement; Fase 3: receitas fiscais especulativas |
+| `modelo-alemao-pillars` | 05 Modelos internacionais | CanG: Pillar 1 em vigor, Pillar 2 sem lei habilitante; correspondência com as fases portuguesas |
+| `balanco-fiscal` | 08 Pilar recreativo | Fase 2: poupanças de enforcement abaixo dos custos regulatórios (custo líquido); Fase 3: receitas fiscais especulativas |
 
 Terminologia: "Pilares" (Medicinal, Recreativo, Cânhamo) dizem *o que*; "Fases 1-3" dizem *quando*; "Pillar 1/2" são os pilares da lei alemã.
 

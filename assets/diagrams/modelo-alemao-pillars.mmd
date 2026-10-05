@@ -1,20 +1,20 @@
 flowchart TB
-    DE["Alemanha · Cannabis Act (CanG)<br/>em vigor desde 1 de abril de 2024"]
+    DE["Alemanha · Cannabis Act (CanG)<br/>em vigor desde 1 de Abril de 2024"]
     subgraph S1["Pillar 1 · em vigor"]
         direction TB
         A1["Autocultivo: até 3 plantas por adulto"]
-        A2["Clubes sem fins lucrativos: máx. 500 membros<br/>25 g/dia e 50 g/mês por membro"]
-        A3["Situação (nov. 2025): 357 clubes aprovados,<br/>~190 operacionais; ~2 % dos consumidores elegíveis (abr. 2025)"]
+        A2["Clubes sem fins lucrativos: máx. 500 membros<br/>25 g/dia e 50 g/mês por membro<br/>(18-20 anos: 30 g/mês, THC até 10 %)"]
+        A3["Situação (1 Out. 2026): 494 licenças<br/>para 916 candidaturas; sem contagem oficial<br/>de clubes em funcionamento"]
     end
-    subgraph S2["Pillar 2 · bloqueado"]
+    subgraph S2["Pillar 2 · sem lei habilitante"]
         direction TB
-        B1["Venda comercial regulada<br/>em cidades-piloto"]
-        B2["Obstáculo: direito da UE / Schengen<br/>sem avanço desde 2025"]
+        B1["Venda comercial regulada<br/>em projectos-piloto municipais"]
+        B2["Redesenhado em 2023 após preocupações da Comissão Europeia;<br/>coligação caiu em Nov. 2024; BLE recusou um piloto em Set. 2025"]
     end
     subgraph PT["Portugal"]
         direction TB
-        C1["Fase 2 ≈ Pillar 1<br/>prioritário e viável agora"]
-        C2["Fase 3 ≈ Pillar 2<br/>condicional, sem promessa ao eleitor"]
+        C1["Fase 2 ≈ Pillar 1<br/>clubes + autocultivo"]
+        C2["Fase 3 ≈ Pillar 2<br/>condicional a dados e ao enquadramento europeu"]
     end
     DE --> S1
     DE --> S2
@@ -22,8 +22,8 @@ flowchart TB
     S2 --> C2
 
     classDef ok fill:#e4f4e8,stroke:#2b7a3d,color:#10301a
-    classDef blocked fill:#fff6dc,stroke:#a07800,color:#3a2e00
+    classDef cond fill:#fff6dc,stroke:#a07800,color:#3a2e00
     classDef pt fill:#e7f0fa,stroke:#1c5d99,color:#10243a
     class A1,A2,A3 ok
-    class B1,B2 blocked
+    class B1,B2 cond
     class C1,C2 pt

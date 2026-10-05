@@ -263,3 +263,224 @@ Todas as tarefas BAIXA concluídas.
 - TASKS.md limpo: 466 → ~250 linhas (foco no pendente)
 
 **Última atualização:** 2026-01-26 (BAIXA 5-10 concluídas, TODAS tarefas refinamento completas): BAIXA 5 L751 secção cânhamo movida após medicinal (estrutura lógica: consenso→não-controverso→experimental), BAIXA 6 L71-76+L1680-1686 cânhamo integrado cronogramas (Q4 2026 proposta regulatória → Q2-Q3 2027 aprovação piloto → Q4 2027-2028 implementação ISA/UTAD → 2028-2030 avaliação), BAIXA 7 L2585-2750 modelo económico detalhado Anexo A (5 categorias custos clube €280k-393k/ano = €58-82/mês, 3 modelos financiamento, break-even 400 membros €70/mês optimal, investimento inicial €168k-252k, payback 12-18 meses), BAIXA 8 L1737-1740+L2222-2225 "Resposta ao Chega" simplificada (reduzido ~60 palavras defensivas para ~20 palavras directas "factos falam por si"), BAIXA 9 análise completa comparações álcool (whataboutism já removido BAIXA 8, mantidas referências apropriadas: Lancet científico L484-497, coerência regulatória L1697, backing científico L2244/L2253), BAIXA 10 L71-76+L1680-1686 timeline caveats adicionados (3 cenários: optimista 12 meses Q2 2027, realista 15-18 meses Q3-Q4 2027, conservador 24+ meses 2028+; nota precedente alemão implementação técnica +3-6 meses; timeline já realista baseado Lei 30/2000 PT + CanG Alemanha ambos ~18 meses). **Prioridades: CRÍTICO 5/5 ✅, ALTA 7/7 ✅, MÉDIA 16/16 ✅, BAIXA 10/10 ✅ — DOCUMENTO COMPLETO**
+
+## Auditoria factual e retórica, rondas 3-6 (2026-10-04/05)
+
+Rondas 5-6 (2026-10-05): sete verificadores independentes reabriram as fontes de tudo o que a ronda 4 mudou, sem tratar como verdade os factos fixados pelas rondas anteriores; um oitavo verificou as próprias correcções da ronda 6. Resultado: oito dos dez factos fixados confirmados; corrigidos o veto presidencial de 2000, que estava omitido (Lei 30/2000: proposta datada de 1-6-2000, entrada na AR a 6-6-2000, veto lido a 27-7-2000, Decreto 39/VIII), o preço do mercado ilegal (passa a ICAD, €5,33/g em 2023; Fase 3 €37-60M/ano), os processos CDT (83% só cannabis em 2018, 75% em 2021) e as condenações de 2021 (475, valor definitivo), a Lei 55/2023 (detenção para consumo é contra-ordenação independentemente da quantidade; o cultivo continua a ser crime), o §18(2) do KCanG (amostragem obrigatória), a contagem alemã verificável (337/759, Outubro de 2025), o preço por grama do Anexo A (€2,40-4,80 sem IVA, até €2,95-5,90 com IVA) e cerca de 60 correcções pontuais. Lição: um verificador também erra (duas correcções da ronda 6 vinham de leituras erradas e foram desfeitas); as afirmações legais e as negativas universais confirmam-se sempre na fonte primária antes de entrar no texto.
+
+### Rondas 3-4
+
+
+Ronda 3: oito verificadores independentes, sem acesso aos relatórios anteriores, reabriram as fontes do texto corrigido na ronda 2. Encontraram erros que a própria ronda 2 tinha propagado: residência de 6 meses no KCanG (é lei), INCB 1988 sobre o Canadá (só 1961), três vetos à eutanásia (foram quatro), votação final global da Lei 30/2000 (6-7-2000, não 19-10), preço EUDA (€5,58/g em 2023, não €5,3-5,6). Encontraram também a aritmética do cap. 08 incoerente. Ronda 4: sete agentes corrigiram tudo, com o cap. 08 como referência única da economia (base €40-80M, poupanças €3,2-15,5M/ano, custos €15-20M/ano, custo líquido €4,5-11,8M/ano, −€61M a −€119M a 10 anos, Fase 3 €39-63M/ano), aritmética reverificada por script. Bibliografia: 19 chaves duplicadas fundidas, 9 órfãs removidas, notas de trabalho retiradas dos campos que aparecem na lista de referências, autores inventados corrigidos (pmc2024midwives). Diagramas regenerados (cronograma, estrutura, modelo alemão, balanço fiscal). `heading_ids.py check` passa a detectar colisões entre IDs automáticos e explícitos. Falta a ronda 5 (verificação independente do diff da ronda 4).
+
+Pendências que ficaram por resolver (fontes inacessíveis ou decisões):
+
+### Para o Bruno (só manualmente)
+
+- (Opcional) EUDA Statistical Bulletin 2025, tabela PPP-02-1-1-2-3: o robots.txt da EUDA proíbe acesso automático. O documento passou a citar o ICAD (€5,33/g em 2023); a série atribuída à EUDA (€5,58) não coincide com o ICAD e só deve voltar se for confirmada no browser.
+- Textos integrais atrás de paywall ou login: Manthey et al. 2025 (valores retirados sobre membros de clubes), Pardal et al. 2020 (estimativa de 800-1.000 clubes em Espanha), Anthony et al. 1994, Nutt et al. 2010 (pp. 1563-1564), relatório anual do INCB de 2023 (§§181-185).
+- sicad.pt (Relatório Anual 2018, condenações e processos CDT) e cdphe.colorado.gov (HKCS 2023) estão bloqueados ao acesso automático; guardar os PDFs e indicar páginas.
+- europarl (ep2019cannabis) devolve 202 ao acesso automático; confirmar a resolução P8_TA(2019)0113.
+
+
+### Pendências das rondas 5-6
+
+- 13:49 — prova dos 6 meses de residência: o Cartão de Cidadão não prova a duração nem serve a estrangeiros residentes; definir o meio de prova.
+- 14:9 — art. 4.º, n.º 4, do Regulamento (UE) 2021/2115 (THC ≤0,3%) não confirmado no EUR-Lex; confirmar à mão.
+- 08 e 13 — o modelo português prevê cultivador e assistente de distribuição remunerados, o que se afasta do §17 do KCanG (cultivo pelos membros); decidir se se mantém.
+- 08 — os 46 clubes são pressuposto dos autores (o rácio alemão dá ~43 com os dados de Outubro de 2025 e ~63 com os de Outubro de 2026); a economia não foi recalculada.
+- 04 e 08 — IVA de 23% sobre as entregas de cannabis e isenção das quotas são o cenário base dos autores; falta parecer da AT.
+- 16:442 — média UE de ~15% (15-34 anos) da EUDA sem o intervalo de anos dos inquéritos confirmado.
+- 10:110 e 16:493 — enumeração das convenções (1961, 1971, 1988) no relatório do INCB de 2023 confirmada só em cobertura secundária e nos §§182-184 citados.
+
+### Cap. 01-03 e 12
+
+- 02:56 — "10,5% ao longo da vida (15-74)" [@sicad2022]: valor não encontrado em documento aberto; obter o quadro 15-74 do relatório final do INPG 2022 ou usar 12,2% (15-64) [@balsa2023inpgnota].
+- 03:47 — DL 430/83: falta entrada bib com URL do DRE.
+- 02:47 — ribeiro2024economic: autoria e ano por confirmar (ResearchGate 403; possivelmente Mendonça et al., Jan 2025).
+- 01, 03, 06, 10 — dn2023condenacoes é coluna de opinião (424 condenações em 2021): citar a fonte primária (RA 2021 do SICAD ou DGPJ).
+
+### Cap. 04 e 06
+
+- 06:71 — peso do cultivo indoor na produção ilegal europeia: frase suavizada e sem citação; citar EU Drug Market: Cannabis (EUDA/Europol, 2023) quando acessível.
+- 06:32 — Colorado 27% do gasto (Arcview via Westword): fonte primária.
+- 04:82 — idade 21 nos EUA e no Quebeque: citar NCSL e LégisQuébec.
+- 04:194 — Colorado 5 ng/ml em sangue total: citar C.R.S. 42-4-1301(6)(a)(IV).
+- 04:166 — Nutt et al. 2010: confirmar pp. 1563-1564 para repor a atribuição da advertência.
+- 04:231 — excepção medicinal sem limiar: fundamentar (Ramaekers 2009; Bosker 2012) ou pedir parecer técnico (INMLCF/ANSR).
+- 04:238 — rótulo "6 h após inalação / 12 h após ingestão" é margem dos autores; validar.
+
+### Cap. 05 e 07
+
+- Manthey et al. 2025 (paywall): abrir o texto integral para repor, com atribuição correcta, os valores retirados (≤2% membros; <0,1% da procura).
+- 05:188-194 — AP e Bangkok Post (paywall): números confirmados só via Nation Thailand.
+- 07:84 — inquérito DocCheck "divulgado pela Bloomwell": confirmar quem o encomendou.
+- 07:7,18 — "cerca de 17 kg vendidos em 2023": período ambíguo na fonte; confirmar no Infarmed.
+
+### Cap. 08
+
+- 08:127 — DDN 2022 (álcool e tabaco aos 18): valores retirados; repor só com o PDF do relatório.
+- 08:355-370 — sciety2025illicit é preprint; substituir pela versão publicada (J Cannabis Res, 2026, DOI 10.1186/s42238-026-00414-y) depois de a confirmar.
+- 08:977 — consultas informais Alemanha–Comissão (2022-23) e fim da coligação: acrescentar citação (o cap. 05 cita INCB §182; os caps. 10 e 11 citam mitmischen2024ampel).
+- 08:1057 — população de Espanha "47M" (INE ≈ 48M): recalcular o rácio 1:47-59k.
+
+### Cap. 09-11 e anexo E
+
+- 09 — tonelagem nacional de fibra em França (InterChanvre/FranceAgriMer); 1,2 t/ha fica como pressuposto; custos de terra e trabalho (Eurostat); revisão agronómica (p. ex. Amaducci et al. 2015); preço da palha.
+- 10, 17 — CHEGA: nenhum documento oficial encontrado; Malta: citar a lei (Cap. 628) com artigos; PS a 18-1-2019: RTP diz 8 deputados contra, Polígrafo diz 7.
+- 11 — motivo da nova votação do Decreto n.º 25/VIII (19-10-2000) não verificado (parlamento.pt BID=6026).
+- 10, 11 — IDs com "probabilidade-20-30/40-50" e "comissão-europeia-bloqueou" mantidos por causa do lock (cosmético).
+
+### Anexos A-C
+
+- 13:223-322 — modelo de custos do Anexo A é pressuposto dos autores (aritmética corrigida: testes €18.000-43.200/ano; total €280.600-407.200 para 400 membros); consumo médio de 15-30 g/mês sem fonte própria.
+- 15:13, 15:24 — CanLeg autorizado em Junho de 2026: falta uma fonte datada na entrada bib.
+- 15:217 — "sem medidas formais" do INCB contra esses países: afirmação por ausência.
+- 14:9, 14:34 — EUR-Lex inacessível (Dir. 2002/57/CE; Reg. 2021/2115); corroborado só pela página da Comissão.
+
+### Anexo D
+
+- 16:43/74/303 — IDs "ataque-N" (sem nome de partido) mantidos para não quebrar ligações.
+- 16:442/452 — comparação UE 15-34 anos (4,9% vs ~15%) não consta do cap. 02; confirmar no Statistical Bulletin e acrescentar, ou retirar.
+
+## Auditoria factual e retórica, rondas 1-2 (2026-10-04) — histórico (muitos itens resolvidos nas rondas 3-4)
+
+Oito auditores reabriram todas as fontes (ronda 1: 77 fontes mal representadas, 96 exageros, 124 afirmações sem suporte, 90 problemas de retórica, 217 OK); sete agentes de correcção trataram todos os itens (ronda 2). Relatórios completos em `/tmp/audit-r1/` (não versionados). Resultado mais importante: com o denominador correcto (≈180.000 consumidores no último ano, ICAD) o balanço dos clubes é negativo em todos os cenários (cap. 08). Pendências que ficaram por resolver, por grupo:
+
+### Cap. 01-03 e 12
+
+- chapters/02-panorama-portugues.md:57 — "Prevalência ao longo da vida (15-74 anos): 10,5% [@sicad2022]" mantido por ser facto fixado em REGRAS, mas não encontrei 10,5% em nenhum PDF disponível (nota de imprensa INPG 2022 dá 12,2% para 15-64; o URL do .bib devolve o Relatório Anual 2022). Falta: abrir o relatório completo do V Inquérito e confirmar o indicador/grupo etário, ou substituir por 12,2% (15-64).
+- chapters/02-panorama-portugues.md:42 — preço do mercado ilegal "€5,3-5,6/g (EUDA)" escrito a partir dos factos fixados, sem chave bib. Falta: entrada BibTeX do EUDA Statistical Bulletin (preços de retalho, Portugal) e citar.
+- chapters/02-panorama-portugues.md:47 — ribeiro2024 (36-58 t/ano) continua inacessível (ResearchGate 403). Falta: PDF do autor ou substituir por estimativa derivada (~180.000 consumidores no último ano × consumo médio), assinalada como estimativa.
+- chapters/02-panorama-portugues.md:58 — comparação europeia usa a nota de imprensa do INPG 2022 (15-64, OEDT, 30 países). REGRAS pedia comparação EUDA 15-34 (PT ~4,9% vs UE ~15%) "se confirmares no Statistical Bulletin"; não confirmei. Falta: verificar no Statistical Bulletin e, se confirmado, acrescentar a linha 15-34.
+- chapters/03-contexto-historico.md:9,15 — história de Torre de Moncorvo assenta num artigo de imprensa (CannaReporter 2022) que cita Telmo Verdelho (1981). Falta: referência académica directa (Verdelho, ou monografia sobre a Real Feitoria dos Linhos e Cânhamos) para substituir/complementar.
+- chapters/03-contexto-historico.md:16 — "cultivo de cânhamo manteve-se até meados do século XX" sem fonte (afirmação genérica). Falta: dado do INE/Estatísticas Agrícolas sobre área de cânhamo no séc. XX, ou remover a frase.
+- chapters/03-contexto-historico.md:22 — não confirmei que o Decreto 12210 (1926) nomeia expressamente o "cânhamo índio" (o CEJ e Coelho 2023 só citam ópio, coca, cocaína, morfina, heroína; a menção ao cânhamo índio aparece num projecto de lei do BE, fonte política). O texto só diz "estupefacientes". Falta: abrir o Decreto 12210 no Diário do Governo para confirmar a inclusão da canábis.
+- chapters/03-contexto-historico.md:26 — "Convenção de Genebra de 1925" e "agregou tratados de 1912-1953" sem citação. Falta: entrada bib para a Convenção Única de 1961 (UNODC) cujo preâmbulo/comentário lista os tratados anteriores.
+- chapters/03-contexto-historico.md:29-30 — descrições das Convenções de 1971 e 1988 sem citação (texto legal). Falta: entradas bib UNODC para ambas.
+- chapters/03-contexto-historico.md:41,46 — datas de adesão/ratificação (Dez 1971, Abr 1979) confirmadas pela auditoria na UN Treaty Collection mas sem chave bib. Falta: entrada bib (UNTC, capítulo VI).
+- chapters/03-contexto-historico.md:47 — DL 430/83 citado via Coelho 2023 (que diz "até 1983" e invoca a Convenção de 1961); a data exacta 13/12/1983 veio da auditoria. Falta: entrada bib do DL 430/83 (DRE).
+- chapters/03-contexto-historico.md:57 — "115 deputados em 230" sem citação (resultado eleitoral 1999). Falta: entrada bib (CNE/Parlamento) ou remover o número.
+- chapters/03-contexto-historico.md:64 — "O CDS-PP fez campanha contra a 'legalização das drogas'" — confirmado indirectamente pelas peças TSF de 2000 (referendo, votação nominal), mas a expressão exacta "legalização" não foi verificada. Falta: citação directa ou reformular para "contra a despenalização".
+- chapters/03-contexto-historico.md:78,122 — Lei 30/2000 "aprovada 19/10/2000, PS+PCP+PEV+BE vs PSD+CDS" usa facto fixado; parlamento2000lei30 não tem URL. Falta: ligar ao DAR da votação final global (debates.parlamento.pt) e corrigir a note do .bib.
+- chapters/01-sumario-executivo.md:75 — "a avaliação oficial intercalar [alemã] ainda não mostra deslocação significativa do mercado ilegal" escrito a partir dos factos fixados, sem chave bib (o relatório intercalar deve estar citado no cap. 05 — grupo C). Falta: chave bib do relatório intercalar e citar aqui.
+- chapters/01-sumario-executivo.md:122 — "sem objecção formal da Comissão Europeia" usa facto fixado, sem citação. Falta: fonte (Lancet 2024 ou imprensa) a confirmar no cap. 05.
+- chapters/01-sumario-executivo.md:125 — "Captura estimada 30-45% mercado ilegal" e "ROI positivo" dependem do cap. 08 (grupos D/E); não verificado aqui.
+- chapters/12-conclusao.md:20 — "pode criar emprego em regiões de baixa densidade (estimativa por fazer, ver capítulo sobre impacto económico)" — a estimativa não existe em nenhum capítulo auditado. Falta: cap. 08 produzir o número ou retirar a referência.
+- chapters/12-conclusao.md:14 — sondagem portuguesa sobre regulação continua por encontrar.
+- references.bib — correcções de metadados listadas em bib-A.md (dn2020condenacoes, sicad2018condenacoes, camara2015, parlamento2000lei30, sicad2022, unnews2020, statcan2019youth, lei332018, releaf2023 em ch05/ch16).
+- Transversal — a âncora #o-panorama-português-em-números (ch02) é agora referida de ch03; a âncora #3.5-impacto-no-consumo-juvenil (ch05) continua referida de ch01. Verificado com heading_ids.py check.
+
+### Cap. 04 e 06
+
+- chapters/04-ciencia.md:67 — Scott 2018 refere adolescentes/jovens adultos (média 20,6 anos); não há fonte específica para a faixa 21-25. Falta fonte ou manter o hedge.
+- chapters/04-ciencia.md:61,65 — "cerca de 25 anos" para maturação pré-frontal continua sem citação neuroanatómica (p. ex. Gogtay 2004, Sowell 2003). Falta fonte.
+- chapters/04-ciencia.md:145 — tratamento em IVA da entrega de cannabis por clube sem fins lucrativos é entendimento do autor; falta parecer da AT ou análise jurídica. A referência à taxa alemã de 7% foi removida (sem fonte).
+- chapters/04-ciencia.md:137,149-152 — poupanças de enforcement €40-80M/ano e OE €10-15M/ano continuam sem fonte neste capítulo (remete para #financiamento no cap. 08; verificar lá — fora do grupo B).
+- chapters/04-ciencia.md:199 — Colorado 5 ng/ml "permissible inference": falta citar C.R.S. 42-4-1301(6)(a)(IV) (não aberto).
+- chapters/04-ciencia.md:201 — sanções alemãs do regime actual (§24a StVG: multa, pontos, proibição de conduzir) não verificadas; a célula diz "não verificadas".
+- chapters/04-ciencia.md:182 — afirmação sobre testes de saliva vs. novo limite depende de blog de grow-shop (bessergrowen2025), agora declarado como tal; falta fonte oficial (Grenzwertkommission ou relatório RLP/Mainz quando publicado).
+- chapters/04-ciencia.md:229 — patamar de THC equivalente a 1,2 g/l (crime) não definido; exige parecer técnico (INMLCF/ANSR).
+- chapters/04-ciencia.md:236 — excepção medicinal com limite 5 ng/ml é proposta do autor; sem fonte de validação.
+- chapters/06-principios-orientadores.md:29 — statcan2025cannabis: valores 2024 ($6,071 mil M licenciado / $2,654 mil M não licenciado) confirmados via StratCann a citar a tabela 36-10-0124-01; a tabela StatCan em si não foi aberta (página dinâmica). Confirmar directamente.
+- chapters/06-principios-orientadores.md:28 — Uruguai: percentagens por via (farmácias/clubes/autocultivo) não foram inseridas por falta de confirmação directa (IRCCA); REGRAS dá ~460 clubes (2024) — não usado no cap. 06.
+- chapters/06-principios-orientadores.md:30 — Colorado 27% (2017): fonte é coluna de imprensa ("Dear Stoner", Westword) a citar Arcview; relatório Arcview não consultado. Substituir ou remover.
+- chapters/06-principios-orientadores.md:34-36 — percentagens de migração para clubes (10-15%, 30-45%, 50-60%) são estimativas do autor sem modelo explícito; falta declarar o método ou remeter para análise do gap de mercado.
+- chapters/06-principios-orientadores.md:48-51 — euda2025nps: página EUDA bot-walled na ronda 1; "27 países / 22 EM" e "18 semi-sintéticos" mantidos com "segundo EDR 2025", sem confirmação directa nesta ronda.
+- chapters/06-principios-orientadores.md:71 — mills2021cannabis (na verdade 2012): "4.600 kg CO2/kg" não reconfirmado nesta ronda (ronda 1 confirmou).
+- chapters/06-principios-orientadores.md:107,142 — "€20-40M/ano para prevenção" remete para #financiamento (cap. 08); verificar coerência lá.
+- chapters/06-principios-orientadores.md:122 — ID da secção é "#coerência-com-outras-políticas-do-livre" (resíduo partidário no ID); o título já é neutro. Mudar o ID implica actualizar docs/heading-ids.lock e ligações — fora do âmbito B.
+- chapters/06-principios-orientadores.md:127 — "efeitos de dissuasão pequenos, não nulos" na literatura de preços/disponibilidade: sem citação; adicionar (p. ex. Pacula & Lundberg 2014) ou remover o parêntesis.
+- chapters/06-principios-orientadores.md:160 — mmjdaily2025 reporta 343 licenças (Out 2025, dados Der Spiegel); cap. 05 diz 357 (Nov 2025) com outra fonte? Harmonizar número e data entre capítulos (grupo do cap. 05).
+- references.bib — ver bib-B.md: duplicados (summers/nature; hammond/sciencedirect; Meier/meier; Jackson/jackson), chaves erradas (torresmoreno→kleiner; grotenhermen 2007→2003; mills 2021→2012) e notas desactualizadas. Não editado (fora do âmbito).
+
+### Cap. 05 e 07
+
+- chapters/05-modelos-internacionais.md: Análise Crítica (secção #alemanha-taxa-operacional) — custo de energia Alemanha vs Portugal ficou como "pressuposto do autor" sem números; falta Eurostat (preços não-domésticos, banda adequada) para repor comparação quantitativa.
+- chapters/05-modelos-internacionais.md: Análise Crítica — "cultivo indoor demora 3-5 meses" e "outdoor/estufa 8-10 meses/ano no Sul" rotulados como estimativa do autor; falta fonte agronómica.
+- chapters/05-modelos-internacionais.md: tabela de sensibilidade — parâmetros 46 clubes e 400 membros/clube são pressupostos do autor; coluna "captura de mercado" removida por não derivar de cálculo. Ligar a um cálculo explícito se se quiser repor.
+- chapters/05-modelos-internacionais.md: Análise Crítica — afirmação sobre testes rápidos de THC "calibrados para 1,0 ng/ml" removida (só fonte de blogue de grow-shop, bessergrowen2025); procurar fonte primária (Polizei/BASt) ou deixar como está.
+- chapters/05-modelos-internacionais.md: "Estado actual da implementação (Janeiro 2026)" — título mantido por ID, mas a tabela tem agora dados de Nov 2025 e Out 2026; considerar renomear título mantendo o ID.
+- chapters/05-modelos-internacionais.md: Colorado — detalhes "sem alteração face a 2021" e "40% consideram fácil obter" removidos (página HKCS 2023 bloqueou na ronda 1; não reconfirmados). Repor só com a tabela HKCS 2023.
+- chapters/05-modelos-internacionais.md: Monitoring the Future — valores de 2013 não confirmados (PDFs MTF bloqueados por Cloudflare); texto usa só 2023 (NIDA). Preencher 2013 a partir da Tabela 1 do relatório MTF 2023 se se quiser a comparação 2013-2023.
+- chapters/05-modelos-internacionais.md: ESPAD — cláusula removida do ponto 4 da Interpretação; preencher com dados ESPAD 2024 (publicado 2025) para Portugal.
+- chapters/05-modelos-internacionais.md: incb2024report — site do INCB devolveu 403; redacção confirmada via cobertura secundária. Abrir o PDF do relatório (E/INCB/2023/1) e indicar parágrafo.
+- chapters/05-modelos-internacionais.md: Uruguai — cdays2025 é High Times a relatar apresentação; substituir pelo inquérito nacional JND/OUD 2024 (não tratado nesta ronda; fora das prioridades).
+- chapters/05-modelos-internacionais.md: Pillar 2 — legenda corrigida; a entrada bib businessofcannabis2025pillar2 continua a dizer "bloqueado pela Comissão" na note (não posso editar references.bib).
+- chapters/07-pilar-medicinal.md: Alemanha 2017 — lista de barreiras iniciais (recusas de reembolso ~1/3, burocracia) removida por falta de fonte; repor com BfArM Begleiterhebung / GKV-Spitzenverband.
+- chapters/07-pilar-medicinal.md: €300/mês vs pensão de invalidez removido (fonte internationalcbc2021 sem dados); repor com valor oficial da pensão social de invalidez (Segurança Social, ano) se se quiser o contexto.
+- chapters/07-pilar-medicinal.md: Israel — comparticipação e custo para o doente marcados "não verificado neste documento"; falta fonte (HMO/IMCA).
+- chapters/07-pilar-medicinal.md: Reino Unido — cicouncil2026patients é estimativa de consultoras do sector; não há contagem oficial de doentes. Dito no texto.
+- chapters/07-pilar-medicinal.md: tabela comparativa — "Produção nacional" para Alemanha/Israel/RU/Canadá continua qualitativa e sem fonte.
+- chapters/07-pilar-medicinal.md: chaves bib com autores errados (suraev2020, torresmoreno2023, rock2024, lei2024, hightimes2024) continuam a ser citadas; renomear em references.bib e actualizar citações (ver bib-C.md).
+- chapters/07-pilar-medicinal.md: §61 SGB V (copagamento 10%, 5-10 €) e §31(6) citados via gesetze-im-internet; confirmar que o texto de §61 não foi alterado pelo BStabG 2026.
+
+### Cap. 08
+
+- chapters/08-pilar-recreativa.md:286 (e secção gap de mercado) — preço do mercado ilegal €5,3-5,6/g escrito a partir dos factos fixados em REGRAS e citado como [@euda2025ppp]. Falta: abrir a tabela por país do Statistical Bulletin (o site EUDA devolve desafio JS a curl/WebFetch; o PDF https://www.euda.europa.eu/system/files/documents/2025-08/icad_statistical-bulletin-2023.pdf só veio em bruto via mcpjungle) e confirmar a linha Portugal/herbal.
+- chapters/08-pilar-recreativa.md:125-127 — dados de poliuso e "7-8/4/2 em cada 10" aos 18 anos citados ao Relatório Anual SICAD 2022 [@sicad2022prevalence] (confirmado no PDF: 36% dos consumidores canábis+álcool; qualquer droga 27% em 12M). Os valores álcool 78% e tabaco 36% (12M) vêm do sumário do inquérito DDN 2022 (snippet ICAD), não confirmados no PDF do relatório DDN (bitstream rcaap 404). Falta: entrada bib própria para "Comportamentos Aditivos aos 18 anos — DDN 2022" (Carapinha, Calado, Neto, SICAD 2023) com URL funcional.
+- chapters/08-pilar-recreativa.md:313 — [@ekocan2025] citado para "relatório intercalar: deslocação do mercado ilegal ainda não significativa" (REGRAS). Chave já presente em references.bib (verificado 2026-10-04, após merge); nada a fazer salvo confirmar que a nota do bib suporta a frase.
+- chapters/08-pilar-recreativa.md:371 — stratcann2024pesticides (New Brunswick) continua inacessível (Cloudflare). Números mantidos conforme nota do .bib, não verificados.
+- chapters/08-pilar-recreativa.md:440-448 — limite geral de 1.000 L de vinho caseiro sem declaração não confirmado; texto passou a "<10 hl para consumo doméstico (IVV) / limite geral por confirmar". Falta: abrir o DL 213/2004 e o art. 81.º do CIEC (ver chave ciec2010 em bib-H.md) e fixar o valor.
+- chapters/08-pilar-recreativa.md:546 — "consumo fora do horário não constitui justa causa" reescrito como interpretação dos autores. Falta: acórdão ou doutrina.
+- chapters/08-pilar-recreativa.md:131-146 — riscos farmacológicos do poliuso rotulados como síntese dos autores. Falta: 1-2 revisões (p. ex. Subbaraman & Kerr 2015 sobre uso simultâneo álcool-cannabis; Meier & Hatsukami 2016 sobre co-uso cannabis-tabaco) para citar.
+- chapters/08-pilar-recreativa.md:195-201 — peer influence rotulado como hipótese de trabalho. Falta: revisão sobre normas de pares e CUD, se se quiser manter como evidência.
+- CROSS-CAPÍTULO (não editado, fora do grupo D): a recomputação com ~180.000 consumidores dá captura 5-26%, poupanças €3-17M/ano < custos regulatórios €15-20M/ano, ROI negativo em todos os cenários, sem payback em 10 anos. Contradiz: chapters/04-ciencia.md:133,150 e chapters/06-principios-orientadores.md:109 ("€20-40M/ano via poupanças enforcement"); chapters/16-anexo-d-argumentacao.md:47,61,315,410,461,541,547,560 ("€20-40M via poupanças"; "custos €40-80M e poupança líquida €30-65M"; "Estado não perde dinheiro"); chapters/05-modelos-internacionais.md:142 (remete para #sensitivity-roi como "ROI ajustado"). Falta: reescrever essas passagens: a dotação €20-40M é decisão política financiada pelo OE; poupanças cobrem só uma fracção.
+- assets/diagrams/balanco-fiscal.png — diagrama mostra "poupança líquida €30-65M/ano" e "€20M Fase 3"; legenda corrigida no texto, imagem a regenerar (valores novos: poupanças €3-17M vs custos €15-20M; Fase 3 €37-63M).
+- chapters/08-pilar-recreativa.md (tabela distribuição geográfica) — populações por distrito aproximadas, AML e Setúbal sobrepõem-se, soma ≠ 10,75M; texto agora avisa. Falta: refazer com INE 2024 por distrito/NUTS III.
+- chapters/08-pilar-recreativa.md (sensibilidade) — "357 de 791 pedidos (45%)" citado a [@bcav2025], cuja URL não resolve (DNS); valor só confirmado por republicação (Lumino Recruit). Falta: fonte primária datada (p. ex. Statistisches Bundesamt / BfArM / Länder) e corrigir URL do bib.
+- chapters/08-pilar-recreativa.md (comparação internacional) — Uruguai ~460 clubes em 2024 (REGRAS) confirmado só em fonte jornalística (El Planteo, cita IRCCA); usei o valor IRCCA de 31/12/2025 (557). Entrada elplanteo2025uruguay em bib-D.md não está citada no texto; pode ser descartada.
+- chapters/08-pilar-recreativa.md (comparação comercial) — regime de IVA das quotas dos clubes: reescrito como "a confirmar (isenção art. 9.º n.º 19 CIVA pode aplicar-se)". Falta: parecer fiscal.
+- chapters/08-pilar-recreativa.md (Fase 3) — valor do mercado ilegal €190-325M = 36-58 t (Ribeiro) × €5,3-5,6/g (EUDA); Ribeiro continua inacessível (ResearchGate 403), toneladas tomadas do abstract via snippet.
+
+### Cap. 09-11 e anexo E
+
+- chapters/10-posicoes-partidarias.md:97 — declaração comum relativa ao art. 71(2) da CAAS: parafraseada, não citada; o EUR-Lex bloqueou o acesso automatizado (PT HTML/PDF). Falta: abrir o JO L 239 de 22-9-2000 (p. 19-62 e Acta Final) e confirmar a redacção portuguesa; se possível citar verbatim.
+- chapters/10-posicoes-partidarias.md:110 — "o INCB invocou também a Convenção de 1988 (art. 3(2))" para o Canadá: facto fixado em REGRAS, mas o comunicado INCB de 17-10-2018 (incb2018canada) só cita a Convenção de 1961. Falta: localizar o documento INCB (relatório anual 2018, §) que invoca a de 1988 e citá-lo.
+- chapters/10-posicoes-partidarias.md:74 — contagem de clubes alemães (791/357 Nov. 2025; 916/494 1-10-2026) vem do BCAv, associação do sector; não há estatística federal. Falta: fonte oficial (BLE/Länder) se vier a existir.
+- chapters/10-posicoes-partidarias.md:34 — desfecho do grupo de trabalho do PS anunciado em Set. 2023 continua por verificar.
+- chapters/10-posicoes-partidarias.md:15 e 17:37 — JPP "sem posição conhecida": não se procurou programa eleitoral do JPP 2025; falta confirmar ausência de referência.
+- chapters/10-posicoes-partidarias.md:11-18 — BE, CDS-PP, PAN, PCP com "sem fonte directa" na coluna de linhas vermelhas: só o pedido de posições (anexo E, pergunta 7) pode preencher.
+- chapters/11-cronograma.md:13 — Despacho n.º 3229/98: a cópia está em /tmp/audit-r2/dr1998.pdf (DR II série n.º 45, 23-2-1998) mas falta a ligação permanente no DRE para a entrada bib.
+- chapters/11-cronograma.md:13 — "relatório entregue a 2-10-1998": data vem da note de rcm1999estrategia (bib-A); não foi aberta fonte primária nesta ronda.
+- chapters/11-cronograma.md:27 — rr2023eutanasia: rr.pt devolveu 403; cronologia confirmada só por excertos de pesquisa e por rtp2025eutanasia. Abrir manualmente.
+- chapters/09-pilar-canhamo.md:9,15 — números de mercado são de consultoras (MDF, FBI) e mudam a cada edição; o texto agora indica a edição consultada. Considerar substituir por dados EIHA/Eurostat (área cultivada, não valor de mercado).
+- chapters/09-pilar-canhamo.md:159,188 — "~28.000 t de fibra para ~23.000 ha (≈1,2 t/ha)": vem da edição anterior do relatório MDF (note do .bib) e do facto fixado em REGRAS; a página MDF actual não mostra esse dado no excerto acessível. Falta fonte primária francesa (InterChanvre/FranceAgriMer: rendimento de palha 7-8 t/ha e fracção de fibra) para fixar o rendimento em fibra.
+- chapters/09-pilar-canhamo.md:35-41 — tabela "Valor estimado/ha" por produto: sem fonte; rotulada como pressuposto dos autores. Falta: substituir por dados de ensaios ou fontes francesas/italianas.
+- chapters/09-pilar-canhamo.md:27,123 — "duas colheitas anuais" no Alentejo: hipótese agronómica sem fonte; mantida como "a confirmar agronomicamente".
+- chapters/09-pilar-canhamo.md:59,72,148 — limite de THC em Portugal: a DGAV/Portaria 83/2021 referem variedades do Catálogo Comum com THC reduzido; uma fonte secundária indica que a norma portuguesa ainda menciona 0,2%. Falta: confirmar o texto consolidado da Portaria 83/2021 e, se for 0,2%, assinalar a diferença face à PAC (0,3%).
+- chapters/09-pilar-canhamo.md:185-190 — projecções: emprego (1 por 10-20 ha) é pressuposto dos autores sem fonte; linhas de exportação e empregos indirectos foram removidas por falta de base.
+- chapters/09-pilar-canhamo.md:106 — SEI 2005 é internamente inconsistente (2.041-3.401 vs 2.401-3.401 L/kg); o texto usa ~2.000-3.400. Não há fonte mais recente verificada.
+- chapters/09-pilar-canhamo.md:132,159 — utadagrichains2024 e marketdataforecast2025 devolviam 403 na ronda 1; MDF abriu nesta ronda via proxy; UTAD não foi reverificada.
+- references.bib — entradas a remover/renomear listadas em bib-F.md (businessofcannabis2025pillar2, wikipedia2025italy, cambridge2022hemp, carboncredits2024hemp, lampoon2024hemp, researchgate2017hempcrete; pan2021 -> 2019; cannareporter2024b -> poligrafo2023). Só pode ser feito por quem edita references.bib.
+- chapters/11-cronograma.md:134 — a figura assets/diagrams/cronograma-implementacao.png ainda pode conter texto "coordenação UE" ou probabilidades; não foi verificada (ficheiro binário fora do âmbito).
+
+### Anexos A-C
+
+- 13:136, 13:290, 13:296, 15:177 — preço mercado ilegal PT €5,3-5,6/g citado como [@icad2023bulletin] (ICAD Statistical Bulletin 2023, hospedado na EUDA). O PDF não abriu (Cloudflare 403 em curl, WebFetch e fetcher remoto; a página ICAD não lista o boletim). O intervalo 5,27-5,64 €/g (2019-2023) só foi confirmado por excerto de pesquisa do próprio ficheiro. Falta: abrir o PDF num browser e confirmar tabela de preços/ano; se possível substituir pelo URL do ICAD.
+- 13:349 — Uruguai "~460 clubes registados em 2024" vem de El Planteo (jornalismo especializado) com dados IRCCA; o resumo IRCCA de 31-12-2024 não foi localizado. Falta: URL primário IRCCA para 2024 (os 557 de 2025 estão confirmados no site do IRCCA).
+- 14:8, 14:30 — Directiva 2002/57/CE e Reg. (UE) 2021/2115 art. 4(4) (0,3% THC) não abriram no EUR-Lex (requer JavaScript; curl/WebFetch/fetcher remoto devolvem vazio). O limite 0,3% e a certificação de sementes foram confirmados na página oficial da Comissão (ec2024hemp). Falta: abrir o EUR-Lex e confirmar numeração do artigo.
+- 13:185-189 — Ganderkesee: "primeiro a distribuir em 2-11-2024" fica sem citação própria (confirmado na ronda 1 por NWZ/ZDF, não re-aberto). Falta: acrescentar uma notícia (NWZ ou ZDF, 2-11-2024) ao .bib.
+- 13:181 — bcav2025: a publicação BCAv de Novembro de 2025 (791/357) não foi encontrada no site; a série é coerente com outras datas. Falta: URL directo da estatística BCAv ou substituir por número datado que se abra.
+- 15:19 — La Cannabinothèque: data de abertura "início de 2024" (GREA: 18 meses antes de Ago 2025); outras fontes dizem Dez 2023/Jan 2024. Confirmar data exacta no site da ChanGE.
+- 15:16 — Züri Can "~2.200 (Jun 2025)" vem da tabela BAG (2.217); o relatório BAG completo (PDF 2,17 MB) não foi aberto, só o Executive Summary (bag2025.txt). Os dados por ensaio (Cann-L ~1.500, CRZ ~3.200, Grashaus ~1.100, Weed Care 314, SCRIPT 762) vêm da Tabela 1 do sumário.
+- 15:35-36 — Elegibilidade: a FAQ BAG diz "nachweislich bereits Cannabis konsumieren"; o texto diz "consumo prévio comprovado" — ok. A proibição de consumo em espaço público (art. 16 BetmPV) não está no texto; opcional acrescentar.
+- 13:11-19, 13:98-102 — Secções descritivas do KCanG sem citação em cada linha (só [@kcang2024] nas tabelas). Aceitável, mas um revisor pode pedir §§ explícitos (§16(2) 500 membros, §5 consumo no local, §17 publicidade, §12 200 m, §11 7 anos).
+- 13:195-325 — Todo o modelo de custos (cultivo, pessoal, compliance, break-even) é estimativa do autor sem fonte externa; está rotulado como "estimado" nas tabelas mas não há uma frase introdutória que o diga. Sugere-se uma linha "Todos os valores desta secção são estimativas do autor".
+- 15:131-146 — Tabela de comparação: coluna "Portugal (Proposta 2026)" mistura propostas (IVA 23% sobre quotas, ISO 17025) que dependem de outros capítulos; não verificado aqui.
+- references.bib — remover medium2024barcelona, greendream2024spain, businessofcannabis2024zurican, cannabisregulations2025switzerland (já não citadas em nenhum capítulo) e actualizar cuna2025 para o snapshot Wayback (ver bib-G.md). Fora do âmbito do grupo G (não editámos o .bib).
+
+### Anexo D
+
+- chapters/16-anexo-d-argumentacao.md:107,127 — datas FDA do dronabinol (1985, 1992) [@ncbi2024dronabinol]: fonte UNREACHABLE (reCAPTCHA); datas coerentes com o conhecimento estabelecido, confirmar na bula/FDA.
+- chapters/16-anexo-d-argumentacao.md:430-432 — overdose 6/milhão e HIV 16 casos são dados de 2019; EUDA 2023-24 reporta subida (~10/milhão). Acrescentar o valor mais recente do ICAD/EUDA com fonte; a referência @transform2016pt tem ano errado (2021), corrigir em references.bib.
+- chapters/16-anexo-d-argumentacao.md:~520 — "debate parlamentar arrancou em 2018": citar o DAR (projectos BE/PAN, Julho 2018). Removida a frase sobre o grupo de trabalho do PS em 2023 (sem fonte e resíduo partidário); se se quiser repor, citar Público 14/09/2023 e dizer "não produziu conclusões antes da dissolução da AR".
+- chapters/16-anexo-d-argumentacao.md:~175 — custo mensal por doente de cannabis medicinal: ficou como "pressuposto ilustrativo do autor"; obter preço de farmácia/Infarmed para substituir.
+- chapters/16-anexo-d-argumentacao.md:~335 — "recomendação de grupo interdisciplinar de peritos liderado pelo Ministério dos Transportes" (limite 3,5 ng/ml): plausível (BMDV Expertenkommission, Março 2024) mas não está no FAQ do BMG; acrescentar fonte BMDV.
+- chapters/16-anexo-d-argumentacao.md:~310 — Uruguai "cerca de um quarto das compras legais" usa o facto fixado em REGRAS; acrescentar citação IRCCA/Monitor Cannabis quando o grupo responsável pelo cap. 05 fixar a chave.
+- chapters/16-anexo-d-argumentacao.md:~310 — Canadá "22-30% do gasto não licenciado" usa o facto fixado em REGRAS (Hammond 2022 / StatCan 2024); acrescentar as chaves bib quando existirem.
+- references.bib — adicionar as entradas de /tmp/audit-r2/bib-H.md (nij2018gateway, incb2018canada, hughes2010portugal, campbell2018lancet, euda2024gps, ciec2010, stc2017navarra, stc2018cataluna) e aplicar as correcções de metadados listadas; @norml2024opioids deixou de ser citado no cap. 16 (verificar se outros capítulos ainda a usam).
+- Âncoras {#o-livre-quer-comparticipação...}, {#ataque-1-o-livre-quer-drogar...}, {#ataque-4-o-livre-é-o-partido-da-droga}: mantidas por instrução (IDs inalterados), mas continuam a aparecer em links e no índice do PDF; decidir regeneração global dos IDs numa ronda própria.
+- País Basco: a Lei 1/2016 basca sobre adições foi parcialmente anulada (STC 29/2018) e a ordenança de San Sebastián anulada pelo Supremo; não verificado nesta ronda, por isso o texto só menciona Navarra e Catalunha.
+- references.bib — adicionar também mtf2013overview e nida2023mtf (ver bib-H.md) e corrigir a note de @monitoringthefuture2023, que continha percentagens erradas (-38%/-13%); o texto do cap. 16 já usa os valores confirmados (-35%/-40%/-20%).
+- chapters/16-anexo-d-argumentacao.md — âncoras com nome de partido mantidas por instrução; títulos já neutros. Financiamento: €40-80M custos, €30-65M poupança líquida, €20-40M prevenção, €10-15M OE inicial — coerente com cap. 08 (todas estimativas próprias, sem dados orçamentais oficiais).

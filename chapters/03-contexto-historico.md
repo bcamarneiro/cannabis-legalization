@@ -6,141 +6,127 @@
 
 ### O Cânhamo na História Marítima Portuguesa {#o-cânhamo-na-história-marítima-portuguesa}
 
-**Cannabis/cânhamo foi central para os Descobrimentos portugueses.** Durante séculos, o cânhamo industrial foi cultivado extensivamente em Portugal (principalmente vales do Tejo e Mondego) para produção de fibras têxteis — as mais resistentes fibras naturais conhecidas, superiores ao algodão.
+O cânhamo industrial foi cultivado em Portugal durante séculos para fibra têxtil e cordoaria. A região de Torre de Moncorvo, no Douro, concentrou a produção de linho e cânhamo para a Coroa: em 1617, a Coroa contratou um fornecedor privado, Diogo Henriques Pereira, para o abastecimento regular dos armazéns da Casa da Guiné e da Índia (a fonte atribui o contrato a «Filipe III (IV de Espanha)», que só reinou a partir de 1621; em 1617 reinava Filipe II de Portugal, III de Espanha), e em 1656 D. João IV regulamentou a feitoria régia, convertida em monopólio da Coroa [@rebanda2022moncorvo]. O cordame dos navios da época era de fibra vegetal, sobretudo cânhamo; a atribuição de velame de cânhamo às caravelas dos Descobrimentos e os números que por vezes circulam (toneladas por navio) não têm fonte histórica verificada e não são usados neste documento.
 
-**As caravelas dos Descobrimentos dependiam de cânhamo:**
+### Fomento régio do cânhamo (séculos XVII-XX) {#cultivo-obrigatório-política-régia-de-cânhamo}
 
-* **Velas:** Tecido resistente de cânhamo (hemp canvas), mais durável que linho, essencial para longas viagens oceânicas
-* **Cordas e enxárcia:** Todas as cordas a bordo eram de cânhamo — única fibra resistente à água salgada e apodrecimento
-* **Calafetagem:** Fibras de cânhamo usadas para vedar juntas do casco
+O que está documentado é fomento e regulação pela Coroa, não uma obrigatoriedade nacional de cultivo:
 
-**Exemplos históricos documentados:**
+* **D. João IV (reinou 1640-1656):** após a Restauração de 1640, e com a necessidade de reequipar a marinha, regulamentou em 1656 a feitoria régia de linho e cânhamo de Torre de Moncorvo, convertida em monopólio da Coroa [@rebanda2022moncorvo]
+* **Século XX:** o cultivo de cânhamo para fibra manteve-se em Portugal até meados do século XX; não há fonte primária conhecida para a data do seu fim nem para qualquer regime de cultivo obrigatório
 
-* **Cristóvão Colombo (1492):** Navegou para América com **80 toneladas** de velas e cordas de cânhamo
-* **Fernão de Magalhães (séc. XVI):** Circum-navegou globo usando velas e enxárcia de cânhamo
-* **Era dos Descobrimentos:** Os navios dos Descobrimentos usavam cordas e velas de cânhamo [@releaf2023]
-
-### Cultivo Obrigatório: Política Régia de Cânhamo {#cultivo-obrigatório-política-régia-de-cânhamo}
-
-**Portugal não apenas permitia, mas EXIGIA cultivo de cânhamo:**
-
-* **D. João IV (séc. XVI):** Tornou **obrigatório** o cultivo de cânhamo em território português para restaurar navios após guerra com Espanha
-* **D. João V:** Emitiu decreto encorajando produção de cânhamo
-* **Estado Novo:** Cultivo de cânhamo manteve-se em certas áreas do país para indústria têxtil (fonte histórica por indicar)
-
-**Ironia histórica brutal:** Cânhamo foi obrigatório até 1961, proibido em 1970 — **apenas 9 anos** separam mandato régio de criminalização. Portugal eliminou por pressão externa uma planta essencial à sua história nacional.
+A afirmação, frequente em textos de divulgação, de que o cânhamo "foi obrigatório até 1961" não tem fonte verificável e não é usada neste documento.
 
 ### Uso Medicinal Tradicional {#uso-medicinal-tradicional}
 
-Além do uso industrial, cannabis foi registada em **farmacopeias europeias desde século XIX** como planta medicinal para várias condições (dor, insónia, espasmos). O uso recreativo existia mas era marginal e não criminalizado.
+Além do uso industrial, a cannabis consta de farmacopeias europeias do século XIX como planta medicinal (dor, insónia, espasmos). Em Portugal, a regulação legal dos estupefacientes remonta à Lei n.º 1687, de 6 de Agosto de 1923, e ao Decreto n.º 12210, de 24 de Agosto de 1926, diplomas de natureza sobretudo comercial e fiscal, que previam transgressões e penas para a negociação de drogas fora dos casos autorizados [@cej2020punibilidade; @coelho2023jurismat]. A incriminação do consumo só surge em 1970.
 
 ### Mudança de Paradigma Global (1960-1970s) {#mudança-de-paradigma-global-1960-1970s}
 
-Nos anos 1960-1970, sob pressão política dos EUA (Richard Nixon lançou a "War on Drugs" em 1971), a Organização das Nações Unidas promoveu três convenções internacionais que estabeleceram o regime proibicionista moderno:
+O regime internacional de controlo da cannabis remonta à Convenção de Genebra de 1925 e foi consolidado pela Convenção Única de 1961, que agregou tratados de 1912-1953; os EUA foram o principal promotor deste regime, e a "War on Drugs" declarada por Nixon em 1971 intensificou a pressão sobre os aliados. Três convenções estruturam o regime actual:
 
-* **Convenção Única sobre Estupefacientes (1961)** — classificou cannabis na Schedule I e IV (substâncias "sem valor medicinal" e "particularmente perigosas")
-* **Convenção sobre Substâncias Psicotrópicas (1971)** — reforçou controlo sobre substâncias sintéticas e THC
-* **Convenção contra o Tráfico Ilícito (1988)** — criminalizou produção, distribuição e posse para consumo
+* **Convenção Única sobre Estupefacientes (1961)** — classificou a cannabis nas Listas I e IV; a Lista IV agrupava as substâncias consideradas particularmente susceptíveis de abuso e com escasso valor terapêutico. Em 2 de Dezembro de 2020, a Comissão de Estupefacientes da ONU retirou a cannabis da Lista IV (27 votos a favor, 25 contra e uma abstenção), reconhecendo-lhe utilidade médica; mantém-se na Lista I, onde também está, por exemplo, a morfina [@unnews2020]
+* **Convenção sobre Substâncias Psicotrópicas (1971)** — reforçou o controlo sobre substâncias sintéticas e sobre o THC isolado
+* **Convenção contra o Tráfico Ilícito (1988)** — obrigou os Estados a criminalizar produção, distribuição e posse, incluindo para consumo, sem prejuízo dos seus princípios constitucionais
 
-Estes tratados estabeleceram um **regime legal vinculativo** para Estados signatários, pressionando países a adoptarem legislação proibicionista mesmo sem evidência científica de necessidade.
+Estes tratados estabeleceram um **regime vinculativo** para os Estados signatários, que os transpuseram para legislação nacional.
 
 ## A Proibição em Portugal: Decreto-Lei 420/70 (1970-1983) {#a-proibição-em-portugal-decreto-lei-42070-1970-1983}
 
-Portugal implementou a proibição da cannabis através do **Decreto-Lei n.º 420/70, de 3 de Setembro de 1970**, que actualizou o regime anterior de fiscalização de estupefacientes [@camara2015].
+O **Decreto-Lei n.º 420/70, de 3 de Setembro de 1970**, actualizou o regime de 1926, alargou consideravelmente a lista de substâncias controladas e foi o primeiro diploma português a incriminar tanto o tráfico como o consumo de estupefacientes [@camara2015; @cej2020punibilidade; @coelho2023jurismat].
 
 **Contexto político:**
 
-* **Regime Estado Novo (1933-1974):** A lei foi aprovada nos últimos anos da ditadura salazarista/marcelista
-* **Pressão internacional:** Portugal ratificou a Convenção Única da ONU de 1961 em **Dezembro de 1971**, pouco depois da entrada em vigor da lei 420/70
-* **Influência dos EUA:** A "War on Drugs" de Nixon (iniciada Junho 1971) pressionou aliados da NATO a adoptarem leis similares
+* **Estado Novo (1933-1974):** a lei foi aprovada nos últimos anos da ditadura
+* **Pressão internacional:** Portugal ratificou a Convenção Única de 1961 em **Dezembro de 1971** (assinara-a em Março de 1961) [@untc1961], pouco depois da entrada em vigor do DL 420/70
+* **EUA:** a "War on Drugs" de Nixon foi declarada em Junho de 1971; não há fonte conhecida que documente pressão directa dos EUA sobre a legislação portuguesa de 1970
 
 **Evolução legislativa pós-tratados:**
 
-* **1979:** Portugal ratifica a Convenção sobre Substâncias Psicotrópicas (1971) em **Abril de 1979**
-* **1983:** Aprovação de legislação actualizada para incorporar plenamente as obrigações dos tratados ONU
+* **1979:** Portugal adere à Convenção sobre Substâncias Psicotrópicas (1971) a **20 de Abril de 1979** [@untc1971]
+* **1983:** Decreto-Lei n.º 430/83, de 13 de Dezembro, revê o regime à luz da Convenção de 1961 [@coelho2023jurismat]
 
-**Resultado:** Durante quase **30 anos (1970-2000)**, Portugal manteve um regime plenamente **criminalizador** do consumo, posse e tráfico de cannabis, alinhado com os tratados internacionais mas sem adaptação à realidade nacional.
+**Resultado:** durante **30 anos (1970-2000)**, Portugal manteve um regime **criminalizador** do consumo, posse e tráfico de cannabis.
 
-## Descriminalização 2000: Portugal Desafia o Consenso Internacional {#descriminalização-2000-portugal-desafia-o-consenso-internacional}
+## A descriminalização de 2000 {#descriminalização-2000-portugal-desafia-o-consenso-internacional}
 
-Em **2000-2001**, Portugal tornou-se pioneiro global ao **descriminalizar** (não legalizar) o consumo e posse de todas as drogas através da **Lei 30/2000, de 29 de Novembro**.
+Em **2000-2001**, Portugal **descriminalizou** (não legalizou) o consumo e a posse para consumo de todas as drogas através da **Lei n.º 30/2000, de 29 de Novembro**. Não foi o primeiro país a descriminalizar o consumo, mas tornou-se um dos casos mais estudados, por criar uma via administrativa — as Comissões para a Dissuasão da Toxicodependência (CDT) — e por investir em tratamento [@transform2016pt].
 
-**Contexto político crucial:**
+**Contexto político:**
 
-* **Governo:** António Guterres (PS) como Primeiro-Ministro com **115 deputados** (1 lugar antes da maioria absoluta)
-* **Presidente:** Jorge Sampaio (PS, 1996-2006), garantindo coerência institucional
-* **Comissão de peritos:** 11 especialistas (médicos, juristas, sociólogos) nomeados em **1998**, trabalharam 18 meses, relatório publicado **1999**
-* **Figuras-chave:** Alexandre Quintanilha (presidente da comissão), João Goulão (coordenador nacional antidroga), entre outros
+* **Governo:** António Guterres (PS), com **115 deputados** em 230
+* **Presidente:** Jorge Sampaio
+* **Comissão de peritos:** a Comissão para a Estratégia Nacional de Combate à Droga, presidida por Alexandre Quintanilha, foi constituída em **Fevereiro de 1998** (Despacho n.º 3229/98) e entregou o relatório ao Governo em **Outubro de 1998**; a Estratégia Nacional de Luta contra a Droga foi aprovada em **Maio de 1999** (Resolução do Conselho de Ministros n.º 46/99) [@rcm1999estrategia]
+* **Figuras-chave:** Alexandre Quintanilha (presidente da comissão), João Goulão (coordenador nacional), entre outros
 
 **Resistência política:**
 
-* **Oposição feroz da direita parlamentar:** CDS-PP liderou campanha contra "legalização das drogas" (termo factualmente incorrecto — a lei descriminalizava o consumo pessoal, não legalizava qualquer substância)
-* **Basílio Horta (CDS):** Exigiu referendo, argumentando que a lei "vai alterar profundamente o modelo de sociedade"
-* **Aprovação garantida:** PS tinha apoio suficiente (115/230 deputados) para aprovar sem maioria absoluta, ultrapassando oposição
+* **Oposição do CDS-PP e do PSD**, que votaram contra. O CDS-PP fez campanha contra a "legalização das drogas" (termo incorrecto — a lei descriminalizava o consumo pessoal, não legalizava qualquer substância)
+* **Basílio Horta (CDS-PP)** exigiu um referendo: "não admitiremos a introdução desse sistema sem um referendo aos portugueses sobre se o consumo de drogas é ou não socialmente tolerável" [@tsf2000horta]
+* **Votação:** a Proposta de Lei n.º 31/VIII, do Governo (datada de 1 de Junho de 2000), que deu entrada na Assembleia a 6 de Junho, teve votação final global a 6 de Julho de 2000, com os votos do PS, PCP, PEV e BE contra PSD e CDS-PP; o Presidente da República, Jorge Sampaio, devolveu o decreto sem o promulgar (veto lido em plenário a 27 de Julho) e, depois de ouvidas as assembleias legislativas regionais, a lei foi novamente aprovada a 19 de Outubro com o mesmo sentido de voto, promulgada a 14 de Novembro e publicada a 29 de Novembro [@parlamento2000ppl31; @parlamento2000lei30; @tsf2000lei]; o PS não tinha votos suficientes sozinho
 
 **Fundamentação da mudança:**
 
-* **Evidência de fracasso:** Regime punitivo não reduziu consumo, criminalizava toxicodependentes, sobrecarregava sistema prisional
-* **Abordagem de saúde pública:** Transferir resposta de sistema judicial para sistema de saúde (Comissões para a Dissuasão da Toxicodependência)
-* **Pragmatismo:** Reconhecimento que criminalizar consumidores era ineficaz e contraproducente
+* **Diagnóstico da Comissão de 1998:** a Comissão propôs por unanimidade a descriminalização do consumo privado e, por maioria, da posse para consumo, em favor de uma resposta de saúde pública [@rcm1999estrategia]
+* **Pressão sobre o sistema penal:** em 2001, mais de 40% da população prisional estava condenada por crimes relacionados com drogas [@transform2016pt]
+* **Abordagem de saúde pública:** transferir a resposta do sistema judicial para o sistema de saúde (CDT)
 
-**Resultado histórico:** Lei entrou em vigor **Julho 2001** [@parlamento2000lei30]. Vinte e cinco anos depois (2026), o modelo português é **internacionalmente reconhecido**, embora com contradições e limites apontados na literatura [@springer2021pt; @transform2016pt]:
+**Resultado:** a lei entrou em vigor em **Julho de 2001** [@parlamento2000lei30]. Vinte e cinco anos depois (2026), o modelo português é **internacionalmente reconhecido**, com contradições e limites apontados na literatura [@springer2021pt; @transform2016pt]:
 
-* Consumo de drogas **não aumentou** (previsão catastrofista da oposição nunca se concretizou)
-* Mortes relacionadas com drogas **reduziram 80%** (2001-2012)
-* Portugal passou de um dos países com maior prevalência VIH/SIDA entre consumidores (1999) para um dos mais baixos da Europa
+* O consumo **não disparou** como a oposição previu: a prevalência de cannabis ao longo da vida (15-64 anos) subiu moderadamente, de 7,6% em 2001 para 12,2% em 2022 [@balsa2023inpgnota] (10,5% na faixa 15-74 anos usada no capítulo anterior); o consumo recente mantém-se abaixo da média europeia (ver capítulo [*O panorama português em números*](#o-panorama-português-em-números))
+* Mortes relacionadas com drogas: 6 por milhão (15-64 anos, 2019) contra 23,7 na UE [@transform2016pt]
+* VIH associado a consumo injectado: de 1.287 novos diagnósticos em 2001 para 16 em 2019 [@transform2016pt]
 
-**Lição estratégica para 2026:** Portugal **já desafiou com sucesso** o consenso internacional proibicionista uma vez. A descriminalização de 2000 era igualmente controversa, enfrentou oposição similar, mas provou que **pragmatismo baseado em evidência** supera dogmatismo punitivo.
+**Lição para 2026:** Portugal já adoptou uma vez uma política de drogas que contrariava a prática dominante. A descriminalização de 2000 foi controversa, enfrentou oposição semelhante à actual e mostrou que uma abordagem de saúde pública pode funcionar; a causalidade exacta de cada indicador não é demonstrável (ver nota metodológica no capítulo [*O panorama português em números*](#o-panorama-português-em-números)).
 
 ## Cannabis Medicinal 2018: O Paradoxo Moderno {#cannabis-medicinal-2018-o-paradoxo-moderno}
 
-Em **2018**, Portugal legalizou o **uso medicinal da cannabis** através da **Lei n.º 33/2018, de 18 de Julho**.
+Em **2018**, Portugal legalizou o **uso medicinal da cannabis** através da **Lei n.º 33/2018, de 18 de Julho** [@lei332018].
 
 **Timeline de implementação:**
 
-* **15 Junho 2018:** Aprovação parlamentar (votação transversal, apoio PS, BE, PCP, PAN, Os Verdes; abstenção PSD, CDS)
-* **1 Julho 2018:** Lei entra em vigor
-* **15 Janeiro 2019:** Decreto-Lei n.º 8/2019 estabelece framework de implementação (prescrição, cultivo, distribuição)
-* **31 Janeiro 2019:** Portaria n.º 44-A/2019 define sistema de preços
-* **15 Abril 2021:** Portaria n.º 83/2021 completa regulamentação (supervisão INFARMED)
+* **15 Junho 2018:** votação final global na Assembleia da República, com votos favoráveis de PSD, PS, BE, PCP, PEV e PAN e abstenção do CDS-PP [@publico2018b]
+* **18 Julho 2018:** publicação em Diário da República; **1 Agosto 2018:** entrada em vigor (primeiro dia do mês seguinte à publicação, art. 13.º) [@lei332018]
+* **15 Janeiro 2019:** Decreto-Lei n.º 8/2019 estabelece o quadro de implementação (prescrição, cultivo, distribuição)
+* **31 Janeiro 2019:** Portaria n.º 44-A/2019 define o sistema de preços
+* **15 Abril 2021:** Portaria n.º 83/2021 completa a regulamentação (supervisão Infarmed)
 
 **Autoridades e entidades:**
 
-* **INFARMED** (Autoridade Nacional do Medicamento e Produtos de Saúde I.P.) — supervisiona todas as actividades relacionadas com cannabis medicinal
-* **Licenças emitidas (até 2022):** 20 autorizações de cultivo, 8 autorizações de fabrico
+* **Infarmed** (Autoridade Nacional do Medicamento e Produtos de Saúde, I.P.) — supervisiona todas as actividades relacionadas com cannabis medicinal
+* **Autorizações finais em vigor no final de 2022:** 20 de cultivo e 9 de fabrico (37 e 23 em meados de 2024) [@infarmed2024]; contando todas as actividades licenciadas (cultivo, fabrico, importação/exportação, distribuição), eram 34 empresas no final de 2022, 11 delas com certificação EU-GMP [@cannareporter2022]
 
 **O paradoxo actual (2024-2026):**
 
-* **Exportações:** Portugal é o **2.º maior exportador mundial** — 32.558 kg em 2024 [@eco2024; @cannareporter2024]
-* **Prescrições internas:** Apenas **1.157 prescrições** (embalagens) em 2023 [@infarmed2024; @cannareporter2024]; 17 kg vendidos no mercado interno, ~0,14% dos 11.973 kg exportados [@cannabislaw2024export]
-* **Uso recreativo:** O inquérito nacional de 2022 indica prevalência recente de qualquer droga de 3% (15-74 anos) [@sicad2022prevalence]; não há estimativa verificada do número de utilizadores de cannabis nem da proporção obtida no mercado ilegal
-* **Criminalização persistente:** em 2018, 84% dos processos nas CDT envolveram apenas cannabis [@sicad2018condenacoes]; em 2021, 75% dos condenados por consumo foram-no por canábis [@dn2020condenacoes]
+* **Exportações:** Portugal é **um dos maiores exportadores mundiais** de cannabis medicinal — 32.558 kg em 2024; a imprensa sectorial coloca-o em 2.º lugar, sem ranking oficial [@eco2024; @cannareporter2024]
+* **Prescrições internas:** apenas **1.157 prescrições** (embalagens) em 2023 [@infarmed2024; @cannareporter2024]; 17 kg vendidos no mercado interno, ~0,14% dos 11.973 kg exportados nesse ano [@cannabislaw2024export]
+* **Uso recreativo:** cerca de 2% da população de 15-74 anos (~180.000 pessoas) consumiu cannabis no último ano [@carapinha2024icad]; não há mercado legal, pelo que o abastecimento é ilegal
+* **Sanções persistentes:** o consumo é contra-ordenação desde a Lei 30/2000, tratada nas CDT (processos administrativos: 10.445 em 2018 e 6.378 em 2021 [@icad2024anexo; @sicad2021relatorio]); os processos só com cannabis foram 83% em 2018 e 75% em 2021, mais 3% com cannabis e outras substâncias em 2021 [@icad2024anexo; @sicad2021relatorio]. Subsistiam condenações em tribunal: em 2021 houve 475 condenações em tribunal por consumo (valor definitivo; três quartos por cannabis nos dados provisórios) [@icad2024anexo; @sicad2021relatorio]. Desde então, com a Lei n.º 55/2023, de 8 de Setembro, a detenção para consumo próprio passou a ser contra-ordenação independentemente da quantidade [@tc2025acordao347]; o cultivo continua a ser crime (art. 40.º do DL 15/93) [@icad2024anexo]
 
-**Contradição legal absurda:**
+**Assimetria legal:**
 
-* Legal: Produzir 32+ toneladas para exportação (lucro privado)
-* Legal: Prescrever cannabis a doentes (acesso restrito, €150/mês sem comparticipação SNS)
-* Ilegal: Adulto consumir cannabis recreativamente (mercado ilegal, sem controlo de qualidade)
-* Criminalizado: Consumidores ocasionais (75% dos processos por drogas — CDT)
+* Legal: produzir mais de 32 toneladas para exportação
+* Legal: prescrever cannabis a doentes (acesso restrito, ~€150 por embalagem de 15 g, sem comparticipação do SNS [@euronews2024])
+* Ilegal: um adulto obter cannabis para consumo (só mercado ilegal, sem controlo de qualidade)
+* Sancionado: o consumo, por via administrativa (CDT) e, em 2021, em 475 casos por via judicial [@icad2024anexo]; o cultivo continua a ser crime
 
-## Conclusão: Hora de Resolver a Contradição {#conclusão-hora-de-resolver-a-contradição}
+## Síntese: quatro momentos {#conclusão-hora-de-resolver-a-contradição}
 
-A história mostra **quatro momentos decisivos** que revelam o absurdo da proibição:
+A história recente pode resumir-se em **quatro momentos datados**:
 
-1. **Séculos pré-1961:** Cânhamo foi **planta estratégica nacional** — cultivo obrigatório por decreto régio, essencial aos Descobrimentos (80 toneladas em cada caravela). Portugal construiu império marítimo dependendo desta planta
+1. **Séculos XVII-XX:** o cânhamo foi cultura regulada e fomentada pela Coroa (Torre de Moncorvo, 1617-1656) e manteve-se em Portugal até meados do século XX [@rebanda2022moncorvo]
 
-2. **1961-1970:** Em **9 anos**, Portugal passa de cultivo obrigatório (até 1961) para proibição total (1970) — não por decisão nacional baseada em evidência, mas por **pressão externa** (tratados ONU, "War on Drugs" dos EUA). Absurdo histórico: eliminar planta central à identidade portuguesa
+2. **1923-1970:** os estupefacientes passaram a estar sob controlo comercial e fiscal (1923, 1926) e, em 1970, o consumo foi incriminado pelo DL 420/70, antes da ratificação da Convenção de 1961 por Portugal (Dezembro de 1971) [@cej2020punibilidade; @coelho2023jurismat; @untc1961]
 
-3. **2000:** Portugal **desafia consenso internacional** com descriminalização — oposição política prevê catástrofe, mas modelo torna-se **referência mundial** 25 anos depois. Prova que pragmatismo supera dogmatismo
+3. **2000:** Portugal descriminalizou o consumo de todas as drogas; o forte aumento de consumo previsto pela oposição não se verificou, e o modelo tornou-se um caso de estudo internacional, com limites documentados [@transform2016pt; @springer2021pt]
 
-4. **2018:** Portugal legaliza cannabis medicinal mas mantém recreativa criminalizada — **contradição insustentável** que beneficia exportadores privados (32+ toneladas/ano) enquanto criminaliza centenas de consumidores (75% dos processos por drogas — CDT)
+4. **2018:** Portugal legalizou a cannabis medicinal mas manteve o uso adulto sem mercado legal: exportou mais de 32 toneladas em 2024 [@eco2024], enquanto milhares de processos administrativos (CDT) por ano — três quartos deles só por cannabis em 2021 — e condenações judiciais (475 por consumo em 2021, antes da Lei n.º 55/2023) recaíram sobre consumidores [@icad2024anexo; @sicad2021relatorio]
 
-**A proposta de regulação do uso adulto em 2026 não é radicalismo.** É a **conclusão lógica** de um processo histórico absurdo:
+**A proposta de regulação do uso adulto em 2026 continua este percurso:**
 
-* **Ironia histórica:** Planta que alimentou Descobrimentos (obrigatória até 1961) é criminalizada 9 anos depois por pressão externa
-* **Evidência científica:** Se cannabis tem valor medicinal reconhecido (2018), não pode estar na Schedule I da ONU (1961: "sem valor medicinal")
-* **Precedente de sucesso:** Se descriminalização (2000) foi eficaz reduzindo danos, regulação completa pode ser ainda mais eficaz
-* **Hipocrisia económica:** Se Portugal exporta mais de 99% da produção (2024), proibir consumo interno é indefensável
-* **Falha de saúde pública:** Se quem consome só tem o mercado ilegal, estamos a falhar a protecção de quem consome
+* **Estatuto internacional:** a ONU retirou a cannabis da Lista IV em 2020, reconhecendo-lhe valor médico [@unnews2020]; a Lista I não impede regulação médica, e o enquadramento do uso adulto nas convenções é discutido no capítulo sobre modelos internacionais
+* **Precedente:** a descriminalização de 2000 foi acompanhada de reduções mensuráveis de dano (mortes, VIH, população prisional) [@transform2016pt], sem que a causalidade esteja demonstrada; é razoável testar, com avaliação, se a regulação do abastecimento acrescenta ganhos
+* **Assimetria económica:** em 2023 Portugal exportou 99,85% da cannabis medicinal que vendeu [@cannabislaw2024export]; o acesso interno, medicinal e adulto, é residual ou inexistente
+* **Saúde pública:** quem consome só tem o mercado ilegal, sem controlo de potência, contaminantes ou idade
 
-**Portugal já provou duas vezes (Descobrimentos, descriminalização 2000) que pragmatismo português supera dogmatismos externos.** A regulação proposta é o próximo passo dessa mesma lógica histórica — recuperar soberania nacional sobre uma planta que sempre foi parte da nossa história.
+Na leitura dos autores, estes quatro momentos mostram que Portugal já mudou de política de drogas quando a evidência o justificou. A regulação proposta é apresentada como o passo seguinte dessa lógica, sujeito às mesmas exigências de avaliação.
