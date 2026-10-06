@@ -60,6 +60,8 @@ o `check` falha. Se renomeares um título, mantém o ID antigo com `<span id="id
 
 Vê [CONTRIBUTING.md](CONTRIBUTING.md). Em resumo: no site, cada secção tem "Levantar questão" e "Sugerir alteração"; toda a alteração factual traz fonte em `references.bib`. Vulnerabilidades e melhorias em aberto: [docs/TASKS.md](docs/TASKS.md).
 
+As afirmações em que o argumento assenta, com o estado da prova de cada uma, estão em [docs/registo-afirmacoes.md](docs/registo-afirmacoes.md).
+
 ## Problemas frequentes
 
 - **`pandoc: command not found`:** instala o Pandoc 3.x (`brew install pandoc`, `apt install pandoc`).
