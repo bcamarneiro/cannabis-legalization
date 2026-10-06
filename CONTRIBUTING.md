@@ -4,6 +4,16 @@ Este é um projecto aberto a todos, independentemente de filiação partidária,
 
 Questões ainda por decidir (co-maintainers): ver as perguntas em aberto no [ADR 0001](docs/adr/0001-fonte-unica-pdf-e-site.md). Até serem decididas, não há regras formais sobre elas. A identidade está decidida: ver abaixo.
 
+## Procuram-se co-maintainers
+
+O projecto precisa de mais mãos para não depender de uma só pessoa. Procuram-se co-maintainers em três áreas:
+
+- **Direito** (penal, europeu, constitucional ou administrativo).
+- **Economia ou saúde pública.**
+- **Técnica** (Git e Markdown): repositório, compilação e site.
+
+Não se exige filiação partidária nem posição prévia sobre a cannabis. Exige-se método: fonte para cada afirmação e abertura à correcção. Co-maintainers de vários quadrantes são bem-vindos — reforçam a independência do documento. Para começar, abre uma *issue* a dizer em que área quererias ajudar, ou escolhe uma tarefa marcada «good first issue».
+
 ## Estrutura
 
     chapters/            ← fonte de verdade (um ficheiro por capítulo)
