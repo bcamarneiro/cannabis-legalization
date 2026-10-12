@@ -274,18 +274,18 @@ Com os melhores cumprimentos,
 - Os nomes de RAI (PSP, DGAV, INMLCF) vêm do registo público da CADA e podem estar desactualizados: por isso vai sempre em cópia o endereço geral da entidade.
 - Enviar todos no mesmo dia e guardar o comprovativo de cada um.
 - **DGPJ** e **DGRSP**: usar o formulário próprio de cada uma (ver a nota no respectivo rascunho).
-- Prazos: resposta em 10 dias, prorrogável até dois meses se a entidade o comunicar. Sem resposta ou com recusa, queixa à CADA em 20 dias.
+- Prazos: resposta em 10 dias úteis (as datas acima são estimativas), prorrogável até dois meses se a entidade o comunicar. Sem resposta ou com recusa, queixa à CADA em 20 dias.
 
 ## Seguimento
 
 | Entidade | Enviado em | Prazo (10 dias) | Prorrogação | Resposta | Queixa CADA |
 | :---- | :---- | :---- | :---- | :---- | :---- |
-| PSP | | | | | |
-| GNR | | | | | |
-| PJ / LPC | | | | | |
-| DGPJ | | | | | |
-| DGRSP | | | | | |
-| ICAD | | | | | |
-| Infarmed | | | | | |
-| DGAV | | | | | |
-| INMLCF | | | | | |
+| PSP | 12/10/2026 | ~26/10 | | | |
+| GNR | 12/10/2026 | ~26/10 | | | |
+| PJ / LPC | 12/10/2026 | ~26/10 | | | |
+| DGPJ | 12/10/2026 (por email) | ~26/10 | | | |
+| DGRSP | 12/10/2026 (por email) | ~26/10 | | | |
+| ICAD | 12/10/2026 | ~26/10 | | | |
+| Infarmed | 13/10/2026 | ~27/10 | | | |
+| DGAV | 13/10/2026 | ~27/10 | | | |
+| INMLCF | 13/10/2026 | ~27/10 | | | |
