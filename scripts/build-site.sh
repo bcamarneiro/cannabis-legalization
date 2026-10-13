@@ -44,6 +44,9 @@ pandoc "$TEMP_MD" \
     --citeproc \
     --csl="$CSL_FILE" \
     --metadata link-citations=true \
+    --metadata description="Proposta aberta e independente de regulação da cannabis em Portugal — uso medicinal, cânhamo industrial e uso adulto. Com fontes, histórico público e auditoria." \
+    --metadata abstract="Proposta de enquadramento legal e regulatório da cannabis em Portugal — uso medicinal, cânhamo industrial e uso adulto —, organizada em três pilares e três fases. É uma iniciativa aberta e independente de qualquer partido: cada afirmação tem fonte, o histórico é público e as posições oficiais dos partidos são registadas à parte. Navegue pelos capítulos no índice abaixo ou use a pesquisa no topo." \
+    --metadata abstract-title="" \
     --bibliography="$BIB_FILE"
 
 # Python em vez de unzip: o unzip do macOS estraga nomes de ficheiro com acentos (UTF-8).
