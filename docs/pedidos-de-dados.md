@@ -286,6 +286,6 @@ Com os melhores cumprimentos,
 | DGPJ | 12/10/2026 (por email) | ~26/10 | | | |
 | DGRSP | 12/10/2026 (por email) | ~26/10 | | | |
 | ICAD | 12/10/2026 | ~26/10 | | | |
-| Infarmed | 13/10/2026 | ~27/10 | | | |
+| Infarmed | 13/10/2026 | ~27/10 | | 13/10/2026, resposta do Centro de Informação do Medicamento (CIMI): só fornece dados de consumo no SNS; envia formulário para o ponto 1. Pontos 2-4 (prescritores e doentes, pedidos de comparticipação, relatórios de avaliação) não respondidos; pedido reencaminhado ao serviço competente. | |
 | DGAV | 13/10/2026 | ~27/10 | | | |
 | INMLCF | 13/10/2026 | ~27/10 | | | |
