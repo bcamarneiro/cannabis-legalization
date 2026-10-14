@@ -112,12 +112,12 @@ Em Portugal, cerca de 10% da população (15-74 anos) já experimentou cannabis 
 
 **Umbrella review BMJ (2023):** Revisão abrangente de benefícios e danos. Encontra eficácia de medicamentos à base de canábis na dor crónica, na espasticidade da esclerose múltipla, na doença inflamatória intestinal e em cuidados paliativos, e do CBD na epilepsia, mas com má tolerabilidade e eventos adversos. A mesma revisão reúne evidência convincente de danos — psicose (OR 1,71), acidentes de viação (OR 1,27), baixo peso à nascença — e recomenda evitar o consumo na adolescência e no início da idade adulta, em pessoas com ou propensas a perturbação mental, na gravidez e antes de conduzir [@solmi2023bmj]. Meta-análise BMC Medicine (2022): CBD eficaz na epilepsia e (moderada) no parkinsonismo; dronabinol com evidência moderada em dor crónica, apetite e Tourette; nabiximols em dor, espasticidade e sono; para a maioria dos restantes efeitos a evidência é de qualidade baixa ou muito baixa [@hauser2022bmc].
 
-**O problema português — Lei 33/2018 extremamente restritiva:**
+**O problema português — acesso interno limitado:**
 
 * Em 2023, Portugal **exportou 99,85% das quantidades vendidas**: 11.973 kg exportados vs. apenas **17 kg vendidos localmente** [@cannabislaw2024export; @cannabisesaude2024portugal; @infarmed2024]
-* **32.558 kg exportados em 2024** (aumento de 172%) — um dos maiores exportadores mundiais, apontado pela imprensa especializada, a partir dos dados de exportação publicados pelo Infarmed, como 2.º a seguir ao Canadá; não existe um ranking internacional oficial [@eco2024; @cannareporter2024; @infarmed2024]
-* Apenas **1.157 embalagens de produtos autorizados em 2023** [@infarmed2024]
-* **Custo elevado:** ~€150 por 15 g, **sem comparticipação** [@euronews2024]
+* **79.883 kg exportados em 2025** (31.188 kg em 2024; 66.305 kg só no 1.º semestre de 2026) [@infarmed2026atividade] — um dos maiores exportadores mundiais, apontado pela imprensa especializada, a partir dos dados de exportação publicados pelo Infarmed, como 2.º a seguir ao Canadá; não existe um ranking internacional oficial [@eco2024; @cannareporter2024]
+* **7.023 embalagens de produtos autorizados prescritas em 2025** (1.157 em 2023; 4.143 em 2024; 5.413 no 1.º semestre de 2026): o acesso cresce, mas a par das exportações; o Infarmed não publica o número de doentes [@infarmed2026atividade]
+* **Custo elevado:** ~€150 por 15 g de flor, **sem comparticipação** (segundo o OPCM, só o Sativex é comparticipado, a 37%) [@euronews2024; @publico2019sativex]
 * Prescrição **só após falha de tratamentos convencionais** [@lei332018]
 * Limitado a **7 indicações específicas** (Deliberação n.º 11/CD/2019 do Infarmed) [@publico2019indicacoes]: espasticidade (esclerose múltipla ou lesão medular), náuseas e vómitos, estimulação do apetite em cuidados paliativos, dor crónica (oncológica ou do sistema nervoso), epilepsias graves infantis, glaucoma resistente ao tratamento, Tourette
 
@@ -129,8 +129,8 @@ Em Portugal, cerca de 10% da população (15-74 anos) já experimentou cannabis 
 * Dronabinol (THC sintético): FDA 1985 (náuseas/vómitos), 1992 (anorexia HIV/AIDS) [@ncbi2024dronabinol]
 * Sono: evidência LIMITADA — poucos estudos de baixa qualidade sugerem melhoria a curto prazo; estudos observacionais associam o uso recreativo a pior sono (possível enviesamento) [@bhagavan2020insomnia; @sciencedirect2025sleep]
 * Portugal 2023: 11.973 kg exportados vs 17 kg vendidos localmente (99,85% exportação) [@cannabislaw2024export; @infarmed2024]
-* Portugal 2024: 32.558 kg exportados (+172%) [@eco2024]
-* Apenas 1.157 embalagens de produtos autorizados em 2023 [@infarmed2024]
+* Portugal 2025: 79.883 kg exportados (+156% face a 2024) [@infarmed2026atividade]
+* 7.023 embalagens de produtos autorizados prescritas em 2025 (1.157 em 2023) [@infarmed2026atividade]
 * Lei 33/2018: prescrição só após falha de convencionais [@lei332018]; Deliberação 11/CD/2019 do Infarmed: 7 indicações [@publico2019indicacoes]
 * Umbrella review BMJ 2023 + meta-análise BMC Medicine 2022: evidência para canabinóides em indicações específicas (sobretudo CBD na epilepsia; dor crónica e espasticidade com evidência moderada), de qualidade variável e com má tolerabilidade; evidência convincente de danos (psicose, acidentes) e recomendação de evitar o consumo na adolescência [@solmi2023bmj; @hauser2022bmc]
 * **Princípio:** CBD e THC têm aplicações terapêuticas distintas; 'CBD é suficiente' ignora indicações com evidência moderada para o THC
@@ -182,7 +182,7 @@ A comparticipação tem de ser selectiva por uma razão simples de escala:
 
 A pergunta não é se a comparticipação custa dinheiro — é se custa **mais ou menos** que manter o status quo, onde:
 
-* Os doentes com prescrição pagam ~€150 por 15 g na farmácia, sem comparticipação — mais do que no mercado negro, para onde muitos acabam por recorrer, aí sem controlo de qualidade [@euronews2024]
+* Os doentes com prescrição de flor pagam ~€150 por 15 g na farmácia, sem comparticipação — mais do que no mercado negro, para onde muitos acabam por recorrer, aí sem controlo de qualidade [@euronews2024]
 * Não existe acesso legal para o consumo recreativo
 * Perdemos oportunidade de poupar em medicação mais cara
 * Não geramos impostos específicos sobre cannabis (regime de IVA dos clubes: ver capítulo 4)
@@ -205,7 +205,7 @@ Não está quantificado se a comparticipação selectiva seria custo-neutra: a s
 
 **Resposta curta (30s):**
 
-"Não. A comparticipação é exclusivamente para **doentes com prescrição médica** para condições clínicas específicas (dor oncológica, epilepsia resistente, espasticidade). Não é para uso recreativo. Aliás, Portugal exportou 32,6 toneladas de cannabis medicinal em 2024 [@eco2024], mas os nossos próprios doentes pagam cerca de €150 por 15 g do bolso [@euronews2024] — uma incoerência que a comparticipação selectiva procura corrigir."
+"Não. A comparticipação é exclusivamente para **doentes com prescrição médica** para condições clínicas específicas (dor oncológica, epilepsia resistente, espasticidade). Não é para uso recreativo. Aliás, Portugal exportou 79,9 toneladas de cannabis medicinal em 2025 [@infarmed2026atividade], mas os doentes a quem é prescrita flor pagam cerca de €150 por 15 g do bolso [@euronews2024] — uma incoerência que a comparticipação selectiva procura corrigir."
 
 **Resposta desenvolvida (2min):**
 
@@ -216,8 +216,8 @@ Não está quantificado se a comparticipação selectiva seria custo-neutra: a s
 * **Público-alvo:** Doentes com prescrição médica para condições clínicas específicas
 * **Indicações:** Dor oncológica, epilepsia resistente a tratamento, espasticidade em esclerose múltipla, náuseas quimioterapia (4 das 7 indicações da Deliberação n.º 11/CD/2019 do Infarmed [@publico2019indicacoes]; a Lei 33/2018 exige falha de tratamentos convencionais [@lei332018])
 * **Sistema:** Prescrição médica obrigatória, dispensação em farmácia, seguimento clínico
-* **Custo actual:** ~€150 por 15 g, **sem comparticipação** [@euronews2024]
-* **Situação portuguesa:** Portugal exportou **32.558 kg** em 2024 [@eco2024]; em 2023, apenas **1.157 embalagens de produtos autorizados** foram dispensadas [@infarmed2024] e 99,85% das quantidades vendidas foram exportadas [@cannabislaw2024export] (valores de anos e unidades diferentes, não comparáveis)
+* **Custo actual:** ~€150 por 15 g de flor, **sem comparticipação** [@euronews2024]
+* **Situação portuguesa:** Portugal exportou **79.883 kg** em 2025 e foram prescritas **7.023 embalagens de produtos autorizados** [@infarmed2026atividade]; em 2023, 99,85% das quantidades vendidas foram exportadas [@cannabislaw2024export] (unidades e anos diferentes, não comparáveis)
 
 **Uso adulto recreativo (proposta regulação, SEM custos para SNS):**
 
@@ -239,9 +239,9 @@ Não está quantificado se a comparticipação selectiva seria custo-neutra: a s
 **Dados de suporte:**
 
 * Comparticipação destina-se a **doentes com prescrição**, não uso recreativo
-* Em 2023, 99,85% das quantidades vendidas de cannabis medicinal foram exportadas [@cannabislaw2024export]; em 2024 exportaram-se 32.558 kg [@eco2024]
-* Doentes pagam ~€150 por 15 g sem comparticipação [@euronews2024]
-* 1.157 embalagens de produtos autorizados dispensadas em 2023 [@infarmed2024] (não comparável com os kg exportados)
+* Em 2023, 99,85% das quantidades vendidas de cannabis medicinal foram exportadas [@cannabislaw2024export]; em 2025 exportaram-se 79.883 kg [@infarmed2026atividade]
+* Doentes a quem é prescrita flor pagam ~€150 por 15 g sem comparticipação [@euronews2024]
+* 7.023 embalagens de produtos autorizados prescritas em 2025, 1.157 em 2023 [@infarmed2026atividade] (não comparável com os kg exportados)
 * Clubes sociais (modelo alemão): sem fins lucrativos, 200 m escolas, oficial de prevenção [@kcang2024], THC limitado [@bundesgesundheit2024cannabis]
 * Canadá 16-19 anos (CCS, último ano): 36% em 2018 → 44/44/37/37/43/41% em 2019-2024; sem declínio claro [@healthcanada2024]; NCS 2019 (15-17) mostrou descida inicial, sem inferência causal [@statcan2019youth]
 * Colorado: consumo adolescente **↓ 35%** (19,7%→12,8%, 2013-2023, série CDPHE; -42% na base 2011 do MPP; tendência nacional semelhante, causalidade não demonstrada) [@cdphe2024; @mpp2024colorado]

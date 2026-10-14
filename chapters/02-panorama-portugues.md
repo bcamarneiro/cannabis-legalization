@@ -5,7 +5,7 @@
 \newpage
 
 # O PANORAMA PORTUGUÊS EM NÚMEROS {#o-panorama-português-em-números}
-## Exportação massiva, acesso interno mínimo {#exportação-massiva-acesso-interno-mínimo}
+## Exportação massiva, acesso interno ainda limitado {#exportação-massiva-acesso-interno-mínimo}
 Portugal transformou-se num polo de produção de cannabis medicinal para exportação. Os dados oficiais do Infarmed revelam:
 
 | ANO | EXPORTAÇÃO (kg) | VARIAÇÃO |
@@ -14,13 +14,15 @@ Portugal transformou-se num polo de produção de cannabis medicinal para export
 | 2021 | 5.694 | \+17% |
 | 2022 | 9.271 | \+63% |
 | 2023 | 11.973 | \+29% |
-| **2024** | **32.558** | **\+172%** |
+| 2024 | 31.188 | \+160% |
+| **2025** | **79.883** | **\+156%** |
+| 1.º sem. 2026 | 66.305 | 83% do total de 2025 |
 
-Fonte: Infarmed, Quadro 2 [@infarmed2024] (2023 também em [@prohibition2025]); dados 2024: ECO [@eco2024]
+Fonte: Infarmed, relatório «Canábis Medicinal — Evolução da Atividade», quantidade exportada por cultivo e fabrico (Quadro 3 da edição de 2026, 1.º semestre; de 2022 em diante) [@infarmed2026atividade]; 2020-2021: edição de 2024 do mesmo relatório [@infarmed2024]. O ECO noticiou 32.558 kg para 2024 [@eco2024]; o Infarmed publica 31.188 kg. O Infarmed assinala que o destino predominante é a União Europeia (a Alemanha recebeu 58.257 kg, 73%, em 2025), em parte por operações de fabrico de matéria-prima a nível comunitário.
 
-O setor tinha **41 empresas** autorizadas para cultivo [@eco2024] e **25 empresas** com certificação EU-GMP [@prohibition2025] (dados de 2025).
+O Infarmed contava **38 autorizações de cultivo** válidas em 2025 e 27 a Junho de 2026 (49 e 38 de importação/exportação), e refere suspensões, revogações e não renovações de autorizações em 2025-2026 [@infarmed2026atividade]; a imprensa referia 41 empresas com licença de cultivo [@eco2024] e **25 empresas** com certificação EU-GMP [@prohibition2025] (dados de 2025).
 
-Contudo, o mercado interno permanece residual: em 2023, apenas **1.157 prescrições (embalagens)** foram emitidas [@infarmed2024; @prohibition2025], com produtos a custar ~€150 por 15 g [@euronews2024] e **sem comparticipação do SNS** [@prohibition2025; @euronews2024].
+Contudo, o mercado interno é pequeno face às exportações: foram prescritas **7.023 embalagens** em 2025 (4.143 em 2024 e 1.157 em 2023; 5.413 só no 1.º semestre de 2026) [@infarmed2026atividade], com a flor a custar ~€150 por 15 g [@euronews2024]. Das preparações com ACM, segundo o OPCM, nenhuma é comparticipada pelo SNS [@opcm2025comparticipacao]; a excepção é o medicamento Sativex (esclerose múltipla), comparticipado a 37% [@publico2019sativex]. A prescrição cresceu cerca de seis vezes entre 2023 e 2025, quase ao mesmo ritmo que as exportações (cerca de 6,7 vezes); o Infarmed não publica o número de doentes.
 
 ### Barreiras ao acesso: por que tão poucas variedades e receitas? {#barreiras-ao-acesso-por-que-tão-poucas-variedades-e-receitas}
 **Poucas variedades disponíveis em Portugal:**
@@ -29,7 +31,7 @@ A limitada oferta de cannabis medicinal resulta de múltiplas barreiras regulat�
 
 * **Regulação restritiva:** Requisitos rigorosos de certificação GACP e EU-GMP
 * **Licenciamento exigente:** em Abril de 2025, cerca de 150 pedidos — 92 de cultivo, 38 de fabrico e 19 de comércio por grosso — tinham «decisão de aptidão documental»; segundo o Infarmed, a vistoria final só ocorre quando os requerentes a pedirem e cumprirem as boas práticas aplicáveis [@eco2024]
-* **Falta de incentivos:** Mercado interno pequeno (1.157 prescrições, contadas em embalagens, em 2023) [@infarmed2024] não justifica investimento em diversidade
+* **Falta de incentivos:** Mercado interno ainda pequeno (7.023 embalagens prescritas em 2025, contra 1.157 em 2023) [@infarmed2026atividade] não justifica investimento em diversidade
 * **Enquadramento legal fragmentado:** O CBD encontra-se numa zona cinzenta entre o Infarmed (substância controlada) e a DGAV ("novel food" não autorizado), e o cânhamo industrial (THC\<0,3%) tem regulamentação distinta da cannabis medicinal.
 
 **Dificuldade em obter receitas médicas:**

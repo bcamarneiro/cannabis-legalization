@@ -4,7 +4,7 @@
 
 ## Cannabis Medicinal: Acesso Interno Aquém do Previsto {#cannabis-medicinal-uma-promessa-por-cumprir}
 
-A cannabis medicinal é o pilar de maior consenso político e social desta proposta. Já é legal desde 2018, mas na prática o acesso dos doentes continua muito limitado. Portugal exportou 32,6 toneladas em 2024 [@eco2024], enquanto o mercado interno se limitou a cerca de 17 kg vendidos em 2023 (dados Infarmed reportados pela Cannabis Law Report) [@cannabislaw2024export]. Este capítulo analisa por que razão o acesso ficou aquém e propõe soluções concretas.
+A cannabis medicinal é o pilar de maior consenso político e social desta proposta. Já é legal desde 2018, mas na prática o acesso dos doentes continua limitado. Portugal exportou 79,9 toneladas em 2025 [@infarmed2026atividade]; internamente foram prescritas 7.023 embalagens (contagem em embalagens, não comparável com os quilos exportados), contra 1.157 em 2023, ano em que se venderam cerca de 17 kg no mercado interno (dados Infarmed reportados pela Cannabis Law Report) [@infarmed2026atividade; @cannabislaw2024export]. Este capítulo analisa por que razão o acesso ficou aquém e propõe soluções concretas.
 
 ## Análise da Lei 33/2018: Porque o Acesso Ficou Aquém {#análise-da-lei-332018-porque-falhou}
 
@@ -12,16 +12,16 @@ A Lei n.º 33/2018, de 18 de julho, legalizou o uso de medicamentos, preparaçõ
 
 **Números que mostram o baixo acesso:**
 
-* Entre 2021 e 2023, as prescrições de cannabis medicinal aumentaram de 460 para 1.157 por ano (contagem em embalagens) — um número muito baixo para um país de 10 milhões de habitantes [@infarmed2024; @prohibition2025]
-* Em 2024, os dados mostram um **abrandamento**, invertendo a tendência de crescimento: 757 prescrições até ao 3.º trimestre (média de 252/trimestre, −13% face às ~289/trimestre de 2023) [@infarmed2024; @prohibition2025]
-* Até ao 3.º trimestre de 2024, Portugal **exportou 18,5 toneladas** de cannabis medicinal (12,0 toneladas em todo o ano de 2023) [@infarmed2024]; o total de 2024 foi de 32,6 toneladas [@eco2024]
+* Entre 2021 e 2025, as prescrições de cannabis medicinal aumentaram de 460 para 7.023 por ano (contagem em embalagens; 1.157 em 2023 e 4.143 em 2024), e 5.413 só no 1.º semestre de 2026 [@infarmed2026atividade]. O Infarmed não publica o número de doentes
+* Uma edição anterior do relatório (Novembro de 2024) referia 757 embalagens até ao 3.º trimestre de 2024, valor que versões anteriores deste documento interpretaram como abrandamento; as edições posteriores do Infarmed indicam 4.143 para o ano completo, valor usado aqui [@infarmed2026atividade]
+* Portugal **exportou 79,9 toneladas** de cannabis medicinal em 2025 (31,2 em 2024 e 12,0 em 2023) e 66,3 toneladas só no 1.º semestre de 2026 [@infarmed2026atividade]. As exportações cresceram cerca de 6,7 vezes entre 2023 e 2025 e a prescrição interna cerca de 6 vezes: ambas cresceram a um ritmo semelhante, e o acesso interno não ganhou peso face às exportações
 * Em 2023, apenas cerca de **17 kg** foram vendidos a doentes portugueses — praticamente toda a produção nacional (mais de 99%) foi exportada [@cannabislaw2024export]
 
 **As causas identificadas:**
 
 1. **Processo de prescrição complexo:** Embora qualquer médico licenciado possa prescrever, a cannabis é restrita a «tratamento de último recurso», apenas para indicações aprovadas, e requer uma receita médica especial com formulário próprio aprovado pelo Ministério da Saúde [@cmslaw2024; @prohibition2025]
-2. **Ausência de comparticipação pelo SNS:** Os doentes pagam a totalidade dos custos do próprio bolso. Uma caixa de 15g de flor de cannabis (Tilray THC 18%) custa **€150** — acima do preço do mercado negro [@euronews2024].
-3. **Poucos produtos disponíveis:** Sete extractos e quatro produtos de flor (dois comercializados, dois aprovados mas não disponíveis) têm Autorização de Colocação no Mercado (ACM) segundo a Prohibition Partners; o Infarmed contabiliza, até ao 3.º trimestre de 2024, sete pedidos de ACM de preparações e três de substâncias aprovados. A complexidade administrativa do processo de ACM é apontada como barreira [@prohibition2025; @infarmed2024]
+2. **Comparticipação quase inexistente:** segundo o OPCM, nenhuma das nove preparações com ACM é comparticipada, e os doentes pagam a totalidade dos custos do próprio bolso [@opcm2025comparticipacao]; a excepção é o medicamento Sativex (esclerose múltipla), comparticipado a 37% [@publico2019sativex]. Uma caixa de 15g de flor de cannabis (Tilray THC 18%) custa **€150** — acima do preço do mercado negro [@euronews2024].
+3. **Poucos produtos disponíveis:** Sete extractos e quatro produtos de flor (dois comercializados, dois aprovados mas não disponíveis) têm Autorização de Colocação no Mercado (ACM) segundo a Prohibition Partners; o Infarmed contabiliza 16 ACM de preparações e substâncias em 2025 (1 em 2023; 11 aprovadas em 2024 e 4 em 2025), de quatro titulares [@infarmed2026atividade]. A complexidade administrativa do processo de ACM é apontada como barreira [@prohibition2025]
 4. **Falta de formação médica:** Existe necessidade de formação médica (o Observatório Português de Canábis Medicinal, OPCM, angariava fundos em 2019 para formar médicos) e alguns médicos recusam prescrever [@rtp2019]
 5. **Estigma:** Tanto entre profissionais de saúde como na sociedade, persiste a associação entre cannabis e uso recreativo, dificultando a abordagem terapêutica
 
@@ -65,7 +65,7 @@ Propomos um modelo de comparticipação faseado:
 
 ### Análise Custo-Benefício para o SNS {#análise-custo-benefício-para-o-sns}
 
-* **Custo estimado:** Com 5.000 doentes (pressuposto dos autores para os primeiros 2 anos; cerca de 4× o número de embalagens prescritas em 2023, sem contagem oficial de doentes disponível) e um custo médio de €120/mês comparticipado a 69%, o encargo anual para o SNS seria de ~€5 milhões
+* **Custo estimado:** Com 5.000 doentes (pressuposto dos autores para os primeiros 2 anos; o Infarmed publica 7.023 embalagens prescritas em 2025 [@infarmed2026atividade], mas não o número de doentes, pelo que não há comparação directa) e um custo médio de €120/mês comparticipado a 69%, o encargo anual para o SNS seria de ~€5 milhões
 * **Poupanças potenciais:** Substituição parcial de opióides, benzodiazepinas e anti-epilépticos de nova geração (não quantificada). Um estudo observacional nos EUA (Medicare Part D, 2010-2015) associou leis de cannabis medicinal a 8,5% menos doses diárias de opióides prescritas (14,4% em estados com dispensários; 6,9% só com autocultivo) [@bradford2018opioids]; a associação inicial entre estas leis e a mortalidade por opióides inverteu de sinal com séries mais longas (de −21% para +22,7%) [@shover2019opioids]. A evidência é observacional e inconsistente
 * **Balanço:** O investimento é modesto face à despesa do SNS (15.553 M€ em 2024 [@cfp2025sns]); eventuais poupanças líquidas não estão demonstradas
 
@@ -135,9 +135,9 @@ A revisão *umbrella* do BMJ (2023) analisou 101 meta-análises sobre benefício
 
 Portugal é um dos **maiores exportadores mundiais** de cannabis medicinal — o maior da Europa e o segundo do mundo, segundo a imprensa especializada; não existe ranking oficial [@cannareporter2024; @eco2024]:
 
-* Nos primeiros três trimestres de 2024, exportou mais de **18 toneladas** de cannabis medicinal [@prohibition2025]; 32,6 toneladas no ano completo [@eco2024]
-* Destinos (até ao 3.º trimestre de 2024, em kg): Alemanha 46%, Espanha 21%, Polónia 16%, Reino Unido 10%, Austrália 5% [@infarmed2024]
-* Em meados de 2024 o Infarmed tinha emitido **47 autorizações finais de importação/exportação** e **37 de cultivo** (29 no final de 2023) [@infarmed2024]; no final de 2024, 41 empresas tinham licença de cultivo e cerca de 150 entidades com aptidão documental aguardavam vistoria [@eco2024]
+* Em 2025 exportou **79,9 toneladas** de cannabis medicinal (31,2 em 2024) e 66,3 toneladas no 1.º semestre de 2026 [@infarmed2026atividade]
+* Destinos em 2025 (em kg): Alemanha 73%, Dinamarca 7%, Espanha 7%, Polónia 5%, Reino Unido 5%, Austrália 2%; o Infarmed assinala que o destino predominante é a União Europeia, em parte por operações de fabrico de matéria-prima a nível comunitário [@infarmed2026atividade]
+* Segundo o Infarmed, havia **49 autorizações de importação/exportação** e **38 de cultivo** em 2025 (47 e 37 em 2024), e 38 e 27 a Junho de 2026; o Infarmed refere que em 2025 e 2026 houve suspensões, revogações e não renovações de autorizações por incumprimento [@infarmed2026atividade]. Em Abril de 2025, cerca de 150 pedidos tinham decisão de aptidão documental, a aguardar que os requerentes pedissem a vistoria [@eco2024]
 
 Paradoxalmente, o mercado interno absorveu em 2023 uma fracção ínfima desta produção (ver números acima). Os doentes portugueses têm acesso limitado ao que Portugal produz.
 
@@ -161,12 +161,12 @@ Paradoxalmente, o mercado interno absorveu em 2023 uma fracção ínfima desta p
 | Critério | Portugal | Alemanha | Israel | Reino Unido | Canadá |
 |----------|----------|----------|--------|-------------|--------|
 | Ano de legalização | 2018 | 2017 | 1999 | 2018 | 2001 |
-| Doentes | Sem contagem de doentes; 1.157 embalagens prescritas em 2023 [@infarmed2024] | 338.500 prescrições GKV (2022) [@globenewswire2024] | 129.900 licenças/prescrições activas (Mar 2025) [@aviram2025israel] | 60.000-75.000 (estimativa do sector, 2026; quase só privado) [@cicouncil2026patients] | 161.267 registos (Mar 2025), em queda desde 2020 [@healthcanada2025medical] |
-| Comparticipação | Nenhuma | Seguro público para extractos, dronabinol e nabilona; flor excluída desde Jul 2026 [@kvn2026bstabg] | n.d. | Praticamente nenhuma (NHS muito raro) | Maioria dos planos provinciais não cobre |
+| Doentes | Sem contagem de doentes; 7.023 embalagens prescritas em 2025 [@infarmed2026atividade] | 338.500 prescrições GKV (2022) [@globenewswire2024] | 129.900 licenças/prescrições activas (Mar 2025) [@aviram2025israel] | 60.000-75.000 (estimativa do sector, 2026; quase só privado) [@cicouncil2026patients] | 161.267 registos (Mar 2025), em queda desde 2020 [@healthcanada2025medical] |
+| Comparticipação | Só o Sativex (37%); preparações com ACM sem comparticipação [@publico2019sativex; @opcm2025comparticipacao] | Seguro público para extractos, dronabinol e nabilona; flor excluída desde Jul 2026 [@kvn2026bstabg] | n.d. | Praticamente nenhuma (NHS muito raro) | Maioria dos planos provinciais não cobre |
 | Quem prescreve | Qualquer médico (na teoria) | Qualquer médico (16 especialidades sem aprovação prévia) | Médicos das HMO; licença IMCU para dor crónica e PTSD [@aviram2025israel] | Especialistas privados | Qualquer médico |
 | Indicações | 7 indicações restritas | Sem lista fixa ("perspectiva de benefício") | Lista de indicações aprovadas | Sem lista fixa | Sem lista fixa |
 | Custo para o doente | €150–300/mês (estimativa dos autores) | Copagamento 10% (€5-10/embalagem) nos produtos comparticipados; flor em receita privada | n.d. | ~£151/mês (privado) | $100–500 CAD/mês |
-| Produção nacional | 32,6 t exportadas em 2024 [@eco2024] | Limitada (importa a maioria) | Significativa | Limitada | Excesso de oferta |
+| Produção nacional | 79,9 t exportadas em 2025 [@infarmed2026atividade] | Limitada (importa a maioria) | Significativa | Limitada | Excesso de oferta |
 
 *Nota: valores aproximados; anos indicados em cada célula; n.d. = sem dados verificados.*
 

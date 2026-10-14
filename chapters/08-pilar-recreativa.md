@@ -549,7 +549,7 @@ Com a regulação do consumo recreativo, propõe-se clarificação legislativa:
 
 ## Integração da Indústria Licenciada Existente {#integração-da-indústria-licenciada-existente}
 
-**Contexto:** Portugal tem **34 empresas licenciadas pelo INFARMED** para actividades com cannabis (final de 2022, 11 com EU-GMP) [@cannareporter2022], exportando **32.558 kg em 2024** [@eco2024]. Estas empresas têm infraestrutura, conhecimento técnico e capacidade produtiva já estabelecidos. Não integrar este sector na regulação desperdiçaria essa capacidade e tenderia a gerar oposição.
+**Contexto:** Portugal tem **34 empresas licenciadas pelo INFARMED** para actividades com cannabis (final de 2022, 11 com EU-GMP) [@cannareporter2022], e em 2025 exportaram 79.883 kg [@infarmed2026atividade]. Estas empresas têm infraestrutura, conhecimento técnico e capacidade produtiva já estabelecidos. Não integrar este sector na regulação desperdiçaria essa capacidade e tenderia a gerar oposição.
 
 **Problema identificado:** O modelo de clubes sociais auto-cultivando toda a sua cannabis poderia ser visto como competição directa à indústria licenciada, gerando resistência de um sector com investimento significativo (o emprego do sector não está quantificado nas fontes consultadas).
 

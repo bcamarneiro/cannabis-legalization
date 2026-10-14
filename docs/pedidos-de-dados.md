@@ -286,6 +286,6 @@ Com os melhores cumprimentos,
 | DGPJ | 12/10/2026 (por email) | ~26/10 | | | |
 | DGRSP | 12/10/2026 (por email) | ~26/10 | | | |
 | ICAD | 12/10/2026 | ~26/10 | | | |
-| Infarmed | 13/10/2026 | ~27/10 | | 13/10/2026, resposta do Centro de Informação do Medicamento (CIMI): só fornece dados de consumo no SNS; envia formulário para o ponto 1. Pontos 2-4 (prescritores e doentes, pedidos de comparticipação, relatórios de avaliação) não respondidos; pedido reencaminhado ao serviço competente. | |
+| Infarmed | 13/10/2026 | ~27/10 | | 13/10/2026, resposta do Centro de Informação do Medicamento (CIMI): só fornece dados de consumo no SNS; envia formulário para o ponto 1. Pontos 2-4 (prescritores e doentes, pedidos de comparticipação, relatórios de avaliação) não respondidos; pedido reencaminhado ao serviço competente. 14/10/2026: respondido por escrito, com o formulário preenchido e novo pedido de reencaminhamento dos pontos 2-4 ao responsável pelo acesso à informação. Os relatórios publicados pelo Infarmed (edições de 2025 e 2026, 1.º semestre) já respondem em parte ao ponto 1 (total anual de embalagens prescritas). | |
 | DGAV | 13/10/2026 | ~27/10 | | | |
 | INMLCF | 13/10/2026 | ~27/10 | | | |
