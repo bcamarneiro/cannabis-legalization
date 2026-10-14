@@ -2,7 +2,7 @@
 
 \newpage
 
-> **TL;DR (30 segundos):** Portugal exportou 32.558 kg de cannabis medicinal em 2024 mas apenas 1.157 prescrições (embalagens) foram emitidas internamente em 2023. O consumo recreativo não tem mercado legal: quem consome compra no mercado ilegal, sem controlo de qualidade. Propomos três pilares — (1) revisão cannabis medicinal com comparticipação SNS, (2) clubes sociais + autocultivo para adultos (modelo alemão 2024), (3) cânhamo industrial — implementados em três fases: Fase 1 (imediata: cânhamo + medicinal), Fase 2 (clubes + autocultivo, após resultados), Fase 3 (venda comercial, horizonte condicional). Evidência internacional sobre consumo juvenil: mista — nos EUA não se observou o aumento previsto; no Canadá a série dos 16-19 anos está acima do nível de 2018. Balanço económico: com os pressupostos dos autores (sem dados orçamentais oficiais), as poupanças de enforcement não cobrem os custos regulatórios; o modelo de clubes é um custo líquido de saúde pública de €4,5-11,8M/ano, não uma poupança (capítulo 08). **Não é modelo comercial** — é redução de danos para quem já consome.
+> **TL;DR (30 segundos):** Portugal exportou 79.883 kg de cannabis medicinal em 2025; no mercado interno foram prescritas 7.023 embalagens (1.157 em 2023), e, segundo o OPCM, só um medicamento, o Sativex, é comparticipado pelo SNS. O consumo recreativo não tem mercado legal: quem consome compra no mercado ilegal, sem controlo de qualidade. Propomos três pilares — (1) revisão cannabis medicinal com comparticipação SNS, (2) clubes sociais + autocultivo para adultos (modelo alemão 2024), (3) cânhamo industrial — implementados em três fases: Fase 1 (imediata: cânhamo + medicinal), Fase 2 (clubes + autocultivo, após resultados), Fase 3 (venda comercial, horizonte condicional). Evidência internacional sobre consumo juvenil: mista — nos EUA não se observou o aumento previsto; no Canadá a série dos 16-19 anos está acima do nível de 2018. Balanço económico: com os pressupostos dos autores (sem dados orçamentais oficiais), as poupanças de enforcement não cobrem os custos regulatórios; o modelo de clubes é um custo líquido de saúde pública de €4,5-11,8M/ano, não uma poupança (capítulo 08). **Não é modelo comercial** — é redução de danos para quem já consome.
 
 > **Origem e independência:** o documento começou em Janeiro de 2026 como trabalho no contexto do LIVRE, com contributos de pessoas do partido; desde Outubro de 2026 é mantido de forma independente. Nenhum partido tem controlo editorial e todos recebem as mesmas perguntas (ver anexo E).
 
@@ -10,7 +10,7 @@
 
 ## O paradoxo português {#o-paradoxo-português}
 
-Portugal encontra-se numa posição paradoxal: é um dos maiores exportadores mundiais de cannabis medicinal (32.558 kg em 2024; a imprensa sectorial coloca-o em 2.º lugar, sem ranking oficial [@eco2024; @cannareporter2024]), mas apenas 1.157 prescrições (embalagens) foram emitidas internamente em 2023 [@infarmed2024]; as vendas no mercado interno rondaram os 17 kg [@cannabislaw2024export].
+Portugal encontra-se numa posição paradoxal: é um dos maiores exportadores mundiais de cannabis medicinal (79.883 kg em 2025, contra 11.973 kg em 2023 [@infarmed2026atividade]; a imprensa sectorial coloca-o em 2.º lugar, sem ranking oficial [@eco2024; @cannareporter2024]), mas o mercado interno é pequeno: foram prescritas 7.023 embalagens em 2025 (1.157 em 2023) [@infarmed2026atividade], e as vendas no mercado interno rondaram os 17 kg em 2023 [@cannabislaw2024export]. Embalagens e quilos não são unidades comparáveis.
 
 **Uso recreativo:** sem mercado legal; o consumo faz-se no mercado ilegal, com:
 - **Canabinóides sintéticos** em circulação, descritos por uma página informativa norte-americana sem fonte primária como 2 a 800 vezes mais potentes que o THC [@oasas2024synthetic] (ver capítulo 06)
@@ -35,7 +35,7 @@ Os pilares descrevem a substância de cada proposta. As fases descrevem a sequê
 
 * **Objectivo:** Garantir acesso efectivo para doentes com prescrição médica
 * **Medidas:** Comparticipação SNS, simplificação da prescrição, alargamento de indicações, formação médicos família
-* **Urgência:** Em 2023, Portugal exportou cerca de 99,85% do que vendeu (exportações face a vendas no mercado interno), e o acesso interno dos doentes é limitado, sem comparticipação [@cannabislaw2024export; @euronews2024]
+* **Urgência:** Em 2025 Portugal exportou 79.883 kg e foram prescritas internamente 7.023 embalagens [@infarmed2026atividade]; o acesso dos doentes continua limitado e, segundo o OPCM, só o Sativex é comparticipado [@publico2019sativex; @opcm2025comparticipacao]
 
 #### Pilar 2: Cannabis Recreativa
 

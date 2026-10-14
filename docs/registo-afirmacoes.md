@@ -34,8 +34,11 @@ Este registo reúne as **afirmações em que o argumento assenta** — não toda
 
 | Afirmação | Valor | Estado | Fonte / nota |
 | :---- | :---- | :---- | :---- |
-| Exportação de cannabis medicinal | 32.558 kg (2024) | confirmado | [@eco2024] |
-| Embalagens prescritas internamente | 1.157 (2023) | confirmado | [@infarmed2024] |
+| Exportação de cannabis medicinal | 79.883 kg (2025); 31.188 kg (2024); 66.305 kg (1.º sem. 2026) | confirmado | [@infarmed2026atividade]; o ECO noticiou 32.558 kg para 2024 |
+| Embalagens prescritas internamente | 7.023 (2025); 4.143 (2024); 1.157 (2023); 5.413 (1.º sem. 2026) | confirmado | [@infarmed2026atividade]; sem número de doentes |
+| Comparticipação pelo SNS | Só o Sativex (37%); preparações com ACM sem comparticipação | secundária | Público 2019 (cita o Infarmed) [@publico2019sativex]; OPCM 2025 [@opcm2025comparticipacao]; a confirmar numa lista oficial do Infarmed |
+| ACM de preparações e substâncias | 16 (2025); 1 (2023) | confirmado | [@infarmed2026atividade] |
+| Nota de fonte (Infarmed) | 2023: 11.973 kg (Quadro 3) vs 11.737 kg (total do Quadro 4) | nota | diferença de 236 kg no próprio relatório; usa-se o Quadro 3. Uma edição anterior referia 757 embalagens até ao 3.º trimestre de 2024; as posteriores dão 4.143 para o ano |
 | "2.º maior exportador mundial" | — | secundária | Imprensa sectorial, sem ranking oficial [@eco2024; @cannareporter2024] |
 | Rendimento de fibra de cânhamo | ~1,2 t/ha | pressuposto | Assunção dos autores; falta fonte (InterChanvre/FranceAgriMer) |
 

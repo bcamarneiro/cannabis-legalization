@@ -285,6 +285,10 @@ Pendências que ficaram por resolver (fontes inacessíveis ou decisões):
 
 ### Pendências das rondas 5-6
 
+- Comparticipação: o documento passa a dizer, com base no Público (2019, cita o Infarmed) e no OPCM (2025), que só o Sativex é comparticipado (37%) e que nenhuma das preparações com ACM o é. Confirmar numa lista oficial do Infarmed (INFOMED / medicamentos comparticipados) e ver se mudou depois de Março de 2025.
+- Dados do Infarmed (edição 2026, 1.º semestre): os pontos 2-4 do pedido LADA (prescritores e doentes, pedidos de comparticipação, relatórios de avaliação da Lei 33/2018) não constam dos relatórios publicados; continuam por responder.
+- Infarmed: 2023 tem 11.973 kg no Quadro 3 e 11.737 kg no total do Quadro 4; uma edição anterior dava 757 embalagens até ao 3.º trimestre de 2024, e as posteriores 4.143 para o ano. Sem explicação publicada para a quebra de série.
+
 - 13:49 — prova dos 6 meses de residência: o Cartão de Cidadão não prova a duração nem serve a estrangeiros residentes; definir o meio de prova.
 - 14:9 — art. 4.º, n.º 4, do Regulamento (UE) 2021/2115 (THC ≤0,3%) não confirmado no EUR-Lex; confirmar à mão.
 - 08 e 13 — o modelo português prevê cultivador e assistente de distribuição remunerados, o que se afasta do §17 do KCanG (cultivo pelos membros); decidir se se mantém.
