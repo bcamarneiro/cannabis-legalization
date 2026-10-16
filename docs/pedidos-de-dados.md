@@ -282,8 +282,8 @@ Com os melhores cumprimentos,
 | :---- | :---- | :---- | :---- | :---- | :---- |
 | PSP | 12/10/2026 | ~26/10 | | | |
 | GNR | 12/10/2026 | ~26/10 | | | |
-| PJ / LPC | 12/10/2026 | ~26/10 | | | |
-| DGPJ | 12/10/2026 (por email) | ~26/10 | | | |
+| PJ / LPC | 12/10/2026 | ~26/10 | | 15/10/2026, Gabinete de Imagem e Comunicação: tratou o pedido (enviado para direcao@pj.pt, o endereço que a PJ indica para estes pedidos) como pergunta de imprensa e pediu o número de carteira de jornalista e o órgão de comunicação social. Erro de encaminhamento, não é uma decisão (art. 15.º); o prazo de 10 dias úteis mantém-se (~26/10). Resposta do requerente por enviar: cidadão, art. 5.º, n.º 1, com pedido de encaminhamento ao serviço competente. | |
+| DGPJ | 12/10/2026 (por email) | ~26/10 | | 15/10/2026, dentro do prazo: Informação n.º 150/DSEJI, folha de cálculo com dados a 31/07/2026 ([dados/](dados/dgpj-2026-10-15-estupefacientes.xlsx)). Pontos 1-3 respondidos por grupos de crimes, sem artigo nem substância; ponto 4 só com a categoria agregada «consumo» (inclui cultivo, aquisição e detenção); ponto 5 (custo médio de um processo-crime) sem resposta. Valores de 1 ou 2 em segredo estatístico (Lei n.º 22/2008, art. 6.º). Já usada no documento. | |
 | DGRSP | 12/10/2026 (por email) | ~26/10 | | | |
 | ICAD | 12/10/2026 | ~26/10 | | | |
 | Infarmed | 13/10/2026 | ~27/10 | | 13/10/2026, resposta do Centro de Informação do Medicamento (CIMI): só fornece dados de consumo no SNS; envia formulário para o ponto 1. Pontos 2-4 (prescritores e doentes, pedidos de comparticipação, relatórios de avaliação) não respondidos; pedido reencaminhado ao serviço competente. 14/10/2026: respondido por escrito, com o formulário preenchido e novo pedido de reencaminhamento dos pontos 2-4 ao responsável pelo acesso à informação. Os relatórios publicados pelo Infarmed (edições de 2025 e 2026, 1.º semestre) já respondem em parte ao ponto 1 (total anual de embalagens prescritas). | |

@@ -297,12 +297,22 @@ Pendências que ficaram por resolver (fontes inacessíveis ou decisões):
 - 16:442 — média UE de ~15% (15-34 anos) da EUDA sem o intervalo de anos dos inquéritos confirmado.
 - 10:110 e 16:493 — enumeração das convenções (1961, 1971, 1988) no relatório do INCB de 2023 confirmada só em cobertura secundária e nos §§182-184 citados.
 
+### Respostas aos pedidos LADA (2026-10)
+
+- DGPJ (15-10-2026, Inf. n.º 150/DSEJI; cópia em `docs/dados/`): pontos 1-3 por grupos de crimes (não por artigo nem por substância); ponto 4 só com a categoria agregada «consumo» (inclui cultivo, aquisição e detenção); ponto 5 (custo médio de um processo-crime) sem resposta. Dados a 31-07-2026; valores de 1 ou 2 em segredo estatístico.
+- Responder à DGPJ (tarefa no Todoist): agradecer e pedir (a) a separação, em 2022-2025, entre «Cultivo para consumo» e «Consumo de estupefacientes» (a nota da própria tabela mostra que a DGPJ regista os dois crimes por separado); (b) se tem algum documento com o custo médio de um processo-crime, ou quem o tem.
+- Polícia Judiciária: o Gabinete de Imagem e Comunicação tratou o pedido como pergunta de imprensa. Resposta do Bruno ao mesmo email (tarefa no Todoist, 16/10): cidadão, art. 5.º, n.º 1, pedido de encaminhamento. Prazo de 10 dias úteis até ~26/10.
+- Usos possíveis dos dados da DGPJ, por decidir (só entram no texto depois de verificados): em 2025, 1.714 dos 1.744 processos findos por estupefacientes eram de tráfico (1.093 «tráfico e atividades ilícitas», 621 «menor gravidade ou tráfico-consumo») e 25 de consumo; condenados por «menor gravidade ou tráfico-consumo»: 882 em 2025. Nenhum quadro separa a cannabis, por isso não dá para lhe atribuir uma parte do custo judicial (cap. 08, €10-20M, pressuposto dos autores).
+- Aritmética minha, não é fonte: €10-20M a dividir por 1.744 processos de 2025 dá cerca de €6-11 mil por processo findo em julgamento. Só cobre a fase de julgamento e mistura todas as drogas; não citar.
+- ICAD e DGPJ não coincidem em 2021: o ICAD conta 1.668 condenados (475 «consumidores»; 861 com cannabis, Quadros 196 e 207), a DGPJ 3.120 (747 em «consumo»). O ICAD só conta as decisões que lhe deram entrada (nota a) do Quadro 196). O texto usa a DGPJ e cita o ICAD para a cannabis.
+- Decisão do Bruno: depois da Lei n.º 55/2023 a categoria «consumo» tem 26-28 condenados por ano (duração média do processo de 15-16 meses em 2024-2025; o que resta será sobretudo cultivo, hipótese minha, a DGPJ não separa). Dois benefícios do texto pesam menos do que parecem: «acabar com as condenações por consumo» (ch17:54) e «Fim das condenações por cultivo» (ch10:151). A sanção que persiste são os processos de CDT (6.378 em 2021). Decidir se se reformula.
+
 ### Cap. 01-03 e 12
 
 - 02:56 — "10,5% ao longo da vida (15-74)" [@sicad2022]: valor não encontrado em documento aberto; obter o quadro 15-74 do relatório final do INPG 2022 ou usar 12,2% (15-64) [@balsa2023inpgnota].
 - 03:47 — DL 430/83: falta entrada bib com URL do DRE.
 - 02:47 — ribeiro2024economic: autoria e ano por confirmar (ResearchGate 403; possivelmente Mendonça et al., Jan 2025).
-- 01, 03, 06, 10 — dn2023condenacoes é coluna de opinião (424 condenações em 2021): citar a fonte primária (RA 2021 do SICAD ou DGPJ).
+- 01, 03, 06, 10 — resolvido a 2026-10-16: as condenações por consumo passam a citar a DGPJ (resposta LADA de 15-10-2026), ver «Respostas aos pedidos LADA».
 
 ### Cap. 04 e 06
 

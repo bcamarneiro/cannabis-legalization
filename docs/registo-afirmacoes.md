@@ -17,7 +17,7 @@ Este registo reúne as **afirmações em que o argumento assenta** — não toda
 
 | Afirmação | Valor | Estado | Fonte / nota |
 | :---- | :---- | :---- | :---- |
-| Base de custos de repressão | €40-80M/ano (central €60M) | **pressuposto + pendente** | Sem fonte. É o pressuposto mais frágil do documento. Pedidos a PSP, GNR, DGPJ, DGRSP e ICAD para o substituir por dados. |
+| Base de custos de repressão | €40-80M/ano (central €60M) | **pressuposto + pendente** | Sem fonte. É o pressuposto mais frágil do documento. Pedidos a PSP, GNR, DGPJ, DGRSP e ICAD para o substituir por dados. A DGPJ respondeu (15-10-2026) com volumes e durações, não com custos: 1.744 processos de estupefacientes findos em julgamento em 2025, 1.714 deles por tráfico [@dgpj2026estupefacientes]. Custo por processo e repartição por substância não constam da resposta. |
 | Consumidores no último ano | ~180.000 (2%, 15-74) | confirmado | [@carapinha2024icad] (ICAD/INPG 2022) |
 | Captura de mercado por cenário | 5,3 / 13,8 / 25,9% | pressuposto | Cenários dos autores (taxa operacional × clubes × membros + autocultivo) |
 | Poupança de repressão | €3,2 / 8,3 / 15,5M/ano | derivado | captura × €60M |
@@ -49,7 +49,7 @@ Este registo reúne as **afirmações em que o argumento assenta** — não toda
 | Lei 30/2000: proposta 1-6-2000, VFG 6-7-2000, veto, Decreto 39/VIII | confirmado | [@parlamento2000ppl31] |
 | Lei 55/2023: detenção para consumo é contra-ordenação; cultivo é crime | confirmado | [@tc2025acordao347] |
 | Processos CDT só com cannabis: 83% (2018), 75% (2021) | confirmado | [@icad2024anexo] (Quadro 132) |
-| Condenações por consumo: 475 em 2021 (definitivo) | confirmado | [@icad2024anexo] (Quadro 196) |
+| Condenados na categoria «consumo» (todas as substâncias; inclui cultivo, aquisição e detenção para consumo): 747 (2021), 525 (2023), 28 (2024), 26 (2025) | confirmado | [@dgpj2026estupefacientes], resposta da DGPJ de 15-10-2026. Cada condenado conta só pelo crime mais grave (nota c da folha 2): quem foi condenado também por um crime mais grave conta nesse e não aqui, pelo que o total de condenados por consumo é, no mínimo, este. Não distingue a substância nem separa o cultivo da detenção. O ICAD conta 475 condenados classificados como «consumidores» em 2021 (Quadro 196), a partir das decisões que deram entrada no ICAD; o total do ICAD (1.668) é inferior ao da DGPJ (3.120) [@icad2024anexo] |
 | KCanG: residência ≥6 meses (§16); amostragem obrigatória (§18(2)) | confirmado | gesetze-im-internet.de |
 | Condução: 3,5 ng/ml soro (Alemanha, §24a StVG) | confirmado | [@stvg2024para24a]; o limiar proposto para PT é dos autores |
 

@@ -148,7 +148,7 @@ Os horizontes abaixo são juízos dos autores, sem probabilidades.
 * Poupanças de aplicação da lei (cálculos e pressupostos no capítulo 8; intervalo largo)
 * Consumo juvenil: evidência mista. Para modelos de clubes à escala nacional os dados são preliminares (relatório intercalar alemão: a descida entre adolescentes parece continuar, sem conclusões robustas [@ekocan2025]); nos modelos comerciais, o Colorado regista descida do consumo nos últimos 30 dias entre alunos do secundário de 19,7% (2013) para 12,8% (2023), −35% [@cdphe2024], e o Canadá não mostra declínio claro entre os 16-19 anos (ver secção [*Impacto no consumo juvenil*](#3.5-impacto-no-consumo-juvenil))
 * Produtos testados vs. mercado negro não controlado (ver capítulo 8)
-* Fim das condenações por cultivo para consumo próprio, que continua a ser crime (art. 40.º do DL 15/93) [@icad2024anexo]; a detenção para consumo já é contra-ordenação, independentemente da quantidade, desde a Lei n.º 55/2023 [@tc2025acordao347]. Em 2021, antes dessa lei, houve 475 condenações por consumo (valor definitivo; três quartos por cannabis nos dados provisórios) [@icad2024anexo; @sicad2021relatorio]; ver capítulo 3
+* Fim das condenações por cultivo para consumo próprio, que continua a ser crime (art. 40.º do DL 15/93) [@icad2024anexo]; a detenção para consumo já é contra-ordenação, independentemente da quantidade, desde a Lei n.º 55/2023 [@tc2025acordao347]. Em 2021, antes dessa lei, houve 747 condenados na categoria «consumo» (todas as substâncias; inclui cultivo) e, em 2025, 26 [@dgpj2026estupefacientes]; ver capítulo 3
 
 **Fase 3 adiciona mas não é essencial:**
 * Quota legal superior: no Canadá, modelo comercial, cerca de 78% das despesas com cannabis eram legais em 2022 [@hammond2025]
