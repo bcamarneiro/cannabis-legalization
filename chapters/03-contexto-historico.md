@@ -101,14 +101,14 @@ Em **2018**, Portugal legalizou o **uso medicinal da cannabis** através da **Le
 * **Exportações:** Portugal é **um dos maiores exportadores mundiais** de cannabis medicinal — 79.883 kg em 2025 (31.188 kg em 2024) [@infarmed2026atividade]; a imprensa sectorial coloca-o em 2.º lugar, sem ranking oficial [@eco2024; @cannareporter2024]
 * **Prescrições internas:** **7.023 embalagens prescritas** em 2025, contra 1.157 em 2023 [@infarmed2026atividade; @cannareporter2024]; em 2023, 17 kg vendidos no mercado interno, ~0,14% dos 11.973 kg exportados nesse ano [@cannabislaw2024export]
 * **Uso recreativo:** cerca de 2% da população de 15-74 anos (~180.000 pessoas) consumiu cannabis no último ano [@carapinha2024icad]; não há mercado legal, pelo que o abastecimento é ilegal
-* **Sanções persistentes:** o consumo é contra-ordenação desde a Lei 30/2000, tratada nas CDT (processos administrativos: 10.445 em 2018 e 6.378 em 2021 [@icad2024anexo; @sicad2021relatorio]); os processos só com cannabis foram 83% em 2018 e 75% em 2021, mais 3% com cannabis e outras substâncias em 2021 [@icad2024anexo; @sicad2021relatorio]. Subsistiam condenações em tribunal: em 2021 houve 475 condenações em tribunal por consumo (valor definitivo; três quartos por cannabis nos dados provisórios) [@icad2024anexo; @sicad2021relatorio]. Desde então, com a Lei n.º 55/2023, de 8 de Setembro, a detenção para consumo próprio passou a ser contra-ordenação independentemente da quantidade [@tc2025acordao347]; o cultivo continua a ser crime (art. 40.º do DL 15/93) [@icad2024anexo]
+* **Sanções persistentes:** o consumo é contra-ordenação desde a Lei 30/2000, tratada nas CDT (processos administrativos: 10.445 em 2018 e 6.378 em 2021 [@icad2024anexo; @sicad2021relatorio]); os processos só com cannabis foram 83% em 2018 e 75% em 2021, mais 3% com cannabis e outras substâncias em 2021 [@icad2024anexo; @sicad2021relatorio]. Subsistiam condenações em tribunal: em 2021 houve 747 condenados na categoria «consumo» (todas as substâncias; inclui cultivo, aquisição e detenção para consumo; 1.447 em 2019), 628 deles a multa e 19 a prisão efectiva [@dgpj2026estupefacientes]; no ICAD, que regista a substância, a cannabis era a droga em 861 dos 1.668 condenados de 2021, entre traficantes e consumidores [@icad2024anexo]. Com a Lei n.º 55/2023, de 8 de Setembro, a detenção para consumo próprio passou a ser contra-ordenação independentemente da quantidade [@tc2025acordao347], e nessa categoria os condenados foram 525 em 2023, 28 em 2024 e 26 em 2025 [@dgpj2026estupefacientes]; o cultivo continua a ser crime (art. 40.º do DL 15/93) [@icad2024anexo]
 
 **Assimetria legal:**
 
 * Legal: produzir e exportar quase 80 toneladas por ano (79.883 kg em 2025 [@infarmed2026atividade])
 * Legal: prescrever cannabis a doentes (acesso restrito, ~€150 por embalagem de 15 g de flor, sem comparticipação do SNS [@euronews2024; @opcm2025comparticipacao])
 * Ilegal: um adulto obter cannabis para consumo (só mercado ilegal, sem controlo de qualidade)
-* Sancionado: o consumo, por via administrativa (CDT) e, em 2021, em 475 casos por via judicial [@icad2024anexo]; o cultivo continua a ser crime
+* Sancionado: o consumo, por via administrativa (CDT) e, em 2021, em 747 condenações por via judicial (todas as substâncias; 26 em 2025) [@dgpj2026estupefacientes]; o cultivo continua a ser crime
 
 ## Síntese: quatro momentos {#conclusão-hora-de-resolver-a-contradição}
 
@@ -120,7 +120,7 @@ A história recente pode resumir-se em **quatro momentos datados**:
 
 3. **2000:** Portugal descriminalizou o consumo de todas as drogas; o forte aumento de consumo previsto pela oposição não se verificou, e o modelo tornou-se um caso de estudo internacional, com limites documentados [@transform2016pt; @springer2021pt]
 
-4. **2018:** Portugal legalizou a cannabis medicinal mas manteve o uso adulto sem mercado legal: exportou 79.883 kg em 2025 [@infarmed2026atividade], enquanto milhares de processos administrativos (CDT) por ano — três quartos deles só por cannabis em 2021 — e condenações judiciais (475 por consumo em 2021, antes da Lei n.º 55/2023) recaíram sobre consumidores [@icad2024anexo; @sicad2021relatorio]
+4. **2018:** Portugal legalizou a cannabis medicinal mas manteve o uso adulto sem mercado legal: exportou 79.883 kg em 2025 [@infarmed2026atividade], enquanto milhares de processos administrativos (CDT) por ano — três quartos deles só por cannabis em 2021 — e condenações judiciais (747 na categoria «consumo» em 2021, antes da Lei n.º 55/2023) recaíram sobre consumidores [@icad2024anexo; @sicad2021relatorio; @dgpj2026estupefacientes]
 
 **A proposta de regulação do uso adulto em 2026 continua este percurso:**
 
