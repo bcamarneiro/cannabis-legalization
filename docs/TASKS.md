@@ -305,6 +305,7 @@ Pendências que ficaram por resolver (fontes inacessíveis ou decisões):
 - Usos possíveis dos dados da DGPJ, por decidir (só entram no texto depois de verificados): em 2025, 1.714 dos 1.744 processos findos por estupefacientes eram de tráfico (1.093 «tráfico e atividades ilícitas», 621 «menor gravidade ou tráfico-consumo») e 25 de consumo; condenados por «menor gravidade ou tráfico-consumo»: 882 em 2025. Nenhum quadro separa a cannabis, por isso não dá para lhe atribuir uma parte do custo judicial (cap. 08, €10-20M, pressuposto dos autores).
 - Aritmética minha, não é fonte: €10-20M a dividir por 1.744 processos de 2025 dá cerca de €6-11 mil por processo findo em julgamento. Só cobre a fase de julgamento e mistura todas as drogas; não citar.
 - ICAD e DGPJ não coincidem em 2021: o ICAD conta 1.668 condenados (475 «consumidores»; 861 com cannabis, Quadros 196 e 207), a DGPJ 3.120 (747 em «consumo»). O ICAD só conta as decisões que lhe deram entrada (nota a) do Quadro 196). O texto usa a DGPJ e cita o ICAD para a cannabis.
+- Decisão do Bruno: depois da Lei n.º 55/2023 a categoria «consumo» tem 26-28 condenados por ano (duração média do processo de 15-16 meses em 2024-2025; o que resta será sobretudo cultivo, hipótese minha, a DGPJ não separa). Dois benefícios do texto pesam menos do que parecem: «acabar com as condenações por consumo» (ch17:54) e «Fim das condenações por cultivo» (ch10:151). A sanção que persiste são os processos de CDT (6.378 em 2021). Decidir se se reformula.
 
 ### Cap. 01-03 e 12
 
