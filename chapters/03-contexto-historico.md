@@ -106,7 +106,7 @@ Em **2018**, Portugal legalizou o **uso medicinal da cannabis** através da **Le
 **Assimetria legal:**
 
 * Legal: produzir e exportar quase 80 toneladas por ano (79.883 kg em 2025 [@infarmed2026atividade])
-* Legal: prescrever cannabis a doentes (acesso restrito, ~€150 por embalagem de 15 g de flor, sem comparticipação do SNS [@euronews2024; @opcm2025comparticipacao])
+* Legal: prescrever cannabis a doentes (acesso restrito, ~€150 por embalagem de 15 g de flor, em regra sem comparticipação do SNS [@euronews2024; @opcm2025comparticipacao; @infarmed2026dispensasns])
 * Ilegal: um adulto obter cannabis para consumo (só mercado ilegal, sem controlo de qualidade)
 * Sancionado: o consumo, por via administrativa (CDT) e, em 2021, por via judicial (747 condenados, todas as substâncias; 26 em 2025) [@dgpj2026estupefacientes]; o cultivo continua a ser crime
 

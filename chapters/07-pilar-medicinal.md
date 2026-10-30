@@ -20,7 +20,7 @@ A Lei n.º 33/2018, de 18 de julho, legalizou o uso de medicamentos, preparaçõ
 **As causas identificadas:**
 
 1. **Processo de prescrição complexo:** Embora qualquer médico licenciado possa prescrever, a cannabis é restrita a «tratamento de último recurso», apenas para indicações aprovadas, e requer uma receita médica especial com formulário próprio aprovado pelo Ministério da Saúde [@cmslaw2024; @prohibition2025]
-2. **Comparticipação quase inexistente:** segundo o OPCM, nenhuma das nove preparações com ACM é comparticipada, e os doentes pagam a totalidade dos custos do próprio bolso [@opcm2025comparticipacao]; a excepção é o medicamento Sativex (esclerose múltipla), comparticipado a 37% [@publico2019sativex]. Uma caixa de 15g de flor de cannabis (Tilray THC 18%) custa **€150** — acima do preço do mercado negro [@euronews2024].
+2. **Comparticipação quase inexistente:** em 2025, as farmácias comunitárias do continente dispensaram com comparticipação do SNS 159 embalagens: 146 do extracto de THC e CBD, a substância do Sativex (esclerose múltipla; 37% de comparticipação em 2019 [@publico2019sativex]), 6 de CBD e 7 de flor [@infarmed2026dispensasns]. Estes dados não incluem o meio hospitalar e vêm de um universo diferente das 7.023 embalagens prescritas [@infarmed2026atividade], pelo que os dois números não se dividem. As linhas de CBD e de flor só aparecem em 2025: em Março desse ano, o OPCM ainda dizia que nenhuma das nove preparações com ACM era comparticipada e que os doentes pagavam tudo do próprio bolso [@opcm2025comparticipacao]. A resposta do Infarmed não identifica esses produtos nem o regime em que foram comparticipados. O extracto, por sua vez, caiu de 336 embalagens em 2021 para 146 em 2025. Uma caixa de 15g de flor de cannabis (Tilray THC 18%) custa **€150** — acima do preço do mercado negro [@euronews2024].
 3. **Poucos produtos disponíveis:** Sete extractos e quatro produtos de flor (dois comercializados, dois aprovados mas não disponíveis) têm Autorização de Colocação no Mercado (ACM) segundo a Prohibition Partners; o Infarmed contabiliza 16 ACM de preparações e substâncias em 2025 (1 em 2023; 11 aprovadas em 2024 e 4 em 2025), de quatro titulares [@infarmed2026atividade]. A complexidade administrativa do processo de ACM é apontada como barreira [@prohibition2025]
 4. **Falta de formação médica:** Existe necessidade de formação médica (o Observatório Português de Canábis Medicinal, OPCM, angariava fundos em 2019 para formar médicos) e alguns médicos recusam prescrever [@rtp2019]
 5. **Estigma:** Tanto entre profissionais de saúde como na sociedade, persiste a associação entre cannabis e uso recreativo, dificultando a abordagem terapêutica
@@ -40,7 +40,7 @@ A Alemanha legalizou a cannabis medicinal em 2017, com reembolso pelo seguro pú
 
 O custo é uma das barreiras ao acesso — não necessariamente a decisiva (ver a lição da comparação internacional abaixo). Actualmente em Portugal:
 
-* Uma caixa de flor (Tilray THC 18%, 15g) custa **€150** sem qualquer comparticipação [@euronews2024]
+* Uma caixa de flor (Tilray THC 18%, 15g) custa **€150**, em regra sem comparticipação [@euronews2024; @infarmed2026dispensasns]
 * Os extratos aprovados custam entre **€98 e €193,40** por unidade [@prohibition2025]
 * Um doente que necessite de tratamento contínuo pode gastar **€150–300/mês** (estimativa dos autores) — um encargo pesado, em particular para doentes crónicos com rendimentos reduzidos
 
@@ -162,7 +162,7 @@ Paradoxalmente, o mercado interno absorveu em 2023 uma fracção ínfima desta p
 |----------|----------|----------|--------|-------------|--------|
 | Ano de legalização | 2018 | 2017 | 1999 | 2018 | 2001 |
 | Doentes | Sem contagem de doentes; 7.023 embalagens prescritas em 2025 [@infarmed2026atividade] | 338.500 prescrições GKV (2022) [@globenewswire2024] | 129.900 licenças/prescrições activas (Mar 2025) [@aviram2025israel] | 60.000-75.000 (estimativa do sector, 2026; quase só privado) [@cicouncil2026patients] | 161.267 registos (Mar 2025), em queda desde 2020 [@healthcanada2025medical] |
-| Comparticipação | Só o Sativex (37%); preparações com ACM sem comparticipação [@publico2019sativex; @opcm2025comparticipacao] | Seguro público para extractos, dronabinol e nabilona; flor excluída desde Jul 2026 [@kvn2026bstabg] | n.d. | Praticamente nenhuma (NHS muito raro) | Maioria dos planos provinciais não cobre |
+| Comparticipação | 159 embalagens em 2025, 146 do extracto de THC e CBD (farmácias comunitárias do continente, sem hospitais) [@infarmed2026dispensasns] | Seguro público para extractos, dronabinol e nabilona; flor excluída desde Jul 2026 [@kvn2026bstabg] | n.d. | Praticamente nenhuma (NHS muito raro) | Maioria dos planos provinciais não cobre |
 | Quem prescreve | Qualquer médico (na teoria) | Qualquer médico (16 especialidades sem aprovação prévia) | Médicos das HMO; licença IMCU para dor crónica e PTSD [@aviram2025israel] | Especialistas privados | Qualquer médico |
 | Indicações | 7 indicações restritas | Sem lista fixa ("perspectiva de benefício") | Lista de indicações aprovadas | Sem lista fixa | Sem lista fixa |
 | Custo para o doente | €150–300/mês (estimativa dos autores) | Copagamento 10% (€5-10/embalagem) nos produtos comparticipados; flor em receita privada | n.d. | ~£151/mês (privado) | $100–500 CAD/mês |
