@@ -1,6 +1,6 @@
 # Canábis medicinal e cânhamo industrial: o que pode avançar já
 
-**Nota técnica para revisão externa · Outubro de 2026.** Iniciativa independente de qualquer partido. Bruno Camarneiro · documento completo, dados e fontes: [camarneiro.com/cannabis-legalization](https://camarneiro.com/cannabis-legalization/) · CC BY-SA 4.0
+**Nota técnica para revisão externa · Outubro de 2026.** Iniciativa independente de qualquer partido; começou em Janeiro de 2026 no contexto do LIVRE, de que o autor é militante. Bruno Camarneiro · documento completo, dados e fontes: [camarneiro.com/cannabis-legalization](https://camarneiro.com/cannabis-legalization/) · CC BY-SA 4.0
 
 **Em resumo.** Portugal exporta canábis medicinal em grande escala, mas muito pouca chega aos doentes com apoio do Serviço Nacional de Saúde. O cânhamo industrial é uma cultura agrícola sujeita a autorização prévia. Esta nota propõe duas medidas que não dependem do debate sobre o uso recreativo: avaliar a aplicação da Lei n.º 33/2018 e rever o regime do cânhamo. A forma proposta é um projecto de resolução, com [minuta pública](https://github.com/bcamarneiro/cannabis-legalization/blob/main/docs/projeto-resolucao-fase1.md), que recomenda ao Governo e não cria despesa por si.
 
