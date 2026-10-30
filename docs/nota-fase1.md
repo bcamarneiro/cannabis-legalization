@@ -23,7 +23,7 @@
 ## 2. Cânhamo industrial: uma cultura agrícola com regime de excepção
 
 - Só se trata de variedades com THC não superior a 0,3%, de semente certificada, elegíveis ao abrigo do direito da União Europeia [5].
-- O cultivo exige autorização da DGAV, ao abrigo da Portaria n.º 83/2021, alterada em 2022 e 2023 [6]. Quando foi publicada, a associação do sector, a CannaCasa, disse que estava a ser usada «como uma barreira» para os agricultores [7]. **Não medimos se o regime actual é desproporcionado.** É uma das perguntas desta revisão.
+- O cultivo exige autorização da DGAV, ao abrigo da Portaria n.º 83/2021, alterada em 2022 e 2023 [6]. Quando foi publicada, uma associação do sector, a CannaCasa, disse que estava a ser usada «como uma barreira» para os agricultores [7]. **Não medimos se o regime actual é desproporcionado.** É uma das perguntas desta revisão.
 - Em França, 1.850 produtores cultivaram 24.600 hectares em 2024, segundo a interprofissão do sector [8]. Em Elvas, um ensaio de 2024 e 2025 avaliou quatro variedades nas condições do Alentejo [9].
 - A área cultivada em Portugal foi pedida à DGAV a 13 de Outubro, sem resposta até à data desta nota.
 
@@ -37,7 +37,7 @@ Recomendar ao Governo que:
 4. reveja o licenciamento do cânhamo, tornando-o proporcional ao risco, designadamente por mera comunicação prévia para variedades certificadas;
 5. apresente à Assembleia da República os resultados no prazo de 180 dias.
 
-Há precedente de consenso: a Lei n.º 33/2018 foi aprovada com os votos de PSD, PS, BE, PCP, PEV e PAN, e a abstenção do CDS-PP [10].
+Há precedente de consenso: em votação final global, a Lei n.º 33/2018 teve os votos a favor de PSD, PS, BE, PCP, PEV e PAN, e a abstenção do CDS-PP [10].
 
 ## 4. O que esta nota não afirma
 
@@ -52,4 +52,4 @@ Apoio, não. Pedem-se duas respostas: **alguma destas afirmações é falsa ou e
 
 ---
 
-**Fontes.** [1] Infarmed, *Canábis Medicinal: Evolução da Atividade*, 2026, 1.º semestre. [2] Infarmed/SPMS, resposta de 19-10-2026 ao abrigo da Lei n.º 26/2016, [ficheiro no repositório](https://github.com/bcamarneiro/cannabis-legalization/blob/main/docs/dados/infarmed-2026-10-19-dispensa-sns.xlsx). [3] Euronews, 2024. [4] ICAD, anexo ao relatório anual, 2024, Quadro 170. [5] Regulamento (UE) 2021/2115. [6] [DGAV, Cultivo de Cânhamo](https://www.dgav.pt/plantas/conteudo/autorizacoes-de-cultivo/cultivo-de-canhamo/). [7] Lusa/Agroportal, 16-04-2021. [8] InterChanvre, 2024. [9] Saragoça et al., *Agronomy* 16(2), 2026. [10] Público, 15-06-2018. [11] KVN, 2026, sobre o §31(6) SGB V. [12] OPCM, 04-03-2025. Referências completas no [documento](https://camarneiro.com/cannabis-legalization/).
+**Fontes.** [1] Infarmed, *Canábis Medicinal: Evolução da Atividade*, 2026, 1.º semestre. [2] Infarmed/SPMS, resposta de 19-10-2026 ao abrigo da Lei n.º 26/2016, [ficheiro no repositório](https://github.com/bcamarneiro/cannabis-legalization/blob/main/docs/dados/infarmed-2026-10-19-dispensa-sns.xlsx). [3] Euronews, 2024. [4] ICAD, anexo ao relatório anual, 2024, Quadro 170. [5] Regulamento (UE) 2021/2115, art. 4.º, n.º 4. [6] [DGAV, Cultivo de Cânhamo](https://www.dgav.pt/plantas/conteudo/autorizacoes-de-cultivo/cultivo-de-canhamo/). [7] [Lusa/Agroportal, 16-04-2021](https://bo.agroportal.pt/associacao-do-canhamo-industrial-contra-portaria-que-regulamenta-cultivo). [8] InterChanvre, 2024. [9] [Saragoça et al., *Agronomy* 16(2), 2026](https://doi.org/10.3390/agronomy16020271). [10] Público, 15-06-2018. [11] KVN, 2026, sobre o §31(6) SGB V. [12] OPCM, 04-03-2025. Referências completas na [bibliografia do documento](https://github.com/bcamarneiro/cannabis-legalization/blob/main/references.bib).
