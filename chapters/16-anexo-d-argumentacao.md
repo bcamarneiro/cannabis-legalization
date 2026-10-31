@@ -117,7 +117,7 @@ Em Portugal, cerca de 10% da população (15-74 anos) já experimentou cannabis 
 * Em 2023, Portugal **exportou 99,85% das quantidades vendidas**: 11.973 kg exportados vs. apenas **17 kg vendidos localmente** [@cannabislaw2024export; @cannabisesaude2024portugal; @infarmed2024]
 * **79.883 kg exportados em 2025** (31.188 kg em 2024; 66.305 kg só no 1.º semestre de 2026) [@infarmed2026atividade] — um dos maiores exportadores mundiais, apontado pela imprensa especializada, a partir dos dados de exportação publicados pelo Infarmed, como 2.º a seguir ao Canadá; não existe um ranking internacional oficial [@eco2024; @cannareporter2024]
 * **7.023 embalagens de produtos autorizados prescritas em 2025** (1.157 em 2023; 4.143 em 2024; 5.413 no 1.º semestre de 2026): o acesso cresce, mas a par das exportações; o Infarmed não publica o número de doentes [@infarmed2026atividade]
-* **Custo elevado:** ~€150 por 15 g de flor, **sem comparticipação** (segundo o OPCM, só o Sativex é comparticipado, a 37%) [@euronews2024; @publico2019sativex]
+* **Custo elevado:** ~€150 por 15 g de flor, **em regra sem comparticipação** (159 embalagens comparticipadas nas farmácias em 2025, 7 delas de flor) [@euronews2024; @infarmed2026dispensasns]
 * Prescrição **só após falha de tratamentos convencionais** [@lei332018]
 * Limitado a **7 indicações específicas** (Deliberação n.º 11/CD/2019 do Infarmed) [@publico2019indicacoes]: espasticidade (esclerose múltipla ou lesão medular), náuseas e vómitos, estimulação do apetite em cuidados paliativos, dor crónica (oncológica ou do sistema nervoso), epilepsias graves infantis, glaucoma resistente ao tratamento, Tourette
 
@@ -182,7 +182,7 @@ A comparticipação tem de ser selectiva por uma razão simples de escala:
 
 A pergunta não é se a comparticipação custa dinheiro — é se custa **mais ou menos** que manter o status quo, onde:
 
-* Os doentes com prescrição de flor pagam ~€150 por 15 g na farmácia, sem comparticipação — mais do que no mercado negro, para onde muitos acabam por recorrer, aí sem controlo de qualidade [@euronews2024]
+* Os doentes com prescrição de flor pagam ~€150 por 15 g na farmácia, em regra sem comparticipação — mais do que no mercado negro, para onde muitos acabam por recorrer, aí sem controlo de qualidade [@euronews2024]
 * Não existe acesso legal para o consumo recreativo
 * Perdemos oportunidade de poupar em medicação mais cara
 * Não geramos impostos específicos sobre cannabis (regime de IVA dos clubes: ver capítulo 4)
@@ -216,7 +216,7 @@ Não está quantificado se a comparticipação selectiva seria custo-neutra: a s
 * **Público-alvo:** Doentes com prescrição médica para condições clínicas específicas
 * **Indicações:** Dor oncológica, epilepsia resistente a tratamento, espasticidade em esclerose múltipla, náuseas quimioterapia (4 das 7 indicações da Deliberação n.º 11/CD/2019 do Infarmed [@publico2019indicacoes]; a Lei 33/2018 exige falha de tratamentos convencionais [@lei332018])
 * **Sistema:** Prescrição médica obrigatória, dispensação em farmácia, seguimento clínico
-* **Custo actual:** ~€150 por 15 g de flor, **sem comparticipação** [@euronews2024]
+* **Custo actual:** ~€150 por 15 g de flor, **em regra sem comparticipação** [@euronews2024; @infarmed2026dispensasns]
 * **Situação portuguesa:** Portugal exportou **79.883 kg** em 2025 e foram prescritas **7.023 embalagens de produtos autorizados** [@infarmed2026atividade]; em 2023, 99,85% das quantidades vendidas foram exportadas [@cannabislaw2024export] (unidades e anos diferentes, não comparáveis)
 
 **Uso adulto recreativo (proposta regulação, SEM custos para SNS):**
@@ -240,7 +240,7 @@ Não está quantificado se a comparticipação selectiva seria custo-neutra: a s
 
 * Comparticipação destina-se a **doentes com prescrição**, não uso recreativo
 * Em 2023, 99,85% das quantidades vendidas de cannabis medicinal foram exportadas [@cannabislaw2024export]; em 2025 exportaram-se 79.883 kg [@infarmed2026atividade]
-* Doentes a quem é prescrita flor pagam ~€150 por 15 g sem comparticipação [@euronews2024]
+* Doentes a quem é prescrita flor pagam ~€150 por 15 g, em regra sem comparticipação [@euronews2024; @infarmed2026dispensasns]
 * 7.023 embalagens de produtos autorizados prescritas em 2025, 1.157 em 2023 [@infarmed2026atividade] (não comparável com os kg exportados)
 * Clubes sociais (modelo alemão): sem fins lucrativos, 200 m escolas, oficial de prevenção [@kcang2024], THC limitado [@bundesgesundheit2024cannabis]
 * Canadá 16-19 anos (CCS, último ano): 36% em 2018 → 44/44/37/37/43/41% em 2019-2024; sem declínio claro [@healthcanada2024]; NCS 2019 (15-17) mostrou descida inicial, sem inferência causal [@statcan2019youth]

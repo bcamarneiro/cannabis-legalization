@@ -17,7 +17,7 @@ Este registo reúne as **afirmações em que o argumento assenta** — não toda
 
 | Afirmação | Valor | Estado | Fonte / nota |
 | :---- | :---- | :---- | :---- |
-| Base de custos de repressão | €40-80M/ano (central €60M) | **pressuposto + pendente** | Sem fonte. É o pressuposto mais frágil do documento. Pedidos a PSP, GNR, DGPJ, DGRSP e ICAD para o substituir por dados. A DGPJ respondeu (15-10-2026) com volumes e durações, não com custos: 1.744 processos de estupefacientes findos em julgamento em 2025, 1.714 deles por tráfico [@dgpj2026estupefacientes]. Custo por processo e repartição por substância não constam da resposta. |
+| Base de custos de repressão | €40-80M/ano (central €60M) | **pressuposto + pendente** | Sem fonte. É o pressuposto mais frágil do documento. Pedidos a PSP, GNR, DGPJ, DGRSP e ICAD para o substituir por dados. A DGPJ respondeu (15-10-2026) com volumes e durações, não com custos: 1.744 processos de estupefacientes findos em julgamento em 2025, 1.714 deles por tráfico [@dgpj2026estupefacientes]. Custo por processo e repartição por substância não constam da resposta; a 20-10-2026 a DGPJ confirmou que não detém nem produz o custo médio de um processo-crime e não conhece entidade que o faça. O ICAD (26-10-2026) declarou não ter encomendado nem produzido estudos de custos. A PSP não respondeu ao ponto 4 (meios e custos); a GNR e a DGRSP não responderam. |
 | Consumidores no último ano | ~180.000 (2%, 15-74) | confirmado | [@carapinha2024icad] (ICAD/INPG 2022) |
 | Captura de mercado por cenário | 5,3 / 13,8 / 25,9% | pressuposto | Cenários dos autores (taxa operacional × clubes × membros + autocultivo) |
 | Poupança de repressão | €3,2 / 8,3 / 15,5M/ano | derivado | captura × €60M |
@@ -36,7 +36,7 @@ Este registo reúne as **afirmações em que o argumento assenta** — não toda
 | :---- | :---- | :---- | :---- |
 | Exportação de cannabis medicinal | 79.883 kg (2025); 31.188 kg (2024); 66.305 kg (1.º sem. 2026) | confirmado | [@infarmed2026atividade]; o ECO noticiou 32.558 kg para 2024 |
 | Embalagens prescritas internamente | 7.023 (2025); 4.143 (2024); 1.157 (2023); 5.413 (1.º sem. 2026) | confirmado | [@infarmed2026atividade]; sem número de doentes |
-| Comparticipação pelo SNS | Só o Sativex (37%); preparações com ACM sem comparticipação | secundária | Público 2019 (cita o Infarmed) [@publico2019sativex]; OPCM 2025 [@opcm2025comparticipacao]; a confirmar numa lista oficial do Infarmed |
+| Comparticipação pelo SNS | 159 embalagens dispensadas com comparticipação em 2025: 146 extracto THC+CBD, 6 CBD, 7 flor (farmácias comunitárias do continente, sem hospitais) | confirmado | [@infarmed2026dispensasns]. Por esclarecer junto do Infarmed: que produtos são as linhas de CBD e de flor, que só aparecem em 2025, e em que regime. Os 37% do Sativex são de 2019 [@publico2019sativex]; o OPCM (Março de 2025) dizia que nenhuma preparação com ACM era comparticipada [@opcm2025comparticipacao]. Universo diferente das 7.023 embalagens prescritas: não dividir. |
 | ACM de preparações e substâncias | 16 (2025); 1 (2023) | confirmado | [@infarmed2026atividade] |
 | Nota de fonte (Infarmed) | 2023: 11.973 kg (Quadro 3) vs 11.737 kg (total do Quadro 4) | nota | diferença de 236 kg no próprio relatório; usa-se o Quadro 3. Uma edição anterior referia 757 embalagens até ao 3.º trimestre de 2024; as posteriores dão 4.143 para o ano |
 | "2.º maior exportador mundial" | — | secundária | Imprensa sectorial, sem ranking oficial [@eco2024; @cannareporter2024] |
