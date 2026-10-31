@@ -278,6 +278,8 @@ Com os melhores cumprimentos,
 
 ## Seguimento
 
+Resumo por entidade, com o estado e o que falta, em [contactos.md](contactos.md). Esta tabela guarda o detalhe de cada resposta.
+
 | Entidade | Enviado em | Prazo (10 dias) | Prorrogação | Resposta | Queixa CADA |
 | :---- | :---- | :---- | :---- | :---- | :---- |
 | PSP | 12/10/2026 | ~26/10 | | 19/10/2026, dentro do prazo, pela Comunicação Social da Direcção Nacional (ref.ª OCS 751/2026), tratado como pedido de imprensa. Quadros no corpo do email, 2019-2025: apreensões e quantidades por substância em autos por consumo e em processos-crime; detidos por ano e por substância; inquéritos por ano (pontos 1-3, transcritos para [dados/](dados/), `psp-2026-10-19-*.csv`). Ponto 4 (meios ou custos afectos à repressão) sem resposta. | |
