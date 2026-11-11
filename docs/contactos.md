@@ -8,7 +8,7 @@ Pessoas singulares não são identificadas pelo nome, salvo se o autorizarem.
 
 ## Entidades públicas (Lei n.º 26/2016)
 
-Pedidos enviados a 12-13/10/2026. Prazo de resposta: 10 dias úteis. Queixa à CADA: 20 dias (art. 16.º, n.º 1), que cobre a falta de resposta e a satisfação parcial.
+Pedidos enviados a 12-13/10/2026. Prazo de resposta: 10 dias úteis. Cada entidade sem resposta, ou com resposta parcial, recebeu um lembrete a 11/11/2026. Não se apresentam queixas à CADA: o que ficar sem resposta fica registado aqui como tal, com as datas.
 
 | Entidade | Estado | Última resposta | O que deu | O que falta | Próximo passo |
 | :---- | :---- | :---- | :---- | :---- | :---- |
@@ -16,11 +16,11 @@ Pedidos enviados a 12-13/10/2026. Prazo de resposta: 10 dias úteis. Queixa à C
 | ICAD | **Em curso** | 26/10/2026 | Ponto 1: sem documento na forma pedida (remete para «Instrumentos de gestão»). Ponto 3: recusado, seria elaborar um estudo. Ponto 4: não existem estudos de custos. | Ponto 2 (contra-ordenações por substância, 2024-2025). | Aguardar até 11/12/2026 (prorrogação do art. 15.º, n.º 4) |
 | PSP | **Resposta parcial** | 19/10/2026 | Pontos 1 a 3: apreensões, detidos e inquéritos por substância, 2019-2025. Tratado como pedido de imprensa. | Ponto 4 (meios e custos). | Ponto 4 pedido a 11/11/2026; aguardar |
 | Infarmed | **Resposta parcial** | 19/10/2026 | Ponto 1: embalagens comparticipadas dispensadas, 2019 a Julho de 2026. | Pontos 2 a 4, anunciados para «posteriormente», sem data. Identificação das linhas de CBD e de flor. | Data pedida a 11/11/2026; aguardar |
-| PJ / LPC | **Resposta parcial** | 11/11/2026 | Pelo Gabinete de Imagem e Comunicação, remete para as estatísticas públicas da UNCTE (pontos 1 e 2, no máximo). Antes, a 15/10, tinha pedido a carteira de jornalista. | Pontos 3 e 4: teor de THC e análises do Laboratório de Polícia Científica. | Pedir os pontos 3 e 4 ao LPC; queixa à CADA até 15/11/2026 |
+| PJ / LPC | **Resposta parcial** | 11/11/2026 | Pelo Gabinete de Imagem e Comunicação, remete para as estatísticas públicas da UNCTE (pontos 1 e 2, no máximo). Antes, a 15/10, tinha pedido a carteira de jornalista. | Pontos 3 e 4: teor de THC e análises do Laboratório de Polícia Científica. | Pedir os pontos 3 e 4 ao LPC |
 | GNR | **Respondido** | 06/11/2026 | Pontos 1 a 3: remete para relatórios públicos (UNCTE 2025 da PJ, relatório anual do ICAD de 2024, RASI 2025). Ponto 4: a GNR não elabora estatística com esses dados. Fora do prazo de 10 dias úteis. | Dados da própria GNR, se os relatórios não os separarem por força policial. | Ver se os relatórios indicados cobrem os pontos 1 a 3 |
-| DGRSP | **Recepção confirmada** | 11/11/2026 | Nada ainda. O Responsável pelo Acesso à Informação reencaminhou o pedido para o centro de competências de comunicação e relações públicas. | Todo o pedido. | Aguardar; queixa à CADA até 15/11/2026 |
-| DGAV | **Sem resposta** | — | Nada. | Todo o pedido. | Lembrete enviado a 11/11/2026; queixa à CADA até 16/11/2026 |
-| INMLCF | **Sem resposta** | — | Nada. | Todo o pedido. | Lembrete enviado a 11/11/2026; queixa à CADA até 16/11/2026 |
+| DGRSP | **Recepção confirmada** | 11/11/2026 | Nada ainda. O Responsável pelo Acesso à Informação reencaminhou o pedido para o centro de competências de comunicação e relações públicas. | Todo o pedido. | Aguardar |
+| DGAV | **Sem resposta** | — | Nada. | Todo o pedido. | Lembrete enviado a 11/11/2026; aguardar |
+| INMLCF | **Sem resposta** | — | Nada. | Todo o pedido. | Lembrete enviado a 11/11/2026; aguardar |
 
 ## Investigadores e revisores
 
