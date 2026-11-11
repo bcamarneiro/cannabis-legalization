@@ -1,6 +1,6 @@
 # Registo de contactos
 
-Quem foi contactado, quando, o que respondeu, o que deu e o que falta. **Última actualização: 31-10-2026.**
+Quem foi contactado, quando, o que respondeu, o que deu e o que falta. **Última actualização: 11-11-2026.**
 
 As regras são as do resto do documento: contam os factos e as datas, a falta de resposta também se regista, e cada linha muda no mesmo dia em que o contacto muda. Só entra aqui quem já foi contactado. O texto integral de cada pedido e o detalhe de cada resposta estão em [pedidos-de-dados.md](pedidos-de-dados.md), e os ficheiros recebidos em [dados/](dados/).
 
@@ -17,7 +17,7 @@ Pedidos enviados a 12-13/10/2026. Prazo de resposta: 10 dias úteis. Queixa à C
 | PSP | **Resposta parcial** | 19/10/2026 | Pontos 1 a 3: apreensões, detidos e inquéritos por substância, 2019-2025. Tratado como pedido de imprensa. | Ponto 4 (meios e custos). | Pedir só o ponto 4 |
 | Infarmed | **Resposta parcial** | 19/10/2026 | Ponto 1: embalagens comparticipadas dispensadas, 2019 a Julho de 2026. | Pontos 2 a 4, anunciados para «posteriormente», sem data. Identificação das linhas de CBD e de flor. | Pedir uma data |
 | PJ / LPC | **Sem resposta ao pedido** | 15/10/2026 | Nada. Pediu a carteira de jornalista; respondido a 16/10 que o pedido é de um cidadão. | Todo o pedido. | Lembrete; queixa à CADA se necessário |
-| GNR | **Sem resposta** | — | Nada. | Todo o pedido. | Lembrete; queixa à CADA se necessário |
+| GNR | **Respondido** | 06/11/2026 | Pontos 1 a 3: remete para relatórios públicos (UNCTE 2025 da PJ, relatório anual do ICAD de 2024, RASI 2025). Ponto 4: a GNR não elabora estatística com esses dados. Fora do prazo de 10 dias úteis. | Dados da própria GNR, se os relatórios não os separarem por força policial. | Ver se os relatórios indicados cobrem os pontos 1 a 3 |
 | DGRSP | **Sem resposta** | — | Nada. | Todo o pedido. | Lembrete; queixa à CADA se necessário |
 | DGAV | **Sem resposta** | — | Nada. | Todo o pedido. | Lembrete; queixa à CADA se necessário |
 | INMLCF | **Sem resposta** | — | Nada. | Todo o pedido. | Lembrete; queixa à CADA se necessário |
