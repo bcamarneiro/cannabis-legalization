@@ -274,7 +274,7 @@ Com os melhores cumprimentos,
 - Os nomes de RAI (PSP, DGAV, INMLCF) vêm do registo público da CADA e podem estar desactualizados: por isso vai sempre em cópia o endereço geral da entidade.
 - Enviar todos no mesmo dia e guardar o comprovativo de cada um.
 - **DGPJ** e **DGRSP**: usar o formulário próprio de cada uma (ver a nota no respectivo rascunho).
-- Prazos: resposta em 10 dias úteis (as datas acima são estimativas), prorrogável até dois meses se a entidade o comunicar. Sem resposta ou com recusa, queixa à CADA em 20 dias.
+- Prazos: resposta em 10 dias úteis (as datas acima são estimativas), prorrogável até dois meses se a entidade o comunicar. Sem resposta ou com recusa, queixa à CADA em 20 dias. Neste projecto optou-se por não apresentar queixas: depois de um lembrete, o que ficar sem resposta fica registado como tal, com as datas.
 
 ## Seguimento
 
