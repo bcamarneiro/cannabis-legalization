@@ -38,6 +38,7 @@ pandoc "$TEMP_MD" \
     --output="$OUTPUT_TEX" \
     --template="$TEMPLATE_TEX" \
     --variable lang=pt-PT \
+    --variable graphicspath="$PROJECT_DIR" \
     --resource-path=".:assets/diagrams" \
     --number-sections \
     --toc \

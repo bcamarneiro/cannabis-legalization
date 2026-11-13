@@ -19,6 +19,8 @@
 \renewcommand{\cftsubsecpagefont}{\color{azulLivre}}
 \renewcommand{\cftsubsubsecpagefont}{\color{azulLivre}}
 \usepackage{graphicx}
+% Imagens procuradas a partir da raiz do projecto (o LaTeX compila dentro de output/)
+$if(graphicspath)$\graphicspath{{$graphicspath$/}}$endif$
 \usepackage{longtable}
 \usepackage{booktabs}
 \usepackage{array}
