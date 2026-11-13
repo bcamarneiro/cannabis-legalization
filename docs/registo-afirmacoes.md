@@ -19,11 +19,11 @@ Este registo reúne as **afirmações em que o argumento assenta** — não toda
 | :---- | :---- | :---- | :---- |
 | Base de custos de repressão | €40-80M/ano (central €60M) | **pressuposto + pendente** | Sem fonte. É o pressuposto mais frágil do documento. Pedidos a PSP, GNR, DGPJ, DGRSP e ICAD para o substituir por dados. A DGPJ respondeu (15-10-2026) com volumes e durações, não com custos: 1.744 processos de estupefacientes findos em julgamento em 2025, 1.714 deles por tráfico [@dgpj2026estupefacientes]. Custo por processo e repartição por substância não constam da resposta; a 20-10-2026 a DGPJ confirmou que não detém nem produz o custo médio de um processo-crime e não conhece entidade que o faça. O ICAD (26-10-2026) declarou não ter encomendado nem produzido estudos de custos. A PSP (12-11-2026) e a GNR (06-11-2026) responderam que não contabilizam os meios nem os custos afectos aos estupefacientes [@psp2026estupefacientes; @gnr2026resposta]; a PSP deu volumes de apreensões e detidos por substância. A DGRSP ainda não respondeu. O intervalo fica como pressuposto: os dados que o substituiriam não existem nas entidades. |
 | Consumidores no último ano | ~180.000 (2%, 15-74) | confirmado | [@carapinha2024icad] (ICAD/INPG 2022) |
-| Captura de mercado por cenário | 5,3 / 13,8 / 25,9% | pressuposto | Cenários dos autores (taxa operacional × clubes × membros + autocultivo) |
-| Poupança de repressão | €3,2 / 8,3 / 15,5M/ano | derivado | captura × €60M |
+| Captura de mercado por cenário | 5,3 / 9,6 / 17,6% | pressuposto | Cenários dos autores (taxa operacional × clubes × membros + autocultivo) |
+| Poupança de repressão | €3,2 / 5,8 / 10,6M/ano | derivado | captura × €60M |
 | Custos regulatórios | €15 / 17 / 20M/ano | pressuposto | Assunção dos autores |
-| Balanço operacional (custo líquido) | −€4,5 a −€11,8M/ano | derivado | poupança − custos |
-| Balanço a 10 anos | −€61M a −€119M | derivado | inclui investimento inicial €20-30M |
+| Balanço operacional (custo líquido) | −€9,4 a −€11,8M/ano | derivado | poupança − custos |
+| Balanço a 10 anos | −€100M a −€119M | derivado | inclui investimento inicial €20-30M |
 | Investimento inicial | €20-30M | pressuposto | Assunção dos autores |
 | Preço do mercado ilegal | €5,33/g (2023) | confirmado | [@icad2024anexo] (Quadro 170; liamba, média) |
 | Volume do mercado ilegal | 36-58 t/ano | secundária | [@ribeiro2024economic] (working paper, não revisto por pares) |

@@ -130,7 +130,7 @@ Se evidência futura demonstrar danos significativos nos 21-24 anos com o modelo
 * Formação de profissionais de saúde
 * Fiscalização dos clubes e controlo de qualidade
 
-**Fonte de financiamento:** Orçamento do Estado, como decisão política — **€10-15M/ano nos Anos 1-2** (linha orçamental dedicada, durante o licenciamento) e **€20-40M/ano a partir do Ano 3**, dependente da avaliação do modelo de clubes (2029-2032; ver capítulo 11) ([ver faseamento detalhado](#financiamento)). Esta dotação **não é financiada por poupanças de enforcement**: com os pressupostos do capítulo 8, essas poupanças (€3,2-15,5M/ano conforme cenário) ficam abaixo dos custos regulatórios (€15-20M/ano) e só abateriam parte da dotação se a captura ultrapassasse 25-33% dos consumidores. Se os clubes falharem, o enforcement mantém-se com os custos actuais e o Estado perde o investimento inicial em licenciamento e supervisão (€20-30M nos Anos 1-2); o período de avaliação serve para detectar isso cedo.
+**Fonte de financiamento:** Orçamento do Estado, como decisão política — **€10-15M/ano nos Anos 1-2** (linha orçamental dedicada, durante o licenciamento) e **€20-40M/ano a partir do Ano 3**, dependente da avaliação do modelo de clubes (2029-2032; ver capítulo 11) ([ver faseamento detalhado](#financiamento)). Esta dotação **não é financiada por poupanças de enforcement**: com os pressupostos do capítulo 8, essas poupanças (€3,2-10,6M/ano conforme cenário) ficam abaixo dos custos regulatórios (€15-20M/ano) e só abateriam parte da dotação se a captura ultrapassasse 25-33% dos consumidores. Se os clubes falharem, o enforcement mantém-se com os custos actuais e o Estado perde o investimento inicial em licenciamento e supervisão (€20-30M nos Anos 1-2); o período de avaliação serve para detectar isso cedo.
 
 **Nota sobre dados fiscais internacionais:**
 
@@ -143,15 +143,15 @@ Modelos comerciais (Colorado, Washington, Canadá) geram receitas fiscais signif
 **Balanço económico do modelo PT (pressupostos dos autores, sem dados orçamentais oficiais; o capítulo 8 é a referência para estes números):**
 
 * Custos actuais de enforcement assumidos: €40-80M/ano (valor central €60M/ano)
-* Poupanças de enforcement, proporcionais à captura de 5,3% / 13,8% / 25,9% dos ~180.000 consumidores no último ano [@carapinha2024icad]: €3,2M / €8,3M / €15,5M por ano
+* Poupanças de enforcement, proporcionais à captura de 5,3% / 9,6% / 17,6% dos ~180.000 consumidores no último ano [@carapinha2024icad]: €3,2M / €5,8M / €10,6M por ano
 * Custos regulatórios: €15M / €17M / €20M por ano
-* **Balanço operacional: −€11,8M / −€8,7M / −€4,5M por ano** (sinal negativo = custo líquido para o Estado); em 10 anos, com o investimento inicial de €20-30M, −€119M / −€95M / −€61M
+* **Balanço operacional: −€11,8M / −€11,2M / −€9,4M por ano** (sinal negativo = custo líquido para o Estado); em 10 anos, com o investimento inicial de €20-30M, −€119M / −€115M / −€100M
 * Ponto de equilíbrio operacional: captura de 25-33% dos consumidores, acima da capacidade directa dos 46 clubes (12,8%)
 * A dotação de €20-40M/ano para prevenção e tratamento é por isso uma despesa do Orçamento do Estado, não uma afectação de poupanças
 
 ([Ver análise detalhada](#financiamento) e [análise de sensibilidade](#sensitivity-roi))
 
-**Conclusão:** Comparações com receitas fiscais do Colorado/Canadá são irrelevantes para avaliar o modelo português. Com os pressupostos actuais, o modelo de clubes não se autofinancia: é uma política de saúde pública com custo líquido operacional estimado de €4,5-11,8M/ano, a decidir pelos objectivos de redução de danos e não por uma expectativa de poupança. Uma análise custo-benefício com dados orçamentais oficiais deve preceder a implementação.
+**Conclusão:** Comparações com receitas fiscais do Colorado/Canadá são irrelevantes para avaliar o modelo português. Com os pressupostos actuais, o modelo de clubes não se autofinancia: é uma política de saúde pública com custo líquido operacional estimado de €9,4-11,8M/ano, a decidir pelos objectivos de redução de danos e não por uma expectativa de poupança. Uma análise custo-benefício com dados orçamentais oficiais deve preceder a implementação.
 
 ## Comparação de riscos (Lancet 2010) {#comparação-de-riscos-lancet-2010}
 O estudo de David Nutt com 20 drogas e 16 critérios de dano [@nutt2010]:

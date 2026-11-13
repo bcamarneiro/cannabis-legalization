@@ -50,9 +50,11 @@ Propomos um modelo de comparticipação faseado:
 
 | Passo | Prazo | Mecanismo |
 |-------|-------|-----------|
-| Passo 1 | Imediata | Comparticipação a 69% (escalão B) para indicações aprovadas pelo Infarmed |
-| Passo 2 | 6 meses | Alargamento a 90% (escalão A) para doentes crónicos com baixos rendimentos |
-| Passo 3 | 12 meses | Inclusão no Formulário Nacional de Medicamentos com revisão anual |
+| Passo 1 | 0–6 meses | Comparticipação a 69% (escalão B) dos medicamentos com autorização de introdução no mercado e ensaios clínicos, nas indicações aprovadas pelo Infarmed |
+| Passo 2 | 6–18 meses | Preparações e substâncias com ACM, incluindo a flor: comparticipação condicionada à inscrição do doente no registo nacional e a avaliação do Infarmed por produto e indicação; 90% (escalão A) para doentes crónicos com baixos rendimentos |
+| Passo 3 | 18–36 meses | Inclusão no Formulário Nacional de Medicamentos com revisão anual, com base nos dados do registo |
+
+A distinção segue a evidência: os ensaios mais sólidos são de medicamentos autorizados, não de preparações nem de flor. Para estas, o registo permite comparticipar e, ao mesmo tempo, produzir os dados que hoje faltam.
 
 ### Comparação Internacional de Comparticipação {#comparação-internacional-de-comparticipação}
 
@@ -82,7 +84,8 @@ Propomos um modelo de comparticipação faseado:
 1. **Alargamento da prescrição a médicos de família:**
    * Evidência: Na Austrália, os médicos de família (GPs) estão na linha da frente da prescrição de cannabis medicinal, com aumentos substanciais nos últimos anos [@pmc2022ausGP]. Na Nova Zelândia, 55% dos GPs já tinham sido solicitados a prescrever cannabis antes da alteração regulatória [@pmc2022nzGP]
    * Na Alemanha, apesar da permissão legal, os GPs continuam a prescrever raramente, segundo um inquérito DocCheck a 500 médicos divulgado pela Bloomwell, operador de telemedicina com interesse comercial — o que sugere que a mudança legal deve ser acompanhada de formação [@cannabisbusinesstimes2025]
-   * Proposta: Permitir a prescrição por médicos de família após formação certificada obrigatória (mínimo 16h)
+   * Proposta: a lei já permite a prescrição por qualquer médico; o que falta é formação e um percurso claro. O especialista inicia o tratamento e o médico de família, com formação certificada (mínimo 16h, valor indicativo dos autores), continua-o e renova-o
+   * Todas as prescrições ficam inscritas num registo nacional de doentes, com farmacovigilância activa desde o primeiro dia (reacções adversas, interacções medicamentosas, aviso sobre condução). O registo dá também o número de doentes, que hoje não é publicado
 
 2. **Programa nacional de formação:**
    * Parceria com as Ordens dos Médicos e dos Farmacêuticos
@@ -126,7 +129,7 @@ A revisão *umbrella* do BMJ (2023) analisou 101 meta-análises sobre benefício
 
 ### Proposta de Alargamento {#proposta-de-alargamento}
 
-* **Passo 1 (imediato):** Manter as 7 indicações atuais, mas eliminar requisito de «último recurso»
+* **Passo 1 (imediato):** Manter as 7 indicações atuais, mas substituir o requisito de «último recurso» pela avaliação fundamentada do médico
 * **Passo 2 (6 meses):** Avaliar a inclusão da doença inflamatória intestinal, que não consta das 7 indicações actuais e tem evidência GRADE elevada para a qualidade de vida na revisão *umbrella* [@solmi2023bmj]
 * **Passo 3 (12 meses):** Revisão baseada em evidência atualizada, com comissão técnica independente; PTSD, fibromialgia e artrite reumatoide só após essa revisão, dado que a evidência actual é limitada ou insuficiente [@national2017]
 
@@ -144,9 +147,10 @@ Paradoxalmente, o mercado interno absorveu em 2023 uma fracção ínfima desta p
 
 ### Proposta: Redirecionamento para o Mercado Interno {#proposta-redirecionamento-para-o-mercado-interno}
 
-1. **Quota obrigatória de mercado interno:**
-   * Exigir que pelo menos 5% da produção licenciada seja disponibilizada ao mercado nacional
-   * Preço máximo regulado para o mercado interno (inferior ao preço de exportação)
+1. **Fornecimento contínuo ao mercado interno:**
+   * Obrigação de fornecimento contínuo para os titulares de ACM, com comunicação prévia de rupturas ao Infarmed
+   * Preço fixado no processo de comparticipação, como nos outros medicamentos, em vez de um preço máximo por lei
+   * Não se propõe uma quota da produção: o que limita o acesso é o preço para o doente e a prescrição, não a quantidade disponível (havia 16 preparações e substâncias com ACM em 2025 [@infarmed2026atividade])
 
 2. **Simplificação da ACM (Autorização de Colocação no Mercado):**
    * Processo acelerado para produtos já aprovados em outros mercados da UE (reconhecimento mútuo)
@@ -174,16 +178,17 @@ Paradoxalmente, o mercado interno absorveu em 2023 uma fracção ínfima desta p
 ## Recomendações Prioritárias {#recomendações-prioritárias}
 
 1. **Curto prazo (0–6 meses):**
-   * Comparticipação imediata a 69% para as indicações aprovadas
+   * Comparticipação a 69% dos medicamentos com autorização de introdução no mercado, nas indicações aprovadas
+   * Registo nacional de doentes e farmacovigilância activa, desde o primeiro dia
+   * Substituição do requisito de «último recurso» pela avaliação fundamentada do médico
    * Programa de formação para médicos de família
    * Simplificação do processo de ACM
 
 2. **Médio prazo (6–18 meses):**
+   * Comparticipação condicionada das preparações e substâncias com ACM (registo de doentes e avaliação do Infarmed por produto e indicação), a 90% para doentes crónicos de baixos rendimentos
    * Alargamento das indicações terapêuticas após revisão da evidência por comissão técnica
-   * Quota de mercado interno para produtores
-   * Eliminação do requisito de «último recurso»
+   * Obrigação de fornecimento contínuo ao mercado nacional para os titulares de ACM
 
 3. **Longo prazo (18–36 meses):**
-   * Comparticipação a 90% para doentes crónicos de baixos rendimentos
    * Inclusão no Formulário Nacional de Medicamentos
-   * Avaliação de impacto e publicação de relatório anual
+   * Avaliação de impacto e publicação de relatório anual, com os dados do registo

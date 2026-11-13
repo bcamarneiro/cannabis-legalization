@@ -67,13 +67,15 @@ A proposta segue uma lógica pragmática: **cada fase valida a seguinte**, come�
 
 **Esta é um horizonte, não um compromisso — decisão puramente baseada em dados:**
 - **O que inclui:** Venda comercial licenciada (dispensários ou modelo similar), se o modelo de clubes provar eficácia
-- **Condições cumulativas para avançar:**
-  1. Clubes capturam parcela significativa do mercado negro (dados 2029-2032)
-  2. Sem aumento do consumo juvenil
-  3. Dados de saúde pública positivos
+- **Condições cumulativas para avançar** (os limiares numéricos são fixados por uma comissão técnica independente antes do arranque da Fase 2, e não depois de conhecidos os dados):
+  1. Sem aumento do consumo no último ano entre os jovens (inquéritos nacionais ao consumo e em meio escolar), face à linha de base medida antes do licenciamento
+  2. Sem aumento dos internamentos e dos episódios de urgência atribuíveis à cannabis, incluindo psicose, nem dos pedidos de tratamento por dependência, face à mesma linha de base
+  3. Deslocação medida do mercado ilegal pelos canais legais (clubes e autocultivo, dados 2029-2032); os cenários do capítulo 8 dão 5-18%
   4. Parecer jurídico e coordenação europeia sobre a compatibilidade da venda comercial com o art. 71 da Convenção de Aplicação de Schengen (ver capítulo 10)
   5. Renovação de aprovação parlamentar (nova votação, não automatismo)
+- **Regra de recuo:** se um dos indicadores de dano (1 ou 2) ultrapassar o limiar durante a Fase 2, suspendem-se as novas licenças de clubes até nova avaliação
 - **Se os dados da Fase 2 forem negativos:** Permanecer na Fase 2 e ajustar o modelo — não avançar para venda comercial
+- **Porquê os danos e não só a captura:** no Canadá, foi na fase de comercialização que os internamentos atribuíveis à cannabis subiram, não na legalização com restrições [@myran2023hospitalizations]
 - **Fase 3 pode nunca acontecer** — os objectivos principais de redução de danos são os que a Fase 2 se propõe atingir
 
 ## Cronograma Proposto — Três Cenários {#cronograma-cenarios}
@@ -205,7 +207,7 @@ Os três cenários não têm probabilidades quantificadas: não existe método n
 
 **Mitigação:**
 - Framework **nacional** com prerrogativa central sobre licenciamento cannabis
-- Limitar poder municipal a aspectos urbanísticos (não ao mérito da actividade)
+- Limitar o poder municipal à localização (distância a escolas, zonas, horários), sem veto sobre a existência de clubes no concelho
 - Recurso administrativo eficaz contra bloqueios arbitrários
 
 ## Nota sobre Realismo do Cronograma {#nota-sobre-realismo-do-cronograma}
