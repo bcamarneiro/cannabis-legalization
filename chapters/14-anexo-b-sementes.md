@@ -16,7 +16,7 @@ Canais lícitos na Alemanha desde Abril de 2024 (§4 e §20 KCanG) [@kcang2024]:
 | :---- | :---- |
 | Lojas online | Vendedores na Alemanha ou noutro Estado-membro da UE (a importação de sementes de fora da UE para cultivo é proibida, §4(2) KCanG); não existe registo ou certificação oficial destes vendedores |
 | Importação UE | Compra a vendedores de sementes noutros Estados-membros (p. ex. Espanha, Países Baixos) para cultivo próprio |
-| Cannabis Social Clubs | Cedência aos membros de até 7 sementes ou 5 estacas por mês (§20 KCanG) |
+| Cannabis Social Clubs | Cedência aos membros, e também a não membros, de até 7 sementes ou 5 estacas por mês (§20 KCanG) [@bundesministerium2024] |
 
 ## Tipos de Sementes {#tipos-de-sementes}
 

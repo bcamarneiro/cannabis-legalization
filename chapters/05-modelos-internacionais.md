@@ -121,7 +121,7 @@ As medidas seguintes visam mitigar as dificuldades alemãs; a sua eficácia ter�
 | Problema Alemanha | Solução proposta Portugal |
 | :---- | :---- |
 | **Sem subsídio estatal** | **Subsídio €50-100k por clube** (despesa de saúde pública assumida; ver balanço negativo abaixo) |
-| **Licenciamento descentralizado** | **SICAD centralizado** — regras uniformes nacionais, sem poder de veto municipal discricionário |
+| **Licenciamento descentralizado** | **ICAD centralizado** — regras uniformes nacionais, sem poder de veto municipal discricionário (o Anexo C discute a alternativa de dar esse poder às câmaras) |
 | **Bloqueio político regional** | Framework **nacional** que limita o bloqueio por via de zonamento (tensão entre prerrogativa central e autonomia local) |
 | **Cultivo indoor** | Clima mediterrânico: outdoor/estufa viável 8-10 meses/ano no Sul (pressuposto dos autores); indoor permitido com **contrato de energia 100% renovável obrigatório** |
 | **Candidaturas em simultâneo** | **Licenciamento nacional faseado** com critérios definidos — modelo de clubes como fase de avaliação (2-3 anos) antes de decisão sobre venda comercial (calendário no capítulo 11) |
@@ -151,7 +151,7 @@ Os parâmetros seguintes são pressupostos dos autores (os mesmos da [análise d
 | :---- | :---- | :---- |
 | Apoio estatal arranque | Nenhum (cobertura de custos pelas quotas, KCanG §24) | €50-100k proposto |
 | Clima de cultivo | Continental (indoor) | Mediterrânico (outdoor/estufa parte do ano; indoor com renováveis 100%) |
-| Licenciamento | Länder, práticas diversas | SICAD centralizado, regras uniformes |
+| Licenciamento | Länder, práticas diversas | ICAD centralizado, regras uniformes |
 | Enquadramento prévio | Posse criminalizada até 2024, com arquivamento discricionário (§31a BtMG) | 25 anos de descriminalização |
 | Abordagem | Candidaturas em simultâneo em todo o país | Licenciamento nacional faseado |
 | Indústria existente | Limitada | Dezenas de empresas de cannabis medicinal licenciadas (37 autorizações finais de cultivo em meados de 2024 [@infarmed2024]) |
@@ -181,11 +181,11 @@ Espanha não legalizou cannabis, mas tolera centenas de clubes sociais sem regis
 
 **Problemas documentados:**
 
-* Fragmentação regulatória: regulação local em algumas comunidades autónomas e municípios (Catalunha, Navarra, País Basco) e ausência de enquadramento nacional [@tni2018]
+* Fragmentação regulatória: regulação local em algumas comunidades autónomas e municípios (Catalunha, Navarra, País Basco) e ausência de enquadramento nacional [@tni2018]; as leis regionais de Navarra (2014) e da Catalunha (2017) foram declaradas inconstitucionais por invasão da competência penal do Estado [@stc2017navarra; @stc2018cataluna], o que mostra que um regime de clubes exige lei nacional
 * Preocupações com deriva comercial e "turismo cannábico" [@transform2018]
 * Em 2025, pelo menos 30 clubes de Barcelona enfrentavam ordens de encerramento, segundo uma advogada citada pela High Times [@hightimes2024]
 
-**Lição para Portugal:** A ausência de regulação nacional clara não elimina o mercado — apenas o empurra para zona cinzenta com menos controlo e mais riscos. O modelo alemão oferece regras explícitas (limites definidos, licenças, proibição de turismo cannábico, segurança jurídica) que o modelo espanhol não tem. A proposta portuguesa acrescenta mecanismos de governance: auditorias anuais obrigatórias, transparência financeira mensal, transparência obrigatória de preços e custos de produção (com preço de referência indicativo publicado por SICAD), proibição de retenção de excedentes (doados automaticamente a SICAD), programa de whistleblowing protegido, e inspecções surpresa trimestrais (10% dos clubes) — ver detalhes em Anexo A.
+**Lição para Portugal:** A ausência de regulação nacional clara não elimina o mercado — apenas o empurra para zona cinzenta com menos controlo e mais riscos. O modelo alemão oferece regras explícitas (limites definidos, licenças, proibição de turismo cannábico, segurança jurídica) que o modelo espanhol não tem. A proposta portuguesa acrescenta mecanismos de governance: auditorias anuais obrigatórias, transparência financeira mensal, transparência obrigatória de preços e custos de produção (com preço de referência indicativo publicado pelo ICAD), proibição de retenção de excedentes (doados automaticamente ao ICAD), programa de whistleblowing protegido, e inspecções surpresa trimestrais (10% dos clubes) — ver detalhes em Anexo A.
 
 ## Tailândia (2022–2026): liberalização e reversão {#tailandia-chicote}
 

@@ -65,7 +65,7 @@ Propomos um modelo de comparticipação faseado:
 
 ### Análise Custo-Benefício para o SNS {#análise-custo-benefício-para-o-sns}
 
-* **Custo estimado:** Com 5.000 doentes (pressuposto dos autores para os primeiros 2 anos; o Infarmed publica 7.023 embalagens prescritas em 2025 [@infarmed2026atividade], mas não o número de doentes, pelo que não há comparação directa) e um custo médio de €120/mês comparticipado a 69%, o encargo anual para o SNS seria de ~€5 milhões
+* **Custo estimado:** Com 5.000 doentes (pressuposto dos autores para os primeiros 2 anos; o Infarmed publica 7.023 embalagens prescritas em 2025 [@infarmed2026atividade], mas não o número de doentes, pelo que não há comparação directa) e um custo médio de €120/mês comparticipado a 69%, o encargo anual para o SNS seria de ~€5 milhões; com o gasto mensal de €150-300 referido acima, o mesmo cálculo dá €6,2-12,4 milhões (€8,1-16,2 milhões com comparticipação a 90%), pelo que o encargo deve ler-se como um intervalo de €5-12 milhões
 * **Poupanças potenciais:** Substituição parcial de opióides, benzodiazepinas e anti-epilépticos de nova geração (não quantificada). Um estudo observacional nos EUA (Medicare Part D, 2010-2015) associou leis de cannabis medicinal a 8,5% menos doses diárias de opióides prescritas (14,4% em estados com dispensários; 6,9% só com autocultivo) [@bradford2018opioids]; a associação inicial entre estas leis e a mortalidade por opióides inverteu de sinal com séries mais longas (de −21% para +22,7%) [@shover2019opioids]. A evidência é observacional e inconsistente
 * **Balanço:** O investimento é modesto face à despesa do SNS (15.553 M€ em 2024 [@cfp2025sns]); eventuais poupanças líquidas não estão demonstradas
 
@@ -96,7 +96,8 @@ Propomos um modelo de comparticipação faseado:
 
 4. **Eliminação do requisito de «último recurso»:**
    * Substituir por critério de "benefício clínico comprovado" a par de outras opções terapêuticas
-   * Alinhamento com a regra alemã, onde o seguro comparticipa quando não há alternativa reconhecida aplicável e existe "uma perspectiva não remota de efeito positivo perceptível" sobre a doença ou sintomas graves (*nicht ganz entfernt liegende Aussicht auf eine spürbare positive Einwirkung*, §31(6) SGB V [@sgbv2026])
+   * Aproximação à regra alemã na parte em que deixa a decisão ao médico: o seguro comparticipa quando a alternativa reconhecida não existe ou, «segundo a avaliação fundamentada» do médico assistente, não pode ser aplicada no caso concreto, ponderados os efeitos adversos e o estado do doente (*nach der begründeten Einschätzung der behandelnden Vertragsärztin oder des behandelnden Vertragsarztes*), e quando existe "uma perspectiva não remota de efeito positivo perceptível" sobre a doença ou sintomas graves (*nicht ganz entfernt liegende Aussicht auf eine spürbare positive Einwirkung*, §31(6) SGB V [@sgbv2026])
+   * Não se propõe copiar o resto da regra alemã: a lei exige que o tratamento comece por um medicamento autorizado, num ensaio terapêutico de seis meses, e a aprovação da seguradora na primeira receita, que só pode ser recusada em casos excepcionais fundamentados e de que estão dispensadas as especialidades designadas pelo G-BA [@sgbv2026]
 
 ## Indicações Terapêuticas {#indicações-terapêuticas}
 
@@ -126,7 +127,7 @@ A revisão *umbrella* do BMJ (2023) analisou 101 meta-análises sobre benefício
 ### Proposta de Alargamento {#proposta-de-alargamento}
 
 * **Passo 1 (imediato):** Manter as 7 indicações atuais, mas eliminar requisito de «último recurso»
-* **Passo 2 (6 meses):** Avaliar a inclusão da doença inflamatória intestinal, única destas indicações com evidência GRADE elevada (qualidade de vida) na revisão *umbrella* [@solmi2023bmj]
+* **Passo 2 (6 meses):** Avaliar a inclusão da doença inflamatória intestinal, que não consta das 7 indicações actuais e tem evidência GRADE elevada para a qualidade de vida na revisão *umbrella* [@solmi2023bmj]
 * **Passo 3 (12 meses):** Revisão baseada em evidência atualizada, com comissão técnica independente; PTSD, fibromialgia e artrite reumatoide só após essa revisão, dado que a evidência actual é limitada ou insuficiente [@national2017]
 
 ## Integração com a Indústria Existente {#integração-com-a-indústria-existente}

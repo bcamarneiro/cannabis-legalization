@@ -42,10 +42,12 @@ A posição do PS sobre a regulação da cannabis é internamente diversa, com d
 | Nível | Apoio esperado | Propostas |
 | :---- | :---- | :---- |
 | **1 — Consenso imediato** | Apoio parlamentar alargado (precedente: Lei 33/2018) | Comparticipação SNS cannabis medicinal; Avaliação Lei 33/2018 |
-| **2 — Consenso possível** | Maioria parlamentar viável | Clubes sociais (modelo alemão); autocultivo com sementes certificadas; idade mínima, plantas, quantidades e THC conforme o capítulo 8 |
+| **2 — Consenso possível** | Maioria por construir (ver aritmética abaixo) | Clubes sociais (modelo alemão); autocultivo com sementes certificadas; idade mínima, plantas, quantidades e THC conforme o capítulo 8 |
 | **3 — Objectivo de longo prazo (condicional)** | Partidos com posição favorável documentada (BE, IL, LIVRE, PAN) | Venda comercial regulada só a maiores de 21 anos (Fase 3; condições e datas no capítulo 11) |
 
 **Sequência:** começar pelo Nível 1 (matérias com votação alargada registada), negociar o Nível 2 (implementação realista) e manter o Nível 3 como objectivo condicional, dependente dos dados da Fase 2.
+
+**Aritmética parlamentar (XVII Legislatura, eleita em Maio de 2025):** PSD 89, Chega 60, PS 58, IL 9, LIVRE 6, PCP 3, CDS-PP 2, BE 1, PAN 1 e JPP 1, num total de 230 deputados [@ar2026grupos]. Uma lei ordinária aprova-se à pluralidade de votos, sem contar as abstenções (art. 116.º, n.º 3, da Constituição [@crp1976]). Os partidos com posição favorável documentada ao uso adulto (BE, IL, LIVRE e PAN) somam 17 deputados; com o PS unido seriam 75. PSD, Chega e CDS-PP somam 151. Nesta legislatura, o Nível 2 só passa com o voto favorável ou a abstenção do PSD e com o PS a votar a favor em bloco, o que não aconteceu em 2019. O mapa acima não tem fontes de 2025-2026 para PS, PSD e Chega.
 
 ## Coordenação Europeia: Desafios Legais UE/Schengen e Estratégia Multilateral {#coordenação-europeia-desafios-legais-ueschengen-e-estratégia-multilateral}
 

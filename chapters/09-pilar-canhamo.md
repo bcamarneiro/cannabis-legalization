@@ -40,7 +40,7 @@ Portugal reúne condições favoráveis para o cultivo de cânhamo. Os pontos 1 
 | CBD/extratos | Suplementos, cosmética | €2.000–5.000 |
 | Biomassa total | Energia, bioplásticos | €400–800 |
 
-*Nota: intervalos indicativos, pressuposto dos autores a partir de dados europeus dispersos; não correspondem a uma fonte única nem a ensaios em Portugal. Os valores por produto não são cumulativos no mesmo hectare. A linha «Fibra» refere-se ao valor da fibra depois da desfibragem industrial; o agricultor vende palha (7–8 t/ha de palha seca, segundo testemunho de produtor publicado pela InterChanvre [@interchanvre2024culture]) e semente, não fibra.*
+*Nota: intervalos indicativos, pressuposto dos autores a partir de dados europeus dispersos; não correspondem a uma fonte única nem a ensaios em Portugal. Os valores por produto não são cumulativos no mesmo hectare. A linha «Fibra» refere-se ao valor da fibra depois da desfibragem industrial; o agricultor vende palha (7–8 t/ha de palha seca, segundo testemunho de produtor publicado pela InterChanvre [@interchanvre2024culture]) e semente, não fibra. A linha «CBD/extratos» supõe um mercado que hoje não existe para suplementos alimentares: o CBD não está autorizado como novo alimento na UE (capítulo 2).*
 
 Para comparação, segundo estimativas da indústria citadas pelo USDA (2020), o cânhamo rendia em Itália cerca de **€600/ha** líquidos, contra cerca de **€300/ha** do trigo duro — aproximadamente o dobro [@usdaitaly2020]; é um lucro líquido, não comparável com a receita bruta das tabelas deste capítulo.
 

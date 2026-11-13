@@ -124,7 +124,7 @@ Se evidência futura demonstrar danos significativos nos 21-24 anos com o modelo
 
 **Proposta concreta de financiamento:** Dado que o modelo de clubes sociais sem fins lucrativos não gera receitas fiscais significativas (ao contrário de modelos comerciais), propõe-se financiamento via **Orçamento do Estado** para:
 
-* Serviços de tratamento de dependências (reforço do SICAD)
+* Serviços de tratamento de dependências (reforço do ICAD)
 * Programas de prevenção nas escolas
 * Investigação científica sobre riscos e benefícios
 * Formação de profissionais de saúde
@@ -209,7 +209,7 @@ Baseada nos três modelos acima descritos [@bundesministerium2024; @bast2024thc;
 #### Limites e Testes
 
 * **Limite legal:** 3,5 ng/ml de THC no soro sanguíneo, ou seja cerca de 2 ng/ml em sangue total (modelo alemão — conservador e equiparado a 0,2‰ de alcoolemia pela BASt)
-* **Limite reduzido para condutores novatos e <21 anos:** 1,0 ng/ml no soro (limiar analítico, em vez de 3,5), para condutores com menos de 2 anos de carta e menores de 21 anos — paralelo à redução do limite de álcool para 0,2 g/l em regime probatório (art. 81.º, n.os 3 e 7, do Código da Estrada [@codigoestrada2024]). Não é "tolerância zero": abaixo de 1,0 ng/ml não há infracção
+* **Limite reduzido para condutores novatos e <21 anos:** 1,0 ng/ml no soro (limiar analítico, em vez de 3,5), para condutores com menos de 2 anos de carta e menores de 21 anos — paralelo à redução do limite de álcool para 0,2 g/l em regime probatório (art. 81.º, n.os 3 e 7, do Código da Estrada [@codigoestrada2024]). Não é "tolerância zero": abaixo de 1,0 ng/ml não há infracção. Tal como o 0,2 g/l do álcool, é um limiar de precaução para condutores inexperientes e não um limiar de incapacidade, o que explica a diferença face à crítica acima ao 1,0 ng/ml como limite geral
 * **Consumo misto:** Cannabis com álcool ao volante é infracção agravada a partir de THC ≥1,0 ng/ml no soro com qualquer alcoolemia mensurável — mais exigente do que o regime alemão, que só agrava a partir de 3,5 ng/ml [@stvg2024para24a]
 * **Testes roadside:** Rastreio por fluido oral (modelo canadiano), sem valor probatório; confirmação por análise de sangue
 * **Testes confirmatórios:** Análise sanguínea laboratorial (gold standard) — apenas estes têm valor evidentiary

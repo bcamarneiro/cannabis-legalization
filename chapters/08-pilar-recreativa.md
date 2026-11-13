@@ -28,10 +28,10 @@ Proposta baseada no modelo alemão (KCanG) [@kcang2024; @bundesministerium2024],
 
 **Safeguards adicionais PT (prevenir cenário Espanha):**
 
-* Transparência de preços obrigatória (custos produção publicados), excedentes doados automaticamente a SICAD
+* Transparência de preços obrigatória (custos produção publicados), excedentes doados automaticamente ao ICAD (o ICAD, I.P. sucedeu ao SICAD a 1 de Janeiro de 2024, DL n.º 89/2023)
 * Auditoria anual independente obrigatória (relatório público online)
 * Inspecções mínimo 10% clubes/trimestre
-* Programa whistleblowing protegido (denúncias confidenciais a SICAD)
+* Programa whistleblowing protegido (denúncias confidenciais ao ICAD)
 * Ver detalhes completos em Anexo A
 
 #### Oficial de Prevenção e Monitorização de Saúde Mental
@@ -70,16 +70,16 @@ Cada clube deve ter um **Präventionsbeauftragter** (Oficial de Prevenção) —
    - Recusar admissão a candidatos com psicose activa não estabilizada
 
 6. **Relatórios e responsabilização**
-   - Relatório trimestral ao SICAD: número de referenciações, padrões identificados, taxa de follow-up bem-sucedido
+   - Relatório trimestral ao ICAD: número de referenciações, padrões identificados, taxa de follow-up bem-sucedido
    - Relatório anual ao clube (assembleia geral): estatísticas anonimizadas, recomendações melhorias
-   - Disponibilidade para auditorias SICAD/Infarmed
+   - Disponibilidade para auditorias ICAD/Infarmed
 
 **Qualificações mínimas (requisitos PT — mais rigorosos que modelo alemão base):**
 
 Alemanha (§23 KCanG) exige apenas formação certificada em addiction prevention em centros especializados, sem requisito de licenciatura. Portugal propõe padrão mais elevado:
 
 - **Formação base:** Licenciatura em Psicologia, Serviço Social, Enfermagem, ou Saúde Pública
-- **Formação especializada obrigatória:** Curso certificado em adições (mínimo 40 horas) reconhecido por SICAD ou Ordem dos Psicólogos
+- **Formação especializada obrigatória:** Curso certificado em adições (mínimo 40 horas) reconhecido pelo ICAD ou Ordem dos Psicólogos
 - **Experiência preferencial:** Trabalho prévio com dependências, harm reduction, ou saúde mental comunitária (mínimo 1 ano)
 - **Competências interpessoais:** Empatia, comunicação não-punitiva, capacidade de estabelecer limites sem estigmatizar
 
@@ -92,7 +92,7 @@ A lei alemã exige **um** responsável de prevenção por clube, que tem de ser 
 - **2 oficiais de prevenção por clube** (obrigatório, independentemente do tamanho; rácio máximo 1:250 com 500 membros)
 - Clubes >300 membros: ambos oficiais a tempo inteiro (40h/semana cada)
 - Clubes 150-300 membros: 1 oficial tempo inteiro + 1 oficial tempo parcial (20h/semana)
-- Clubes <150 membros: ambos oficiais podem ser tempo parcial (mínimo 20h/semana cada), ou partilhar com outro clube próximo (mediante aprovação SICAD)
+- Clubes <150 membros: ambos oficiais podem ser tempo parcial (mínimo 20h/semana cada), ou partilhar com outro clube próximo (mediante aprovação ICAD)
 
 **Salário e condições:**
 
@@ -105,8 +105,8 @@ A lei alemã exige **um** responsável de prevenção por clube, que tem de ser 
 
 - Reporta à direcção do clube (questões administrativas, orçamento)
 - **Independência funcional:** Decisões de referenciação e negação de acesso a menores **não podem** ser vetadas pela direcção
-- SICAD pode contactar directamente o Oficial para auditorias (confidencialidade protegida)
-- Demissão do Oficial requer justificação documentada + notificação SICAD (prevenir retaliação por referenciações "excessivas")
+- ICAD pode contactar directamente o Oficial para auditorias (confidencialidade protegida)
+- Demissão do Oficial requer justificação documentada + notificação ICAD (prevenir retaliação por referenciações "excessivas")
 
 **Alternativa mais rigorosa (modelo suíço):**
 
@@ -114,7 +114,7 @@ No estudo piloto Züri Can, a elegibilidade dos participantes foi rastreada com 
 
 **Esta opção pode ser considerada** se a implementação inicial revelar lacunas no modelo alemão, mas implica maior burocracia e custos (avaliação psicológica ~€50-80 por candidato).
 
-**Justificação:** Modelo alemão equilibra proteção com praticabilidade. No Ontário (Canadá), um estudo não encontrou evidência de aumento do uso de serviços de saúde nem de casos incidentes de perturbações psicóticas nos 17 meses seguintes à legalização, embora já existisse uma tendência crescente de psicoses induzidas por substâncias desde 2014 e seja necessária observação mais longa [@wootten2023ontario]. O estudo não testa o papel de oficiais de prevenção e não permite inferir nada sobre ele.
+**Justificação:** Modelo alemão equilibra proteção com praticabilidade. No Ontário (Canadá), um estudo não encontrou evidência de aumento do uso de serviços de saúde nem de casos incidentes de perturbações psicóticas nos 17 meses seguintes à legalização, embora já existisse uma tendência crescente de psicoses induzidas por substâncias desde 2014 e seja necessária observação mais longa [@wootten2023ontario]. Nas quatro províncias mais populosas do Canadá, a legalização com restrições (Outubro de 2018 a Fevereiro de 2020) não se associou a um aumento dos internamentos atribuíveis à cannabis; a fase de comercialização, que coincidiu com a pandemia (Março de 2020 a Março de 2021), associou-se a um aumento imediato, e os internamentos por psicose induzida por cannabis foram 40% mais frequentes do que antes da legalização (razão de taxas 1,40; IC 95% 1,34-1,47) [@myran2023hospitalizations]. É um argumento a favor de um modelo sem venda comercial e um aviso para a Fase 3. Nenhum dos dois estudos testa o papel de oficiais de prevenção nem permite inferir nada sobre ele.
 
 Para uma descrição detalhada do funcionamento deste modelo, ver Anexo A.
 
@@ -279,10 +279,10 @@ Os clubes devem implementar **rastreabilidade completa** da cannabis cultivada, 
 
 Em Espanha, sem regulação nacional e com fiscalização desigual, os clubes são muito heterogéneos; no inquérito europeu de Pardal et al. (81 clubes em 13 países), o mais pequeno tinha 6 membros e o maior 5.000 [@pardal2020mapping]. Para reduzir o risco de funcionamento de facto comercial, Portugal deve adicionar mecanismos ausentes na Alemanha e em Espanha:
 
-- **Auditoria externa independente anual:** Obrigatória para todos os clubes, conduzida por auditor certificado não-membro, relatório publicado online e submetido a SICAD — recusa de publicação resulta em suspensão imediata da licença
-- **Transparência de preços:** Clubes definem preços com base nos custos reais de produção, qualidade do produto e situação financeira — sem tecto rígido. Obrigatória a publicação de custos de produção por grama e a afixação visível de preços. Preço de referência indicativo (não vinculativo) publicado anualmente por SICAD com base em custos médios dos clubes licenciados. Objectivo: competitividade com o mercado ilegal (preço médio da liamba em Portugal: €5,33/g em 2023, entre €5,27 e €5,64 em 2019-2023, segundo os dados policiais compilados pelo ICAD [@icad2024anexo]) sem impor rigidez que comprometa viabilidade
-- **Proibição absoluta retenção excedentes:** Qualquer surplus (receitas > custos + reserva operacional 10%) é automaticamente doado a SICAD trimestralmente para financiar prevenção/tratamento — distribuição de lucros a membros/direcção resulta em revogação permanente
-- **Dashboard mensal online público:** Divulgação a membros + SICAD de vendas totais (€), custos operacionais agregados, pagamentos direcção/funcionários, número membros activos
+- **Auditoria externa independente anual:** Obrigatória para todos os clubes, conduzida por auditor certificado não-membro, relatório publicado online e submetido ao ICAD — recusa de publicação resulta em suspensão imediata da licença
+- **Transparência de preços:** Clubes definem preços com base nos custos reais de produção, qualidade do produto e situação financeira — sem tecto rígido. Obrigatória a publicação de custos de produção por grama e a afixação visível de preços. Preço de referência indicativo (não vinculativo) publicado anualmente pelo ICAD com base em custos médios dos clubes licenciados. Objectivo: competitividade com o mercado ilegal (preço médio da liamba em Portugal: €5,33/g em 2023, entre €5,27 e €5,64 em 2019-2023, segundo os dados policiais compilados pelo ICAD [@icad2024anexo]) sem impor rigidez que comprometa viabilidade
+- **Proibição absoluta retenção excedentes:** Qualquer surplus (receitas > custos + reserva operacional 10%) é automaticamente doado ao ICAD trimestralmente para financiar prevenção/tratamento — distribuição de lucros a membros/direcção resulta em revogação permanente
+- **Dashboard mensal online público:** Divulgação a membros + ICAD de vendas totais (€), custos operacionais agregados, pagamentos direcção/funcionários, número membros activos
 
 **Fiscalizações estatais — Modelo alemão:**
 
@@ -296,7 +296,7 @@ As autoridades regionais (Länder) conduzem [@cannabis420eu2024]:
 **Safeguards adicionais propostos para Portugal:**
 
 - **Meta específica de inspecções:** Mínimo 10% dos clubes auditados por trimestre (selecção aleatória) — cria previsibilidade estatística de fiscalização que desincentiva desvios
-- **Programa de whistleblowing:** Canal confidencial para membros reportarem suspeitas de desvios comerciais (revenda, manipulação preços, não-compliance) anonimamente a SICAD — denunciante protegido contra retaliação, denúncias comprovadas que levem a revogação resultam em reembolso de quotas ao denunciante
+- **Programa de whistleblowing:** Canal confidencial para membros reportarem suspeitas de desvios comerciais (revenda, manipulação preços, não-compliance) anonimamente ao ICAD — denunciante protegido contra retaliação, denúncias comprovadas que levem a revogação resultam em reembolso de quotas ao denunciante
 
 **Consequências por incumprimento** [@bundesgesundheit2024cannabis]:
 
@@ -395,7 +395,7 @@ Modelo alemão KCanG 2024 (adoptado como base para PT): a lei obriga os clubes a
 - **Frequência testes:** Cada lote de cannabis antes de distribuição (modelo Alemanha/Canadá)
 - **Rastreabilidade:** Certificado teste acompanha cada lote distribuído (código QR em embalagem)
 - **Rejeição lotes:** Cannabis que falhe qualquer teste **não pode** ser distribuída — deve ser destruída sob supervisão Infarmed
-- **Transparência:** Relatórios agregados testes (% lotes aprovados, tipos contaminantes encontrados) publicados trimestralmente online por SICAD
+- **Transparência:** Relatórios agregados testes (% lotes aprovados, tipos contaminantes encontrados) publicados trimestralmente online pelo ICAD
 
 **Custos e financiamento:**
 
@@ -411,7 +411,7 @@ Modelo alemão KCanG 2024 (adoptado como base para PT): a lei obriga os clubes a
 | **Testes metais pesados** | Nenhum (As, Cd, Pb, Hg mais prevalentes nas amostras ilícitas; percentagem não quantificada no resumo [@sciety2025illicit]) | Obrigatórios (ICP-MS) |
 | **Testes micotoxinas** | Nenhum (12-16% das amostras com micotoxinas [@sciety2025illicit; @pmc2024fusarium]) | Obrigatórios (LC-MS/MS) |
 | **Rastreabilidade** | Inexistente (origem desconhecida) | Seed-to-sale completa |
-| **Responsabilização** | Inexistente (mercado clandestino) | Auditorias SICAD/Infarmed + relatórios públicos |
+| **Responsabilização** | Inexistente (mercado clandestino) | Auditorias ICAD/Infarmed + relatórios públicos |
 
 ##### Vantagem acrescida: Autocultivo com sementes certificadas
 
@@ -490,7 +490,7 @@ O autocultivo de cannabis seguirá o mesmo modelo de enforcement reactivo, com u
 
 **Distribuição via clubes sociais** (modelo alemão):
 
-- Clubes distribuem **até 7 sementes por mês** aos membros (suficiente para 3 plantas com margem erro germinação)
+- Clubes distribuem **até 7 sementes por mês** aos membros e, como a lei alemã permite (§20 KCanG [@kcang2024]), a adultos não-sócios que cultivem em casa (suficiente para 3 plantas com margem erro germinação); quem só levanta sementes não é sócio e não conta para a lotação de 500
 - Sementes fornecidas por **produtores licenciados** (Infarmed ou DGAV emite licenças)
 - **Rastreabilidade completa:** Cada lote de sementes com código rastreável (variedade, THC esperado, origem)
 - **Limite posse:** Membros podem deter até 50 sementes em casa (stock 7 meses)
@@ -513,7 +513,7 @@ Fornecedores de sementes devem obter licença de Infarmed/DGAV com os seguintes 
 **Enforcement e fiscalização:**
 
 - **Clubes:** Devem documentar origem de todas as sementes distribuídas (lote, fornecedor, data)
-- **Autocultivo independente:** Proibido obter sementes fora de clubes (enforcement reactivo mediante denúncias, não fiscalização porta-a-porta — ver secção "Modelo de Enforcement" acima)
+- **Autocultivo independente** (adultos que cultivam em casa sem serem sócios): Proibido obter sementes fora de clubes (enforcement reactivo mediante denúncias, não fiscalização porta-a-porta — ver secção "Modelo de Enforcement" acima)
 - **Penalidades:** Fornecedores não licenciados = coima €5.000-50.000 + apreensão stock
 - **Reconhecimento:** Impossível eliminar 100% sementes ilegais (tal como produção doméstica vinho ilegal existe), mas sistema reduz risco vs. mercado negro
 
@@ -578,7 +578,7 @@ Para evitar concentração de mercado, permitir **máximo 1-2 clubes por produto
 
 - **Requisito non-profit mantém-se:** Clube opera a custo real (cost-recovery), sem distribuir lucros
 - **Separação contabilística:** Clube é entidade separada do produtor (auditoria independente)
-- **Transparência de preços aplica-se:** Publicação obrigatória de custos de produção e preços, excedentes doados a SICAD (como todos os clubes)
+- **Transparência de preços aplica-se:** Publicação obrigatória de custos de produção e preços, excedentes doados ao ICAD (como todos os clubes)
 - **Governance rigorosa:** Mesmas obrigações que clubes independentes (auditoria, transparência, whistleblowing)
 
 **Justificação:** No piloto suíço Züri Can (vendas desde Agosto de 2023), os pontos de venda são 10 farmácias, 10 clubes sociais (9 activos) e o centro municipal de informação sobre drogas (DIZ), com um máximo de 3.000 participantes [@zurican2026stand]; as fontes não referem pontos de venda operados por produtores. Permitir que produtores licenciados operem clubes é, portanto, proposta própria. Limitar a 1-2 clubes/produtor previne oligopólio, mantendo diversidade de clubes independentes.
@@ -598,13 +598,13 @@ Produtores podem **fornecer assistência técnica** a clubes (mediante pagamento
 
 **Criação de empregos em clubes** (hipótese dos autores para os ~46 clubes propostos, ver distribuição geográfica abaixo):
 
-- Oficiais de Prevenção: ~92 postos (2 por clube, parte a tempo parcial, €28.000-35.000/ano a tempo inteiro)
-- Gestão e administração: ~90-180 postos (2-4 por clube)
-- Cultivo e produção: ~140-280 postos (3-6 por clube, se auto-cultivo)
-- Auditores e inspectores (SICAD/Infarmed): +20-40 postos
-- **Total indicativo:** ~340-590 postos, sem dedução de eventuais reduções em enforcement (não quantificadas)
+- Oficiais de Prevenção: ~92 postos (2 por clube, €28.000-35.000/ano a tempo inteiro)
+- Cultivo e produção: ~69 postos (1,5 por clube)
+- Gestão e distribuição: ~46 postos (1 por clube: meio gestor administrativo e meio assistente de distribuição)
+- Auditores e inspectores (ICAD/Infarmed): +20-40 postos
+- **Total indicativo:** ~230-250 postos equivalentes a tempo inteiro (4,5 por clube, como no modelo de custos do Anexo A, mais a fiscalização), sem dedução de eventuais reduções em enforcement (não quantificadas). Um clube com mais pessoal do que este teria custos por grama acima dos do Anexo A
 
-**Nota:** A transição deve incluir formação profissional para agentes de PSP/GNR afectados (reconversão para fiscalização de clubes, SICAD, ou outros sectores).
+**Nota:** A transição deve incluir formação profissional para agentes de PSP/GNR afectados (reconversão para fiscalização de clubes, ICAD, ou outros sectores).
 
 **Conclusão:** Integrar a indústria licenciada no modelo de clubes tem vantagens (produtores mantêm mercado doméstico; clubes acedem a produto de qualidade controlada; emprego qualificado) e riscos (concentração). A redução da resistência política é uma expectativa dos autores, não um dado. O requisito non-profit e a governance proposta visam impedir que produtores dominem o mercado.
 
@@ -646,7 +646,7 @@ Parte das poupanças pode ocorrer com a alteração legal em si (fim dos process
 
 **Dotação para prevenção e tratamento (decisão política, não resultado do modelo):**
 
-* Propõe-se **€20-40M/ano** para: serviços de tratamento (reforço do SICAD), prevenção nas escolas, investigação e formação de profissionais de saúde (a fiscalização dos clubes e o controlo de qualidade estão nos custos regulatórios acima, não nesta dotação)
+* Propõe-se **€20-40M/ano** para: serviços de tratamento (reforço do ICAD), prevenção nas escolas, investigação e formação de profissionais de saúde (a fiscalização dos clubes e o controlo de qualidade estão nos custos regulatórios acima, não nesta dotação)
 * Nos cenários calculados, esta dotação **não é coberta** por poupanças de enforcement e teria de vir do Orçamento do Estado. A fracção financiada por poupanças só cresce se a captura ultrapassar o ponto de equilíbrio
 * **Fonte adicional:** Taxas de licenciamento pagas pelos clubes ao regulador (montante a definir). As jóias e quotas dos membros financiam o clube (cost-recovery), não o Estado
 
@@ -693,7 +693,7 @@ A ausência de uma estratégia media pode comprometer a viabilidade política da
    - **Profissionais de saúde:** Foco em harm reduction, evidência clínica, protocolos de prevenção
    - **Público geral:** Foco em segurança, controlo de qualidade, protecção de menores
    - **Jovens:** Foco em riscos reais (não moralização), informação de redução de danos
-5. **Transparência:** Propomos publicar os dados agregados dos clubes regularmente (dashboard SICAD), partindo do princípio de que a transparência reduz a desconfiança.
+5. **Transparência:** Propomos publicar os dados agregados dos clubes regularmente (dashboard ICAD), partindo do princípio de que a transparência reduz a desconfiança.
 6. **Porta-vozes credíveis:** Propomos priorizar profissionais de saúde e investigadores, não apenas políticos.
 
 ##### Riscos comunicacionais a gerir
@@ -733,7 +733,7 @@ Captura de mercado por cenário (ver [análise de sensibilidade](#sensitivity-ro
 | Categoria | Valor Anual | Impacto OE |
 | :---- | :---- | :---- |
 | **Custos regulatórios novos** | +€10-15M | Novo gasto OE |
-| Licenciamento e fiscalização clubes | €3-5M | SICAD/Infarmed (pessoal, auditorias) — proporcionais ao nº de clubes licenciados |
+| Licenciamento e fiscalização clubes | €3-5M | ICAD/Infarmed (pessoal, auditorias) — proporcionais ao nº de clubes licenciados |
 | Análises laboratoriais obrigatórias | €2-3M | Laboratórios ISO 17025 (subcontratados) |
 | Formação Oficiais Prevenção | €2-3M | Cursos certificação, supervisão clínica |
 | Sistemas rastreabilidade/monitorização | €3-4M | Software seed-to-sale, base dados nacional |
@@ -800,7 +800,7 @@ Impactos positivos **não incluídos** no balanço fiscal acima:
 - **Reinserção social:** Menos condenações por tráfico = menos antecedentes criminais
 - **Saúde mental:** Acesso a produtos THC controlado (10% máx. 18-20 anos) vs. mercado negro potência desconhecida
 - **Qualidade de vida:** Cidadãos não criminalizados por autocultivo 3 plantas
-- **Transparência:** Relatórios públicos trimestrais SICAD (responsabilização)
+- **Transparência:** Relatórios públicos trimestrais ICAD (responsabilização)
 
 ##### Comparação com Modelos Comerciais (Colorado/Canadá)
 
@@ -931,7 +931,7 @@ Não atribuímos probabilidades aos cenários nem calculamos um valor "esperado"
 
 **Leitura dos resultados:**
 
-1. **O risco fiscal é limitado e estimado:** perda máxima de ~€119M em 10 anos (investimento inicial + custo operacional líquido), no cenário pessimista (€114-124M com o investimento no intervalo €20-30M)
+1. **O risco fiscal é limitado e estimado:** perda de ~€119M em 10 anos (investimento inicial + custo operacional líquido) no cenário pessimista com a base central de €60M (€114-124M com o investimento no intervalo €20-30M). Não é um máximo: com a base mínima de €40M a perda sobe para ~€128M, e sem qualquer poupança de enforcement para ~€145M; a dotação de prevenção (€20-40M/ano) é despesa à parte
 2. **Nenhum cenário se autofinancia** com os pressupostos deste capítulo; o modelo de clubes é um custo de política de saúde pública, da ordem de €4,5-11,8M/ano em operação
 3. **O que mudaria o resultado:** uma base de custos actuais acima de €60M, poupanças não proporcionais à captura (p. ex. fim dos processos por cultivo e posse independentemente da captura), custos regulatórios abaixo de €15M/ano, ou um número de clubes muito superior a 46. Cada uma destas hipóteses deve ser testada com dados reais na avaliação de 2029-2032
 4. **A decisão de prosseguir** deve ser tomada pelos objectivos de saúde pública e de redução de danos, com este custo líquido assumido, e não por uma expectativa de poupança
@@ -963,7 +963,7 @@ Todos os valores acima baseiam-se **exclusivamente no modelo de clubes** sem ven
 
 | Parâmetro | Cálculo | Valor Estimado | Notas |
 | :---- | :---- | :---- | :---- |
-| **Volume do mercado ilegal** | 36-58 t/ano | — | Estimativa de Ribeiro [@ribeiro2024economic] |
+| **Volume do mercado ilegal** | 36-58 t/ano | — | Estimativa de Ribeiro [@ribeiro2024economic], working paper não revisto por pares; equivale a 200-320 g por ano por cada um dos ~180.000 consumidores do último ano, pelo que os valores desta tabela herdam essa incerteza |
 | **Valor a preços de rua** | 36-58 t × €5,33/g | **€192-309M/ano** | Preço médio da liamba em Portugal em 2023 (€5,27-5,64 em 2019-2023), segundo os dados policiais compilados pelo ICAD [@icad2024anexo]; cálculo dos autores |
 | **Captura comercial** | 78% (Canadá, despesa, 2022) [@hammond2025] | ~78% | Principal ponto de referência comparável; modelo comercial com rede ampla |
 | **Vendas legais tributáveis** | €192-309M × 78% | €150-241M/ano | — |

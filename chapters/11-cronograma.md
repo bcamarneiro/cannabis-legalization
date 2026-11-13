@@ -37,11 +37,11 @@ Para estabelecer expectativas realistas, é essencial analisar o tempo que legis
 | Precedente internacional | ❌ Portugal foi pioneiro | ✅ Alemanha, Uruguai, Canadá |
 | Recomendação comissão especialistas | ✅ Comissão Estratégia | ⚠️ A criar (proposto neste documento) |
 | Urgência social percebida | ✅ Crise heroína, overdoses | ⚠️ Menor urgência (descriminalização já existe) |
-| Complexidade regulatória | Baixa (CDT, coimas) | Alta (clubes, licenças, testes, SICAD) |
+| Complexidade regulatória | Baixa (CDT, coimas) | Alta (clubes, licenças, testes, ICAD) |
 
 ## Estratégia em Três Fases {#estrategia-fases}
 
-A proposta segue uma lógica pragmática: **cada fase valida a seguinte**, começando pelo que reúne mais consenso e avançando gradualmente para o mais controverso. Os ganhos de cada fase são permanentes, mesmo que a seguinte não avance.
+A proposta segue uma lógica pragmática: **cada fase valida a seguinte**, começando pelo que reúne mais consenso e avançando gradualmente para o mais controverso. Os ganhos de cada fase são permanentes, mesmo que a seguinte não avance. «Valida» tem aqui sentido político e não estatístico: a Fase 2 só é votada com a Fase 1 aprovada e em execução, sem esperar por resultados medidos (os do piloto de cânhamo só existem a partir de 2029).
 
 > **Princípio fundamental:** Os três **pilares** (Medicinal, Recreativo, Cânhamo) descrevem *o que* propomos. As três **fases** descrevem *quando e em que ordem* implementamos. Um pilar pode abranger múltiplas fases (ex: o Medicinal começa na Fase 1 e continua a evoluir). Uma fase contém elementos de múltiplos pilares.
 
@@ -95,7 +95,7 @@ Os três cenários não têm probabilidades quantificadas: não existe método n
 | **Q3-Q4 2027** | **Proposta legislativa regime de clubes sociais + autocultivo** | **Fase 2** |
 | Q4 2027 - Q1 2028 | Debate parlamentar, comissões, emendas | **Fase 2** |
 | **Q1-Q2 2028** | **Aprovação parlamentar recreativo** | **Fase 2** |
-| Q3-Q4 2028 | Regulamentação secundária (SICAD/INFARMED) | **Fase 2** |
+| Q3-Q4 2028 | Regulamentação secundária (ICAD/INFARMED) | **Fase 2** |
 | **Q1-Q2 2029** | **Licenciamento nacional clubes sociais** — abertura a qualquer município | **Fase 2** |
 | 2029-2032 | Período de avaliação: recolha de dados sobre clubes | **Fase 2** |
 | **2033+** | **Decisão sobre venda comercial regulada** (condicional a dados positivos + clarificação jurídica europeia) | **Fase 3** (horizonte) |
@@ -155,7 +155,7 @@ Os três cenários não têm probabilidades quantificadas: não existe método n
 | **Q3-Q4 2027** | **Proposta legislativa clubes sociais + autocultivo** (a apresentar aos partidos com posição favorável documentada no anexo E) — apresentada na sequência da aprovação da Fase 1 | Se sem apoio: consolidar ganhos Fase 1, reagendar |
 | **2027-2028** | **Negociações parlamentares, consultas públicas, emendas** | Preparar versões alternativas (mais/menos restritivas) |
 | **Q2-Q4 2028** | **Aprovação parlamentar regime de clubes sociais + autocultivo** | Se prolongado: solicitar comissão técnica independente |
-| **2028-2029** | **Regulamentação secundária** (SICAD, INFARMED, IVV) — 12-18 meses | Antecipar trabalho técnico durante debate parlamentar |
+| **2028-2029** | **Regulamentação secundária** (ICAD, INFARMED, IVV) — 12-18 meses | Antecipar trabalho técnico durante debate parlamentar |
 | **Q3-Q4 2029** | **Licenciamento nacional clubes sociais cannabis recreativa** — abertura a qualquer município | Se atrasos: iniciar apenas com autocultivo |
 | **2029-2032** | **Período de avaliação** — do arranque do licenciamento à avaliação formal; recolha de dados, relatórios públicos anuais | Monitorização rigorosa: mercado negro, consumo juvenil, saúde pública |
 
@@ -177,7 +177,7 @@ Os três cenários não têm probabilidades quantificadas: não existe método n
 
 **Mitigação:**
 - Iniciar trabalho técnico **durante** debate parlamentar (não esperar aprovação)
-- Criar grupo de trabalho SICAD/INFARMED **pré-legislação** para preparar minutas
+- Criar grupo de trabalho ICAD/INFARMED **pré-legislação** para preparar minutas
 - Reutilizar frameworks existentes (cannabis medicinal, álcool) onde possível
 - Contratar consultoria internacional (Alemanha, Malta) para acelerar
 
@@ -212,7 +212,7 @@ Os três cenários não têm probabilidades quantificadas: não existe método n
 
 **Honestidade intelectual:** A estratégia em três fases mitiga o principal risco político. A **Fase 1** (cânhamo + medicinal) tem precedentes de aprovação rápida em Portugal — a Lei 33/2018 (cannabis medicinal) foi aprovada em cerca de cinco meses (projecto entrado a 5-1-2018, votação final global a 15-6-2018) com votação alargada [@parlamento2018pjl726; @publico2018b]. O cânhamo, sem registo de oposição partidária, pode seguir timeline similar.
 
-**Já a Fase 2** (clubes + autocultivo recreativo) enfrenta resistência diferente. A Lei 30/2000 — frequentemente citada como precedente de consenso — foi aprovada apenas com os votos da esquerda parlamentar (PS, PCP, BE, PEV), com PSD e CDS-PP contra [@tsf2000lei]. A lição não é que a descriminalização teve consenso partidário, mas que uma maioria parlamentar coesa, uma recomendação prévia de peritos e um contexto de urgência (crise da heroína) bastaram. Em 2026 nenhuma destas três condições está garantida.
+**Já a Fase 2** (clubes + autocultivo recreativo) enfrenta resistência diferente. A Lei 30/2000 — frequentemente citada como precedente de consenso — foi aprovada apenas com os votos da esquerda parlamentar (PS, PCP, BE, PEV), com PSD e CDS-PP contra [@tsf2000lei]. A lição não é que a descriminalização teve consenso partidário, mas que uma maioria parlamentar coesa, uma recomendação prévia de peritos e um contexto de urgência (crise da heroína) bastaram. Em 2026 nenhuma destas três condições está garantida. Acresce que o autocultivo, em que a Fase 2 assenta, foi a linha vermelha de 2018: os projectos do BE e do PAN que o admitiam para uso médico baixaram à comissão sem votação para evitar o chumbo, o PCP e o PEV viam nele uma via «encapotada» para o uso recreativo, e a Lei n.º 33/2018 foi aprovada sem ele [@dn2018baixa; @publico2018b].
 
 **A Fase 3** (venda comercial) é deliberadamente apresentada como horizonte condicional. Depende de factores externos (clarificação jurídica europeia, dados dos clubes) e pode nunca acontecer. Esta honestidade protege a credibilidade da proposta.
 
