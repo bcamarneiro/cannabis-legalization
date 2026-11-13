@@ -60,14 +60,22 @@ else
 fi
 echo "   Usando: $LATEX_CMD"
 
+# Limite por passagem: um xelatex parado falha em minutos, com o log, em vez de horas.
+LIMITE=()
+if command -v timeout &> /dev/null; then
+    LIMITE=(timeout 300)
+fi
+
 for pass in 1 2 3; do
-    $LATEX_CMD -interaction=nonstopmode "$OUTPUT_BASENAME.tex" 2>&1 | tail -20 || true
+    ${LIMITE[@]+"${LIMITE[@]}"} $LATEX_CMD -interaction=nonstopmode "$OUTPUT_BASENAME.tex" < /dev/null 2>&1 | tail -20 || true
     echo "   Compilação $pass/3 completa"
 done
 
 if [[ ! -f "$OUTPUT_BASENAME.pdf" ]]; then
     echo "❌ ERRO: PDF não foi gerado!"
-    grep -A5 "^!" "$OUTPUT_BASENAME.log" 2>/dev/null || echo "   (sem log disponível)"
+    grep -A5 "^!" "$OUTPUT_BASENAME.log" 2>/dev/null || echo "   (sem erros «!» no log)"
+    echo "   Últimas linhas do log:"
+    tail -40 "$OUTPUT_BASENAME.log" 2>/dev/null || echo "   (sem log disponível)"
     exit 1
 fi
 
