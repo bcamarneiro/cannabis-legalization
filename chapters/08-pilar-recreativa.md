@@ -594,7 +594,7 @@ Produtores podem **fornecer assistência técnica** a clubes (mediante pagamento
 
 **Reconhecimento de impacto laboral:**
 
-**Redução de trabalho policial em cannabis:** A regulação reduz a necessidade de policiamento ligado à cannabis. Não existem dados de PSP/GNR sobre ETC afectos a cannabis; qualquer número seria hipótese dos autores, pelo que não quantificamos.
+**Redução de trabalho policial em cannabis:** A regulação reduz a necessidade de policiamento ligado à cannabis. Não existem dados de PSP/GNR sobre ETC afectos a cannabis: as duas forças responderam em 2026 que não contabilizam as horas, os efectivos nem os custos afectos aos estupefacientes [@psp2026estupefacientes; @gnr2026resposta]. Qualquer número seria hipótese dos autores, pelo que não quantificamos.
 
 **Criação de empregos em clubes** (hipótese dos autores para os ~46 clubes propostos, ver distribuição geográfica abaixo):
 
@@ -629,7 +629,9 @@ A proibição da cannabis tem custos para o Estado. Para a Alemanha, Haucap e Kn
   * Sistema prisional: reclusos por crimes de cannabis ~€5-15M/ano (a DGRSP não desagrega reclusos por substância; valor assumido)
   * Custos de saúde ligados a produto contaminado: não quantificados (sem dados PT)
 
-O factor de redução face aos €173M "proporcionais" reflecte a descriminalização e é um juízo dos autores, não um cálculo. Uma análise rigorosa requer dados do Ministério da Justiça, PSP, GNR e DGRSP, desagregação cannabis vs. outras drogas e uma análise custo-benefício com os custos regulatórios.
+O factor de redução face aos €173M "proporcionais" reflecte a descriminalização e é um juízo dos autores, não um cálculo. Uma análise rigorosa requer dados do Ministério da Justiça, PSP, GNR e DGRSP, desagregação cannabis vs. outras drogas e uma análise custo-benefício com os custos regulatórios. Esses dados foram pedidos em Outubro de 2026, ao abrigo da Lei n.º 26/2016, e não existem: a PSP «não dispõe de uma contabilização específica dos recursos e custos associados às atividades de prevenção e repressão do tráfico e consumo de estupefacientes» [@psp2026estupefacientes]; a GNR «não elabora estatística que contabilize os dados solicitados» [@gnr2026resposta]; a DGPJ não detém nem produz o custo médio de um processo-crime e não conhece entidade que o faça [@dgpj2026consumocultivo]; o ICAD não encomendou nem produziu estudos de custos [@icad2026resposta]. A DGRSP ainda não respondeu. O intervalo fica, por isso, como pressuposto dos autores.
+
+O que as respostas dão é volume, não custo. Em 2025, a PSP fez 3.653 apreensões de cannabis em processos-crime (54% das suas apreensões nesses processos) e 1.727 em autos por consumo (70%), e 1.585 dos seus 2.949 detidos por estupefacientes foram-no por cannabis (54%) [@psp2026estupefacientes]. Nos tribunais, findaram em julgamento 1.744 processos por estupefacientes, 1.714 deles por tráfico, sem distinção de substância [@dgpj2026estupefacientes].
 
 **Custos regulatórios novos (pressupostos dos autores):**
 
@@ -714,13 +716,13 @@ Diferentemente de modelos comerciais (Colorado, Canadá), Portugal propõe clube
 
 | Categoria | Custo Anual Assumido | Base do pressuposto |
 | :---- | :---- | :---- |
-| **Enforcement PSP/GNR** (operações cannabis) | €25-45M | Pressuposto dos autores; a única referência externa são os totais alemães de Haucap e Knoke [@haucap2021fiskalisch], que não são proporcionalizáveis directamente |
-| **Sistema Judicial** (processos tráfico) | €10-20M | Pressuposto dos autores |
+| **Enforcement PSP/GNR** (operações cannabis) | €25-45M | Pressuposto dos autores; a única referência externa são os totais alemães de Haucap e Knoke [@haucap2021fiskalisch], que não são proporcionalizáveis directamente. A PSP e a GNR não contabilizam estes custos [@psp2026estupefacientes; @gnr2026resposta] |
+| **Sistema Judicial** (processos tráfico) | €10-20M | Pressuposto dos autores; a DGPJ não detém o custo médio de um processo-crime [@dgpj2026consumocultivo] |
 | **Sistema Prisional** (reclusos por crimes de cannabis) | €5-15M | Pressuposto dos autores; a DGRSP não desagrega reclusos por substância |
 | **Custos Saúde Pública** (cannabis ilícita contaminada) | não quantificado | Sem dados PT sobre tratamentos ligados a contaminantes |
 | **TOTAL CUSTOS ACTUAIS** | **€40-80M/ano (central €60M)** | Soma das componentes assumidas; base única usada em todos os cálculos |
 
-**Nota:** Uma análise rigorosa requer dados orçamentais do Ministério da Justiça, PSP, GNR e DGRSP.
+**Nota:** Uma análise rigorosa requer dados orçamentais do Ministério da Justiça, PSP, GNR e DGRSP. Pedidos em Outubro de 2026, a PSP, a GNR, a DGPJ e o ICAD responderam que não os têm (ver [Financiamento](#financiamento)); a DGRSP ainda não respondeu.
 
 ##### Situação Proposta (2029+) — Regulação Clubes Sociais
 
