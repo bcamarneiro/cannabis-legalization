@@ -71,8 +71,14 @@ for pass in 1 2 3; do
     echo "   Compilação $pass/3 completa"
 done
 
-if [[ ! -f "$OUTPUT_BASENAME.pdf" ]]; then
-    echo "❌ ERRO: PDF não foi gerado!"
+# Um PDF que existe mas está vazio ou truncado também é falha: entre Fevereiro e
+# Novembro de 2026 as releases saíram com um PDF de 431 bytes sem o CI dar por isso.
+PDF_BYTES=0
+if [[ -f "$OUTPUT_BASENAME.pdf" ]]; then
+    PDF_BYTES=$(wc -c < "$OUTPUT_BASENAME.pdf" | tr -d ' ')
+fi
+if (( PDF_BYTES < 200000 )) || ! grep -q "^Output written on " "$OUTPUT_BASENAME.log" 2>/dev/null; then
+    echo "❌ ERRO: PDF não foi gerado, ou saiu incompleto ($PDF_BYTES bytes)!"
     grep -A5 "^!" "$OUTPUT_BASENAME.log" 2>/dev/null || echo "   (sem erros «!» no log)"
     echo "   Últimas linhas do log:"
     tail -40 "$OUTPUT_BASENAME.log" 2>/dev/null || echo "   (sem log disponível)"

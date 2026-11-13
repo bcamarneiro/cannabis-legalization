@@ -42,7 +42,7 @@ jobs:
       - name: Install Pandoc and LaTeX
         run: |
           sudo apt-get update
-          sudo apt-get install -y pandoc texlive-xetex texlive-fonts-recommended texlive-latex-extra
+          sudo apt-get install -y pandoc texlive-xetex texlive-fonts-recommended texlive-latex-extra texlive-lang-portuguese tex-gyre
           pandoc --version | head -1
 
       - name: Guard published-ID lock (only release workflows may change it)
