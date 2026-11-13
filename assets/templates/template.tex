@@ -19,19 +19,21 @@
 \renewcommand{\cftsubsecpagefont}{\color{azulLivre}}
 \renewcommand{\cftsubsubsecpagefont}{\color{azulLivre}}
 \usepackage{graphicx}
+% Imagens procuradas a partir da raiz do projecto (o LaTeX compila dentro de output/)
+$if(graphicspath)$\graphicspath{{$graphicspath$/}}$endif$
 \usepackage{longtable}
 \usepackage{booktabs}
 \usepackage{array}
 \usepackage{colortbl}
 \usepackage{footnote}
 % Helvetica Neue (macOS system font; fallback to TeX Gyre Heros for Linux/CI)
-% TeX Gyre Heros requires fontconfig registration; Helvetica Neue works out-of-the-box on macOS
+% TeX Gyre Heros is loaded by file name, found by kpathsea in any TeX Live tree (no hard-coded path)
 \IfFontExistsTF{Helvetica Neue}{%
   \setmainfont{Helvetica Neue}%
   \setsansfont{Helvetica Neue}%
 }{%
-  \setmainfont{TeX Gyre Heros}[Path=/usr/local/texlive/2025/texmf-dist/fonts/opentype/public/tex-gyre/,Extension=.otf,UprightFont=texgyreheros-regular,BoldFont=texgyreheros-bold,ItalicFont=texgyreheros-italic,BoldItalicFont=texgyreheros-bolditalic]%
-  \setsansfont{TeX Gyre Heros}[Path=/usr/local/texlive/2025/texmf-dist/fonts/opentype/public/tex-gyre/,Extension=.otf,UprightFont=texgyreheros-regular,BoldFont=texgyreheros-bold,ItalicFont=texgyreheros-italic,BoldItalicFont=texgyreheros-bolditalic]%
+  \setmainfont{texgyreheros}[Extension=.otf,UprightFont=*-regular,BoldFont=*-bold,ItalicFont=*-italic,BoldItalicFont=*-bolditalic]%
+  \setsansfont{texgyreheros}[Extension=.otf,UprightFont=*-regular,BoldFont=*-bold,ItalicFont=*-italic,BoldItalicFont=*-bolditalic]%
 }
 \usepackage{hyperref}
 \usepackage{bookmark}  % Better TOC bookmarks with hyperref

@@ -38,6 +38,7 @@ pandoc "$TEMP_MD" \
     --output="$OUTPUT_TEX" \
     --template="$TEMPLATE_TEX" \
     --variable lang=pt-PT \
+    --variable graphicspath="$PROJECT_DIR" \
     --resource-path=".:assets/diagrams" \
     --number-sections \
     --toc \
@@ -60,14 +61,28 @@ else
 fi
 echo "   Usando: $LATEX_CMD"
 
+# Limite por passagem: um xelatex parado falha em minutos, com o log, em vez de horas.
+LIMITE=()
+if command -v timeout &> /dev/null; then
+    LIMITE=(timeout 300)
+fi
+
 for pass in 1 2 3; do
-    $LATEX_CMD -interaction=nonstopmode "$OUTPUT_BASENAME.tex" 2>&1 | tail -20 || true
+    ${LIMITE[@]+"${LIMITE[@]}"} $LATEX_CMD -interaction=nonstopmode "$OUTPUT_BASENAME.tex" < /dev/null 2>&1 | tail -20 || true
     echo "   Compilação $pass/3 completa"
 done
 
-if [[ ! -f "$OUTPUT_BASENAME.pdf" ]]; then
-    echo "❌ ERRO: PDF não foi gerado!"
-    grep -A5 "^!" "$OUTPUT_BASENAME.log" 2>/dev/null || echo "   (sem log disponível)"
+# Um PDF que existe mas está vazio ou truncado também é falha: entre Fevereiro e
+# Novembro de 2026 as releases saíram com um PDF de 431 bytes sem o CI dar por isso.
+PDF_BYTES=0
+if [[ -f "$OUTPUT_BASENAME.pdf" ]]; then
+    PDF_BYTES=$(wc -c < "$OUTPUT_BASENAME.pdf" | tr -d ' ')
+fi
+if (( PDF_BYTES < 200000 )) || ! grep -q "^Output written on " "$OUTPUT_BASENAME.log" 2>/dev/null; then
+    echo "❌ ERRO: PDF não foi gerado, ou saiu incompleto ($PDF_BYTES bytes)!"
+    grep -A5 "^!" "$OUTPUT_BASENAME.log" 2>/dev/null || echo "   (sem erros «!» no log)"
+    echo "   Últimas linhas do log:"
+    tail -40 "$OUTPUT_BASENAME.log" 2>/dev/null || echo "   (sem log disponível)"
     exit 1
 fi
 
