@@ -49,7 +49,7 @@ Para evitar replicar os problemas de Amsterdam/Barcelona, Portugal implementaria
 | **Residência mínima** | Residência legal em Portugal há pelo menos 6 meses — o mesmo prazo que a lei alemã exige (§16(4) e §1, n.º 16-17, KCanG) | Certificado de residência ou morada no Cartão de Cidadão |
 | **Registo antecipado** | Mínimo 15 dias antes da primeira visita | Base de dados nacional CSCs (prevenir dupla filiação) |
 | **Proibição turistas** | Sem excepções para visitantes temporários | Verificação ID obrigatória a cada visita |
-| **Penalidade clubes** | Admitir turistas = revogação permanente licença | Auditorias SICAD/Infarmed |
+| **Penalidade clubes** | Admitir turistas = revogação permanente licença | Auditorias ICAD/Infarmed |
 
 **Justificação:**
 
@@ -70,7 +70,7 @@ Diferentemente de Amsterdam, onde a regra de residentes não obteve maioria loca
 
 * Sistema NIF já existente e obrigatório
 * Base de dados nacional CSCs centralizada (prevenir dupla filiação)
-* Auditorias SICAD/Infarmed regulares com poder revogação imediata
+* Auditorias ICAD/Infarmed regulares com poder revogação imediata
 * Nenhuma indústria turística cannabis pré-existente a defender status quo
 
 ## Limites de Distribuição aos Membros {#limites-de-distribuição-aos-membros}
@@ -85,7 +85,7 @@ Diferentemente de Amsterdam, onde a regra de residentes não obteve maioria loca
 **Produtos permitidos:**
 
 * Flores (marijuana) e haxixe (resina) não processados — ambos incluídos na definição legal de cannabis (§1 KCanG) e as únicas formas de cannabis que as associações podem entregar (§19(1) KCanG)
-* Sementes e estacas para autocultivo dos membros: máximo 7 sementes ou 5 estacas por membro e por mês (ou 5 no total, se combinados) (§20 KCanG) [@kcang2024]
+* Sementes e estacas para autocultivo dos membros: máximo 7 sementes ou 5 estacas por membro e por mês (ou 5 no total, se combinados) (§20 KCanG) [@kcang2024]; as associações podem também ceder sementes e estacas a não membros [@bundesministerium2024]
 
 **Produtos proibidos:**
 
@@ -121,7 +121,7 @@ Cada clube deve:
 ### 1. Auditoria Financeira Independente {#auditoria-financeira-independente}
 
 * **Frequência:** Anual, conduzida por auditor externo certificado (não membro do clube)
-* **Transparência:** Relatório completo publicado no site do clube e submetido a SICAD
+* **Transparência:** Relatório completo publicado no site do clube e submetido ao ICAD
 * **Conteúdo:** Receitas, despesas detalhadas, custos por grama, pagamentos a direcção/funcionários, doações de excedentes
 * **Consequência:** Recusa de publicação resulta em suspensão imediata da licença até compliance
 
@@ -132,7 +132,7 @@ Cada clube deve:
   - Publicação trimestral do custo de produção por grama (detalhando cultivo, salários, infraestrutura, testes, impostos)
   - Afixação visível dos preços praticados nas instalações e plataforma digital do clube
   - Justificação documentada de variações superiores a 20% face ao preço de referência
-* **Preço de referência indicativo:** SICAD publica anualmente um preço de referência (não vinculativo) baseado nos custos médios dos clubes licenciados — serve como benchmark, não como limite legal
+* **Preço de referência indicativo:** ICAD publica anualmente um preço de referência (não vinculativo) baseado nos custos médios dos clubes licenciados — serve como benchmark, não como limite legal
 * **Objectivo:** Manter competitividade com o mercado ilegal (€5,33/g em 2023, preço médio da liamba segundo os dados policiais compilados pelo ICAD [@icad2024anexo]) sem impor rigidez que comprometa viabilidade de clubes com custos operacionais mais elevados
 * **Fiscalização:** Auditoria trimestral de preços vs. custos declarados — desvios significativos sem justificação desencadeiam inspecção aprofundada
 
@@ -148,14 +148,14 @@ Cada clube deve:
 
 ### 4. Proibição de Retenção de Excedentes {#proibição-de-retenção-de-excedentes}
 
-* **Regra:** Qualquer surplus financeiro (receitas > custos + reserva operacional 10%) é **automaticamente doado** a SICAD para financiar prevenção e tratamento
+* **Regra:** Qualquer surplus financeiro (receitas > custos + reserva operacional 10%) é **automaticamente doado** ao ICAD para financiar prevenção e tratamento
 * **Transferência:** Automática ao fim de cada trimestre fiscal
 * **Proibição absoluta:** Distribuição de lucros a membros, direcção, ou funcionários (só salários compatíveis com mercado)
 * **Penalidade:** Retenção ilícita resulta em revogação permanente da licença + coima
 
 ### 5. Programa de Whistleblowing (Denúncia Protegida) {#programa-de-whistleblowing-denúncia-protegida}
 
-* **Canal confidencial:** Membros podem reportar suspeitas de desvios comerciais (revenda, manipulação de preços, não-compliance) anonimamente a SICAD
+* **Canal confidencial:** Membros podem reportar suspeitas de desvios comerciais (revenda, manipulação de preços, não-compliance) anonimamente ao ICAD
 * **Protecção:** Denunciante protegido contra retaliação (expulsão do clube resulta em investigação automática)
 * **Recompensa:** Denúncias comprovadas que levem a revogação de licença resultam em reembolso de quotas ao denunciante
 * **Investigação:** Todas as denúncias investigadas dentro de 30 dias
@@ -231,7 +231,7 @@ Nota: Rácio pessoal-membros conservador (1:66-111), garantindo atendimento pers
 | Categoria | Custo Anual | Detalhes |
 | :---- | :---- | :---- |
 | **Renda instalações** | €12.000 - €18.000 | 200-300m² zona industrial (evitar centros urbanos caros) |
-| **Licenças e taxas** | €2.000 - €3.000 | Renovação licença SICAD/Infarmed, registos |
+| **Licenças e taxas** | €2.000 - €3.000 | Renovação licença ICAD/Infarmed, registos |
 | **Contabilidade e legal** | €3.000 - €5.000 | Serviços externos, consultoria fiscal |
 | **Comunicação e IT** | €2.000 - €3.000 | Website, plataforma membros, telefone, internet |
 | **TOTAL FIXOS** | **€19.000 - €29.000** | ~€63-97/membro/ano |
@@ -240,7 +240,7 @@ Nota: Rácio pessoal-membros conservador (1:66-111), garantindo atendimento pers
 
 * **Fundo emergência:** €25.500 - €37.000/ano
 * **Finalidade:** Cobrir imprevistos (quebras colheita, reparações urgentes, flutuações procura)
-* **Regra:** Acumulação máxima 10% custos anuais; excedente doado SICAD
+* **Regra:** Acumulação máxima 10% custos anuais; excedente doado ICAD
 
 ### CUSTO TOTAL CLUBE (400 membros médio) {#custo-total-clube-400-membros-médio}
 
@@ -283,7 +283,7 @@ Nota: Rácio pessoal-membros conservador (1:66-111), garantindo atendimento pers
 
 * **Quota administrativa:** €30/mês (cobrir salários, fixos, compliance)
 * **Preço cannabis:** o necessário para cobrir os custos não cobertos pela quota (≈ €2,10/grama com 20 g/mês no modelo deste anexo)
-* **Transparência obrigatória:** Publicação de custos de produção e preços praticados (sem tecto rígido — preço de referência indicativo publicado por SICAD)
+* **Transparência obrigatória:** Publicação de custos de produção e preços praticados (sem tecto rígido — preço de referência indicativo publicado pelo ICAD)
 * **Exemplo consumidor médio (20g/mês):**
   - Quota: €30
   - Cannabis: 20g × €2,10 ≈ €42
@@ -367,7 +367,7 @@ Para mitigar o risco de "pagar antes de ver", propõe-se modelo em 3 fases:
 | :---- | :---- | :---- |
 | Constituição associação (estatutos, registo) | €500-1.000 | Fundadores core (10-20 pessoas) |
 | Elaboração plano segurança/prevenção | €2.000-5.000 | Pro-bono ou fundadores |
-| Candidatura a licença SICAD | €1.000-3.000 | Taxas administrativas |
+| Candidatura a licença ICAD | €1.000-3.000 | Taxas administrativas |
 | Consultoria legal inicial | €2.000-4.000 | Fundadores ou subsídio |
 | **TOTAL FASE 1** | **€5.500-13.000** | 10-20 fundadores × €300-650 |
 
@@ -413,11 +413,11 @@ Para mitigar o risco de "pagar antes de ver", propõe-se modelo em 3 fases:
 
 * **O subsídio financia infra-estrutura de redução de riscos:** produto testado, monitorização, dados para avaliação e referenciação para tratamento
 * **Comparação:** segundo o pressuposto deste documento (cap. 8), Portugal gasta €40-80M/ano (valor central €60M) em enforcement de cannabis. Custos de licenciamento e supervisão são proporcionais ao número de clubes; o subsídio de arranque (€50-100k por clube, pago uma vez) somaria €2,3-4,6M para os 46 clubes projectados, o equivalente a 3-12% de um ano desse gasto (4-8% do valor central)
-* **Contrapartida:** Dados detalhados para avaliação (tracking anonimizado, relatórios SICAD, auditorias)
+* **Contrapartida:** Dados detalhados para avaliação (tracking anonimizado, relatórios ICAD, auditorias)
 
 **Mecanismo proposto:**
 
-* **Entidade gestora:** SICAD (via regime de clubes sociais aprovado por AR)
+* **Entidade gestora:** ICAD (via regime de clubes sociais aprovado por AR)
 * **Elegibilidade:** Clubes com licença aprovada + plano negócios validado
 * **Desembolso:** 50% na aprovação, 50% após 6 meses (condicionado a milestones)
 * **Reembolso:** Não obrigatório se clube cumprir objectivos saúde pública
@@ -456,10 +456,10 @@ Artigo XX — Acesso a Serviços Financeiros
 
 1. Instituições de crédito não podem recusar abertura de conta
    ou prestação de serviços financeiros a associações de cultivo
-   de cannabis (Anbauvereinigungen) licenciadas pelo SICAD,
+   de cannabis (Anbauvereinigungen) licenciadas pelo ICAD,
    com base exclusiva na natureza da actividade.
 
-2. O licenciamento pelo SICAD constitui certificação de conformidade
+2. O licenciamento pelo ICAD constitui certificação de conformidade
    para efeitos de prevenção de branqueamento de capitais (Lei 83/2017).
 
 3. O Banco de Portugal emitirá circular interpretativa no prazo de
@@ -545,7 +545,7 @@ Portugal não tem o conflito federal/estadual dos EUA, o que reduz o risco. Cont
 
 * Bancos portugueses podem recusar abrir contas a associações de cultivo de cannabis por políticas internas de risco
 * A Caixa Geral de Depósitos (banco público) e o Crédito Agrícola (cooperativo) são os candidatos mais prováveis a servir clubes, dado o seu mandato social/cooperativo
-* O licenciamento formal dos clubes pelo Estado (SICAD/Infarmed) e a regulação explícita reduzem o risco de *de-risking* — clubes licenciados não são operações ilegais
+* O licenciamento formal dos clubes pelo Estado (ICAD/Infarmed) e a regulação explícita reduzem o risco de *de-risking* — clubes licenciados não são operações ilegais
 
 **Propostas de mitigação:**
 

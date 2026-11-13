@@ -151,7 +151,7 @@ Em Portugal, cerca de 10% da população (15-74 anos) já experimentou cannabis 
 * **Segurança superior:** O risco de morte por toxicidade directa da cannabis é **negligenciável (não nulo)**: um caso em 3.455 mortes com canabinóides detectados em Inglaterra; pode contribuir indirectamente, por exemplo em trauma ou doença cardíaca; a evidência é insuficiente para excluir casos raros [@rock2022deaths; @ncbi2017deaths]. Os opiáceos, pelo contrário, têm toxicidade letal em sobredosagem
 * **Redução de custos com emergências:** Hipótese (não quantificada): risco de overdose fatal negligenciável = potencialmente menos internamentos e custos com reversão de overdoses
 
-**2. Realidade portuguesa que não podemos ignorar (SICAD 2021):**
+**2. Realidade portuguesa que não podemos ignorar (ICAD 2021):**
 
 * Amostra A (inquérito online, 3.188 consumidores, não representativa): **84%** usam cannabis para **reduzir o stress e relaxar**, cerca de **40%** para **ansiedade/depressão** e **52%** para **melhorar o sono** [@cannareporter2022stress; @publico2022depressao]
 * Amostra B (consumidores de produtos CBD/baixo THC, n=928): 71% stress/relaxar, 38% ansiedade/depressão, 51% sono [@publico2023consumidor; @sicnoticias2023consumidor]
@@ -193,7 +193,7 @@ Não está quantificado se a comparticipação selectiva seria custo-neutra: a s
 
 * Cannabis e opiáceos: evidência mista — observacional favorável, coorte prospectiva sem efeito poupador [@campbell2018lancet; @nugent2017; @ncbi2024opioids]
 * Overdose fatal cannabis: risco negligenciável, sem causa directa identificada em estudos mas evidência insuficiente (NASEM 2017) [@rock2022deaths; @ncbi2017deaths]
-* SICAD 2021 (amostra A, n=3.188): 84% stress/relaxar, 52% sono, 40% ansiedade/depressão [@cannareporter2022stress; @publico2022depressao]; amostra B (produtos CBD, n=928): 71%, 51%, 38% [@publico2023consumidor; @sicnoticias2023consumidor]
+* ICAD 2021 (amostra A, n=3.188): 84% stress/relaxar, 52% sono, 40% ansiedade/depressão [@cannareporter2022stress; @publico2022depressao]; amostra B (produtos CBD, n=928): 71%, 51%, 38% [@publico2023consumidor; @sicnoticias2023consumidor]
 * Apenas 2 inquiridos (0,1%) usaram cannabis prescrita, 95% consumiram cannabis ilegal (amostra online) [@cannareporter2022stress]
 * Proposta: comparticipação selectiva (evidência robusta) + acesso regulado sem custos SNS (autocultivo/clubes)
 * Poupanças potenciais, não quantificadas: substituição de opiáceos (incerta), redução de emergências
@@ -361,7 +361,7 @@ A Alemanha enfrentou desafios iniciais com os testes rápidos disponíveis — o
 
 **Resposta curta (30s):**
 
-"Exactamente por isso aprendemos com os erros espanhóis. Espanha não tem regulação nacional — é zona cinzenta sem auditorias, sem transparência financeira, sem fiscalização. Portugal propõe governance rigorosa: auditorias anuais obrigatórias publicadas online, transparência total de preços e custos de produção, excedentes doados automaticamente a SICAD, inspecções surpresa trimestrais (10% dos clubes), e whistleblowing protegido. E, ao contrário de Espanha, uma lei nacional: as leis regionais de Navarra e da Catalunha sobre clubes de cannabis foram declaradas inconstitucionais e nulas pelo Tribunal Constitucional espanhol por invadirem a competência penal do Estado [@stc2017navarra; @stc2018cataluna]."
+"Exactamente por isso aprendemos com os erros espanhóis. Espanha não tem regulação nacional — é zona cinzenta sem auditorias, sem transparência financeira, sem fiscalização. Portugal propõe governance rigorosa: auditorias anuais obrigatórias publicadas online, transparência total de preços e custos de produção, excedentes doados automaticamente ao ICAD, inspecções surpresa trimestrais (10% dos clubes), e whistleblowing protegido. E, ao contrário de Espanha, uma lei nacional: as leis regionais de Navarra e da Catalunha sobre clubes de cannabis foram declaradas inconstitucionais e nulas pelo Tribunal Constitucional espanhol por invadirem a competência penal do Estado [@stc2017navarra; @stc2018cataluna]."
 
 **Resposta desenvolvida (2min):**
 
@@ -371,17 +371,17 @@ A Alemanha implementa fiscalização através de documentação obrigatória (§
 
 **Safeguards adicionais propostos para Portugal:**
 
-1. **Auditoria financeira anual obrigatória** — conduzida por auditor externo certificado não-membro, relatório completo publicado online e submetido a SICAD. Recusa de publicação = suspensão imediata da licença
+1. **Auditoria financeira anual obrigatória** — conduzida por auditor externo certificado não-membro, relatório completo publicado online e submetido ao ICAD. Recusa de publicação = suspensão imediata da licença
 
-2. **Transparência de preços obrigatória** — clubes definem preços com base nos custos reais (cultivo, salários, infraestrutura, testes), sem margem comercial. Publicação trimestral obrigatória de custos de produção por grama. Preço de referência indicativo (não vinculativo) publicado anualmente por SICAD
+2. **Transparência de preços obrigatória** — clubes definem preços com base nos custos reais (cultivo, salários, infraestrutura, testes), sem margem comercial. Publicação trimestral obrigatória de custos de produção por grama. Preço de referência indicativo (não vinculativo) publicado anualmente pelo ICAD
 
-3. **Proibição absoluta de retenção de excedentes** — qualquer surplus (receitas > custos + reserva operacional 10%) é **automaticamente doado a SICAD** trimestralmente para financiar prevenção/tratamento. Distribuição de lucros a membros/direcção = revogação permanente da licença
+3. **Proibição absoluta de retenção de excedentes** — qualquer surplus (receitas > custos + reserva operacional 10%) é **automaticamente doado ao ICAD** trimestralmente para financiar prevenção/tratamento. Distribuição de lucros a membros/direcção = revogação permanente da licença
 
-4. **Programa de whistleblowing** — canal confidencial para membros reportarem suspeitas de desvios comerciais (revenda, manipulação preços) anonimamente a SICAD. Denunciante protegido contra retaliação, denúncias comprovadas que levem a revogação resultam em reembolso de quotas
+4. **Programa de whistleblowing** — canal confidencial para membros reportarem suspeitas de desvios comerciais (revenda, manipulação preços) anonimamente ao ICAD. Denunciante protegido contra retaliação, denúncias comprovadas que levem a revogação resultam em reembolso de quotas
 
 5. **Inspecções surpresa trimestrais** — 10% dos clubes auditados por trimestre (selecção aleatória), sem aviso prévio. Verificação física de stocks, distribuições, conformidade limites membros. Falha em cooperar = suspensão imediata
 
-6. **Transparência mensal obrigatória** — dashboard online público (membros + SICAD) com vendas totais (€), custos operacionais, pagamentos a direcção/funcionários, número de membros activos
+6. **Transparência mensal obrigatória** — dashboard online público (membros + ICAD) com vendas totais (€), custos operacionais, pagamentos a direcção/funcionários, número de membros activos
 
 Há ainda uma diferença jurídica: em Espanha, as comunidades autónomas que tentaram regular os clubes viram as leis declaradas inconstitucionais e nulas pelo Tribunal Constitucional por invadirem a competência exclusiva do Estado em matéria penal — Navarra (Lei Foral 24/2014, STC 144/2017) e Catalunha (Lei 13/2017, STC 100/2018) [@stc2017navarra; @stc2018cataluna] —, o que manteve a zona cinzenta; em Portugal a lei seria nacional. A diferença entre uma zona cinzenta sem fiscalização e uma regulação com enforcement é o que torna os desvios comerciais detectáveis — não os impede por si só. Ver detalhes completos em Anexo A sobre Governance de Clubes."
 
@@ -391,7 +391,7 @@ Há ainda uma diferença jurídica: em Espanha, as comunidades autónomas que te
 * Preocupações apontadas: deriva comercial, turismo cannábico [@transform2018]
 * Barcelona: pelo menos 30 clubes com ordens de encerramento [@hightimes2024]
 * Espanha: leis regionais de regulação de clubes (Navarra 2014, Catalunha 2017) declaradas inconstitucionais pelo Tribunal Constitucional por invasão da competência penal estatal [@stc2017navarra; @stc2018cataluna]; em Portugal a lei seria nacional
-* Proposta PT: 6 mecanismos de governance ausentes em Espanha (auditorias anuais, transparência obrigatória de preços/custos, surplus a SICAD, whistleblowing, inspecções 10% trimestrais, transparência financeira mensal)
+* Proposta PT: 6 mecanismos de governance ausentes em Espanha (auditorias anuais, transparência obrigatória de preços/custos, surplus ao ICAD, whistleblowing, inspecções 10% trimestrais, transparência financeira mensal)
 * **Conclusão:** Regulação nacional com enforcement torna detectáveis os desvios que a zona cinzenta espanhola permite; a eficácia depende da aplicação
 
 ---
@@ -492,7 +492,7 @@ A 'normalização' que preocupa não se traduziu, até agora, numa explosão de 
 
 **Resposta:** É verdade que há um conflito jurídico, e não vale a pena negá-lo. O Órgão Internacional de Controlo de Estupefacientes (INCB) declarou que a legalização canadiana do uso não médico 'é incompatível com as obrigações jurídicas' dos Estados Partes e 'uma violação de disposições fundamentais da Convenção Única de 1961' [@incb2018canada], e reiterou-a no relatório anual de 2023, considerando as medidas que permitem o uso não médico de cannabis incompatíveis com as convenções de 1961, 1971 e 1988 [@incb2024report]. Não houve sanções, mas houve declarações públicas reiteradas de incumprimento. Canadá, Uruguai, Malta, Luxemburgo e Alemanha regularam apesar disso; a Alemanha abandonou o plano inicial de venda em lojas licenciadas e limitou-se a posse, autocultivo e clubes, porque o comércio de cannabis para uso recreativo poderia violar os tratados internacionais e europeus [@lancet2024germany].
 
-Em Dezembro de 2020, a cannabis foi removida do Anexo IV da Convenção de 1961 da ONU (27-25-1), por recomendação da OMS, reconhecendo o seu potencial terapêutico [@unnews2020]. A cannabis permanece no Anexo I: a remoção do Anexo IV (reservado a drogas "sem vantagens terapêuticas substanciais") facilita o uso medicinal, mas não resolve a questão do uso adulto. A compatibilidade de uma venda comercial com o art. 71.º da Convenção de Aplicação de Schengen e com as convenções da ONU é contestada — foi o risco de violar os tratados internacionais e europeus que levou a Alemanha a abandonar a venda em lojas [@lancet2024germany] — e carece de parecer jurídico; é também por isso que a proposta privilegia autocultivo e clubes sem fins lucrativos.
+Em Dezembro de 2020, a cannabis foi removida do Anexo IV da Convenção de 1961 da ONU (27-25-1), por recomendação da OMS, reconhecendo o seu potencial terapêutico [@unnews2020]. A cannabis permanece no Anexo I: a remoção do Anexo IV (reservado a drogas "sem vantagens terapêuticas substanciais") facilita o uso medicinal, mas não resolve a questão do uso adulto. A compatibilidade de uma venda comercial com o art. 71.º da Convenção de Aplicação de Schengen e com as convenções da ONU é contestada — o risco de violar os tratados internacionais e europeus pesou na decisão alemã de deixar cair a venda em lojas [@lancet2024germany], embora nenhuma decisão europeia a tenha bloqueado (capítulo 10) — e carece de parecer jurídico; é também por isso que a proposta privilegia autocultivo e clubes sem fins lucrativos.
 
 ### "Isto deveria ser tratado como questão técnico-científica, não política" {#isto-deveria-ser-tratado-como-questão-técnico-científica-não-política}
 
@@ -551,10 +551,10 @@ As iniciativas parlamentares para legalizar o uso adulto existem pelo menos desd
 
 "Estamos de acordo na importância da prevenção. A questão é como financiá-la de forma sustentável. Actualmente, a prevenção e o tratamento competem com hospitais, escolas e pensões pelo Orçamento de Estado. E os serviços de saúde mental e tratamento de dependências têm historicamente um financiamento limitado face às necessidades.
 
-A nossa proposta não resolve essa concorrência — torna-a explícita: **€20-40 milhões/ano** para prevenção, tratamento e investigação, em linha orçamental dedicada do Orçamento do Estado ([ver detalhes](#financiamento)). Começa com €10-15M/ano (Anos 1-2, licenciamento nacional) e passa a €20-40M/ano a partir do Ano 3, se a avaliação prevista no cronograma (ver capítulo 11) o justificar. Não contamos com poupanças de enforcement para a financiar: com os pressupostos do capítulo 8, essas poupanças (€3,2-15,5M/ano conforme a captura) ficam abaixo dos custos regulatórios (€15-20M/ano), e o modelo de clubes tem um custo líquido de cerca de €5-12M/ano. **Crítico:** Se os clubes falharem, o enforcement mantém-se com os custos actuais e o Estado perde o investimento inicial em licenciamento e supervisão (€20-30M nos Anos 1-2); o período de avaliação existe para detectar isso cedo e suspender novas licenças.
+A nossa proposta não resolve essa concorrência — torna-a explícita: **€20-40 milhões/ano** para prevenção, tratamento e investigação, em linha orçamental dedicada do Orçamento do Estado ([ver detalhes](#financiamento)). Começa com €10-15M/ano (Anos 1-2, licenciamento nacional) e passa a €20-40M/ano a partir do Ano 3, se a avaliação prevista no cronograma (ver capítulo 11) o justificar. Não contamos com poupanças de enforcement para a financiar: com os pressupostos do capítulo 8, essas poupanças (€3,2-10,6M/ano conforme a captura) ficam abaixo dos custos regulatórios (€15-20M/ano), e o modelo de clubes tem um custo líquido de cerca de €9-12M/ano. **Crítico:** Se os clubes falharem, o enforcement mantém-se com os custos actuais e o Estado perde o investimento inicial em licenciamento e supervisão (€20-30M nos Anos 1-2); o período de avaliação existe para detectar isso cedo e suspender novas licenças.
 
 Propomos afetar estes fundos a:
-* Reforço do SICAD (tratamento de dependências)
+* Reforço do ICAD (tratamento de dependências)
 * Programas de prevenção nas escolas
 * Investigação científica sobre riscos e benefícios
 * Formação de profissionais de saúde
@@ -564,7 +564,7 @@ Prevenção e regulação não são opostos — são complementares. A regulaç�
 
 **Dados de suporte:**
 
-* Custos actuais de enforcement assumidos em €40-80M/ano (valor central €60M); poupanças de €3,2M / €8,3M / €15,5M por ano para capturas de 5,3% / 13,8% / 25,9%, contra custos regulatórios de €15M / €17M / €20M por ano — balanço operacional de −€11,8M a −€4,5M/ano; estimativa própria dos autores, sem dados orçamentais oficiais ([ver método no capítulo de financiamento](#financiamento))
+* Custos actuais de enforcement assumidos em €40-80M/ano (valor central €60M); poupanças de €3,2M / €5,8M / €10,6M por ano para capturas de 5,3% / 9,6% / 17,6%, contra custos regulatórios de €15M / €17M / €20M por ano — balanço operacional de −€11,8M a −€9,4M/ano; estimativa própria dos autores, sem dados orçamentais oficiais ([ver método no capítulo de financiamento](#financiamento))
 * Proposta faseada: €10-15M/ano nos Anos 1-2 → €20-40M/ano a partir do Ano 3, sempre via Orçamento do Estado, condicionada à avaliação
 * Risco conhecido e limitado: perda de ~€119M em 10 anos no cenário pessimista (€114-124M conforme o investimento inicial de €20-30M, mais o custo operacional líquido; ver capítulo 8); se os clubes falharem, o enforcement mantém-se com os custos actuais
 * Consumo de risco jovens 15-34 anos (sob proibição): 1,3%, estável entre 2012 e 2022 [@carapinha2024icad]

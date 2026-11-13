@@ -124,13 +124,13 @@ Se evidência futura demonstrar danos significativos nos 21-24 anos com o modelo
 
 **Proposta concreta de financiamento:** Dado que o modelo de clubes sociais sem fins lucrativos não gera receitas fiscais significativas (ao contrário de modelos comerciais), propõe-se financiamento via **Orçamento do Estado** para:
 
-* Serviços de tratamento de dependências (reforço do SICAD)
+* Serviços de tratamento de dependências (reforço do ICAD)
 * Programas de prevenção nas escolas
 * Investigação científica sobre riscos e benefícios
 * Formação de profissionais de saúde
 * Fiscalização dos clubes e controlo de qualidade
 
-**Fonte de financiamento:** Orçamento do Estado, como decisão política — **€10-15M/ano nos Anos 1-2** (linha orçamental dedicada, durante o licenciamento) e **€20-40M/ano a partir do Ano 3**, dependente da avaliação do modelo de clubes (2029-2032; ver capítulo 11) ([ver faseamento detalhado](#financiamento)). Esta dotação **não é financiada por poupanças de enforcement**: com os pressupostos do capítulo 8, essas poupanças (€3,2-15,5M/ano conforme cenário) ficam abaixo dos custos regulatórios (€15-20M/ano) e só abateriam parte da dotação se a captura ultrapassasse 25-33% dos consumidores. Se os clubes falharem, o enforcement mantém-se com os custos actuais e o Estado perde o investimento inicial em licenciamento e supervisão (€20-30M nos Anos 1-2); o período de avaliação serve para detectar isso cedo.
+**Fonte de financiamento:** Orçamento do Estado, como decisão política — **€10-15M/ano nos Anos 1-2** (linha orçamental dedicada, durante o licenciamento) e **€20-40M/ano a partir do Ano 3**, dependente da avaliação do modelo de clubes (2029-2032; ver capítulo 11) ([ver faseamento detalhado](#financiamento)). Esta dotação **não é financiada por poupanças de enforcement**: com os pressupostos do capítulo 8, essas poupanças (€3,2-10,6M/ano conforme cenário) ficam abaixo dos custos regulatórios (€15-20M/ano) e só abateriam parte da dotação se a captura ultrapassasse 25-33% dos consumidores. Se os clubes falharem, o enforcement mantém-se com os custos actuais e o Estado perde o investimento inicial em licenciamento e supervisão (€20-30M nos Anos 1-2); o período de avaliação serve para detectar isso cedo.
 
 **Nota sobre dados fiscais internacionais:**
 
@@ -143,15 +143,15 @@ Modelos comerciais (Colorado, Washington, Canadá) geram receitas fiscais signif
 **Balanço económico do modelo PT (pressupostos dos autores, sem dados orçamentais oficiais; o capítulo 8 é a referência para estes números):**
 
 * Custos actuais de enforcement assumidos: €40-80M/ano (valor central €60M/ano)
-* Poupanças de enforcement, proporcionais à captura de 5,3% / 13,8% / 25,9% dos ~180.000 consumidores no último ano [@carapinha2024icad]: €3,2M / €8,3M / €15,5M por ano
+* Poupanças de enforcement, proporcionais à captura de 5,3% / 9,6% / 17,6% dos ~180.000 consumidores no último ano [@carapinha2024icad]: €3,2M / €5,8M / €10,6M por ano
 * Custos regulatórios: €15M / €17M / €20M por ano
-* **Balanço operacional: −€11,8M / −€8,7M / −€4,5M por ano** (sinal negativo = custo líquido para o Estado); em 10 anos, com o investimento inicial de €20-30M, −€119M / −€95M / −€61M
+* **Balanço operacional: −€11,8M / −€11,2M / −€9,4M por ano** (sinal negativo = custo líquido para o Estado); em 10 anos, com o investimento inicial de €20-30M, −€119M / −€115M / −€100M
 * Ponto de equilíbrio operacional: captura de 25-33% dos consumidores, acima da capacidade directa dos 46 clubes (12,8%)
 * A dotação de €20-40M/ano para prevenção e tratamento é por isso uma despesa do Orçamento do Estado, não uma afectação de poupanças
 
 ([Ver análise detalhada](#financiamento) e [análise de sensibilidade](#sensitivity-roi))
 
-**Conclusão:** Comparações com receitas fiscais do Colorado/Canadá são irrelevantes para avaliar o modelo português. Com os pressupostos actuais, o modelo de clubes não se autofinancia: é uma política de saúde pública com custo líquido operacional estimado de €4,5-11,8M/ano, a decidir pelos objectivos de redução de danos e não por uma expectativa de poupança. Uma análise custo-benefício com dados orçamentais oficiais deve preceder a implementação.
+**Conclusão:** Comparações com receitas fiscais do Colorado/Canadá são irrelevantes para avaliar o modelo português. Com os pressupostos actuais, o modelo de clubes não se autofinancia: é uma política de saúde pública com custo líquido operacional estimado de €9,4-11,8M/ano, a decidir pelos objectivos de redução de danos e não por uma expectativa de poupança. Uma análise custo-benefício com dados orçamentais oficiais deve preceder a implementação.
 
 ## Comparação de riscos (Lancet 2010) {#comparação-de-riscos-lancet-2010}
 O estudo de David Nutt com 20 drogas e 16 critérios de dano [@nutt2010]:
@@ -209,7 +209,7 @@ Baseada nos três modelos acima descritos [@bundesministerium2024; @bast2024thc;
 #### Limites e Testes
 
 * **Limite legal:** 3,5 ng/ml de THC no soro sanguíneo, ou seja cerca de 2 ng/ml em sangue total (modelo alemão — conservador e equiparado a 0,2‰ de alcoolemia pela BASt)
-* **Limite reduzido para condutores novatos e <21 anos:** 1,0 ng/ml no soro (limiar analítico, em vez de 3,5), para condutores com menos de 2 anos de carta e menores de 21 anos — paralelo à redução do limite de álcool para 0,2 g/l em regime probatório (art. 81.º, n.os 3 e 7, do Código da Estrada [@codigoestrada2024]). Não é "tolerância zero": abaixo de 1,0 ng/ml não há infracção
+* **Limite reduzido para condutores novatos e <21 anos:** 1,0 ng/ml no soro (limiar analítico, em vez de 3,5), para condutores com menos de 2 anos de carta e menores de 21 anos — paralelo à redução do limite de álcool para 0,2 g/l em regime probatório (art. 81.º, n.os 3 e 7, do Código da Estrada [@codigoestrada2024]). Não é "tolerância zero": abaixo de 1,0 ng/ml não há infracção. Tal como o 0,2 g/l do álcool, é um limiar de precaução para condutores inexperientes e não um limiar de incapacidade, o que explica a diferença face à crítica acima ao 1,0 ng/ml como limite geral
 * **Consumo misto:** Cannabis com álcool ao volante é infracção agravada a partir de THC ≥1,0 ng/ml no soro com qualquer alcoolemia mensurável — mais exigente do que o regime alemão, que só agrava a partir de 3,5 ng/ml [@stvg2024para24a]
 * **Testes roadside:** Rastreio por fluido oral (modelo canadiano), sem valor probatório; confirmação por análise de sangue
 * **Testes confirmatórios:** Análise sanguínea laboratorial (gold standard) — apenas estes têm valor evidentiary

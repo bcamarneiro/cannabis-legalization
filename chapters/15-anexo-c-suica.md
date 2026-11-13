@@ -145,7 +145,7 @@ O anteprojecto não fixa, no comunicado, taxas de imposto nem número de plantas
 | **Qualidade produto** | Produção suíça controlada, rastreabilidade, THC ≤20% | Laboratórios ISO 17025, testes obrigatórios |
 | **Preço** | Orientado pelo preço do mercado ilegal local, por regra | €2,40-4,80/g sem IVA no modelo de custos do Anexo A (recuperação de custos; depende do consumo médio) |
 | **Tributação** | IVA 8,1%; sem imposto do tabaco; taxa de orientação proposta no CanPG | Sem impostos específicos na Fase 2; IVA: quotas estatutárias isentas (art. 9.º, n.º 19, CIVA) e entregas de cannabis a 23% (ver cap. 4) |
-| **Coordenação federal** | BAG autoriza e supervisiona; análise comparativa independente | SICAD supervisão, INFARMED licenciamento |
+| **Coordenação federal** | BAG autoriza e supervisiona; análise comparativa independente | ICAD supervisão, INFARMED licenciamento |
 | **Duração avaliação** | 5 anos por ensaio, prorrogáveis uma vez até 2 anos | Fase de clubes = fase de avaliação (2029-2032; ver cap. 11) |
 | **Fonte legal vs ilegal** | Fonte principal legal para a maioria; em três ensaios, metade a dois terços exclusiva ou quase exclusivamente | Captura esperada por cenário: ver análise do gap de mercado (cap. 8) |
 
@@ -155,11 +155,11 @@ O anteprojecto não fixa, no comunicado, taxas de imposto nem número de plantas
 
 **Suíça:** os ensaios são estudos com protocolo científico, avaliação independente encomendada pelo BAG e publicações revistas por pares (p. ex. o rastreio de saúde mental dos participantes do Züri Can [@springer2024zurican]). Isto deslocou parte do debate para os resultados dos ensaios; não eliminou a controvérsia política.
 
-**Aplicação PT:** a proposta portuguesa já inclui avaliação pelo SICAD em 2029-2032 (cap. 11), mas pode reforçar:
+**Aplicação PT:** a proposta portuguesa já inclui avaliação pelo ICAD em 2029-2032 (cap. 11), mas pode reforçar:
 
 - Parcerias com universidades portuguesas para protocolos de investigação
 - Publicação dos resultados em revistas internacionais
-- Conselho científico independente (não apenas SICAD)
+- Conselho científico independente (não apenas ICAD)
 
 ### 2. Testes Múltiplos Modelos Distribuição {#testes-múltiplos-modelos-distribuição}
 
@@ -177,7 +177,7 @@ Comparar resultados no período de avaliação (2029-2032) para informar a expan
 
 **Suíça:** os preços são fixados ao nível do mercado ilegal local por imposição regulamentar [@bagfaq2025pilots]. Mesmo assim, a maioria dos participantes passou a abastecer-se sobretudo no canal legal — por segurança e fiabilidade do produto — mas o preço mais baixo do mercado ilegal (descontos de quantidade) é a principal razão para a parte residual de compras ilegais, sobretudo entre consumidores diários [@bag2025pilotversuche].
 
-**Portugal:** preço do mercado ilegal €5,33/g (média de 2023) [@icad2024anexo]; o modelo de custos do Anexo A dá €2,40-4,80/g sem IVA em recuperação de custos, se o consumo médio por membro for de 15-30 g/mês. A vantagem de preço não está garantida: depende dos custos reais de conformidade (laboratórios, pessoal, instalações) e do consumo efectivo dos membros. **Lição:** monitorizar os custos dos clubes licenciados e exigir transparência de preços e custos; um preço de referência indicativo (não vinculativo) publicado pelo SICAD permite acompanhamento sem rigidez. A qualidade testada, e não só o preço, é um motivo de adesão documentado na Suíça.
+**Portugal:** preço do mercado ilegal €5,33/g (média de 2023) [@icad2024anexo]; o modelo de custos do Anexo A dá €2,40-4,80/g sem IVA em recuperação de custos, se o consumo médio por membro for de 15-30 g/mês. A vantagem de preço não está garantida: depende dos custos reais de conformidade (laboratórios, pessoal, instalações) e do consumo efectivo dos membros. **Lição:** monitorizar os custos dos clubes licenciados e exigir transparência de preços e custos; um preço de referência indicativo (não vinculativo) publicado pelo ICAD permite acompanhamento sem rigidez. A qualidade testada, e não só o preço, é um motivo de adesão documentado na Suíça.
 
 ### 4. Desvio para o mercado ilegal: não referido, não medido {#zero-leakage-é-possível-mas-requer-enforcement-inteligente}
 
@@ -188,7 +188,7 @@ Comparar resultados no período de avaliação (2029-2032) para informar a expan
 - Sistema *track & trace* que impede exceder o limite mensal
 - Proibição de cedência a terceiros, com exclusão do ensaio em caso de violação
 
-**Portugal:** a proposta já inclui registo nacional, limites mensais (30-50 g conforme a idade; cap. 8) e embalagens com QR. **Adicionar:** auditorias aleatórias aos clubes (SICAD), compras-teste para verificar conformidade e sanções claras para clubes que tolerem revenda. Convém também medir o desvio (inquéritos a participantes e análise de apreensões), em vez de presumir a sua ausência.
+**Portugal:** a proposta já inclui registo nacional, limites mensais (30-50 g conforme a idade; cap. 8) e embalagens com QR. **Adicionar:** auditorias aleatórias aos clubes (ICAD), compras-teste para verificar conformidade e sanções claras para clubes que tolerem revenda. Convém também medir o desvio (inquéritos a participantes e análise de apreensões), em vez de presumir a sua ausência.
 
 ### 5. Destigmatização Requer Integração Sistema Saúde {#destigmatização-requer-integração-sistema-saúde}
 
@@ -200,7 +200,7 @@ Comparar resultados no período de avaliação (2029-2032) para informar a expan
 
 **Suíça:** o anteprojecto CanPG prevê cooperação entre Confederação e cantões [@parlament2025canpg]; um direito de recusa cantonal (*opt-out*) não está documentado no comunicado da comissão e não deve ser dado como adquirido. Nos pilotos, a lógica foi diferente: cidades e cantões interessados avançaram sem consenso nacional.
 
-**Portugal:** sistema centralizado sem equivalente cantonal, mas o conceito pode aplicar-se a municípios (proposta dos autores): a lei nacional permite clubes, mas as câmaras municipais podem recusar licenciar clubes no seu território. **Trade-off:** reduz resistência de municípios que não queiram clubes, mas cria desigualdade geográfica de acesso. **Mitigação:** autocultivo permitido nacionalmente, independentemente do município.
+**Portugal:** sistema centralizado sem equivalente cantonal. O que se retém do modelo suíço é o papel local, não o veto (proposta dos autores): a lei nacional permite os clubes e o licenciamento é central; as câmaras municipais decidem a localização (distância a escolas, zonas, horários), mas não podem recusar a existência de clubes no concelho. **Porquê:** um veto municipal reduziria a resistência de alguns municípios, mas criaria desigualdade geográfica de acesso, como na Baviera (capítulo 5). **Mitigação:** recurso administrativo contra bloqueios por via urbanística (capítulo 11) e autocultivo permitido nacionalmente.
 
 ### 7. Timeline Realista: 3-5 Anos Dados Antes Legalização Nacional {#timeline-realista-3-5-anos-dados-antes-legalização-nacional}
 
