@@ -59,6 +59,11 @@ if [[ -d "$PROJECT_DIR/assets/diagrams" ]]; then
     cp "$PROJECT_DIR"/assets/diagrams/*.png "$SITE_DIR/assets/diagrams/" 2>/dev/null || true
 fi
 
+# A nota da Fase 1 fica também no site, num endereço curto que abre no navegador
+if [[ -f "$PROJECT_DIR/docs/nota-fase1.pdf" ]]; then
+    cp "$PROJECT_DIR/docs/nota-fase1.pdf" "$SITE_DIR/nota-fase1.pdf"
+fi
+
 if [[ "${SKIP_PAGEFIND:-0}" != "1" ]]; then
     npx -y pagefind@1 --site "$SITE_DIR"
 fi

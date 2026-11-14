@@ -13,6 +13,7 @@ on:
       - 'site/**'
       - 'scripts/build-site.sh'
       - 'scripts/common.sh'
+      - 'docs/nota-fase1.pdf'
 
 permissions:
   contents: read
